@@ -1,0 +1,31 @@
+level,credits,course_2,course_1,gen_ed,title_1,title_2
+"
+L",1.00,GEN EL,COMPSCI 151,"
+",Using Computers,General Elective
+"
+L",3.00,GEN EL,COMPSCI 161,"
+",Introduction to Computers,General Elective
+"
+L",3.00,GEN EL,COMPSCI 162,"
+NSA",Computer Applications,General Elective
+"
+L",3.00,CSCI 130,COMPSCI 171,"
+NSA",Intro to Vb Programming,Introduction to Programming
+"
+L",3.00,CSCI 241,COMPSCI 172,"
+NSA",Introduction to Java,Computer Science I
+"
+L",3.00,GEN EL,COMPSCI 173,"
+",Fortran Programming,General Elective
+"
+L",3.00,GEN EL,COMPSCI 181,"
+NSA",Database and Web,General Elective
+"
+L",3.00,CSCI 241,COMPSCI 220,"
+NSA",Intermediate Java,Computer Science I
+"
+L",3.00,CSCI 245,COMPSCI 271,"
+",Assembly Programming,Assembly Language Programming
+"
+L",3.00,CSCI 242,COMPSCI 372,"
+",Intermediate Programming,Computer Science II

@@ -1,0 +1,5035 @@
+to_campus_id,department_name,from_campus_id,department_id
+4670,Select a UW Branch Campus Department,9999,
+4670,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4670,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4670,"ART - 
+				
+				  
+            Art",9999,1002
+4670,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4670,"BIO - 
+				
+				  
+            Biology",9999,0401
+4670,"BUS - 
+				
+				  
+            Business",9999,0501
+4670,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4670,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4670,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4670,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4670,"ECO - 
+				
+				  
+            Economics",9999,2204
+4670,"EDU - 
+				
+				  
+            Education",9999,0801
+4670,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4670,"ENG - 
+				
+				  
+            English",9999,1501
+4670,"FRE - 
+				
+				  
+            French",9999,1102
+4670,"GEO - 
+				
+				  
+            Geography",9999,2206
+4670,"GER - 
+				
+				  
+            German",9999,1103
+4670,"GLG - 
+				
+				  
+            Geology",9999,1914
+4670,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4670,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4670,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4670,"HIS - 
+				
+				  
+            History",9999,2205
+4670,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4670,"ITA - 
+				
+				  
+            Italian",9999,1104
+4670,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4670,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4670,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4670,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4670,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4670,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4670,"MUS - 
+				
+				  
+            Music",9999,1005
+4670,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4670,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4670,"PHY - 
+				
+				  
+            Physics",9999,1902
+4670,"POL - 
+				
+				  
+            Political Science",9999,2207
+4670,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4670,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4670,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4670,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4670,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4688,Select a UW Branch Campus Department,9999,
+4688,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4688,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4688,"ART - 
+				
+				  
+            Art",9999,1002
+4688,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4688,"BIO - 
+				
+				  
+            Biology",9999,0401
+4688,"BUS - 
+				
+				  
+            Business",9999,0501
+4688,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4688,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4688,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4688,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4688,"ECO - 
+				
+				  
+            Economics",9999,2204
+4688,"EDU - 
+				
+				  
+            Education",9999,0801
+4688,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4688,"ENG - 
+				
+				  
+            English",9999,1501
+4688,"FRE - 
+				
+				  
+            French",9999,1102
+4688,"GEO - 
+				
+				  
+            Geography",9999,2206
+4688,"GER - 
+				
+				  
+            German",9999,1103
+4688,"GLG - 
+				
+				  
+            Geology",9999,1914
+4688,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4688,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4688,"HIS - 
+				
+				  
+            History",9999,2205
+4688,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4688,"ITA - 
+				
+				  
+            Italian",9999,1104
+4688,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4688,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4688,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4688,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4688,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4688,"MUS - 
+				
+				  
+            Music",9999,1005
+4688,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4688,"PHY - 
+				
+				  
+            Physics",9999,1902
+4688,"POL - 
+				
+				  
+            Political Science",9999,2207
+4688,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4688,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4688,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4688,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4672,Select a UW Branch Campus Department,9999,
+4672,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4672,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4672,"ART - 
+				
+				  
+            Art",9999,1002
+4672,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4672,"BIO - 
+				
+				  
+            Biology",9999,0401
+4672,"BUS - 
+				
+				  
+            Business",9999,0501
+4672,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4672,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4672,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4672,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4672,"ECO - 
+				
+				  
+            Economics",9999,2204
+4672,"EDU - 
+				
+				  
+            Education",9999,0801
+4672,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4672,"ENG - 
+				
+				  
+            English",9999,1501
+4672,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4672,"FRE - 
+				
+				  
+            French",9999,1102
+4672,"GEO - 
+				
+				  
+            Geography",9999,2206
+4672,"GER - 
+				
+				  
+            German",9999,1103
+4672,"GLG - 
+				
+				  
+            Geology",9999,1914
+4672,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4672,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4672,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4672,"HIS - 
+				
+				  
+            History",9999,2205
+4672,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4672,"ITA - 
+				
+				  
+            Italian",9999,1104
+4672,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4672,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4658,Select a UW Branch Campus Department,9999,
+4658,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4658,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4658,"ART - 
+				
+				  
+            Art",9999,1002
+4658,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4658,"BIO - 
+				
+				  
+            Biology",9999,0401
+4658,"BUS - 
+				
+				  
+            Business",9999,0501
+4658,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4658,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4658,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4658,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4658,"ECO - 
+				
+				  
+            Economics",9999,2204
+4658,"EDU - 
+				
+				  
+            Education",9999,0801
+4658,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4658,"ENG - 
+				
+				  
+            English",9999,1501
+4658,"FRE - 
+				
+				  
+            French",9999,1102
+4658,"GEO - 
+				
+				  
+            Geography",9999,2206
+4658,"GER - 
+				
+				  
+            German",9999,1103
+4658,"GLG - 
+				
+				  
+            Geology",9999,1914
+4658,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4658,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4658,"HIS - 
+				
+				  
+            History",9999,2205
+4658,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4672,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4672,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4672,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4672,"MLS - 
+				
+				  
+            Military Science",9999,1801
+4672,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4672,"MUS - 
+				
+				  
+            Music",9999,1005
+4672,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4672,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4672,"PHY - 
+				
+				  
+            Physics",9999,1902
+4672,"POL - 
+				
+				  
+            Political Science",9999,2207
+4672,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4672,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4672,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4672,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4672,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4658,"ITA - 
+				
+				  
+            Italian",9999,1104
+4658,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4658,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4658,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4658,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4658,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4658,"MUS - 
+				
+				  
+            Music",9999,1005
+4658,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4658,"PHY - 
+				
+				  
+            Physics",9999,1902
+4658,"POL - 
+				
+				  
+            Political Science",9999,2207
+4658,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4658,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4658,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4658,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4656,Select a UW Branch Campus Department,9999,
+4656,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4656,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4656,"ART - 
+				
+				  
+            Art",9999,1002
+4656,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4656,"BIO - 
+				
+				  
+            Biology",9999,0401
+4656,"BUS - 
+				
+				  
+            Business",9999,0501
+4656,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4656,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4656,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4656,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4656,"ECO - 
+				
+				  
+            Economics",9999,2204
+4656,"EDU - 
+				
+				  
+            Education",9999,0801
+4656,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4656,"ENG - 
+				
+				  
+            English",9999,1501
+4656,"FRE - 
+				
+				  
+            French",9999,1102
+4656,"GEO - 
+				
+				  
+            Geography",9999,2206
+4656,"GER - 
+				
+				  
+            German",9999,1103
+4656,"GLG - 
+				
+				  
+            Geology",9999,1914
+4656,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4656,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4656,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4656,"HIS - 
+				
+				  
+            History",9999,2205
+4656,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4656,"ITA - 
+				
+				  
+            Italian",9999,1104
+4656,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4656,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4656,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4656,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4656,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4656,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4656,"MUS - 
+				
+				  
+            Music",9999,1005
+4656,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4656,"PHY - 
+				
+				  
+            Physics",9999,1902
+4656,"POL - 
+				
+				  
+            Political Science",9999,2207
+4656,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4656,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4656,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4656,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4690,Select a UW Branch Campus Department,9999,
+4690,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4690,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4690,"ART - 
+				
+				  
+            Art",9999,1002
+4690,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4690,"BIO - 
+				
+				  
+            Biology",9999,0401
+4690,"BUS - 
+				
+				  
+            Business",9999,0501
+4690,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4690,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4690,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4690,"ECO - 
+				
+				  
+            Economics",9999,2204
+4690,"EDU - 
+				
+				  
+            Education",9999,0801
+4690,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4690,"ENG - 
+				
+				  
+            English",9999,1501
+4690,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4690,"FRE - 
+				
+				  
+            French",9999,1102
+4690,"GEO - 
+				
+				  
+            Geography",9999,2206
+4690,"GER - 
+				
+				  
+            German",9999,1103
+4690,"GLG - 
+				
+				  
+            Geology",9999,1914
+4690,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4690,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4690,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4690,"HIS - 
+				
+				  
+            History",9999,2205
+4690,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4690,"ITA - 
+				
+				  
+            Italian",9999,1104
+4690,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4690,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4690,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4690,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4690,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4690,"MLS - 
+				
+				  
+            Military Science",9999,1801
+4690,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4690,"MUS - 
+				
+				  
+            Music",9999,1005
+4690,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4690,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4690,"PHY - 
+				
+				  
+            Physics",9999,1902
+4690,"POL - 
+				
+				  
+            Political Science",9999,2207
+4690,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4690,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4690,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4690,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4690,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4674,Select a UW Branch Campus Department,9999,
+4674,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4674,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4674,"ART - 
+				
+				  
+            Art",9999,1002
+4674,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4674,"BIO - 
+				
+				  
+            Biology",9999,0401
+4674,"BUS - 
+				
+				  
+            Business",9999,0501
+4674,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4674,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4674,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4674,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4674,"ECO - 
+				
+				  
+            Economics",9999,2204
+4674,"EDU - 
+				
+				  
+            Education",9999,0801
+4674,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4674,"ENG - 
+				
+				  
+            English",9999,1501
+4674,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4674,"FRE - 
+				
+				  
+            French",9999,1102
+4674,"GEO - 
+				
+				  
+            Geography",9999,2206
+4674,"GER - 
+				
+				  
+            German",9999,1103
+4674,"GLG - 
+				
+				  
+            Geology",9999,1914
+4674,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4674,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4674,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4674,"HIS - 
+				
+				  
+            History",9999,2205
+4674,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4674,"ITA - 
+				
+				  
+            Italian",9999,1104
+4674,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4674,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4674,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4674,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4674,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4674,"MLS - 
+				
+				  
+            Military Science",9999,1801
+4674,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4674,"MUS - 
+				
+				  
+            Music",9999,1005
+4674,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4674,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4674,"PHY - 
+				
+				  
+            Physics",9999,1902
+4674,"POL - 
+				
+				  
+            Political Science",9999,2207
+4674,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4674,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4674,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4674,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4674,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4676,Select a UW Branch Campus Department,9999,
+4676,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4676,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4676,"ART - 
+				
+				  
+            Art",9999,1002
+4676,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4676,"BIO - 
+				
+				  
+            Biology",9999,0401
+4676,"BUS - 
+				
+				  
+            Business",9999,0501
+4676,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4676,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4676,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4676,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4676,"ECO - 
+				
+				  
+            Economics",9999,2204
+4676,"EDU - 
+				
+				  
+            Education",9999,0801
+4676,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4676,"ENG - 
+				
+				  
+            English",9999,1501
+4676,"FRE - 
+				
+				  
+            French",9999,1102
+4676,"GEO - 
+				
+				  
+            Geography",9999,2206
+4676,"GER - 
+				
+				  
+            German",9999,1103
+4676,"GLG - 
+				
+				  
+            Geology",9999,1914
+4676,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4676,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4676,"HIS - 
+				
+				  
+            History",9999,2205
+4676,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4676,"ITA - 
+				
+				  
+            Italian",9999,1104
+4676,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4676,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4676,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4676,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4676,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4676,"MUS - 
+				
+				  
+            Music",9999,1005
+4676,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4676,"PHY - 
+				
+				  
+            Physics",9999,1902
+4676,"POL - 
+				
+				  
+            Political Science",9999,2207
+4676,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4676,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4676,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4676,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4678,Select a UW Branch Campus Department,9999,
+4678,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4678,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4678,"ART - 
+				
+				  
+            Art",9999,1002
+4678,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4678,"BIO - 
+				
+				  
+            Biology",9999,0401
+4678,"BUS - 
+				
+				  
+            Business",9999,0501
+4678,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4678,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4678,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4678,"ECO - 
+				
+				  
+            Economics",9999,2204
+4678,"EDU - 
+				
+				  
+            Education",9999,0801
+4678,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4678,"ENG - 
+				
+				  
+            English",9999,1501
+4678,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4678,"FRE - 
+				
+				  
+            French",9999,1102
+4678,"GEO - 
+				
+				  
+            Geography",9999,2206
+4678,"GER - 
+				
+				  
+            German",9999,1103
+4678,"GLG - 
+				
+				  
+            Geology",9999,1914
+4678,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4678,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4678,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4678,"HIS - 
+				
+				  
+            History",9999,2205
+4678,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4678,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4678,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4678,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4678,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4678,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4678,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4678,"MUS - 
+				
+				  
+            Music",9999,1005
+4678,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4678,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4678,"PHY - 
+				
+				  
+            Physics",9999,1902
+4678,"POL - 
+				
+				  
+            Political Science",9999,2207
+4678,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4678,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4678,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4678,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4678,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4652,Select a UW Branch Campus Department,9999,
+4652,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4652,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4652,"ART - 
+				
+				  
+            Art",9999,1002
+4652,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4652,"BIO - 
+				
+				  
+            Biology",9999,0401
+4652,"BUS - 
+				
+				  
+            Business",9999,0501
+4652,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4652,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4652,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4652,"ECO - 
+				
+				  
+            Economics",9999,2204
+4652,"EDU - 
+				
+				  
+            Education",9999,0801
+4652,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4652,"ENG - 
+				
+				  
+            English",9999,1501
+4652,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4652,"FRE - 
+				
+				  
+            French",9999,1102
+4652,"GEO - 
+				
+				  
+            Geography",9999,2206
+4652,"GER - 
+				
+				  
+            German",9999,1103
+4652,"GLG - 
+				
+				  
+            Geology",9999,1914
+4652,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4652,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4652,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4652,"HIS - 
+				
+				  
+            History",9999,2205
+4652,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4652,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4652,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4652,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4652,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4652,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4652,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4652,"MUS - 
+				
+				  
+            Music",9999,1005
+4652,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4652,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4652,"PHY - 
+				
+				  
+            Physics",9999,1902
+4652,"POL - 
+				
+				  
+            Political Science",9999,2207
+4652,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4652,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4652,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4652,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4652,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4680,Select a UW Branch Campus Department,9999,
+4680,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4680,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4680,"ART - 
+				
+				  
+            Art",9999,1002
+4680,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4680,"BIO - 
+				
+				  
+            Biology",9999,0401
+4680,"BUS - 
+				
+				  
+            Business",9999,0501
+4680,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4680,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4680,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4680,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4680,"ECO - 
+				
+				  
+            Economics",9999,2204
+4680,"EDU - 
+				
+				  
+            Education",9999,0801
+4680,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4680,"ENG - 
+				
+				  
+            English",9999,1501
+4680,"FRE - 
+				
+				  
+            French",9999,1102
+4680,"GEO - 
+				
+				  
+            Geography",9999,2206
+4680,"GER - 
+				
+				  
+            German",9999,1103
+4680,"GLG - 
+				
+				  
+            Geology",9999,1914
+4680,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4680,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4680,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4680,"HIS - 
+				
+				  
+            History",9999,2205
+4680,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4680,"ITA - 
+				
+				  
+            Italian",9999,1104
+4680,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4680,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4680,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4680,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4680,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4680,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4680,"MUS - 
+				
+				  
+            Music",9999,1005
+4680,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4680,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4680,"PHY - 
+				
+				  
+            Physics",9999,1902
+4680,"POL - 
+				
+				  
+            Political Science",9999,2207
+4680,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4680,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4680,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4680,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4682,Select a UW Branch Campus Department,9999,
+4682,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4682,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4682,"ART - 
+				
+				  
+            Art",9999,1002
+4682,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4682,"BIO - 
+				
+				  
+            Biology",9999,0401
+4682,"BUS - 
+				
+				  
+            Business",9999,0501
+4682,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4682,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4682,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4682,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4682,"ECO - 
+				
+				  
+            Economics",9999,2204
+4682,"EDU - 
+				
+				  
+            Education",9999,0801
+4682,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4682,"ENG - 
+				
+				  
+            English",9999,1501
+4682,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4682,"FRE - 
+				
+				  
+            French",9999,1102
+4682,"GEO - 
+				
+				  
+            Geography",9999,2206
+4682,"GER - 
+				
+				  
+            German",9999,1103
+4682,"GLG - 
+				
+				  
+            Geology",9999,1914
+4682,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4682,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4682,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4682,"HIS - 
+				
+				  
+            History",9999,2205
+4682,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4682,"ITA - 
+				
+				  
+            Italian",9999,1104
+4684,Select a UW Branch Campus Department,9999,
+4684,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4684,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4684,"ART - 
+				
+				  
+            Art",9999,1002
+4684,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4684,"BIO - 
+				
+				  
+            Biology",9999,0401
+4684,"BUS - 
+				
+				  
+            Business",9999,0501
+4684,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4684,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4684,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4684,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4684,"ECO - 
+				
+				  
+            Economics",9999,2204
+4684,"EDU - 
+				
+				  
+            Education",9999,0801
+4684,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4684,"ENG - 
+				
+				  
+            English",9999,1501
+4684,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4684,"FRE - 
+				
+				  
+            French",9999,1102
+4684,"GEO - 
+				
+				  
+            Geography",9999,2206
+4684,"GER - 
+				
+				  
+            German",9999,1103
+4684,"GLG - 
+				
+				  
+            Geology",9999,1914
+4684,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4684,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4684,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4684,"HIS - 
+				
+				  
+            History",9999,2205
+4684,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4684,"ITA - 
+				
+				  
+            Italian",9999,1104
+4682,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4682,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4682,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4682,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4682,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4682,"MLS - 
+				
+				  
+            Military Science",9999,1801
+4682,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4682,"MUS - 
+				
+				  
+            Music",9999,1005
+4682,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4682,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4682,"PHY - 
+				
+				  
+            Physics",9999,1902
+4682,"POL - 
+				
+				  
+            Political Science",9999,2207
+4682,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4682,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4682,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4682,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4684,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4684,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4684,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4684,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4684,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4684,"MLS - 
+				
+				  
+            Military Science",9999,1801
+4684,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4684,"MUS - 
+				
+				  
+            Music",9999,1005
+4684,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4684,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4684,"PHY - 
+				
+				  
+            Physics",9999,1902
+4684,"POL - 
+				
+				  
+            Political Science",9999,2207
+4684,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4684,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4684,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4684,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4684,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4650,Select a UW Branch Campus Department,9999,
+4650,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4650,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4650,"ENG - 
+				
+				  
+            English",9999,1501
+4650,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4650,"PHY - 
+				
+				  
+            Physics",9999,1902
+4650,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4650,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4556,Select a UW Branch Campus Department,9999,
+4556,"ART - 
+				
+				  
+            Art",9999,1002
+4556,"BIO - 
+				
+				  
+            Biology",9999,0401
+4556,"BUS - 
+				
+				  
+            Business",9999,0501
+4556,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4556,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4556,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4556,"ECO - 
+				
+				  
+            Economics",9999,2204
+4556,"ENG - 
+				
+				  
+            English",9999,1501
+4556,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4556,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4556,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4556,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4556,"PHY - 
+				
+				  
+            Physics",9999,1902
+4556,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4556,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4593,Select a UW Branch Campus Department,9999,
+4593,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4593,"BIO - 
+				
+				  
+            Biology",9999,0401
+4593,"BUS - 
+				
+				  
+            Business",9999,0501
+4593,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4593,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4593,"ECO - 
+				
+				  
+            Economics",9999,2204
+4593,"ENG - 
+				
+				  
+            English",9999,1501
+4593,"HIS - 
+				
+				  
+            History",9999,2205
+4593,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4593,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4593,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4593,"PHY - 
+				
+				  
+            Physics",9999,1902
+4593,"POL - 
+				
+				  
+            Political Science",9999,2207
+4593,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4593,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4593,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4584,Select a UW Branch Campus Department,9999,
+4584,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4584,"BIO - 
+				
+				  
+            Biology",9999,0401
+4584,"BUS - 
+				
+				  
+            Business",9999,0501
+4584,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4584,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4584,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4584,"ECO - 
+				
+				  
+            Economics",9999,2204
+4584,"EDU - 
+				
+				  
+            Education",9999,0801
+4584,"ENG - 
+				
+				  
+            English",9999,1501
+4584,"GEO - 
+				
+				  
+            Geography",9999,2206
+4584,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4584,"HIS - 
+				
+				  
+            History",9999,2205
+4584,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4584,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4584,"PHY - 
+				
+				  
+            Physics",9999,1902
+4584,"POL - 
+				
+				  
+            Political Science",9999,2207
+4584,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4584,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4584,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4581,Select a UW Branch Campus Department,9999,
+4581,"BIO - 
+				
+				  
+            Biology",9999,0401
+4581,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4581,"ECO - 
+				
+				  
+            Economics",9999,2204
+4581,"ENG - 
+				
+				  
+            English",9999,1501
+4581,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4581,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4581,"PHY - 
+				
+				  
+            Physics",9999,1902
+4581,"POL - 
+				
+				  
+            Political Science",9999,2207
+4581,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4581,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4683,Select a UW Branch Campus Department,9999,
+4683,"BIO - 
+				
+				  
+            Biology",9999,0401
+4683,"BUS - 
+				
+				  
+            Business",9999,0501
+4683,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4683,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4683,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4683,"ECO - 
+				
+				  
+            Economics",9999,2204
+4683,"ENG - 
+				
+				  
+            English",9999,1501
+4683,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4683,"HIS - 
+				
+				  
+            History",9999,2205
+4683,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4683,"MUS - 
+				
+				  
+            Music",9999,1005
+4683,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4683,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4683,"PHY - 
+				
+				  
+            Physics",9999,1902
+4683,"POL - 
+				
+				  
+            Political Science",9999,2207
+4683,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4683,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4615,Select a UW Branch Campus Department,9999,
+4615,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4615,"ART - 
+				
+				  
+            Art",9999,1002
+4615,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4615,"BIO - 
+				
+				  
+            Biology",9999,0401
+4615,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4615,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4615,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4615,"ECO - 
+				
+				  
+            Economics",9999,2204
+4615,"ENG - 
+				
+				  
+            English",9999,1501
+4615,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4615,"HIS - 
+				
+				  
+            History",9999,2205
+4615,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4615,"MUS - 
+				
+				  
+            Music",9999,1005
+4615,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4615,"PHY - 
+				
+				  
+            Physics",9999,1902
+4615,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4615,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4646,Select a UW Branch Campus Department,9999,
+4646,"BIO - 
+				
+				  
+            Biology",9999,0401
+4646,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4646,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4646,"ECO - 
+				
+				  
+            Economics",9999,2204
+4646,"ENG - 
+				
+				  
+            English",9999,1501
+4646,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4646,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4646,"PHY - 
+				
+				  
+            Physics",9999,1902
+4646,"POL - 
+				
+				  
+            Political Science",9999,2207
+4646,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4646,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4614,Select a UW Branch Campus Department,9999,
+4614,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4614,"ART - 
+				
+				  
+            Art",9999,1002
+4614,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4614,"BIO - 
+				
+				  
+            Biology",9999,0401
+4614,"BUS - 
+				
+				  
+            Business",9999,0501
+4614,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4614,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4614,"ECO - 
+				
+				  
+            Economics",9999,2204
+4614,"ENG - 
+				
+				  
+            English",9999,1501
+4614,"GEO - 
+				
+				  
+            Geography",9999,2206
+4614,"GLG - 
+				
+				  
+            Geology",9999,1914
+4614,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4614,"HIS - 
+				
+				  
+            History",9999,2205
+4614,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4614,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4614,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4614,"MUS - 
+				
+				  
+            Music",9999,1005
+4614,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4614,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4614,"PHY - 
+				
+				  
+            Physics",9999,1902
+4614,"POL - 
+				
+				  
+            Political Science",9999,2207
+4614,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4614,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4614,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4583,Select a UW Branch Campus Department,9999,
+4583,"BIO - 
+				
+				  
+            Biology",9999,0401
+4583,"BUS - 
+				
+				  
+            Business",9999,0501
+4583,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4583,"ECO - 
+				
+				  
+            Economics",9999,2204
+4583,"EDU - 
+				
+				  
+            Education",9999,0801
+4583,"ENG - 
+				
+				  
+            English",9999,1501
+4583,"GEO - 
+				
+				  
+            Geography",9999,2206
+4583,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4583,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4583,"POL - 
+				
+				  
+            Political Science",9999,2207
+4583,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4583,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4663,Select a UW Branch Campus Department,9999,
+4663,"BIO - 
+				
+				  
+            Biology",9999,0401
+4663,"BUS - 
+				
+				  
+            Business",9999,0501
+4663,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4663,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4663,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4663,"ECO - 
+				
+				  
+            Economics",9999,2204
+4663,"EDU - 
+				
+				  
+            Education",9999,0801
+4663,"ENG - 
+				
+				  
+            English",9999,1501
+4663,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4663,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4663,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4663,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4663,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4663,"PHY - 
+				
+				  
+            Physics",9999,1902
+4663,"POL - 
+				
+				  
+            Political Science",9999,2207
+4663,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4663,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4585,Select a UW Branch Campus Department,9999,
+4585,"BIO - 
+				
+				  
+            Biology",9999,0401
+4585,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4585,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4585,"ECO - 
+				
+				  
+            Economics",9999,2204
+4585,"ENG - 
+				
+				  
+            English",9999,1501
+4585,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4585,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4585,"PHY - 
+				
+				  
+            Physics",9999,1902
+4585,"POL - 
+				
+				  
+            Political Science",9999,2207
+4585,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4585,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4671,Select a UW Branch Campus Department,9999,
+4671,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4671,"ART - 
+				
+				  
+            Art",9999,1002
+4671,"BIO - 
+				
+				  
+            Biology",9999,0401
+4671,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4671,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4671,"ECO - 
+				
+				  
+            Economics",9999,2204
+4671,"ENG - 
+				
+				  
+            English",9999,1501
+4671,"HIS - 
+				
+				  
+            History",9999,2205
+4671,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4671,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4671,"PHY - 
+				
+				  
+            Physics",9999,1902
+4671,"POL - 
+				
+				  
+            Political Science",9999,2207
+4671,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4671,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4639,Select a UW Branch Campus Department,9999,
+4639,"BIO - 
+				
+				  
+            Biology",9999,0401
+4639,"BUS - 
+				
+				  
+            Business",9999,0501
+4639,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4639,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4639,"ECO - 
+				
+				  
+            Economics",9999,2204
+4639,"ENG - 
+				
+				  
+            English",9999,1501
+4639,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4639,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4639,"PHY - 
+				
+				  
+            Physics",9999,1902
+4639,"POL - 
+				
+				  
+            Political Science",9999,2207
+4639,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4639,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4573,Select a UW Branch Campus Department,9999,
+4573,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4573,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4573,"ECO - 
+				
+				  
+            Economics",9999,2204
+4573,"ENG - 
+				
+				  
+            English",9999,1501
+4573,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4573,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4573,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4573,"PHY - 
+				
+				  
+            Physics",9999,1902
+4573,"POL - 
+				
+				  
+            Political Science",9999,2207
+4573,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4573,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4599,Select a UW Branch Campus Department,9999,
+4599,"BIO - 
+				
+				  
+            Biology",9999,0401
+4599,"BUS - 
+				
+				  
+            Business",9999,0501
+4599,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4599,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4599,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4599,"ECO - 
+				
+				  
+            Economics",9999,2204
+4599,"ENG - 
+				
+				  
+            English",9999,1501
+4599,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4599,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4599,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4599,"POL - 
+				
+				  
+            Political Science",9999,2207
+4599,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4599,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4670,Select a UW Branch Campus Department,9999,
+4670,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4670,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4670,"ART - 
+				
+				  
+            Art",9999,1002
+4670,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4670,"BIO - 
+				
+				  
+            Biology",9999,0401
+4670,"BUS - 
+				
+				  
+            Business",9999,0501
+4670,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4670,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4670,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4670,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4670,"ECO - 
+				
+				  
+            Economics",9999,2204
+4670,"EDU - 
+				
+				  
+            Education",9999,0801
+4670,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4670,"ENG - 
+				
+				  
+            English",9999,1501
+4670,"FRE - 
+				
+				  
+            French",9999,1102
+4670,"GEO - 
+				
+				  
+            Geography",9999,2206
+4670,"GER - 
+				
+				  
+            German",9999,1103
+4670,"GLG - 
+				
+				  
+            Geology",9999,1914
+4670,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4670,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4670,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4670,"HIS - 
+				
+				  
+            History",9999,2205
+4670,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4670,"ITA - 
+				
+				  
+            Italian",9999,1104
+4670,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4670,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4670,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4670,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4670,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4670,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4670,"MUS - 
+				
+				  
+            Music",9999,1005
+4670,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4670,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4670,"PHY - 
+				
+				  
+            Physics",9999,1902
+4670,"POL - 
+				
+				  
+            Political Science",9999,2207
+4670,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4670,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4670,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4670,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4670,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4688,Select a UW Branch Campus Department,9999,
+4688,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4688,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4688,"ART - 
+				
+				  
+            Art",9999,1002
+4688,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4688,"BIO - 
+				
+				  
+            Biology",9999,0401
+4688,"BUS - 
+				
+				  
+            Business",9999,0501
+4688,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4688,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4688,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4688,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4688,"ECO - 
+				
+				  
+            Economics",9999,2204
+4688,"EDU - 
+				
+				  
+            Education",9999,0801
+4688,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4688,"ENG - 
+				
+				  
+            English",9999,1501
+4688,"FRE - 
+				
+				  
+            French",9999,1102
+4688,"GEO - 
+				
+				  
+            Geography",9999,2206
+4688,"GER - 
+				
+				  
+            German",9999,1103
+4688,"GLG - 
+				
+				  
+            Geology",9999,1914
+4688,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4688,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4688,"HIS - 
+				
+				  
+            History",9999,2205
+4688,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4688,"ITA - 
+				
+				  
+            Italian",9999,1104
+4688,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4688,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4688,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4688,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4688,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4688,"MUS - 
+				
+				  
+            Music",9999,1005
+4688,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4688,"PHY - 
+				
+				  
+            Physics",9999,1902
+4688,"POL - 
+				
+				  
+            Political Science",9999,2207
+4688,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4688,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4688,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4688,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4656,Select a UW Branch Campus Department,9999,
+4656,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4656,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4656,"ART - 
+				
+				  
+            Art",9999,1002
+4656,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4656,"BIO - 
+				
+				  
+            Biology",9999,0401
+4656,"BUS - 
+				
+				  
+            Business",9999,0501
+4656,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4656,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4656,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4656,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4656,"ECO - 
+				
+				  
+            Economics",9999,2204
+4656,"EDU - 
+				
+				  
+            Education",9999,0801
+4656,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4656,"ENG - 
+				
+				  
+            English",9999,1501
+4656,"FRE - 
+				
+				  
+            French",9999,1102
+4656,"GEO - 
+				
+				  
+            Geography",9999,2206
+4656,"GER - 
+				
+				  
+            German",9999,1103
+4656,"GLG - 
+				
+				  
+            Geology",9999,1914
+4656,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4656,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4656,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4656,"HIS - 
+				
+				  
+            History",9999,2205
+4656,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4656,"ITA - 
+				
+				  
+            Italian",9999,1104
+4656,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4656,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4656,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4656,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4656,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4656,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4656,"MUS - 
+				
+				  
+            Music",9999,1005
+4656,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4656,"PHY - 
+				
+				  
+            Physics",9999,1902
+4656,"POL - 
+				
+				  
+            Political Science",9999,2207
+4656,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4656,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4656,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4656,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4672,Select a UW Branch Campus Department,9999,
+4672,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4672,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4672,"ART - 
+				
+				  
+            Art",9999,1002
+4672,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4672,"BIO - 
+				
+				  
+            Biology",9999,0401
+4672,"BUS - 
+				
+				  
+            Business",9999,0501
+4672,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4672,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4672,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4672,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4672,"ECO - 
+				
+				  
+            Economics",9999,2204
+4672,"EDU - 
+				
+				  
+            Education",9999,0801
+4672,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4672,"ENG - 
+				
+				  
+            English",9999,1501
+4672,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4672,"FRE - 
+				
+				  
+            French",9999,1102
+4672,"GEO - 
+				
+				  
+            Geography",9999,2206
+4672,"GER - 
+				
+				  
+            German",9999,1103
+4672,"GLG - 
+				
+				  
+            Geology",9999,1914
+4672,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4672,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4672,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4672,"HIS - 
+				
+				  
+            History",9999,2205
+4672,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4672,"ITA - 
+				
+				  
+            Italian",9999,1104
+4672,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4672,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4672,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4672,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4672,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4672,"MLS - 
+				
+				  
+            Military Science",9999,1801
+4672,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4672,"MUS - 
+				
+				  
+            Music",9999,1005
+4672,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4672,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4672,"PHY - 
+				
+				  
+            Physics",9999,1902
+4672,"POL - 
+				
+				  
+            Political Science",9999,2207
+4672,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4672,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4672,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4672,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4672,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4674,Select a UW Branch Campus Department,9999,
+4674,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4674,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4674,"ART - 
+				
+				  
+            Art",9999,1002
+4674,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4674,"BIO - 
+				
+				  
+            Biology",9999,0401
+4674,"BUS - 
+				
+				  
+            Business",9999,0501
+4674,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4674,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4674,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4674,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4674,"ECO - 
+				
+				  
+            Economics",9999,2204
+4674,"EDU - 
+				
+				  
+            Education",9999,0801
+4674,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4674,"ENG - 
+				
+				  
+            English",9999,1501
+4674,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4674,"FRE - 
+				
+				  
+            French",9999,1102
+4674,"GEO - 
+				
+				  
+            Geography",9999,2206
+4674,"GER - 
+				
+				  
+            German",9999,1103
+4674,"GLG - 
+				
+				  
+            Geology",9999,1914
+4674,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4674,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4674,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4674,"HIS - 
+				
+				  
+            History",9999,2205
+4674,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4674,"ITA - 
+				
+				  
+            Italian",9999,1104
+4674,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4674,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4674,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4674,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4674,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4674,"MLS - 
+				
+				  
+            Military Science",9999,1801
+4674,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4674,"MUS - 
+				
+				  
+            Music",9999,1005
+4674,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4674,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4674,"PHY - 
+				
+				  
+            Physics",9999,1902
+4674,"POL - 
+				
+				  
+            Political Science",9999,2207
+4674,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4674,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4674,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4674,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4674,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4658,Select a UW Branch Campus Department,9999,
+4658,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4658,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4658,"ART - 
+				
+				  
+            Art",9999,1002
+4658,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4658,"BIO - 
+				
+				  
+            Biology",9999,0401
+4658,"BUS - 
+				
+				  
+            Business",9999,0501
+4658,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4658,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4658,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4658,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4658,"ECO - 
+				
+				  
+            Economics",9999,2204
+4658,"EDU - 
+				
+				  
+            Education",9999,0801
+4658,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4658,"ENG - 
+				
+				  
+            English",9999,1501
+4658,"FRE - 
+				
+				  
+            French",9999,1102
+4658,"GEO - 
+				
+				  
+            Geography",9999,2206
+4658,"GER - 
+				
+				  
+            German",9999,1103
+4658,"GLG - 
+				
+				  
+            Geology",9999,1914
+4658,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4658,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4658,"HIS - 
+				
+				  
+            History",9999,2205
+4658,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4658,"ITA - 
+				
+				  
+            Italian",9999,1104
+4658,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4658,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4658,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4658,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4658,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4658,"MUS - 
+				
+				  
+            Music",9999,1005
+4658,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4658,"PHY - 
+				
+				  
+            Physics",9999,1902
+4658,"POL - 
+				
+				  
+            Political Science",9999,2207
+4658,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4658,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4658,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4658,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4690,Select a UW Branch Campus Department,9999,
+4690,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4690,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4690,"ART - 
+				
+				  
+            Art",9999,1002
+4690,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4690,"BIO - 
+				
+				  
+            Biology",9999,0401
+4690,"BUS - 
+				
+				  
+            Business",9999,0501
+4690,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4690,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4690,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4690,"ECO - 
+				
+				  
+            Economics",9999,2204
+4690,"EDU - 
+				
+				  
+            Education",9999,0801
+4690,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4690,"ENG - 
+				
+				  
+            English",9999,1501
+4690,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4690,"FRE - 
+				
+				  
+            French",9999,1102
+4690,"GEO - 
+				
+				  
+            Geography",9999,2206
+4690,"GER - 
+				
+				  
+            German",9999,1103
+4690,"GLG - 
+				
+				  
+            Geology",9999,1914
+4690,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4690,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4690,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4690,"HIS - 
+				
+				  
+            History",9999,2205
+4690,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4690,"ITA - 
+				
+				  
+            Italian",9999,1104
+4690,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4690,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4690,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4690,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4690,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4690,"MLS - 
+				
+				  
+            Military Science",9999,1801
+4690,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4690,"MUS - 
+				
+				  
+            Music",9999,1005
+4690,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4690,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4690,"PHY - 
+				
+				  
+            Physics",9999,1902
+4690,"POL - 
+				
+				  
+            Political Science",9999,2207
+4690,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4690,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4690,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4690,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4690,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4676,Select a UW Branch Campus Department,9999,
+4676,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4676,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4676,"ART - 
+				
+				  
+            Art",9999,1002
+4676,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4676,"BIO - 
+				
+				  
+            Biology",9999,0401
+4676,"BUS - 
+				
+				  
+            Business",9999,0501
+4676,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4676,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4676,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4676,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4676,"ECO - 
+				
+				  
+            Economics",9999,2204
+4676,"EDU - 
+				
+				  
+            Education",9999,0801
+4676,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4676,"ENG - 
+				
+				  
+            English",9999,1501
+4676,"FRE - 
+				
+				  
+            French",9999,1102
+4676,"GEO - 
+				
+				  
+            Geography",9999,2206
+4676,"GER - 
+				
+				  
+            German",9999,1103
+4676,"GLG - 
+				
+				  
+            Geology",9999,1914
+4676,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4676,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4676,"HIS - 
+				
+				  
+            History",9999,2205
+4676,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4676,"ITA - 
+				
+				  
+            Italian",9999,1104
+4676,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4676,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4676,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4676,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4676,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4676,"MUS - 
+				
+				  
+            Music",9999,1005
+4676,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4676,"PHY - 
+				
+				  
+            Physics",9999,1902
+4676,"POL - 
+				
+				  
+            Political Science",9999,2207
+4676,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4676,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4676,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4676,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4680,Select a UW Branch Campus Department,9999,
+4680,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4680,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4680,"ART - 
+				
+				  
+            Art",9999,1002
+4680,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4680,"BIO - 
+				
+				  
+            Biology",9999,0401
+4680,"BUS - 
+				
+				  
+            Business",9999,0501
+4680,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4680,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4680,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4680,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4680,"ECO - 
+				
+				  
+            Economics",9999,2204
+4680,"EDU - 
+				
+				  
+            Education",9999,0801
+4680,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4680,"ENG - 
+				
+				  
+            English",9999,1501
+4680,"FRE - 
+				
+				  
+            French",9999,1102
+4680,"GEO - 
+				
+				  
+            Geography",9999,2206
+4678,Select a UW Branch Campus Department,9999,
+4678,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4678,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4678,"ART - 
+				
+				  
+            Art",9999,1002
+4678,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4678,"BIO - 
+				
+				  
+            Biology",9999,0401
+4678,"BUS - 
+				
+				  
+            Business",9999,0501
+4678,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4678,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4678,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4678,"ECO - 
+				
+				  
+            Economics",9999,2204
+4678,"EDU - 
+				
+				  
+            Education",9999,0801
+4678,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4678,"ENG - 
+				
+				  
+            English",9999,1501
+4678,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4678,"FRE - 
+				
+				  
+            French",9999,1102
+4678,"GEO - 
+				
+				  
+            Geography",9999,2206
+4678,"GER - 
+				
+				  
+            German",9999,1103
+4678,"GLG - 
+				
+				  
+            Geology",9999,1914
+4678,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4682,Select a UW Branch Campus Department,9999,
+4682,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4682,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4682,"ART - 
+				
+				  
+            Art",9999,1002
+4682,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4682,"BIO - 
+				
+				  
+            Biology",9999,0401
+4682,"BUS - 
+				
+				  
+            Business",9999,0501
+4682,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4682,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4682,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4682,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4682,"ECO - 
+				
+				  
+            Economics",9999,2204
+4682,"EDU - 
+				
+				  
+            Education",9999,0801
+4682,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4682,"ENG - 
+				
+				  
+            English",9999,1501
+4682,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4684,Select a UW Branch Campus Department,9999,
+4684,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4684,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4684,"ART - 
+				
+				  
+            Art",9999,1002
+4684,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4684,"BIO - 
+				
+				  
+            Biology",9999,0401
+4684,"BUS - 
+				
+				  
+            Business",9999,0501
+4684,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4684,"CHI - 
+				
+				  
+            Chinese",9999,1107
+4684,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4684,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4684,"ECO - 
+				
+				  
+            Economics",9999,2204
+4684,"EDU - 
+				
+				  
+            Education",9999,0801
+4684,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4684,"ENG - 
+				
+				  
+            English",9999,1501
+4680,"GER - 
+				
+				  
+            German",9999,1103
+4680,"GLG - 
+				
+				  
+            Geology",9999,1914
+4680,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4680,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4680,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4680,"HIS - 
+				
+				  
+            History",9999,2205
+4680,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4680,"ITA - 
+				
+				  
+            Italian",9999,1104
+4680,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4680,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4680,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4680,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4680,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4680,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4680,"MUS - 
+				
+				  
+            Music",9999,1005
+4678,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4678,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4678,"HIS - 
+				
+				  
+            History",9999,2205
+4678,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4678,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4678,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4678,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4678,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4678,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4678,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4678,"MUS - 
+				
+				  
+            Music",9999,1005
+4678,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4678,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4678,"PHY - 
+				
+				  
+            Physics",9999,1902
+4678,"POL - 
+				
+				  
+            Political Science",9999,2207
+4678,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4678,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4678,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4678,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4678,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4652,Select a UW Branch Campus Department,9999,
+4652,"AIS - 
+				
+				  
+            American Indian Studies",9999,2212
+4652,"ANT - 
+				
+				  
+            Anthropology",9999,2202
+4652,"ART - 
+				
+				  
+            Art",9999,1002
+4652,"AST - 
+				
+				  
+            Astronomy",9999,1911
+4652,"BIO - 
+				
+				  
+            Biology",9999,0401
+4652,"BUS - 
+				
+				  
+            Business",9999,0501
+4652,"CHE - 
+				
+				  
+            Chemistry",9999,1905
+4652,"CPS - 
+				
+				  
+            Computer Sciences",9999,0701
+4652,"CTA - 
+				
+				  
+            Communication And Theatre Arts",9999,0601
+4652,"ECO - 
+				
+				  
+            Economics",9999,2204
+4652,"EDU - 
+				
+				  
+            Education",9999,0801
+4652,"EGR - 
+				
+				  
+            Engineering",9999,0901
+4652,"ENG - 
+				
+				  
+            English",9999,1501
+4652,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4652,"FRE - 
+				
+				  
+            French",9999,1102
+4652,"GEO - 
+				
+				  
+            Geography",9999,2206
+4682,"FRE - 
+				
+				  
+            French",9999,1102
+4682,"GEO - 
+				
+				  
+            Geography",9999,2206
+4682,"GER - 
+				
+				  
+            German",9999,1103
+4682,"GLG - 
+				
+				  
+            Geology",9999,1914
+4682,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4682,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4682,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4682,"HIS - 
+				
+				  
+            History",9999,2205
+4682,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4682,"ITA - 
+				
+				  
+            Italian",9999,1104
+4682,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4682,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4682,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4682,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4682,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4682,"MLS - 
+				
+				  
+            Military Science",9999,1801
+4682,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4684,"FOR - 
+				
+				  
+            Forestry",9999,0114
+4684,"FRE - 
+				
+				  
+            French",9999,1102
+4684,"GEO - 
+				
+				  
+            Geography",9999,2206
+4684,"GER - 
+				
+				  
+            German",9999,1103
+4684,"GLG - 
+				
+				  
+            Geology",9999,1914
+4684,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4684,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4684,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4684,"HIS - 
+				
+				  
+            History",9999,2205
+4684,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4684,"ITA - 
+				
+				  
+            Italian",9999,1104
+4684,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4684,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4684,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4684,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4684,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4684,"MLS - 
+				
+				  
+            Military Science",9999,1801
+4680,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4680,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4680,"PHY - 
+				
+				  
+            Physics",9999,1902
+4680,"POL - 
+				
+				  
+            Political Science",9999,2207
+4680,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4680,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4680,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4680,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4652,"GER - 
+				
+				  
+            German",9999,1103
+4652,"GLG - 
+				
+				  
+            Geology",9999,1914
+4652,"GRA - 
+				
+				  
+            Engineering Graphics",9999,0995
+4652,"GSW - 
+				
+				  
+            Gender, Sexuality, & Women's Studies",9999,4949
+4652,"HES - 
+				
+				  
+            Health, Exercise Science & Athletics",9999,0870
+4652,"HIS - 
+				
+				  
+            History",9999,2205
+4652,"INT - 
+				
+				  
+            Interdisciplinary Studies",9999,4901
+4652,"LEA - 
+				
+				  
+            Learning Resources",9999,1601
+4652,"LEC - 
+				
+				  
+            Lecture Forum",9999,4910
+4652,"MAT - 
+				
+				  
+            Mathematics",9999,1701
+4652,"MEC - 
+				
+				  
+            Engineering Mechanics",9999,0921
+4652,"MLG - 
+				
+				  
+            Meteorology",9999,1913
+4652,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4652,"MUS - 
+				
+				  
+            Music",9999,1005
+4652,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4652,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4652,"PHY - 
+				
+				  
+            Physics",9999,1902
+4682,"MUS - 
+				
+				  
+            Music",9999,1005
+4682,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4682,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4682,"PHY - 
+				
+				  
+            Physics",9999,1902
+4682,"POL - 
+				
+				  
+            Political Science",9999,2207
+4682,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4682,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4682,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4682,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4684,"MUA - 
+				
+				  
+            Music Applied",9999,1004
+4684,"MUS - 
+				
+				  
+            Music",9999,1005
+4684,"PHI - 
+				
+				  
+            Philosophy",9999,1509
+4684,"PHS - 
+				
+				  
+            Physiology",9999,0410
+4684,"PHY - 
+				
+				  
+            Physics",9999,1902
+4684,"POL - 
+				
+				  
+            Political Science",9999,2207
+4684,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4684,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4684,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4684,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4684,"WIL - 
+				
+				  
+            Wildlife",9999,0107
+4652,"POL - 
+				
+				  
+            Political Science",9999,2207
+4652,"PSY - 
+				
+				  
+            Psychology",9999,2001
+4652,"REL - 
+				
+				  
+            Religious Studies",9999,1510
+4652,"SOC - 
+				
+				  
+            Sociology",9999,2208
+4652,"SPA - 
+				
+				  
+            Spanish",9999,1105
+4652,"WIL - 
+				
+				  
+            Wildlife",9999,0107

@@ -1,0 +1,3496 @@
+level,credits,course_2,title_2,course_1,from_,gen_ed,title_1,special
+"
+L",1.00,GEN EL,General Elective,COMPSCI 151,4684,"
+",Using Computers,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMPSCI 161,4684,"
+",Introduction to Computers,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMPSCI 162,4684,"
+NSA",Computer Applications,"
+
+                "
+"
+L",3.00,CSCI 130,Introduction to Programming,COMPSCI 171,4684,"
+NSA",Intro to Vb Programming,"
+
+                "
+"
+L",3.00,CSCI 241,Computer Science I,COMPSCI 172,4684,"
+NSA",Introduction to Java,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMPSCI 173,4684,"
+",Fortran Programming,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMPSCI 181,4684,"
+NSA",Database and Web,"
+
+                "
+"
+L",3.00,CSCI 241,Computer Science I,COMPSCI 220,4684,"
+NSA",Intermediate Java,"
+
+                "
+"
+L",3.00,CSCI 245,Assembly Language Programming,COMPSCI 271,4684,"
+",Assembly Programming,"
+
+                "
+"
+L",3.00,CSCI 242,Computer Science II,COMPSCI 372,4684,"
+",Intermediate Programming,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ACINDP 105,4684,"
+",World of the Arts,"
+
+                "
+"
+L",6.00,GEN EL,General Elective,ACINDP 105A,4684,"
+",Arts 105 & Fresh Engl 102,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ACINDP 150,4684,"
+",Intro Multimedia Studies,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ACINDP 151,4684,"
+",Intro Multimed Aesthetics,"
+
+                "
+"
+L",1.00-2.00,GEN EL,General Elective,ACINDP 200,4684,"
+",Arts Management Practicum,"
+8
+                "
+"
+L",3.00,GEN EL,General Elective,ACINDP 215,4684,"
+HUA",Fine Arts Western Culture,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 100,4684,"
+DV, SSS",Introductn Black Culture,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 120,4684,"
+",Modern Blk Amer History,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 141,4684,"
+DV, SSJ",Modern Blk Amer History,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 260,4684,"
+",The Black Family,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 261,4684,"
+SSD, DV",African-American Politics,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 270,4684,"
+DV, SSS",Afri Am Comunty Soc Persp,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ANTHROPL 105,4684,"
+",Individual and Society,"
+
+                "
+"
+L",3.00,SOCA 100,Introduction to Anthropology,ANTHROPL 110,4684,"
+SSS",Introductory Anthropology,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ANTHROPL 190,4684,"
+SSS",Childhd Different Culture,"
+
+                "
+"
+L",3.00,SOCA 204,Human Evolution,ANTHROPL 214,4684,"
+NSF",Physical Anthropology,"
+
+                "
+"
+L",3.00,SOCA 202,Cultural Anthropology,ANTHROPL 218,4684,"
+",Cultural Anthropology,"
+
+                "
+"
+",3.00,Soc/BhvSci EL,Social & Behavioral Science Elective,ANTHROPL 220,4684,"
+SS","Tombs, Temples, Treasure","
+
+                "
+"
+L",3.00,GEN EL,General Elective,ANTHROPL 228,4684,"
+SSS",Anthropology of Religion,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ANTHROPL 230,4684,"
+SSS",Societies in Change,"
+
+                "
+"
+L",2.00,ART 100,Foundtn of Art & Visual Cultur,ARTHIST 111,4684,"
+",Art Appreciation,"
+
+                "
+"
+L",3.00,ART 125,Survey of World Art,ARTHIST 201,4684,"
+HUA",Srvy Art Ancient-1400ce,"
+
+                "
+"
+L",3.00,ART 126,Modern & Contmp Art 1900-Pres,ARTHIST 202,4684,"
+",Art Survey 1400 to 1900,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ARTHIST 203,4684,"
+HUA",Modern & Contemporary Art,"
+
+                "
+"
+L",3.00,ACCT 201,Financial Accounting,ACCOUNT 244,4684,"
+",Intro to Financial Acct,"
+
+                "
+"
+L",3.00,ACCT 202,Managerial Accounting,ACCOUNT 249,4684,"
+",Intro to Managerial Acct,"
+
+                "
+"
+U",3.00,ACCT 302,Intermediate Accountng II,ACCOUNT 343,4684,"
+",Intrmediate Accounting II,"
+
+                "
+"
+U",3.00,ACCT 305,Individual Taxation,ACCOUNT 451,4684,"
+",Tax I,"
+
+                "
+"
+U",3.00,ACCT 306,Business Taxation,ACCOUNT 452,4684,"
+",Tax II,"
+
+                "
+"
+U",3.00,ACCT 403,Advanced Cost Accounting,ACCOUNT 456,4684,"
+",Cost Management,"
+
+                "
+"
+L",5.00,GEOS 110,Intro to Astronomy,ASTRONMY 112,4684,"
+",Introduction to Astronomy,"
+284
+                "
+"
+L",3.00,GEOS 110,Intro to Astronomy,ASTRONMY 114,4684,"
+",Descriptive Astronomy,"
+283
+                "
+"
+L",3.00,ART 102,Introduction to 2-D Design,ARTSTDIO 102,4684,"
+HUA",2-Dimensional Design,"
+
+                "
+"
+L",3.00,ART 103,Introduction to 3-D Design,ARTSTDIO 103,4684,"
+HUA",3-Dimensional Design,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ARTSTDIO 121,4684,"
+HUA",Basic Art,"
+
+                "
+"
+L",3.00,ART EL,Art Elective,ARTSTDIO 180,4684,"
+",Intro Advertising Design,"
+
+                "
+"
+L",3.00,ART 122,Introduction to Drawing,ARTSTDIO 201,4684,"
+HUA",Drawing I,"
+
+                "
+"
+L",3.00,ART 222,Intermediate Drawing,ARTSTDIO 202,4684,"
+",Drawing II,"
+
+                "
+"
+U",3.00,GEN EL,General Elective,ARTSTDIO 213,4684,"
+HUA",Intro to Digital Photo,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ARTSTDIO 221,4684,"
+HUA",Intro Studio Non-Art Majr,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ARTSTDIO 222,4684,"
+",Int. Water-Based Maedia,"
+
+                "
+"
+L",3.00,ART 203,Beginning Ceramics,ARTSTDIO 251,4684,"
+",Ceramics I,"
+
+                "
+"
+L",3.00,ART 223,Beginning Art Metals,ARTSTDIO 271,4684,"
+",Metal and Jewelry I,"
+
+                "
+"
+U",3.00,ART 323,Intermediate Art Metals,ARTSTDIO 272,4684,"
+",Metal and Jewelry II,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ARTSTDIO 287,4684,"
+",Comptr Graphcs For Artist,"
+
+                "
+"
+L",3.00,ART 282,Beginning Painting,ARTSTDIO 321,4684,"
+",Painting I,"
+
+                "
+"
+L",3.00,ART 274,Typography I,ARTSTDIO 381,4684,"
+",Graphic Design I: Typography,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,AMERIND 102,4684,"
+DV, SSS",Intro Amer Indian Studies,"
+
+                "
+"
+L",3.00,BUS 100,Introduction to Business,BEINDP 101,4684,"
+SSB",Business and Society,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,BIOLOGY 110,4684,"
+",Bob:Biology of the Brain,"
+
+                "
+"
+L",4.00,BIOS 100,Nature of Life,BIOLOGY 120,4684,"
+UCTA,NSB",Biological Foundations,"
+22
+                "
+"
+L",5.00,BIOS 101,Bioscience,BIOLOGY 141,4684,"
+UCTA,NSB",Introductory Biology I,"
+224, 22
+                "
+"
+L",5.00,BIOS 102,Organismal Biology,BIOLOGY 142,4684,"
+",Introductory Biology II,"
+236
+                "
+"
+L",3.00,GEN EL,General Elective,BIOLOGY 200,4684,"
+",Writing in Biology,"
+
+                "
+"
+L",3.00,BIOS 202,General Microbiology,BIOLOGY 210,4684,"
+",Elements of Bacteriology,"
+
+                "
+"
+L",3.00,BIOS EL,Biological Sciences Elective,BIOLOGY 214,4684,"
+NSB",Ecology and Society,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,BIOLOGY 221,4684,"
+NSB",School Health,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,BIOLOGY 230,4684,"
+NSB",Human Sexuality,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,BIOLOGY 240,4684,"
+NSB",Human Inheritance,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,BIOLOGY 247,4684,"
+",Bioethics,"
+
+                "
+"
+L",4.00,GEN EL,General Elective,BIOLOGY 251,4684,"
+NSB",Introduction to Genetics,"
+
+                "
+"
+U",3.00,BIOS 301,Cell Biology,BIOLOGY 253,4684,"
+",Intro to Cell Biology,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,BIOLOGY 254,4684,"
+",Biotechnology Laboratory I,"
+
+                "
+"
+U",3.00,BIOS 305,Principles of Ecology,BIOLOGY 257,4684,"
+",Introduction to Ecology,"
+
+                "
+"
+L",4.00,BIOS 207,Research Process in Biology,BIOLOGY 303,4684,"
+",Biostatistics,"
+
+                "
+"
+L",3.00,SPCH 105,Public Speaking,COMM 110,4684,"
+UCTA,HUT",Intro to Public Speaking,"
+22
+                "
+"
+L",3.00,COMM 108,Media and Society,COMM 131,4684,"
+SSC",Intro Mass Communication,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 162,4684,"
+",Debate,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 202,4684,"
+",Principles Public Relatns,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 203,4684,"
+",Publ Relations Tactics 1,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 204,4684,"
+",Publ Relations Tactics II,"
+
+                "
+"
+L",3.00,COMM 107,Comm & Human Condition (Dv),COMM 228,4684,"
+SSC,DV",Interpersonal Communicatn,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,COMM 230,4684,"
+",Radio Practicum,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,COMM 231,4684,"
+",Practicum in Television,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 232,4684,"
+",Found Electronic Media,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 234,4684,"
+",Electronic Media Announce,"
+
+                "
+"
+L",3.00,ENGL 252,Introduction to Film,COMM 236,4684,"
+",Introduction to Cinema,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 238,4684,"
+",Video Production I,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 239,4684,"
+",Audio Production I,"
+
+                "
+"
+L",3.00,COMM 105,Public Speaking,COMM 240,4684,"
+SS",Public Speaking,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 241,4684,"
+",Elec Media Copywriting,"
+
+                "
+"
+L",3.00,COMM 202,Group Communication,COMM 242,4684,"
+SSC",Comm & Team Building,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 244,4684,"
+SSC",Communication/Interviewng,"
+
+                "
+"
+L",0.00,GEN EL,General Elective,COMDIS 100,4684,"
+",Speech Improvement,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMDIS 210,4684,"
+",O & P Communicative Dis,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMDIS 270,4684,"
+",Intro Hum Comm and Disrdrs,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMDIS 272,4684,"
+",Phonetics & Relat Process,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMDIS 278,4684,"
+",Anat Physio Hum Comm,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 246,4684,"
+",Elec Media Newswriting,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 247,4684,"
+",Intro Parliamentary Proc,"
+
+                "
+"
+L",0.50-1.00,GEN EL,General Elective,COMM 260,4684,"
+",Intercollegiate Debate I,"
+8
+                "
+"
+L",0.50-1.00,GEN EL,General Elective,COMM 261,4684,"
+",Intercollegiate Debate II,"
+8
+                "
+"
+L",1.00,GEN EL,General Elective,COMM 263,4684,"
+",Practicum in Forensics,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 270,4684,"
+",Communication and Web Dev,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COMM 271,4684,"
+",Multimedia Production Two,"
+
+                "
+"
+U",3.00,GEN EL,General Elective,COMM 422,4684,"
+",Communication Theories,"
+
+                "
+"
+L",3.00,COMM 209,Comm Research Methods,COMM 485,4684,"
+",Comm Research Methods,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,CHICANO 150,4684,"
+DV",Introduction Chicano St,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,CHICANO 200,4684,"
+DV",Chican@ Literature to 1980,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,CHICANO 201,4684,"
+DV",Contemporary Chicano Lit,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COACHING 100,4684,"
+",Wiaa Pri First Aid,"
+
+                "
+"
+L",2.00,HESM 283,Orientation to Coaching,COACHING 240,4684,"
+",Introduction to Coaching,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,COACHING 250,4684,"
+",App Mechan Princpl Coach,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,COACHING 251,4684,"
+",Coach Women Athletics,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COACHING 252,4684,"
+",Teach and Coach Sports Skills,"
+
+                "
+"
+L",2.00,HESM 301,Sport Conditioning Prac Design,COACHING 255,4684,"
+",Conditioning Intrsch Spts,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,COACHING 256,4684,"
+",Psycho Social Coaching,"
+
+                "
+"
+L",3.00,HESM 330,Sport in Society,COACHING 260,4684,"
+",Hist Soc Aspects Athletcs,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,COACHING 265,4684,"
+",Coach Comm Spon Sports,"
+
+                "
+"
+L",2.00,HESM 255,Coaching Theory-Football,COACHING 350,4684,"
+",Coaching of Football,"
+
+                "
+"
+L",2.00,HESM 252,Coaching Theory-Basketball,COACHING 351,4684,"
+",Coaching of Basketball,"
+
+                "
+"
+L",2.00,HESM 251,Coaching Theory-Baseball,COACHING 352,4684,"
+",Coaching of Baseball,"
+
+                "
+"
+L",3.00,HESM 264,Coaching Theory-Track/Field,COACHING 353,4684,"
+",Coach Track/Field/Cross Countr,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,COACHING 356,4684,"
+",Coaching of Wrestling,"
+
+                "
+"
+L",2.00,HESM 266,Coaching Theory-Volleyball,COACHING 359,4684,"
+",Coaching of Volleyball,"
+
+                "
+"
+L",2.00,HESM 259,Coaching Theory-Soccer,COACHING 360,4684,"
+",Coaching of Soccer,"
+
+                "
+"
+L",2.00,HESM 260,Coaching Theory-Softball,COACHING 361,4684,"
+",Coaching of Softball,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,CIGENRL 214,4684,"
+",Infrm Ed Consmr,"
+
+                "
+"
+L",2.00,HESM 268,Officiate Team/Dual Sport,COACHING 462,4684,"
+",Thry Tech Officiating,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,CIFLD 160,4684,"
+",Intro Teaching Music,"
+
+                "
+"
+L",9.00,GEN EL,General Elective,CIFLD 200E,4684,"
+",Pre-Profess Block Elem,"
+
+                "
+"
+L",9.00,GEN EL,General Elective,CIFLD 200F,4684,"
+",Pre-Profess Block Sec,"
+
+                "
+"
+L",1.00-3.00,GEN EL,General Elective,CIFLD 210,4684,"
+",Observation/Participation,"
+8
+                "
+"
+L",1.00-3.00,GEN EL,General Elective,CIFLD 210E,4684,"
+",Obsrv Part-Elementary,"
+8
+                "
+"
+L",1.00-3.00,GEN EL,General Elective,CIFLD 210F,4684,"
+",Obsrv Part-Secondary Educ,"
+8
+                "
+"
+L",4.00,CHEM 109,Environmental Chemistry,CHEM 100,4684,"
+NSC",Everyday Chemistry (Gl),"
+
+                "
+"
+L",5.00,CHEM 101,General Chemistry I,CHEM 102,4684,"
+UCTA,NSC",General Chemistry I,"
+22
+                "
+"
+L",5.00,CHEM 102,General Chemistry II,CHEM 104,4684,"
+",General Chemistry II,"
+
+                "
+"
+L",5.00,GEN EL,General Elective,CHEM 109,4684,"
+NSC",Elements of Chemistry,"
+
+                "
+"
+L",5.00,GEN EL,General Elective,CHEM 110,4684,"
+NSC",Elements of Chemistry,"
+
+                "
+"
+U",3.00,CHEM 321,Organic Chemistry I,CHEM 251,4684,"
+",Organic Chemistry,"
+
+                "
+"
+U",3.00,CHEM 322,Organic Chemistry II,CHEM 252,4684,"
+",Organic Chemistry,"
+
+                "
+"
+U",4.00,CHEM 310,Inorganic Chemistry,CHEM 260,4684,"
+",Inorganic Chemistry,"
+
+                "
+"
+U",2.00,CHEM 323,Organic Chemistry Lab,CHEM 261,4684,"
+",Organic Chemistry Lab,"
+
+                "
+"
+U",2.00,CHEM 401,Advanced Organic Laboratory,CHEM 262,4684,"
+",Organic Chemistry Lab,"
+276
+                "
+"
+L",2.00,GEN EL,General Elective,EARLYCHD 222,4684,"
+",Early Child Msc Methods,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,DANCE 110,4684,"
+",Dance Appreciation,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,DANCE 141,4684,"
+",Cont Dance Technique I,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,DANCE 142,4684,"
+",Intro Tcnqs/Improv/Cmpstn,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,DANCE 143,4684,"
+",Improvisation,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,DANCE 144,4684,"
+",Jazz Dance,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,DANCE 145,4684,"
+",Ballet I,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,DANCE 200,4684,"
+",Pract-Dance Performance,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,DANCE 243,4684,"
+",Improvisation/Sound,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,DANCE 244,4684,"
+",Contemp Dance Tech II,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,DANCE 245,4684,"
+",Contmp Dance Tech III,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,DANCE 246,4684,"
+",Ballet II,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,DANCE 248,4684,"
+",Dance Composition I,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,DANCE 249,4684,"
+",Dance Composition II,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,EDFOUND 212,4684,"
+",Educational Psychology,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,EDFOUND 214,4684,"
+",Portfolio Development I,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,EDFOUND 222,4684,"
+",Child Development,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,EDFOUND 243,4684,"
+",Found of Ed in Plur Soc,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,EDUINDP 211,4684,"
+",Intro to Early Childhd Educ,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,EDUINDP 212,4684,"
+",Child/Families Div Society,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,EDUINDP 213,4684,"
+",Develop Young Child,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,EDUINDP 214,4684,"
+",Observ and Reflect in Hd Strt,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,EDUINDP 215,4684,"
+",Art in the Early Years,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,EDUINDP 216,4684,"
+",Seminar: Phase 2 Portfolio,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,EDFNDPRC 210,4684,"
+",Intro to Educ & Teaching,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ECON 105,4684,"
+",Global Perspectives,"
+
+                "
+"
+L",3.00,ECON 101,The American Economy,ECON 200,4684,"
+UCTA,SSE",The Economic World,"
+22
+                "
+"
+L",3.00,ECON 120,Principles of Microeconomics,ECON 201,4684,"
+SSE",Principles of Microeconomics,"
+
+                "
+"
+L",3.00,ECON 121,Principles of Macroeconomics,ECON 202,4684,"
+SSE",Principles of Macroeconomics,"
+
+                "
+"
+L",3.00,ECON 202,Principles Macroeconomics,ECON 211,4684,"
+",Econ Prin/Pblms/Policies,"
+
+                "
+"
+L",3.00,ECON 201,Principles Microeconomics,ECON 212,4684,"
+",Econ Prin/Pblms/Policies,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ECON 213,4684,"
+SSE",Econ Prin For Teachers,"
+
+                "
+"
+L",3.00,QM 210,Business Statistics I,ECON 245,4684,"
+",Business Statistics,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,ECON 245A,4684,"
+",Bus Stats I-Cmptr Appltns,"
+
+                "
+"
+L",4.00,GEN EL,General Elective,ECON 245C,4684,"
+",Statistics W/Computr Appl,"
+
+                "
+"
+U",3.00,ECON 320,Intermediate Micro Theory,ECON 301,4684,"
+",Int Microeconomic Anlysis,"
+
+                "
+"
+U",3.00,ECON 409,Econometrics,ECON 345,4684,"
+",Econometrics,"
+
+                "
+"
+L",3.00,NDC,No Degree Credit,DEVLPED 050,4684,"
+",Study/Academic Surv Skill,"
+5
+                "
+"
+L",3.00,NDC,No Degree Credit,DEVLPED 060,4684,"
+",College Literacy,"
+5
+                "
+"
+L",1.00-3.00,GEN EL,General Elective,DEVLPED 080,4684,"
+",Student Success Workshop,"
+8
+                "
+"
+L",2.00,GEN EL,General Elective,ELEMMID 215,4684,"
+",Methds Tch Art Elm/Mdl Sc,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,ELEMMID 223,4684,"
+",Elem School Music Methods,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,ELEMMID 234,4684,"
+",Elem Genrl Music Methods,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,ELEMMID 236,4684,"
+",Elm/Mdl Sch Instr Methods,"
+
+                "
+"
+L",4.00,GEN EL,General Elective,ENVSCI 200,4684,"
+NSG",Intro Environ Sci,"
+
+                "
+"
+",3.00,DNT,Does Not Transfer,ENGLISH 090,4684,"
+",Fundamentals of English,"
+20
+                "
+"
+",2.00,NDC,No Degree Credit,ENGLISH 091,4684,"
+",Written Communications,"
+5
+                "
+"
+L",3.00,ENGL 100,Fundamentals of English,ENGLISH 101,4684,"
+UCTA,",College Writing & Reading,"
+22
+                "
+"
+L",3.00,ENGL 101,Composition and Reading,ENGLISH 102,4684,"
+UCTA,RWS",Writing/Reading/Research,"
+22
+                "
+"
+L",3.00,ENGL 101,Composition and Reading,ENGLISH 105,4684,"
+UCTA,RWS",Freshman English Honors,"
+22
+                "
+"
+L",4.00,ENGL EL,English Elective,ENGLISH 161,4684,"
+",Adv Acad Reading in Esl,"
+
+                "
+"
+L",4.00,ENGL EL,English Elective,ENGLISH 162,4684,"
+",College Wrtg Engl As Sec Lang,"
+
+                "
+"
+L",3.00,ENGL 267,Literature of Diversity: (Dv),ENGLISH 200,4684,"
+HUE,DV",Chican@ Lit: to 1980,"
+
+                "
+"
+L",3.00,ENGL 267,Literature of Diversity: (Dv),ENGLISH 201,4684,"
+HUE,DV",Contemporary Chicano Lit,"
+
+                "
+"
+L",3.00,ENGL EL,English Elective,ENGLISH 204,4684,"
+HUE",Creative Writing II,"
+
+                "
+"
+L",0.00,ENGL EL,English Elective,ENGLISH 205,4684,"
+HUE",Literary Magazines,"
+
+                "
+"
+L",3.00,ENGL 216,British Literature to 1800,ENGLISH 206,4684,"
+",British Lit Survey I,"
+
+                "
+"
+L",3.00,ENGL 217,"British Literature, 1800-1920",ENGLISH 216,4684,"
+HU",British Lit Survey II,"
+
+                "
+"
+L",3.00,ENGL 226,American Literature to 1855,ENGLISH 226,4684,"
+",American Lit Survey I,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ENGLISH 234,4684,"
+HUE",Shakespeare/Non-Engl Majr,"
+
+                "
+"
+L",3.00,ENGL 227,"American Literature, 1855-1920",ENGLISH 236,4684,"
+HU",Am Literature II,"
+
+                "
+"
+U",3.00,ENGL 464,Studies in Cultural Trends:,ENGLISH 251,4684,"
+",Class Myth/Lgnd Srce Lit,"
+
+                "
+"
+U",3.00,ENGL 368,The Bible As Literature,ENGLISH 252,4684,"
+",The Bible As Literature,"
+
+                "
+"
+L",3.00,ENGL 246,Survey of  World Literature,ENGLISH 256,4684,"
+",World Lit I: Anc Tms-Ren,"
+
+                "
+"
+L",3.00,ENGL 247,Survey of Modern World Lit,ENGLISH 257,4684,"
+",World Lit II: Neocl-Modrn,"
+
+                "
+"
+L",3.00,ENGL 267,Literature of Diversity: (Dv),ENGLISH 258,4684,"
+",Wrld Lit Chna India Japan,"
+
+                "
+"
+U",3.00,ENGL 332,Modern & Contemp Novel,ENGLISH 263,4684,"
+",The Contemporary Novel,"
+
+                "
+"
+L",3.00,ENGL 269,Introduction to Women Writers:,ENGLISH 264,4684,"
+",The West Trad Before 1665,"
+
+                "
+"
+L",3.00,ENGL 267,Literature of Diversity: (Dv),ENGLISH 265,4684,"
+HUE,DV",Multicultural Lit of US,"
+
+                "
+"
+L",3.00,ENGL 266,Literary Analysis,ENGLISH 271,4684,"
+",Crit Writing in English,"
+
+                "
+"
+L",3.00,ENGL 206,Creative Writing: Poetry,ENGLISH 274,4684,"
+",Creative Writng,"
+
+                "
+"
+U",3.00,ENGL 387,Linguistics,ENGLISH 281,4684,"
+",Intro Language Study,"
+
+                "
+"
+U",3.00,ENGL EL,English Elective,ENGLISH 310,4684,"
+",Lit For Adolescents,"
+
+                "
+"
+L",3.00,ENGL 237,Modrn/Contemp Lit 1920-Present,ENGLISH 322,4684,"
+HU",Modern Western Literature,"
+
+                "
+"
+U",3.00,ENGL EL,English Elective,ENGLISH 360,4684,"
+",20th-C British Lit,"
+
+                "
+"
+L",3.00,ENGL 247,Survey of Modern World Lit,ENGLISH 363,4684,"
+",Am Lit in Postmodern Age,"
+
+                "
+"
+U",3.00,ENGL 320,Shakespeare,ENGLISH 404,4684,"
+",Shakespeare,"
+
+                "
+"
+U",3.00,ENGL EL,English Elective,ENGLISH 483,4684,"
+",Controversies in Criticism,"
+
+                "
+"
+U",3.00,BUS 372,Business Law,FNBSLW 342,4684,"
+",Adv Bus & Commercial Law,"
+
+                "
+"
+U",3.00,FIN 330,Managerial Finance,FNBSLW 344,4684,"
+",Business Finance,"
+
+                "
+"
+L",4.00,GEN EL,General Elective,FORNLANG 101,4684,"
+",Beginning Japanese I,"
+
+                "
+"
+L",4.00,GEN EL,General Elective,FORNLANG 102,4684,"
+",Beginning Japanese II,"
+
+                "
+"
+L",4.00,GEN EL,General Elective,FORNLANG 103,4684,"
+",Beginning Japanese III,"
+
+                "
+"
+L",4.00,GEN EL,General Elective,FORNLANG 141,4684,"
+",Beginning Chinese,"
+
+                "
+"
+L",4.00,GEN EL,General Elective,FORNLANG 142,4684,"
+",Beginning Chinese,"
+
+                "
+"
+L",4.00,GEN EL,General Elective,FORNLANG 201,4684,"
+",Intermediate Japanese I,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,FILM 110,4684,"
+SSK",Visual Culture in America,"
+
+                "
+"
+L",4.00,GER 103,Introductory German I,GERMAN 141,4684,"
+",Beginning German,"
+
+                "
+"
+L",4.00,GER 104,Introductory German II,GERMAN 142,4684,"
+",Beginning German,"
+
+                "
+"
+L",4.00,GER 203,Intermediate German I,GERMAN 251,4684,"
+",Intermediate German,"
+
+                "
+"
+L",4.00,GER 204,Intermediate German II,GERMAN 252,4684,"
+",Intermediate German,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,GERMAN 260,4684,"
+",German Phonetics,"
+
+                "
+"
+U",3.00,GEN EL,General Elective,GERMAN 310,4684,"
+",German Phonetics,"
+
+                "
+"
+L",4.00,FREN 103,Introductory French I,FRENCH 141,4684,"
+",Beginning French,"
+
+                "
+"
+L",4.00,FREN 104,Introductory French II,FRENCH 142,4684,"
+",Beginning French,"
+
+                "
+"
+L",4.00,FREN 203,Intermediate French I,FRENCH 251,4684,"
+HUL",Intermediate French,"
+
+                "
+"
+L",4.00,FREN 204,Intermediate French II,FRENCH 252,4684,"
+HUL",Intermediate French,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,FRENCH 260,4684,"
+",French Phonetics,"
+
+                "
+"
+U",3.00,FREN EL,French Studies Elective,FRENCH 310,4684,"
+",French Phonetics,"
+
+                "
+"
+",3.00,Human/Arts EL,Humanities and Arts Elective,FRENCH 321,4684,"
+HU",Advanced French Lng Study,"
+
+                "
+"
+",3.00,Human/Arts EL,Humanities and Arts Elective,FRENCH 322,4684,"
+HU",Advanced French Lng Study,"
+
+                "
+"
+U",3.00,FREN 320,Intro to French Literature:,FRENCH 331,4684,"
+",Readings Modern French,"
+
+                "
+"
+U",3.00,FREN 318,French Civilization & Culture:,FRENCH 340,4684,"
+",Contemp French Society,"
+
+                "
+"
+U",3.00,FREN 301,French Convers and Comp,FRENCH 370,4684,"
+",Intro to Business French,"
+
+                "
+"
+U",3.00,FREN EL,French Studies Elective,FRENCH 491,4684,"
+",Travel Study,"
+
+                "
+"
+L",5.00,GEOS 100,Earth in Perspective,GEOLGY 100,4684,"
+NSG",Principles of Geology,"
+285
+                "
+"
+L",4.00,GEOS 101,Introductory Geology,GEOLGY 101,4684,"
+NSG",Elements of Geology,"
+
+                "
+"
+L",3.00,GEOS 102,Origin & History of the Earth,GEOLGY 204,4684,"
+",Earth and Life History,"
+
+                "
+"
+L",1.00,GEOS 102,Origin & History of the Earth,GEOLGY 205,4684,"
+",Historical Geology Lab,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,GEOLGY 206,4684,"
+NSG",Planetary Geology,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,GEOGRPY 100,4684,"
+",Introduction to Geography,"
+
+                "
+"
+L",3.00,GEOG 105,Contemporary Human Geography,GEOGRPY 105,4684,"
+SSG",Global Perspectives,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,GEOGRPY 111,4684,"
+",Geographical Foundations,"
+
+                "
+"
+L",3.00,GEOG 110,Intro to Geog: World Regions,GEOGRPY 160,4684,"
+SSG",World Geography,"
+
+                "
+"
+L",5.00,GEOG 100,Physical Geog & the Environmnt,GEOGRPY 210,4684,"
+NSD",Physical Geography,"
+
+                "
+"
+L",3.00,GEOG 105,Contemporary Human Geography,GEOGRPY 230,4684,"
+SSG",Human Geography,"
+
+                "
+"
+U",3.00,GEOG 315,Geography of Wisconsin,GEOGRPY 250,4684,"
+",Geography of Wisconsin,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,GEOGRPY 252,4684,"
+SSG",Glbl Environ Challenges,"
+
+                "
+"
+U",3.00,GEOG 310,Geography of the U.S. & Canada,GEOGRPY 261,4684,"
+",Geography Canada/U.S.,"
+
+                "
+"
+U",3.00,GEOG 350,Cartography and Gis,GEOGRPY 270,4684,"
+",Gis I: Intro to Gis/Maps,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,GEOGRPY 275,4684,"
+",Geog Concepts For Teacher,"
+
+                "
+"
+U",3.00,GEOG 300,Geographic Methods,GEOGRPY 290,4684,"
+",Spatial Analysis,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,GENED 010,4684,"
+",Intro University Life,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,GENED 110,4684,"
+HUA",World of the Arts,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,GENED 120,4684,"
+SSK",Historical Perspectives,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,GENED 130,4684,"
+SSS",Individual and Society,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,GENED 140,4684,"
+SSK",Global Perspectives,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,GENED 150,4684,"
+NSA",Science Technol Society,"
+
+                "
+"
+L",1.00-3.00,GEN EL,General Elective,GENED 291,4684,"
+",General Education Travel Study,"
+8
+                "
+"
+L",3.00,GEN EL,General Elective,GENED 390,4684,"
+HUH",World of Ideas,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,INTRNAR 280,4684,"
+",Intro Australian Studies,"
+
+                "
+"
+L",3.00,BUS 100,Introduction to Business,ITBE 141,4684,"
+SSB",Concepts of Business,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,ITBE 143,4684,"
+",Keybrdg & Intro Doc Proc,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ITBE 241,4684,"
+",Shorthand I,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ITBE 242,4684,"
+",Note Taking,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ITBE 244,4684,"
+",Document Processing I,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ITBE 245,4684,"
+",Technology Appl Bus Tchrs,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,ITBE 251,4684,"
+",Pen Lettering,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ITBE 252,4684,"
+",Mcrocmptr App Voc Edctrs,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,ITBE 255,4684,"
+",Comptr End Usr Technogies,"
+
+                "
+"
+U",3.00,MIS 320,Mgt Information Systems,ITBE 280,4684,"
+",Intro Information Systems,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,HISTRY 102,4684,"
+",Intro to Amer Indian Studies,"
+
+                "
+"
+L",3.00-4.00,GEN EL,General Elective,HISTRY 105,4684,"
+SSJ",West Civ  Anc Times to  Renais,"
+8
+                "
+"
+L",3.00,GEN EL,General Elective,HISTRY 120,4684,"
+DV, SSJ","Erpe & Modrn World,1815 Pres","
+
+                "
+"
+L",3.00,HIST 101,U.S.: Origins-Reconstruction,HISTRY 124,4684,"
+SSJ",American History to 1877,"
+
+                "
+"
+L",3.00,HIST 102,U.S.: Reconstuctn-Recent Times,HISTRY 125,4684,"
+SSJ",American History Since 1877,"
+
+                "
+"
+L",3.00,HIST EL,History Elective,HISTRY 130,4684,"
+SSJ",East Asian Tradition,"
+
+                "
+"
+L",3.00,HIST 251,Modernization-East Asia,HISTRY 131,4684,"
+",East Asia Since 1800,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,HISTRY 140,4684,"
+SSJ",Intro Latin Amer History,"
+
+                "
+"
+L",3.00,HIST EL,History Elective,HISTRY 141,4684,"
+DV, SSJ",Modern Black Amer History,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,HISTRY 150,4684,"
+",Atlantic History,"
+
+                "
+"
+L",3.00,HIST 118,West Civ I: Antiquity to 1300,HISTRY 154,4684,"
+",Western Civilization,"
+
+                "
+"
+L",3.00,HIST 119,West Civ II: Midl Ages to 1815,HISTRY 155,4684,"
+SSJ",History of Modern Europe,"
+
+                "
+"
+L",3.00,HIST EL,History Elective,HISTRY 165,4684,"
+",Hist Western Science,"
+
+                "
+"
+L",3.00,HIST EL,History Elective,HISTRY 190,4684,"
+SSJ",N Am Environ History,"
+
+                "
+"
+U",3.00,HIST 350,Historiography and Historians,HISTRY 200,4684,"
+",Historical Methods,"
+
+                "
+"
+L",2.00,HIST 250,Sources and Methods in History,HISTRY 201,4684,"
+",Study History: Research,"
+
+                "
+"
+U",3.00,SS-HIST EL,Soc Sciences - History Elective,HISTRY 313,4684,"
+SSJ",Women Amer Hist I,"
+
+                "
+"
+U",3.00,SS-HIST EL,Soc Sciences - History Elective,HISTRY 314,4684,"
+SSJ",Women in Amer Hist 1875-Presen,"
+
+                "
+"
+U",3.00,HIST EL,History Elective,HISTRY 364,4684,"
+",Modern Europe Women Hist,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,HEALTHED 181,4684,"
+",Contemporary Health,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,HEALTHED 245,4684,"
+",Intro to Health Issues,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,HEALTHED 280,4684,"
+",Qual Life & Health Promo,"
+
+                "
+"
+L",3.00,HESM 271,Lifetime Wellness Lab:,HEALTHED 360,4684,"
+SS",Current Topics in Hlth & Well,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,LDRSHP 101,4684,"
+",Foundations of Usaf I,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,LDRSHP 102,4684,"
+",Foundations of Usaf II,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,LDRSHP 110,4684,"
+",Intro to Leadership I,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,LDRSHP 111,4684,"
+",Leadership Laboratory,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,LDRSHP 120,4684,"
+",Introduction Leadership II,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,LDRSHP 121,4684,"
+",Leadership Laboratory,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,LDRSHP 122,4684,"
+",Beginning Orienteering,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,LDRSHP 123,4684,"
+",Beg Mntn/Rappelling,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,LDRSHP 201,4684,"
+",Evol Air & Space Power I,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,LDRSHP 202,4684,"
+",Evol Air & Space Power II,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,LDRSHP 210,4684,"
+",Foundations of Leadership I,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,LDRSHP 211,4684,"
+",Leadership Laboratory,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,LDRSHP 220,4684,"
+",Foundations of Leadership II,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,LDRSHP 221,4684,"
+",Leadership Laboratory,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,LDRSHP 224,4684,"
+",Military Conditioning II,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,LDRSHP 240,4684,"
+",Leadership Training Course,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 210,4684,"
+",Foundations of Print Journ,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 220,4684,"
+",Foundations Advertising,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 241,4684,"
+",Elec Media Copywriting,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 243,4684,"
+",Mass Media Writing,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 244,4684,"
+",News Gathering,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 245,4684,"
+",Publication Editing,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 246,4684,"
+",Elec Media Newswriting,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 247,4684,"
+",Brdcst Newswrtng/Productn,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 248,4684,"
+",Publication Layout,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,JOURNLSM 251,4684,"
+",School Publ: Editorial,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 270,4684,"
+",Communication and Web Dev,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 271,4684,"
+",Multimedia Production Two,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,LIBMEDIA 101,4684,"
+",Intro Library Resources,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,LIBMEDIA 201,4684,"
+",Technology For Teachers,"
+
+                "
+"
+L",1.00,NDC,No Degree Credit,INTRAUNV 010,4684,"
+",Intro University Life,"
+5
+                "
+"
+L",6.00,GEN EL,General Elective,INTRAUNV 100,4684,"
+",Engl Fund/Core Block,"
+
+                "
+"
+L",6.00-9.00,GEN EL,General Elective,INTRAUNV 101,4684,"
+",English/Core Block,"
+8
+                "
+"
+L",1.00,Soc/BhvSci EL,Social & Behavioral Science Elective,INTRAUNV 104,4684,"
+SS",New Student Seminar,"
+
+                "
+"
+L",5.00,GEN EL,General Elective,INTRAUNV 161,4684,"
+",Engl & Wrtg Skll/Intl,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,INTRAUNV 200,4684,"
+",Perspectives Nuclear War,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,INTRAUNV 244,4684,"
+SSK",Consumers and Culture,"
+
+                "
+"
+L",3.00,PHIL 209,Business Ethics,INTRAUNV 246,4684,"
+",Business Ethics,"
+
+                "
+"
+L",1.00,NDC,No Degree Credit,LSINDP 099,4684,"
+",Career Information-L & S,"
+5
+                "
+"
+L",3.00,GEN EL,General Elective,LSINDP 105,4684,"
+",Science Technol Society,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,LSINDP 150,4684,"
+NSA",Science Technol Society,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,LSINDP 200,4684,"
+SSJ",Perspectives Nuclear War,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,LSINDP 201,4684,"
+",Intro to Liberal Studies,"
+
+                "
+"
+L",1.00-3.00,GEN EL,General Elective,LSINDP 294,4684,"
+",Honors Seminar,"
+8
+                "
+"
+L",3.00,MIS 320,Mgt Information Systems,MANGEMNT 211,4684,"
+",Intro Information Systems,"
+
+                "
+"
+U",3.00,MGT 349,Organizational Behavior,MANGEMNT 301,4684,"
+",Organizational Behavior,"
+
+                "
+"
+U",3.00,QM 319,Operations Mgt Principles,MANGEMNT 306,4684,"
+",Operations Management,"
+
+                "
+"
+U",3.00,HRM 343,Human Resource Management,MANGEMNT 320,4684,"
+",Human Resource Management,"
+
+                "
+"
+U",3.00,HRM 444,Compensation/Benefits,MANGEMNT 425,4684,"
+",Compensation Management,"
+
+                "
+"
+U",3.00,HRM 441,Staffing Organizations,MANGEMNT 426,4684,"
+",Staffing,"
+
+                "
+"
+U",3.00,HRM 442,Improving Employee Performance,MANGEMNT 428,4684,"
+",Training and Development,"
+
+                "
+"
+U",3.00,BUS EL,General Business Elective,MANGEMNT 429,4684,"
+",Employee Benefits,"
+
+                "
+"
+U",3.00,BUS 495,Capstone Strategic Management,MANGEMNT 489,4684,"
+",Strategic Management,"
+
+                "
+"
+U",3.00,MKT 350,Marketing Principles,MARKETNG 311,4684,"
+",Principles of Marketing,"
+
+                "
+"
+U",3.00,MKT 354,Marketing Research,MARKETNG 321,4684,"
+",Marketing Research,"
+
+                "
+"
+U",3.00,MKT 455,Marketing Management,MARKETNG 479,4684,"
+",Mktg Mgmnt and Policies,"
+
+                "
+"
+P",3.00,ACSK 010,Essential Math Skills,MATH 040,4684,"
+",Pre-Algebra,"
+
+                "
+"
+P",4.00,ACSK 015,Elementary Algebra,MATH 041,4684,"
+",Beginning Algebra,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MATH 102,4684,"
+",Descriptve Geometry,"
+
+                "
+"
+L",3.00,MATH 215,Math Mdl Chld-Erly Adl Tchr  I,MATH 111,4684,"
+",Math Elem Teacher I,"
+
+                "
+"
+L",3.00,MATH 216,Math Mdl Chd-Erly Adl Tchr  II,MATH 112,4684,"
+",Math Elem Teacher II,"
+
+                "
+"
+L",3.00,MATH 102,Survey of Mathematics,MATH 139,4684,"
+CS",Quantitative Reasoning,"
+
+                "
+"
+L",3.00,MATH 102,Survey of Mathematics,MATH 140,4684,"
+CS",Mathematical Ideas,"
+
+                "
+"
+L",4.00,MATH 111,College Algebra I,MATH 141,4684,"
+CS",Fundamtls of Coll Algebra,"
+
+                "
+"
+L",3.00,MATH 111,College Algebra I,MATH 141B,4684,"
+CS",Intermediate Algebra,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MATH 143,4684,"
+NSM",Finite Business & Soc Sci,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MATH 145,4684,"
+",Contemporary Mathematics,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MATH 148,4684,"
+",Math Elem Teacher I,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MATH 149,4684,"
+",Math Elem Teacher II,"
+
+                "
+"
+L",5.00,MATH 114,College Algebra II/Trig,MATH 152,4684,"
+UCTA",Precalculus,"
+226, 22
+                "
+"
+L",1.00,GEN EL,General Elective,MATH 177,4684,"
+",The Logic of Chess,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MATH 230,4684,"
+UCTA",Intro to Statistics,"
+22
+                "
+"
+L",3.00,GEN EL,General Elective,MATH 231,4684,"
+",Undst Probability/Statis,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MATH 232,4684,"
+",Stat Cptr Progrm Lab,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MATH 243,4684,"
+",Shrt Calc Bus/Soc Science,"
+
+                "
+"
+L",5.00,GEN EL,General Elective,MATH 250,4684,"
+",Appld Calc Srv Bus/Soc Sc,"
+
+                "
+"
+L",5.00,MATH 221,Calculus & Analytic Geometry I,MATH 253,4684,"
+NSM",Calc/Analytic Geometry I,"
+
+                "
+"
+L",5.00,MATH 222,Calc & Analytic Geometry II,MATH 254,4684,"
+NSM",Calc/Analytic Geometry II,"
+
+                "
+"
+L",3.00,MATH 223,Calc & Analytic Geometry III,MATH 255,4684,"
+",Calc/Anlytc Geometry III,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MATH 280,4684,"
+",Discrete Mathematics,"
+
+                "
+"
+L",1.00-3.00,GEN EL,General Elective,MATH 290,4684,"
+",Special Topics in Mathematics,"
+8
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 060,4684,"
+",Private Instrumental Instruct,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 070,4684,"
+",Private Vocal Instruction,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 080,4684,"
+",Private Keyboard Instruct in P,"
+
+                "
+"
+L",0.00,MUSI 001,Concert Attendance,MUSC 100,4684,"
+",Recital Attendance,"
+
+                "
+"
+L",3.00,MUSI 101,Fundamentals of Music,MUSC 111,4684,"
+HUM",Fundamentals of Music,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 126,4684,"
+",Priv Instrmntl Instr (Np),"
+
+                "
+"
+L",1.00,MUSI 180,Class Voice,MUSC 127,4684,"
+",Priv Vocal Instruc (Np),"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 128,4684,"
+",Priv Piano Instruc (Np),"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 129,4684,"
+",Priv Organ Instruc (Np),"
+
+                "
+"
+L",2.00,MUSI 201,Music Appreciation,MUSC 140,4684,"
+HU",Intro to Classical Music,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,MUSC 141,4684,"
+SSJ",Hist Populr Music America,"
+
+                "
+"
+L",2.00,MUSI 206,Jazz Appreciation (Dv),MUSC 143,4684,"
+HU,DV",Survey of American Jazz,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MUSC 144,4684,"
+SSS",Cultural Music Americas,"
+
+                "
+"
+L",2.00,HUMA-MUS EL,Humanities - Music Elective,MUSC 150,4684,"
+HUM",Introduction Music Theory,"
+
+                "
+"
+L",2.00,MUSI 121,Music Theory II,MUSC 151,4684,"
+",Theory I,"
+
+                "
+"
+L",2.00,MUSI 122,Music Theory II,MUSC 152,4684,"
+",Theory II,"
+
+                "
+"
+L",2.00,MUSI 125,Aural Music Theory I,MUSC 153,4684,"
+",Aural Skills I,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MCS 210,4684,"
+",Concepts Database Systems,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MCS 220,4684,"
+",Intermediate Java,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MCS 231,4684,"
+",Concepts Data Structure,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MCS 232,4684,"
+",Cobol and Complex Systems,"
+
+                "
+"
+L",2.00,MUSI 126,Aural Music Theory II,MUSC 154,4684,"
+",Aural Skills II,"
+
+                "
+"
+L",1.00-4.00,GEN EL,General Elective,MUSC 160,4684,"
+",Prv Instr Prim Prfrm (L1),"
+8
+                "
+"
+L",1.00,MUSI 106,Jazz Appreciation (Dv),MUSC 161,4684,"
+",University Bands,"
+
+                "
+"
+L",1.00,MUSI 104,Music Appreciation,MUSC 162,4684,"
+",Orchestra,"
+
+                "
+"
+L",1.00,MUSI 109,Jazz Ensemble,MUSC 164,4684,"
+",Jazz Bands,"
+
+                "
+"
+L",1.00,MUSA 064,Applied Clarinet,MUSC 165,4684,"
+",Clarinet Techniques,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 166,4684,"
+",Folk Guitar,"
+
+                "
+"
+L",1.00,MUSA 040,Applied Violin,MUSC 167,4684,"
+",Violin & Viola Techniques,"
+
+                "
+"
+L",1.00,MUSA 020,Applied Trumpet,MUSC 168,4684,"
+",Trumpet/Horn Techniques,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 169,4684,"
+",Marching Band,"
+
+                "
+"
+L",1.00-4.00,MUSA 180,Applied Voice,MUSC 170,4684,"
+",Priv Vocal-Prim Prfm (L1),"
+8
+                "
+"
+L",1.00,MUSI 102,Large Music Ensemble,MUSC 171,4684,"
+",University Choirs,"
+
+                "
+"
+L",1.00,MUSI 102,Large Music Ensemble,MUSC 175,4684,"
+",University Chorus,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 177,4684,"
+",Class Voice I,"
+
+                "
+"
+L",1.00,MUSI 180,Class Voice,MUSC 178,4684,"
+",Class Voice II,"
+
+                "
+"
+L",1.00-4.00,MUSA 110,Applied Piano,MUSC 180,4684,"
+",Priv Piano-Prim Prfm (L1),"
+8
+                "
+"
+L",3.00,GEN EL,General Elective,MUSC 181,4684,"
+",Aural Skills I,"
+
+                "
+"
+L",1.00,MUSI 141,Keyboard Musicianship I,MUSC 186,4684,"
+",Class Piano I,"
+
+                "
+"
+L",1.00,MUSI 142,Keyboard Musicianship II,MUSC 187,4684,"
+",Class Piano II,"
+
+                "
+"
+L",1.00,MUSI 241,Keyboard Musicianship III,MUSC 188,4684,"
+",Class Piano III,"
+
+                "
+"
+L",1.00,MUSI 242,Music Literature Lab,MUSC 189,4684,"
+",Functional Class Piano,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 190,4684,"
+",Music Improvisation,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MUSC 240,4684,"
+DV, HUM",Survey of African Amer Music,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MUSC 241,4684,"
+DV",Survey of Latin Amer Music,"
+
+                "
+"
+L",2.00,MUSI 202,Music Literature,MUSC 242,4684,"
+",Intro to Music Literature,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MUSC 244,4684,"
+HUM",Native American Music,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MUSC 245,4684,"
+SSJ",Music History I,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MUSC 246,4684,"
+SSJ",Music History II,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MUSC 247,4684,"
+SSJ",Music History III,"
+
+                "
+"
+L",2.00,MUSI 221,Music Theory III,MUSC 251,4684,"
+",Theory III,"
+
+                "
+"
+L",2.00,MUSI 222,Music Theory IV,MUSC 252,4684,"
+",Theory IV,"
+
+                "
+"
+L",2.00,MUSI 225,Aural Music Theory III,MUSC 253,4684,"
+",Aural Skills III,"
+
+                "
+"
+L",2.00,MUSI 226,Popular Music Theory,MUSC 254,4684,"
+",Aural Skills IV,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,MUSC 255,4684,"
+",Elctronic Music Synthesis,"
+
+                "
+"
+L",1.00-4.00,MUSI EL,Music Elective,MUSC 260,4684,"
+",Priv Instr-Prim Prfm (L2),"
+8
+                "
+"
+L",0.50,MUSA 060,Applied Flute,MUSC 265,4684,"
+",Flute Techniques,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 266,4684,"
+",Intermediate Guitar,"
+
+                "
+"
+L",1.00,MUSI EL,Music Elective,MUSC 267,4684,"
+",Cello/String Bass Tech,"
+
+                "
+"
+L",1.00,MUSI EL,Music Elective,MUSC 268,4684,"
+",Trom/Baritone/Tuba Tech,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 269,4684,"
+",Instrumental Ensemble,"
+
+                "
+"
+L",1.00-4.00,MUSA 280,Applied Voice,MUSC 270,4684,"
+",Priv Vocal-Prim Prfm (L2),"
+8
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 271,4684,"
+",Opera Performance Tech,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 272,4684,"
+",Practicum Music Theatre,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MUSC 273,4684,"
+",Jazz History & Appreciation,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,MUSC 275,4684,"
+",Diction For Singers I,"
+
+                "
+"
+L",2.00,MUSI EL,Music Elective,MUSC 276,4684,"
+",Diction For Singers II,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,MUSC 279,4684,"
+",Vocal Ensemble,"
+
+                "
+"
+L",1.00-4.00,MUSA 210,Applied Piano,MUSC 280,4684,"
+",Priv Piano-Prim Prfm (L2),"
+8
+                "
+"
+L",2.00,MUSA 212,Applied Organ,MUSC 281,4684,"
+",Aural Skills III,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,MUSC 290,4684,"
+",Technology Music Educators,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,MUSC 292,4684,"
+",Instrumental Techniques,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEGNRL 100,4684,"
+",Cr Vets W/6 Mos Act Srvce,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 103,4684,"
+",Beginning Archery,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 104,4684,"
+",Beginning Badminton,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 106,4684,"
+",Beg Aerobic Exer & Dance,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 108,4684,"
+",Beginning Bowling,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 109,4684,"
+",Intermediate Bowling,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 110,4684,"
+",Beginning Jogging,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 111,4684,"
+",Beg Phy Fitness Develpmnt,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 113,4684,"
+",Int Aerobic Exercise/Dnce,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 115,4684,"
+",Beginning Fencing,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 120,4684,"
+",Beginning Golf,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 121,4684,"
+",Intermediate Golf,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 125,4684,"
+",Beginning Paddleball,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 134,4684,"
+",Beginning Skiing,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 138,4684,"
+",Beg Bicycle Touring,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 139,4684,"
+",Intro to Backpacking,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 141,4684,"
+",Beginning Yoga,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 142,4684,"
+",Intermediate Yoga,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 143,4684,"
+",Beginning Folk Dance,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 144,4684,"
+",Beg Social Dance (Clscl),"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 145,4684,"
+",Beginning Square Dance,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 147,4684,"
+",Beg Soc Dnce (Latin/Midw),"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 148,4684,"
+",Beg Contra/Rnd Dnce/Mixrs,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,PEGNRL 149,4684,"
+",Beg Country Western Dance,"
+
+                "
+"
+L",3.00,PHIL 101,Introduction to Philosophy,PHILSPHY 241,4684,"
+HUP",Intro to Philosophy,"
+
+                "
+"
+L",3.00,PHIL 215,Contemporary Moral Problems,PHILSPHY 245,4684,"
+UCTA,HUP",Contemporary Moral Issues,"
+22
+                "
+"
+L",3.00,GEN EL,General Elective,PHILSPHY 247,4684,"
+",Bioethics,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,PHILSPHY 248,4684,"
+",Environmental Ethics,"
+
+                "
+"
+L",3.00,PHIL 201,Logic,PHILSPHY 251,4684,"
+",Logic,"
+
+                "
+"
+L",3.00,PHIL 206,Introduction to Ethics,PHILSPHY 261,4684,"
+UCTA,HUP",Introduction to Ethics,"
+22
+                "
+"
+L",3.00,PHIL 213,Aesthetics,PHILSPHY 271,4684,"
+",Introduction Aesthetics,"
+
+                "
+"
+L",3.00,PHIL 220,"Politics, Law, and Society",PHILSPHY 281,4684,"
+",Social Philosophy,"
+
+                "
+"
+",3.00,Human/Arts EL,Humanities and Arts Elective,PHILSPHY 291,4684,"
+HU",Philosophy Nat/Soc Sci,"
+
+                "
+"
+L",3.00,PHIL EL,Philosophy Elective,PHILSPHY 341,4684,"
+",Classical Philosophy,"
+
+                "
+"
+L",3.00,PHIL EL,Philosophy Elective,PHILSPHY 342,4684,"
+HUP",Modern Philosophy,"
+
+                "
+"
+L",3.00,PHIL EL,Philosophy Elective,PHILSPHY 343,4684,"
+",American Philosophy,"
+
+                "
+"
+L",3.00,PHIL EL,Philosophy Elective,PHILSPHY 345,4684,"
+",Contemporary Philosophy,"
+
+                "
+"
+L",3.00,PHIL EL,Philosophy Elective,PHILSPHY 365,4684,"
+",Perspectives Death/Dying,"
+
+                "
+"
+U",3.00,PHIL EL,Philosophy Elective,PHILSPHY 390,4684,"
+",Feminist Philosophy,"
+
+                "
+"
+L",3.00,PHYS EL,Physics Elective,PHYSCS 100,4684,"
+",Energy,"
+
+                "
+"
+L",4.00,PHYS EL,Physics Elective,PHYSCS 120,4684,"
+",Light and Color,"
+
+                "
+"
+L",5.00,PHYS 101,Principles of Physics,PHYSCS 130,4684,"
+NSP",Physics Foundations,"
+
+                "
+"
+L",5.00,PHYS 105,College Physics I,PHYSCS 140,4684,"
+UCTA",Principles of Physics I,"
+22
+                "
+"
+L",3.00,PHYS EL,Physics Elective,PHYSCS 150,4684,"
+",Einstein to Star Trek,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,PHYSCS 152,4684,"
+",Photography,"
+
+                "
+"
+L",4.00,PHYS 105,College Physics I,PHYSCS 160,4684,"
+UCTA,NSP",General Physics I,"
+261, 22
+                "
+"
+L",1.00,PHYS 105,College Physics I,PHYSCS 161,4684,"
+UCTA,NSP",General Physics Lab I,"
+261, 22
+                "
+"
+L",4.00,PHYS 106,College Physics II,PHYSCS 162,4684,"
+",General Physics II,"
+263
+                "
+"
+L",1.00,PHYS 106,College Physics II,PHYSCS 163,4684,"
+",General Physics Lab II,"
+263
+                "
+"
+L",3.00,PHYS 201,General Physics I,PHYSCS 170,4684,"
+NSP",Introductory Physics I,"
+265
+                "
+"
+L",4.00,GEN EL,General Elective,PHYSCS 172,4684,"
+NSP",Introductory Physics II,"
+265
+                "
+"
+L",1.00,GEN EL,General Elective,PHYSCS 173,4684,"
+NSP",Intro Physic Laboratory I,"
+265
+                "
+"
+L",4.00,GEN EL,General Elective,PHYSCS 174,4684,"
+NSP",Introductory Physics III,"
+265
+                "
+"
+L",1.00,GEN EL,General Elective,PHYSCS 175,4684,"
+NSP",Intro Physics Lab II,"
+265
+                "
+"
+L",3.00,PHYS EL,Physics Elective,PHYSCS 210,4684,"
+NSP",Descriptive Physics,"
+
+                "
+"
+L",2.00,PHYS EL,Physics Elective,PHYSCS 221,4684,"
+NSP",Intermediate Laboratory,"
+
+                "
+"
+L",3.00,PHYS EL,Physics Elective,PHYSCS 240,4684,"
+",Physics of Sound/Music,"
+
+                "
+"
+U",3.00,PHYS 301,Classical Mechanics,PHYSCS 280,4684,"
+",Eng Mechanics: Statics,"
+555
+                "
+"
+U",3.00,PHYS 301,Classical Mechanics,PHYSCS 282,4684,"
+",Eng Mechanics: Dynamics,"
+555
+                "
+"
+L",1.00,GEN EL,General Elective,POLISCI 105,4684,"
+",Stat & Local Suplmt to Pol 104,"
+
+                "
+"
+L",3.00,POLS 100,American Politics,POLISCI 141,4684,"
+UCTA,SSP",American Govmnt/Politics,"
+22
+                "
+"
+L",3.00,GEN EL,General Elective,POLISCI 217,4684,"
+",Ethnic Politics,"
+
+                "
+"
+L",3.00,POLS 280,Criminal Justice Process,POLISCI 247,4684,"
+",Issues/Crises Amer Poltcs,"
+
+                "
+"
+L",3.00,POLS 105,Introduction to Politics,POLISCI 250,4684,"
+SSP",Intro Political Theory,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,POLISCI 255,4684,"
+",Intro Comparative Politics,"
+
+                "
+"
+L",3.00,CRMJ 200,Criminal Justice Rsch Mthds,POLISCI 301,4684,"
+",Pol Science Rsch Methods,"
+
+                "
+"
+L",3.00,POLS 203,"Women, Power and Politics",POLISCI 315,4684,"
+",Women and American Politics,"
+
+                "
+"
+L",3.00,CRMJ 235,Police and Society,POLISCI 316,4684,"
+",Police/Crim Justice Admin,"
+
+                "
+"
+L",3.00,POLS 214,Executive&Legislative Politics,POLISCI 317,4684,"
+",Amer Legislative Process,"
+
+                "
+"
+L",3.00,POLS 215,The Presidency,POLISCI 318,4684,"
+",The American Presidency,"
+
+                "
+"
+L",3.00,POLS 202,Public Policy,POLISCI 320,4684,"
+",Public Policy/Administrtn,"
+
+                "
+"
+U",3.00,POLS 360,Pol Parties & Interest Groups,POLISCI 321,4684,"
+",Interest Group Politics,"
+
+                "
+"
+L",3.00,POLS 130,State and Local Politics,POLISCI 344,4684,"
+",State/Local Government,"
+
+                "
+"
+L",3.00,POLS 104,Intro International Relations,POLISCI 351,4684,"
+SSP",International Relations,"
+
+                "
+"
+L",3.00,POLS 103,Intro to Comparative Politics,POLISCI 352,4684,"
+SSP",Compartve Govrnmnt-Europe,"
+
+                "
+"
+L",1.00,POLS 209,Legal Research & Writing,POLISCI 360,4684,"
+",Resources Legal Research,"
+
+                "
+"
+U",3.00,POLS 320,Const Law:Structr/Pwr US Govt,POLISCI 413,4684,"
+",Constitutional Law,"
+
+                "
+"
+U",3.00,POLS 310,Const Law: Civil Liberties,POLISCI 415,4684,"
+",Criminal Justice/Const,"
+
+                "
+"
+L",3.00,POLS 116,Introduction to Law,POLISCI 419,4684,"
+SSP",The Judicial Process,"
+
+                "
+"
+L",3.00,POLS 105,Introduction to Politics,POLISCI 420,4684,"
+SSP",American Political Thght,"
+
+                "
+"
+L",3.00,POLS 224,American Foreign Policy,POLISCI 457,4684,"
+",American Foreign Policy,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 150,4684,"
+",Beginning Swim Level 4,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 151,4684,"
+",Intermediate Swim Level 6,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 152,4684,"
+",Advanced Swimming Level 7,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 155,4684,"
+",Beginning Aqua Aerobics,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEGNRL 157,4684,"
+",Swimming IV (Life Saving),"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEGNRL 158,4684,"
+",Beg Skin & Scuba Diving,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEGNRL 159,4684,"
+",Beginning Canoeing,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 160,4684,"
+",Beginning Tennis,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 161,4684,"
+",Intermediate Tennis,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 166,4684,"
+",Beg Volleyball (Power),"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 167,4684,"
+",Beginning Weight Training,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 168,4684,"
+",Intermediate Volleyball,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 170,4684,"
+",Beginning Self Defense,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 173,4684,"
+",Beginning Sport Judo,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 175,4684,"
+",Beg Tae Kwon Do: Karate,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 176,4684,"
+",Interm Tae Kwon Do: Karate,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 177,4684,"
+",Intro Martial Arts Weapons,"
+
+                "
+"
+L",1.00,HESM 110,Scuba Diving,PEGNRL 180,4684,"
+",Open Water Scuba,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 183,4684,"
+",Exercisewalking,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 185,4684,"
+",Beg Mountain/Rappelling,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 186,4684,"
+",Beginning Orienteering,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEGNRL 187,4684,"
+",Military Conditioning I,"
+
+                "
+"
+L",0.50,GEN EL,General Elective,PEGNRL 190,4684,"
+",Swim For Fitness,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEGNRL 192,4684,"
+",Pers Hlth & Fitness Life,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEGNRL 193,4684,"
+",Intercol Athletic Participatn,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,PSYCH 104,4684,"
+SSY",Psych of Human Adjustment,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,PSYCH 105,4684,"
+SS",Individual and Society,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,PSYCH 135,4684,"
+SSY",Psychology of Retirement,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,PSYCH 202,4684,"
+SSY",Psychology of Women,"
+
+                "
+"
+L",3.00,PSYC 101,Intro to Psychological Science,PSYCH 211,4684,"
+UCTA,SSY",Introductory Psychology,"
+22
+                "
+"
+L",3.00,PSYC 250,Psychological Statistics,PSYCH 215,4684,"
+",Basic Statistical Methods,"
+
+                "
+"
+U",5.00,PSYC 300,Research Methods in Psychology,PSYCH 216,4684,"
+",Research Methods,"
+
+                "
+"
+L",3.00,PSYC 260,Psychology of Personality,PSYCH 301,4684,"
+",Intro Behavioral Neuroscience,"
+
+                "
+"
+U",3.00,PSYC 325,Biological Psychology,PSYCH 304,4684,"
+",Psychology of Personality,"
+
+                "
+"
+U",3.00,PSYC EL,Psychology Elective,PSYCH 332,4684,"
+",Psychology of Adolescence,"
+
+                "
+"
+U",3.00,PSYC 360,Abnormal Psychology,PSYCH 345,4684,"
+",Abnormal Psychology,"
+
+                "
+"
+L",3.00,PSYC 205,Cognitive Psychology,PSYCH 351,4684,"
+",Cognitive Psychology,"
+
+                "
+"
+L",3.00,PSYC 220,Social Psychology,PSYCH 355,4684,"
+",Social Psychology,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,RACEETH 150,4684,"
+",Atlantic History,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,RACEETH 217,4684,"
+",Ethnic Politics,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,RECREATN 232,4684,"
+",Intro Recreation/Leisure,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,PEPROF 165,4684,"
+",Intro to Physical Education,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEPROF 171,4684,"
+",Fund Flag Ftbl/Tm Handbl,"
+
+                "
+"
+L",1.00,HESM 117,Basketball,PEPROF 172,4684,"
+",Fundamental of Basketball,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,PEPROF 173,4684,"
+",Teach Tumbling/Gymnastics,"
+
+                "
+"
+L",1.00,HESM 194,Volleyball,PEPROF 174,4684,"
+",Fundamentals Volleyball,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEPROF 175,4684,"
+",Fund Bowling/Badminton,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEPROF 176,4684,"
+",Fund of Archery & Golf,"
+
+                "
+"
+L",1.00,HESM 192,Track and Field,PEPROF 177,4684,"
+",Fund of Track and Field,"
+
+                "
+"
+L",1.00,HESM 180,Soccer I,PEPROF 178,4684,"
+",Fund Soccer & Speedball,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,PEPROF 200,4684,"
+",Fundamentals of Rhythms,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEPROF 209,4684,"
+",Professions in Physical Educ,"
+
+                "
+"
+L",1.00,HESM 182,Softball,PEPROF 210,4684,"
+",Fundamentals of Softball,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,PEPROF 212,4684,"
+",Fundamentals of Apparatus,"
+
+                "
+"
+L",1.00,HESM 188,Tennis I,PEPROF 213,4684,"
+",Fundamentals of Tennis,"
+
+                "
+"
+L",1.00,HESM 196,Weight Training I,PEPROF 215,4684,"
+",Fnd Wght Trng/Phy Fitness,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,PEPROF 240,4684,"
+",Stand-Based Curric/Plann,"
+
+                "
+"
+L",3.00,HESM 233,Water Safety Instructor,PEPROF 251,4684,"
+",Water Safety Instructor,"
+
+                "
+"
+L",4.00,HESM EL,"Health, Exercise Science & Sport Mngmnt Elective",PEPROF 271,4684,"
+",Structure/Funct Humn Body,"
+
+                "
+"
+U",2.00,HESM 322,Adv First Aid/Emrgncy Response,PEPROF 281,4684,"
+",First Aid & Cpr,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,PEPROF 291,4684,"
+",Lifeguarding,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,RELIGST 201,4684,"
+HUP",Crit Issues Modern Relgn,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,RELIGST 210,4684,"
+HUP",Intro Religions of World,"
+
+                "
+"
+L",3.00,HUMA 225,Religion-Far East,RELIGST 211,4684,"
+",Intro to Asian Religions,"
+
+                "
+"
+L",3.00,HUMA 224,Religion-the West,RELIGST 212,4684,"
+",Intro Western Religions,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,RELIGST 221,4684,"
+HUP",Intro Early Hebrew Wrtngs,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,RELIGST 222,4684,"
+HUP",Introduction to Judaism,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,RELIGST 252,4684,"
+",The Bible As Literature,"
+
+                "
+"
+U",3.00,HUMA-PHIL EL,Humanities - Philosophy Elective,RELIGST 330,4684,"
+HUP","Religion, Sexuality and Gender","
+
+                "
+"
+L",3.00,GEN EL,General Elective,SOCWORK 102,4684,"
+",Intro to Social Welfare  (Gs),"
+
+                "
+"
+L",1.00,GEN EL,General Elective,SOCWORK 161,4684,"
+",Intro Soc Serv Computing,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,SOCWORK 235,4684,"
+",Child Welfare,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,SOCWORK 236,4684,"
+",Poverty & Social Welfare,"
+
+                "
+"
+U",4.00,GEN EL,General Elective,SOCWORK 311,4684,"
+",Humn Beh/Soc Envrmnt,"
+
+                "
+"
+U",3.00,GEN EL,General Elective,SOCWORK 312,4684,"
+",Humn Behsoc Envrmnt II,"
+
+                "
+"
+U",3.00,GEN EL,General Elective,SOCWORK 341,4684,"
+",Sexuality For Prof Growth,"
+
+                "
+"
+U",3.00,GEN EL,General Elective,SOCWORK 371,4684,"
+",Social Work Practice I,"
+
+                "
+"
+L",4.00,SPAN 103,Introductory Spanish I,SPANISH 141,4684,"
+",Beginning Spanish,"
+
+                "
+"
+L",4.00,SPAN 104,Introductory Spanish II,SPANISH 142,4684,"
+",Beginning Spanish,"
+
+                "
+"
+L",4.00,SPAN 203,Intermediate Spanish I,SPANISH 251,4684,"
+HUL",Intermediate Spanish,"
+
+                "
+"
+L",4.00,SPAN 204,Intermediate Spanish II,SPANISH 252,4684,"
+HUL",Intermediate Spanish,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,SPANISH 260,4684,"
+",Spanish Phonetics,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,SOCIOLGY 105,4684,"
+SSS",Individual and Society,"
+
+                "
+"
+L",3.00,SOCA 101,Introduction to Sociology,SOCIOLGY 140,4684,"
+UCTA,SSS",Introductory Sociology,"
+22
+                "
+"
+L",3.00,SS-SOCA EL,Soc Sciences - Socio & Anthro Elective,SOCIOLGY 240,4684,"
+SSS, UCTA",Principles of Sociology,"
+22
+                "
+"
+L",3.00,SOCA 102,Contemporary Social Problems,SOCIOLGY 250,4684,"
+",Social Problems,"
+
+                "
+"
+L",3.00,SOCA 207,Marriage and Family,SOCIOLGY 252,4684,"
+SSS",Intro to Family Studies,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,SOCIOLGY 260,4684,"
+DV, SSS",Sociology of Hate,"
+
+                "
+"
+L",3.00,SOCA 206,Race/Ethnc Relations in US(Dv),SOCIOLGY 265,4684,"
+UCTA, DV, SSS",Race & Ethnic Relations,"
+22
+                "
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 270,4684,"
+DV, SSS",Afri Am Comunty Soc Persp,"
+
+                "
+"
+L",3.00,CRMJ 233,Criminology,SOCIOLGY 276,4684,"
+",Introduction Criminology,"
+
+                "
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 280,4684,"
+",Intro Australian Studies,"
+
+                "
+"
+L",3.00,SOCA 228,Peoples of Southeast Asia,SOCIOLGY 285,4684,"
+",Asian Americans,"
+
+                "
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 290,4684,"
+",Sociology of Pacific Asia,"
+
+                "
+"
+U",3.00,SOCA EL,Sociology Elective,SOCIOLGY 342,4684,"
+",Soc of Fam and Work,"
+
+                "
+"
+L",3.00,SOCA 213,Gender and Society,SOCIOLGY 345,4684,"
+",Sociology of Gender,"
+
+                "
+"
+U",3.00,SOCA 321,Religion and Society,SOCIOLGY 353,4684,"
+",Sociology of Religion,"
+
+                "
+"
+L",3.00,SOCA 234,Juvenile Delinquency/Justice,SOCIOLGY 370,4684,"
+",Juvenile Delinquency,"
+
+                "
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 374,4684,"
+",Sociolgy of Police and Courts,"
+
+                "
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 378,4684,"
+",Sociology of Pnshmnt and Corre,"
+
+                "
+"
+L",3.00,SOCA 207,Marriage and Family,SOCIOLGY 455,4684,"
+SSS",Sociology of the Family,"
+
+                "
+"
+L",3.00,SOCA 295,Social Science Research Mthds,SOCIOLGY 476,4684,"
+",Methods Social Research,"
+
+                "
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 478,4684,"
+",Sociology in Practice,"
+
+                "
+"
+L",2.00,GEN EL,General Elective,SPECED 200,4684,"
+",Person W/Disability Socty,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,SPECED 201,4684,"
+",Disability in Society,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,SPECED 205,4684,"
+",Intro to Special Educ,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,SPECED 240,4684,"
+",Manual Communication,"
+
+                "
+"
+L",1.00,GEN EL,General Elective,SPECED 250,4684,"
+",Study in Braille,"
+
+                "
+"
+L",2.00,THEA 110,Theatre Appreciation,THEATRE 100,4684,"
+HUT",Theatre Appreciation,"
+
+                "
+"
+L",4.00,GEN EL,General Elective,THEATRE 110,4684,"
+",Introduction to Theatre,"
+
+                "
+"
+L",3.00,THEA 125,Acting I,THEATRE 120,4684,"
+",Introduction to Acting,"
+
+                "
+"
+L",1.00-2.00,THEA 010,Theatre Practicum I,THEATRE 200,4684,"
+",Theatre Activities,"
+8
+                "
+"
+L",0.50-2.00,THEA 014,Acting Practicum,THEATRE 201,4684,"
+",Practicum - Acting,"
+8
+                "
+"
+L",0.50-2.00,GEN EL,General Elective,THEATRE 202,4684,"
+",Practicum - Directing,"
+8
+                "
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 203,4684,"
+",Practicum - Sound,"
+8
+                "
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 204,4684,"
+",Practicum - Stagecraft,"
+8
+                "
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 205,4684,"
+",Practicum - Lighting,"
+8
+                "
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 206,4684,"
+",Practicum - Costuming,"
+8
+                "
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 207,4684,"
+",Practicum - Mgmt/Publicty,"
+8
+                "
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 208,4684,"
+",Practicum - Makeup,"
+8
+                "
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 209,4684,"
+",Practicum-Theatre Tour,"
+8
+                "
+"
+L",1.00-2.00,THEA EL,Theatre Arts Elective,THEATRE 210,4684,"
+",Lab Plywrtng/Thtr Crtcsm,"
+8
+                "
+"
+L",3.00,GEN EL,General Elective,THEATRE 215,4684,"
+",Auditioning,"
+
+                "
+"
+L",3.00,THEA 225,Acting II,THEATRE 220,4684,"
+",Act Anlysis & Performance,"
+
+                "
+"
+L",3.00,THEA EL,Theatre Arts Elective,THEATRE 225,4684,"
+",Script Analysis,"
+
+                "
+"
+L",3.00,THEA EL,Theatre Arts Elective,THEATRE 230,4684,"
+HUT",Movement For the Actor,"
+
+                "
+"
+L",2.00,THEA 121,Theatrical Make-Up I,THEATRE 242,4684,"
+",Stage Make-Up,"
+
+                "
+"
+L",3.00,THEA 132,Stagecraft,THEATRE 250,4684,"
+",Intro Technicl Thrtr Dsgn,"
+
+                "
+"
+L",4.00,THEA EL,Theatre Arts Elective,THEATRE 251,4684,"
+",Intro Technical Theatre,"
+
+                "
+"
+L",3.00,THEA EL,Theatre Arts Elective,THEATRE 252,4684,"
+HUT",Intro Theatrical Design,"
+
+                "
+"
+L",3.00,THEA 132,Stagecraft,THEATRE 260,4684,"
+",Produc Stage Management,"
+
+                "
+"
+L",3.00,THEA 206,Theatre History to 1660,THEATRE 270,4684,"
+HU",Theatre History Survey,"
+
+                "
+"
+L",1.00-6.00,THEA 290,Special Topic in Theatre Arts:,THEATRE 300,4684,"
+",Summer Theatre Production,"
+8
+                "
+"
+L",0.50-2.00,THEA 214,Intermed Acting Practicum,THEATRE 301,4684,"
+",Prod Prac-Acting,"
+8
+                "
+"
+L",0.50-2.00,THEA 213,Assist Directr/Stage Mngr,THEATRE 312,4684,"
+",Prod Prac-Directing,"
+8
+                "
+"
+L",3.00,THEA 228,Voice For the Actor I,THEATRE 328,4684,"
+",Vocal Prod/Stage Speech,"
+
+                "
+"
+U",2.00,GEN EL,General Elective,THEATRE 362,4684,"
+",Non-Profit Arts Mgmt,"
+1
+                "
+"
+L",3.00,THEA 290,Special Topic in Theatre Arts:,THEATRE 422,4684,"
+",Acting For Camera,"
+
+                "
+"
+L",3.00,THEA 206,Theatre History to 1660,THEATRE 471,4684,"
+HU",History Theatre Thru 1550,"
+
+                "
+"
+L",3.00,THEA 207,Theatre History 1660-Present,THEATRE 472,4684,"
+HU",Thtr Hist Drama 1550-1875,"
+
+                "
+"
+L",1.00-6.00,THEA 290,Special Topic in Theatre Arts:,THEATRE 492,4684,"
+",Field Study,"
+8
+                "
+"
+L",3.00,WGSS 110,Intro Wmns/Gendr/Sexualty Stds,WOMENST 100,4684,"
+SSW",Intro Women's Studies,"
+
+                "
+"
+L",3.00,WGSS EL,"Women's, Gender and Sexuality Studies Elective",WOMENST 105,4684,"
+",Individual and Society,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,WOMENST 240,4684,"
+SSW",Women and Work,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,WOMENST 250,4684,"
+SSW",Women American Culture,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,WOMENST 280,4684,"
+",Feminist Theories,"
+
+                "
+"
+L",3.00,WGSS EL,"Women's, Gender and Sexuality Studies Elective",WOMENST 303,4684,"
+",Womn's Voices/Wmn's Lives,"
+
+                "
+"
+U",3.00,WGSS EL,"Women's, Gender and Sexuality Studies Elective",WOMENST 320,4684,"
+",Lesbian Studies,"
+
+                "
+"
+L",3.00,WGSS EL,"Women's, Gender and Sexuality Studies Elective",WOMENST 370,4684,"
+",Women: Race and Ethnicity,"
+
+                "
+"
+U",3.00,WGSS EL,"Women's, Gender and Sexuality Studies Elective",WOMENST 464,4684,"
+",Global Gender Politics,"
+
+                "
+"
+U",1.00-3.00,WGSS 499,Independent Study,WOMENST 498,4684,"
+",Independent Study,"
+8
+                "
+"
+L",9.00,GEN EL,General Elective,SPECFLD 200E,4684,"
+",Pre-Profess Block Sped El,"
+
+                "
+"
+L",9.00,GEN EL,General Elective,SPECFLD 200F,4684,"
+",Pre-Profess Block Sped Sc,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,SPECFLD 210,4684,"
+",Obser/Part Special Educ,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,SPECFLD 210E,4684,"
+",O & P Special Ed Elemtry,"
+
+                "
+"
+L",3.00,GEN EL,General Elective,SPECFLD 210F,4684,"
+",O & P Special Ed Secondry,"
+
+                "

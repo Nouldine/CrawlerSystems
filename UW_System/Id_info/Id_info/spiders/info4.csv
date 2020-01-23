@@ -1,0 +1,398 @@
+department,department_id
+Select a UW-Whitewater Department ,
+"
+				
+                  		ACCOUNT - 
+				
+				  
+            Accounting",0502
+"
+				
+                  		ACINDP - 
+				
+				  
+            Arts & Communication Interdepartmental",1001
+"
+				
+                  		AFRIAMR - 
+				
+				  
+            African American Studies",2211
+"
+				
+                  		AMERIND - 
+				
+				  
+            American Indian Studies",2212
+"
+				
+                  		ANTHROPL - 
+				
+				  
+            Anthropology",2202
+"
+				
+                  		ARTHIST - 
+				
+				  
+            Art History",1003
+"
+				
+                  		ARTSTDIO - 
+				
+				  
+            Art Studio",1002
+"
+				
+                  		ASTRONMY - 
+				
+				  
+            Astronomy",1911
+"
+				
+                  		BEINDP - 
+				
+				  
+            Business & Economics Interdepartmental",0517
+"
+				
+                  		BIOLOGY - 
+				
+				  
+            Biological Sciences",0401
+"
+				
+                  		CHEM - 
+				
+				  
+            Chemistry",1905
+"
+				
+                  		CHICANO - 
+				
+				  
+            Chicano Studies",2213
+"
+				
+                  		CIFLD - 
+				
+				  
+            Curriculum & Instruction Field",0863
+"
+				
+                  		CIGENRL - 
+				
+				  
+            Curriculum & Instruction General",0829
+"
+				
+                  		COACHING - 
+				
+				  
+            Coaching",0877
+"
+				
+                  		COMDIS - 
+				
+				  
+            Communication Sciences And Disorders",1220
+"
+				
+                  		COMM - 
+				
+				  
+            Communication",1506
+"
+				
+                  		COMPSCI - 
+				
+				  
+            Computer Science",0701
+"
+				
+                  		DANCE - 
+				
+				  
+            Dance",1008
+"
+				
+                  		DEVLPED - 
+				
+				  
+            Developmental Education",4957
+"
+				
+                  		EARLYCHD - 
+				
+				  
+            Early Childhood",0823
+"
+				
+                  		ECON - 
+				
+				  
+            Economics",2204
+"
+				
+                  		EDFNDPRC - 
+				
+				  
+            Educational Foundations Practicum",0862
+"
+				
+                  		EDFOUND - 
+				
+				  
+            Educational Foundations",0821
+"
+				
+                  		EDUINDP - 
+				
+				  
+            Education Interdepartmental",0801
+"
+				
+                  		ELEMMID - 
+				
+				  
+            Elementary/middle School Education",0802
+"
+				
+                  		ENGLISH - 
+				
+				  
+            English",1501
+"
+				
+                  		ENVSCI - 
+				
+				  
+            Environmental Science",4955
+"
+				
+                  		FILM - 
+				
+				  
+            Film",1010
+"
+				
+                  		FNBSLW - 
+				
+				  
+            Finance & Business Law",0504
+"
+				
+                  		FORNLANG - 
+				
+				  
+            Foreign Languages General",1512
+"
+				
+                  		FRENCH - 
+				
+				  
+            French",1102
+"
+				
+                  		GENED - 
+				
+				  
+            Interdisciplinary",4931
+"
+				
+                  		GEOGRPY - 
+				
+				  
+            Geography",2206
+"
+				
+                  		GEOLGY - 
+				
+				  
+            Geology",1914
+"
+				
+                  		GERMAN - 
+				
+				  
+            German",1103
+"
+				
+                  		HEALTHED - 
+				
+				  
+            Health Education",0837
+"
+				
+                  		HISTRY - 
+				
+				  
+            History",2205
+"
+				
+                  		INTRAUNV - 
+				
+				  
+            Intrauniversity",4913
+"
+				
+                  		INTRNAR - 
+				
+				  
+            International And Area Studies",2210
+"
+				
+                  		ITBE - 
+				
+				  
+            Information Technology & Business Ed",0838
+"
+				
+                  		JOURNLSM - 
+				
+				  
+            Journalism",0601
+"
+				
+                  		LDRSHP - 
+				
+				  
+            Leadership Military Science & Aerospace",1801
+"
+				
+                  		LIBMEDIA - 
+				
+				  
+            Library Media",0855
+"
+				
+                  		LSINDP - 
+				
+				  
+            Letters & Science Interdepartmental",4901
+"
+				
+                  		MANGEMNT - 
+				
+				  
+            Management",0506
+"
+				
+                  		MARKETNG - 
+				
+				  
+            Marketing",0509
+"
+				
+                  		MATH - 
+				
+				  
+            Mathematics",1701
+"
+				
+                  		MCS - 
+				
+				  
+            Management Computer Systems",0702
+"
+				
+                  		MUSC - 
+				
+				  
+            Music",1005
+"
+				
+                  		PEGNRL - 
+				
+				  
+            Physical Education General",0870
+"
+				
+                  		PEPROF - 
+				
+				  
+            Physical Education Professional",0876
+"
+				
+                  		PHILSPHY - 
+				
+				  
+            Philosophy",1509
+"
+				
+                  		PHYSCS - 
+				
+				  
+            Physics",1902
+"
+				
+                  		POLISCI - 
+				
+				  
+            Political Science",2207
+"
+				
+                  		PSYCH - 
+				
+				  
+            Psychology",2001
+"
+				
+                  		RACEETH - 
+				
+				  
+            Race & Ethnic Cultures General",2222
+"
+				
+                  		RECREATN - 
+				
+				  
+            Recreation",2103
+"
+				
+                  		RELIGST - 
+				
+				  
+            Religious Studies",1510
+"
+				
+                  		SOCIOLGY - 
+				
+				  
+            Sociology",2208
+"
+				
+                  		SOCWORK - 
+				
+				  
+            Social Work",2104
+"
+				
+                  		SPANISH - 
+				
+				  
+            Spanish",1105
+"
+				
+                  		SPECED - 
+				
+				  
+            Special Education",0808
+"
+				
+                  		SPECFLD - 
+				
+				  
+            Special Education Field",0865
+"
+				
+                  		THEATRE - 
+				
+				  
+            Theatre",1007
+"
+				
+                  		WOMENST - 
+				
+				  
+            Womens And Gender Studies",4949

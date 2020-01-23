@@ -1,0 +1,878 @@
+4684,L,3.00,ACCOUNT 244,Intro to Financial Acct,ACCT 201,4690,,Financial Accounting,
+4684,L,3.00,ACCOUNT 249,Intro to Managerial Acct,ACCT 202,4690,,Managerial Accounting,
+4684,,3.00,GEN EL,General Elective,ACCT 204,4690,,Acct For Non-Bus Majors,
+4684,L,3.00,ACCOUNT 261,Intermediate Accounting I,ACCT 301,4690,,Intermediate Accounting I,
+4684,L,3.00,ACCOUNT 341,Intermediate Accounting I,ACCT 301,4690,,Intermediate Accounting I,
+4684,,3.00,GEN EL,General Elective,ACCT 302,4690,,Intermediate Accountng II,
+4684,U,3.00,ACCOUNT 342,Cost Management I,ACCT 303,4690,,Cost Accounting,
+4684,U,3.00,ACCOUNT 342,Cost Management I,ACCT 304,4690,,Managerial Cost Accountng,
+4684,U,3.00,ACCOUNT 451,Tax I,ACCT 305,4690,,Individual Taxation,266
+4684,,3.00,GEN EL,General Elective,ACCT 306,4690,,Business Taxation,
+4684,U,3.00,ACCOUNT 456,Cost Management,ACCT 403,4690,,Advanced Cost Accounting,266
+4684,U,3.00,ACCOUNT 465,Auditing,ACCT 404,4690,,Auditing,266
+4684,L,3.00,ITBE 141,Concepts of Business,BUS 100,4690,,Introduction to Business,
+4684,,3.00,GEN EL,General Elective,BUS 195,4690,,Freshman Seminar,
+4684,,3.00,GEN EL,General Elective,BUS 272,4690,,Legal Environment of Business,
+4684,,1.00,GEN EL,General Elective,BUS 290,4690,,Special Topics,"263, 8"
+4684,U,3.00,FNBSLW 341,Business & Commercial Law,BUS 375,4690,,Legal Environment of Bus,266
+4684,U,3.00,MANGEMNT 489,Strategic Management,BUS 495,4690,,Capstone Strategic Management,266
+4684,L,3.00,COMM 110,Intro to Public Speaking,COMM 105,4690,CC,Public Speaking,360
+4684,,3.00,COMM EL,Communication Elective,COMM 106,4690,GH,Comm/Evolution of Civiliz,
+4684,,3.00,COMM EL,Communication Elective,COMM 107,4690,"GD, GH",Comm & Human Condition (Dv),
+4684,L,3.00,COMM 131,Intro Mass Communication,COMM 108,4690,GS,Media and Society,
+4684,,3.00,GEN EL,General Elective,COMM 187,4690,,Introduction to Language,
+4684,,3.00,COMM EL,Communication Elective,COMM 195,4690,,Fr Seminar-Communications,
+4684,L,3.00,COMM 242,Comm & Team Building,COMM 202,4690,GH,Group Communication,
+4684,U,3.00,COMM 485,Comm Research Methods,COMM 209,4690,,Comm Research Methods,
+4684,,3.00,COMM EL,Communication Elective,COMM 211,4690,,Communication Theory,
+4684,U,3.00,COMM 327,Intro Corp Communication,COMM 220,4690,,Intro Org Comm,
+4684,,3.00,GEN EL,General Elective,COMM 222,4690,,Bus/Professional Comm,
+4684,,3.00,COMM EL,Communication Elective,COMM 250,4690,,Media Message Design,
+4684,U,3.00,COMM 328,Commtn Conflct Resolution,COMM 285,4690,,Intro Conflict Analys/Resolutn,
+4684,,1.00,COMM EL,Communication Elective,COMM 290,4690,,Special Topics:,263
+4684,U,3.00,COMM 327,Intro Corp Communication,COMM 303,4690,,Organizational Communication,
+4684,,3.00,COMM EL,Communication Elective,COMM 310,4690,,Interpersonal Communication,
+4684,U,3.00,COMM 326,Communication/Gender,COMM 315,4690,,Communication and Gender,
+4684,,3.00,GEN EL,General Elective,COMM 335,4690,,Language and Human Comm,
+4684,,3.00,COMM EL,Communication Elective,COMM 360,4690,,Contemporary Media Industries,
+4684,U,3.00,COMM 424,Cross Cultural Communctn,COMM 363,4690,"GD, GS",Comm/Ethnicity:  (Dv),
+4684,L,3.00,SOCIOLGY 276,Introduction Criminology,CRMJ 101,4690,GS,Intro to Criminal Justice,
+4684,,2.00,DNT,Does Not Transfer,CHEM 090,4690,,Preparation College Chem,20
+4684,L,5.00,CHEM 102,General Chemistry I,CHEM 101,4690,"GL, UCTA",General Chemistry I,22
+4684,L,5.00,CHEM 104,General Chemistry II,CHEM 102,4690,GL,General Chemistry II,
+4684,,3.00,CHEM EL,Chemistry Elective,CHEM 109,4690,GM,Environmental Chemistry,
+4684,L,5.00,CHEM 104,General Chemistry II,CHEM 112,4690,GL,Consolidated Chemistry,
+4684,L,5.00,CHEM 102,General Chemistry I,CHEM 113,4690,GL,Chemical Principles I,
+4684,L,5.00,CHEM 104,General Chemistry II,CHEM 114,4690,GL,Chemical Principles II,
+4684,,4.00,CHEM EL,Chemistry Elective,CHEM 115,4690,GL,Chemical Science,
+4684,,3.00,CHEM EL,Chemistry Elective,CHEM 195,4690,,Fr Seminar-Chemistry,
+4684,L,4.00,CHEM 251,Organic Chemistry,CHEM 201,4690,,Organic Chemistry I,
+4684,L,4.00,CHEM 252,Organic Chemistry,CHEM 202,4690,,Organic Chemistry II,
+4684,L,3.00,CHEM 261,Organic Chemistry Lab,CHEM 203,4690,,Organic Chemistry Lab,
+4684,U,5.00,CHEM 352,Quantitative Analysis,CHEM 206,4690,,Quantitative Chem Analysis,
+4684,,4.00,CHEM EL,Chemistry Elective,CHEM 215,4690,,Organic and Biochemistry,
+4684,,1.00,CHEM EL,Chemistry Elective,CHEM 290,4690,,Special Topics,"263, 8"
+4684,U,3.00,CHEM 371,Physical Chemistry,CHEM 302,4690,,Physical Chemistry I,
+4684,U,3.00,CHEM 371,Physical Chemistry,CHEM 303,4690,,Physical Chemistry II,
+4684,,3.00,CHEM EL,Chemistry Elective,CHEM 310,4690,,Inorganic Chemistry,
+4684,L,3.00,CHEM 251,Organic Chemistry,CHEM 321,4690,,Organic Chemistry I,
+4684,L,3.00,CHEM 252,Organic Chemistry,CHEM 322,4690,,Organic Chemistry II,
+4684,L,2.00,CHEM 261,Organic Chemistry Lab,CHEM 323,4690,,Organic Chemistry Lab,
+4684,,3.00,GEN EL,General Elective,AHS 101,4690,,Intro Applied Health Sciences,
+4684,,3.00,BIOLOGY EL,Biological Sciences Elective,BIOS 100,4690,GM,Nature of Life,
+4684,L,5.00,BIOLOGY 141,Introductory Biology I,BIOS 101,4690,"GL, UCTA",Bioscience,22
+4684,L,5.00,BIOLOGY 142,Introductory Biology II,BIOS 102,4690,GL,Organismal Biology,
+4684,,3.00,BIOLOGY EL,Biological Sciences Elective,BIOS 103,4690,GM,Human Biology,
+4684,,3.00,BIOLOGY EL,Biological Sciences Elective,BIOS 104,4690,GM,Envr Sci: Biological Approach,
+4684,,3.00,BIOLOGY EL,Biological Sciences Elective,BIOS 105,4690,GM,Human Physiology & Anatomy I,
+4684,,3.00,BIOLOGY EL,Biological Sciences Elective,BIOS 106,4690,GM,Human Physiology & Anatomy II,
+4684,,3.00,BIOLOGY EL,Biological Sciences Elective,BIOS 108,4690,,"Nutrition, Health, and Culture",
+4684,L,3.00,BIOLOGY 214,Ecology and Society,BIOS 110,4690,GM,Environment and Health,
+4684,L,3.00,BIOLOGY 230,Human Sexuality,BIOS 111,4690,GM,Hum Reproductive Biology,
+4684,,3.00,BIOLOGY EL,Biological Sciences Elective,BIOS 120,4690,,Biological Strucs Artists,
+4684,,1.00,BIOLOGY EL,Biological Sciences Elective,BIOS 133,4690,,Insects and Disease,
+4684,,1.00,BIOLOGY EL,Biological Sciences Elective,BIOS 151,4690,,Trends Molecular Biology,
+4684,,1.00,GEN EL,General Elective,BIOS 152,4690,,Trends in Health Sciences,
+4684,,2.00,HEALTHED EL,Health Education Elective,BIOS 190,4690,,Fundamentals Human Nutrition,
+4684,L,3.00,PEPROF 271,Structure/Funct Humn Body,BIOS 200,4690,,Funct Human Anatomy Lab,
+4684,,4.00,BIOLOGY EL,Biological Sciences Elective,BIOS 202,4690,,General Microbiology,
+4684,,1.00,BIOLOGY EL,Biological Sciences Elective,BIOS 207,4690,,Research Process in Biology,
+4684,,3.00,BIOLOGY EL,Biological Sciences Elective,BIOS 210,4690,,Biostatistics,
+4684,,1.00,BIOLOGY EL,Biological Sciences Elective,BIOS 290,4690,,Special Topics,"263, 8"
+4684,,3.00,BIOLOGY EL,Biological Sciences Elective,BIOS 301,4690,,Cell Biology,
+4684,,3.00,EDFOUND EL,Educational Foundations Elective,CBL 101,4690,,Intro to Community Engagement,
+4684,L,3.00,ARTHIST 111,Art Appreciation,ART 100,4690,GA,Foundtn of Art & Visual Cultur,
+4684,L,3.00,ARTSTDIO 102,2-Dimensional Design,ART 102,4690,GA,Introduction to 2-D Design,
+4684,L,3.00,ARTSTDIO 103,3-Dimensional Design,ART 103,4690,GA,Introduction to 3-D Design,
+4684,,3.00,ARTHIST EL,Art History Elective,ART 104,4690,GA,Introduction to Digital Art,
+4684,U,3.00,ELEMMID 315,Methds Tch Art Elm/Mdl Sc,ART 108,4690,,Art/Elem Educ-Theory,
+4684,,1.00,CIGENRL EL,Curriculum & Instruction General Elective,ART 109,4690,,Art/Elem Educ-Practice,
+4684,L,3.00,ARTSTDIO 201,Drawing I,ART 122,4690,GA,Introduction to Drawing,
+4684,L,3.00,ARTSTDIO 103,3-Dimensional Design,ART 123,4690,GA,Basic Design 3-D,
+4684,L,3.00,ARTHIST 201,Srvy Art Ancient-1400ce,ART 125,4690,GA,Survey of World Art,
+4684,L,3.00,ARTHIST 202,Art Survey 1400 to 1900,ART 126,4690,GA,Modern & Contmp Art 1900-Pres,
+4684,L,3.00,ARTSTDIO 251,Ceramics I,ART 201,4690,GA,Beginning Ceramics,
+4684,,3.00,ARTSTDIO EL,Art Studio Elective,ART 202,4690,,Beginning Fibers & Textiles,
+4684,L,3.00,ARTSTDIO 202,Drawing II,ART 222,4690,,Intermediate Drawing,
+4684,L,3.00,ARTSTDIO 271,Metal and Jewelry I,ART 223,4690,GA,Beginning Art Metals,
+4684,,3.00,ARTSTDIO EL,Art Studio Elective,ART 231,4690,,Beginning Life Drawing,
+4684,,3.00,ARTSTDIO EL,Art Studio Elective,ART 235,4690,,Life Modeling,
+4684,U,3.00,ARTSTDIO 341,Sculpture I,ART 236,4690,,Beginning Sculpture,
+4684,U,3.00,ARTSTDIO 331,Intaglio Printmaking,ART 251,4690,,Beginning Printmaking,
+4684,U,3.00,ARTSTDIO 381,Graphic Design I: Typography,ART 271,4690,,Intro to Graphic Design,
+4684,U,3.00,ARTSTDIO 321,Painting I,ART 282,4690,,Beginning Painting,
+4684,,3.00,ARTSTDIO EL,Art Studio Elective,ART 283,4690,,Begin Airbrush Painting,
+4684,U,3.00,ARTSTDIO 324,Watercolor,ART 284,4690,,Beginning Watercolor,
+4684,,1.00,ARTSTDIO EL,Art Studio Elective,ART 290,4690,,Special Topics in Art:,263
+4684,P,3.00,MATH 040,Pre-Algebra,ACSK 010,4690,,Essential Math Skills,
+4684,P,4.00,MATH 041,Beginning Algebra,ACSK 015,4690,,Elementary Algebra,
+4684,,1.00,DNT,Does Not Transfer,ACSK 070,4690,,Learning Strategies,20
+4684,,2.00,DNT,Does Not Transfer,ACSK 080,4690,,College Rdg Efficiency I,20
+4684,,1.00,DNT,Does Not Transfer,ACSK 081,4690,,College Rdg Efficiency II,20
+4684,,1.00,NDC,No Degree Credit,ACSK 085,4690,,Academic Reading,5
+4684,P,2.00,ENGLISH 090,Fundamentals of English,ACSK 090,4690,,Composition Preparation,
+4684,,1.00-4.00,DNT,Does Not Transfer,ACSK 091,4690,,Special Topics,"20, 8"
+4684,,2.00,DNT,Does Not Transfer,ACSK 092,4690,,Career Exploration/Planning,20
+4684,,5.00,NDC,No Degree Credit,ACSK 094,4690,,Reading and Writing,5
+4684,,3.00,DNT,Does Not Transfer,ACSK 100,4690,,Esl Seminar,20
+4684,,3.00,MANGEMNT EL,Management Elective,CSCI 105,4690,GM,Introduction to Computers,
+4684,,3.00,COMPSCI EL,Computer Science Elective,CSCI 105,4690,GM,Introduction to Computers,
+4684,L,3.00,COMPSCI 162,Computer Applications,CSCI 106,4690,GM,Cmptr Productivity Tools,
+4684,,3.00,COMPSCI EL,Computer Science Elective,CSCI 120,4690,GM,Tools Multimedia Design,
+4684,,1.00,COMPSCI EL,Computer Science Elective,CSCI 130,4690,GM,Introduction to Programming,
+4684,,1.00,COMPSCI EL,Computer Science Elective,CSCI 131,4690,,Advanced Prog in Basic,
+4684,,2.00,COMPSCI EL,Computer Science Elective,CSCI 132,4690,,Fortran Programming,
+4684,,1.00,COMPSCI EL,Computer Science Elective,CSCI 137,4690,,Computer Programming in C,
+4684,,5.00,MANGEMNT EL,Management Elective,CSCI 145,4690,GM,Intro to Computer Science,
+4684,L,3.00,COMPSCI 171,Intro to Vb Programming,CSCI 146,4690,GM,Intro to Computer Sci II,
+4684,,3.00,COMPSCI EL,Computer Science Elective,CSCI 220,4690,,Web Concepts I,
+4684,,1.00,COMPSCI EL,Computer Science Elective,CSCI 232,4690,,Programming in Fortran 77,
+4684,,1.00,COMPSCI EL,Computer Science Elective,CSCI 237,4690,,Programming in C/C++,
+4684,L,3.00,MATH 280,Discrete Mathematics,CSCI 240,4690,,Discrete Mathematics,
+4684,,3.00,COMPSCI EL,Computer Science Elective,CSCI 241,4690,,Computer Science I,
+4684,,4.00,COMPSCI EL,Computer Science Elective,CSCI 242,4690,,Computer Science II,
+4684,L,3.00,COMPSCI 271,Assembly Programming,CSCI 245,4690,,Assembly Language Programming,
+4684,,4.00,COMPSCI EL,Computer Science Elective,CSCI 250,4690,,Digital Logic/Cmptr Organizatn,
+4684,,3.00,COMPSCI EL,Computer Science Elective,CSCI 270,4690,,File Management Software,
+4684,,1.00,COMPSCI EL,Computer Science Elective,CSCI 290,4690,,Special Topics,"263, 8"
+4684,,3.00,ECON EL,Economics Elective,ECON 101,4690,"GD, GS, UCTA",The American Economy,22
+4684,L,3.00,ECON 201,Principles of Microeconomics,ECON 120,4690,GS,Principles of Microeconomics,
+4684,L,3.00,ECON 202,Principles of Macroeconomics,ECON 121,4690,GS,Principles of Macroeconomics,
+4684,,3.00,ITBE EL,Information Technology & Business Ed Elective,ECON 195,4690,,Fr Seminar-Economics,
+4684,,3.00,ITSCM EL,Information Technology&Supply Chain Mgmt Elective,ECON 195,4690,,Fr Seminar-Economics,
+4684,L,3.00,ECON 201,Principles of Microeconomics,ECON 201,4690,GS,Principles Microeconomics,
+4684,L,3.00,ECON 202,Principles of Macroeconomics,ECON 202,4690,GS,Principles Macroeconomics,
+4684,,3.00,ECON EL,Economics Elective,ECON 260,4690,,Industrl Organztn/Publc Policy,
+4684,U,3.00,ECON 359,Comparative Econ Systems,ECON 280,4690,,Comparative Economic Systems,266
+4684,,1.00,ECON EL,Economics Elective,ECON 290,4690,,Special Topics in Economics,263
+4684,U,3.00,ECON 471,Natur Resour & Envir Econ,ECON 295,4690,,Environmental Economics,266
+4684,,3.00,ECON EL,Economics Elective,ECON 304,4690,,Economics of Urban Problems,
+4684,,3.00,ECON EL,Economics Elective,ECON 323,4690,,Labor History of the U.S.,
+4684,,3.00,ECON EL,Economics Elective,ECON 325,4690,,American Economic History,
+4684,,3.00,ECON EL,Economics Elective,ECON 327,4690,,American Business History,
+4684,U,3.00,ECON 301,Int Microeconomic Anlysis,ECON 350,4690,,Intermediate Micro Theory,266
+4684,U,3.00,ECON 302,Int Macroeconomic Anlysis,ECON 351,4690,,Intermediate Macro Theory,266
+4684,,3.00,ECON EL,Economics Elective,ECON 352,4690,,Managerial Economics,
+4684,,3.00,ECON EL,Economics Elective,ECON 357,4690,,Economic Anthropology,
+4684,,3.00,ECON EL,Economics Elective,ECON 370,4690,,Principles Indst Location,
+4684,,3.00,ECON EL,Economics Elective,ECON 377,4690,,Labor Problems,
+4684,,3.00,ECON EL,Economics Elective,ECON 380,4690,,The Labor Market,
+4684,,3.00,ECON EL,Economics Elective,ECON 390,4690,,Comparative Econ Systems,
+4684,U,3.00,ECON 354,Money and Banking,ECON 401,4690,,Money and Banking,266
+4684,,3.00,ECON EL,Economics Elective,ECON 405,4690,,Public Economics,
+4684,,3.00,ECON EL,Economics Elective,ECON 408,4690,,Econ Discrim/Inequal (Dv),
+4684,,3.00,ECON EL,Economics Elective,ECON 409,4690,,Econometrics,
+4684,,3.00,ECON EL,Economics Elective,ECON 410,4690,,International Trade,
+4684,,3.00,ECON EL,Economics Elective,ECON 425,4690,,Financial Institution/Mkt,
+4684,,3.00,ECON EL,Economics Elective,ECON 440,4690,,Developmental Economics,
+4684,,1.00,ECON EL,Economics Elective,ECON 490,4690,,Special Topics,"263, 8"
+4684,,1.00,ECON EL,Economics Elective,ECON 499,4690,,Independent Study,263
+4684,,3.00,GEN EL,General Elective,FIN 234,4690,,Personal Financial Planning,
+4684,,1.00,GEN EL,General Elective,FIN 290,4690,,Special Topics,"263, 8"
+4684,U,3.00,FNBSLW 344,Business Finance,FIN 330,4690,,Managerial Finance,266
+4684,U,3.00,FNBSLW 410,Multinatnl Bus Finance,FIN 337,4690,,International Bus Finance,266
+4684,,3.00,GEN EL,General Elective,FIN 431,4690,,Adv Managerial Finance,
+4684,,3.00,GEN EL,General Elective,ETHN 108,4690,,The Body in Question (Dv),
+4684,,3.00,RACEETH EL,Race & Ethnic Cultures General Elective,ETHN 201,4690,"GD, UCTA",Intro to Ethnic Studies (Dv),22
+4684,,3.00,GEN EL,General Elective,ETHN 210,4690,"GD, GE",Ethnobiology (Dv),
+4684,,3.00,GEN EL,General Elective,ETHN 290,4690,,Special Topics,8
+4684,,3.00,GEN EL,General Elective,ETHN 302,4690,"GD, GE",Race/Ethn: Usa 1890-Pres (Dv),
+4684,,3.00,GEN EL,General Elective,ETHN 315,4690,"GD, GE",Div Law: Tribal Nations (Dv),
+4684,,3.00,GEN EL,General Elective,ETHN 326,4690,"GD, GE",African-American Music (Dv),
+4684,,3.00,GEN EL,General Elective,ETHN 337,4690,"GD, GE",African-American History (Dv),
+4684,,3.00,GEN EL,General Elective,ETHN 363,4690,"GD, GE",Comm/Ethnicity:  (Dv),
+4684,,3.00,GEN EL,General Elective,ETHN 367,4690,"GD, GE",Studies in Amer Ethn Lit,
+4684,L,5.00,GEOGRPY 210,Physical Geography,GEOG 100,4690,GL,Physical Geog & the Environmnt,
+4684,U,3.00,GEOGRPY 232,Geog Race Ethnicity in US,GEOG 101,4690,"GD, GS",Geog Amer Ethnicity/Race (Dv),
+4684,L,3.00,GEOGRPY 230,Human Geography,GEOG 105,4690,GS,Contemporary Human Geography,
+4684,L,3.00,GENED 140,Global Perspectives,GEOG 110,4690,GS,Intro to Geog: World Regions,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 195,4690,,Fr Seminar-Geography,
+4684,U,3.00,GEOGRPY 340,Economic Geography,GEOG 215,4690,,Economic Geography,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 223,4690,,Climatol/Water Resource,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 224,4690,,Landform Geography,
+4684,L,3.00,GEOGRPY 270,Gis I: Intro to Gis/Maps,GEOG 250,4690,,Map Use and Analysis,
+4684,,1.00,GEOGRPY EL,Geography Elective,GEOG 290,4690,,Special Topics,"263, 8"
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 300,4690,,Geographic Methods,
+4684,,4.00,GEOGRPY EL,Geography Elective,GEOG 301,4690,,Geomorphology,
+4684,L,3.00,GEOGRPY 261,Geography Canada/U.S.,GEOG 310,4690,GS,Geography of the U.S. & Canada,
+4684,L,3.00,GEOGRPY 250,Geography of Wisconsin,GEOG 315,4690,GS,Geography of Wisconsin,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 320,4690,,Regional Geography:,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 350,4690,,Cartography and Gis,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 355,4690,,Cartographic Methods,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 360,4690,,Urban Geography,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 375,4690,,Geography of Transportation,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 380,4690,,Conserv Natural Resource,
+4684,L,4.00,FRENCH 141,Beginning French,FREN 103,4690,GH,Introductory French I,
+4684,L,4.00,FRENCH 142,Beginning French,FREN 104,4690,GH,Introductory French II,
+4684,,3.00,FRENCH EL,French Elective,FREN 195,4690,,Fr Seminar-French,
+4684,L,4.00,FRENCH 251,Intermediate French,FREN 203,4690,GH,Intermediate French I,
+4684,L,4.00,FRENCH 252,Intermediate French,FREN 204,4690,GH,Intermediate French II,
+4684,U,3.00,FRENCH 350,French Civilization,FREN 218,4690,,French Civ/Cult (Engl),
+4684,,3.00,FRENCH EL,French Elective,FREN 225,4690,GH,Intro Fren Lit Trans:,
+4684,,1.00,FRENCH EL,French Elective,FREN 290,4690,,Special Topics,"263, 8"
+4684,U,4.00,FRENCH 321,Advanced French Lng Study,FREN 303,4690,GH,Adv French I,
+4684,U,4.00,FRENCH 322,Advanced French Lng Study,FREN 304,4690,GH,Adv French II,
+4684,U,3.00,FRENCH 350,French Civilization,FREN 318,4690,,French Civilization & Culture:,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 390,4690,,Special Topics,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 450,4690,,Cmptr Assist Cartography,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 455,4690,,Remote Sensing,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 460,4690,,Introduction to Gis Analysis,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 490,4690,,Special Topics,8
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOG 494,4690,,Internship in Geography,8
+4684,,1.00,GEOGRPY EL,Geography Elective,GEOG 499,4690,,Independent Study,"263, 8"
+4684,,1.00,GEN EL,General Elective,GNED 101,4690,,University Seminar,
+4684,,1.00,GEN EL,General Elective,GNED 290,4690,,Special Topics,"263, 8"
+4684,,3.00,HISTRY EL,History Elective,HIST 101,4690,GH,U.S.: Origins-Reconstruction,
+4684,L,3.00,HISTRY 125,American History Since 1877,HIST 102,4690,"GD, GH",U.S.: Reconstuctn-Recent Times,
+4684,U,3.00,HISTRY 311,Wisconsin History,HIST 106,4690,,History of Wisconsin,
+4684,,3.00,HISTRY EL,History Elective,HIST 111,4690,GH,Intro Woms Std Women Hist,
+4684,,3.00,HISTRY EL,History Elective,HIST 118,4690,GH,West Civ I: Antiquity to 1300,
+4684,L,3.00,HISTRY 154,Western Civilization,HIST 119,4690,GH,West Civ II: Midl Ages to 1815,
+4684,L,3.00,HISTRY 155,History of Modern Europe,HIST 120,4690,GH,West Civ III: 1815-the Present,
+4684,,3.00,HISTRY EL,History Elective,HIST 126,4690,GH,Wrld Hist I: Antiquity to 1300,
+4684,,3.00,HISTRY EL,History Elective,HIST 127,4690,GH,Wrld Hist II: From 1300-1800,
+4684,,3.00,HISTRY EL,History Elective,HIST 128,4690,GH,Wrld Hist III: 1800 to Present,
+4684,,3.00,HISTRY EL,History Elective,HIST 180,4690,GH,Popular Culture:,
+4684,,3.00,HISTRY EL,History Elective,HIST 195,4690,GH,Fr Seminar-History,
+4684,,3.00,HISTRY EL,History Elective,HIST 201,4690,GH,Tech/Working Modern Amer,
+4684,,3.00,HISTRY EL,History Elective,HIST 210,4690,"GD, GH",Blues As Hist/Cultur (Dv),
+4684,,3.00,HISTRY EL,History Elective,HIST 221,4690,GH,Beginnings of Sci/Sci Rev-1750,
+4684,,3.00,HISTRY EL,History Elective,HIST 222,4690,GH,Hist Modern Science Since 1750,
+4684,,3.00,HISTRY EL,History Elective,HIST 223,4690,GH,History of Medicine,
+4684,,3.00,HISTRY EL,History Elective,HIST 225,4690,GH,Environmntl History North Amer,
+4684,,3.00,HISTRY EL,History Elective,HIST 235,4690,GH,History of Feminism,
+4684,U,3.00,HISTRY 326,Global Women's History,HIST 236,4690,,Women in Modern Society,
+4684,,3.00,HISTRY EL,History Elective,HIST 247,4690,GH,Latin America History,
+4684,,3.00,HISTRY EL,History Elective,HIST 250,4690,,Sources and Methods in History,
+4684,L,3.00,HISTRY 131,East Asia Since 1800,HIST 251,4690,GH,Modernization-East Asia,
+4684,,3.00,HISTRY EL,History Elective,HIST 260,4690,GH,International Conflict:,
+4684,,3.00,HISTRY EL,History Elective,HIST 262,4690,GH,Hist Patterns of Peace/Warfare,
+4684,,3.00,HISTRY EL,History Elective,HIST 274,4690,GH,Europe Since 1945,
+4684,,1.00,HISTRY EL,History Elective,HIST 290,4690,,Special Topics,"263, 8"
+4684,,3.00,HISTRY EL,History Elective,HIST 302,4690,"GD, GH",Race/Ethn: Usa 1890-Pres (Dv),
+4684,,3.00,HISTRY EL,History Elective,HIST 312,4690,,U.S. Wld Power:,
+4684,,3.00,HISTRY EL,History Elective,HIST 313,4690,,Colonialism,
+4684,,3.00,HISTRY EL,History Elective,HIST 314,4690,,Technology/Civilization,
+4684,,3.00,HISTRY EL,History Elective,HIST 323,4690,,Labor History of the U.S.,
+4684,,3.00,HISTRY EL,History Elective,HIST 324,4690,,History of American Politics,
+4684,,3.00,HISTRY EL,History Elective,HIST 325,4690,,Mayhem and the Metropolis,
+4684,U,3.00,HISTRY 362,American Business History,HIST 327,4690,GH,History of Britain I: to 1603,
+4684,,3.00,HISTRY EL,History Elective,HIST 335,4690,,Native American History (Dv),
+4684,L,3.00,HISTRY 141,Modern Black Amer History,HIST 337,4690,"GD, GH",African-American History (Dv),
+4684,,3.00,HISTRY EL,History Elective,HIST 341,4690,,Urbanization of the U.S.,
+4684,,3.00,HISTRY EL,History Elective,HIST 344,4690,,Gilded Age & Progressive Era,
+4684,,3.00,HISTRY EL,History Elective,HIST 345,4690,,Amer in Power/Peril 1917-1953,
+4684,U,3.00,HISTRY 307,Recent Amer 1945-Present,HIST 346,4690,GH,Recent America: 1953-Present,
+4684,,3.00,HISTRY EL,History Elective,HIST 355,4690,,Evolution of Modern China,
+4684,,3.00,HISTRY EL,History Elective,HIST 357,4690,,Emergence of Modern Japan,
+4684,,3.00,HISTRY EL,History Elective,HIST 373,4690,,Social History of Europe,
+4684,,3.00,GEN EL,General Elective,GSCI 102,4690,GM,Science and Pseudoscience,
+4684,L,4.00,PHYSCS 130,Physics Foundations,GSCI 103,4690,GL,Physical Science,
+4684,,3.00,GEN EL,General Elective,GSCI 105,4690,GM,Foundations of Science I,
+4684,,3.00,GEN EL,General Elective,GSCI 106,4690,GM,Foundations of Science II,
+4684,,3.00,GEN EL,General Elective,GSCI 195,4690,,Fr Seminar-Science,
+4684,,1.00,GEN EL,General Elective,GSCI 290,4690,,Special Topics,"263, 8"
+4684,,3.00,HISTRY EL,History Elective,HIST 490,4690,,Special Topics,8
+4684,L,1.00,PEGNRL 150,Beginning Swim Level 4,HESM 105,4690,GP,Beginning Swimming,
+4684,L,1.00,PEGNRL 158,Beg Skin & Scuba Diving,HESM 110,4690,GP,Scuba Diving,
+4684,L,1.00,PEGNRL 150,Beginning Swim Level 4,HESM 112,4690,GP,Swim For Fitness,
+4684,L,1.00,PEGNRL 104,Beginning Badminton,HESM 113,4690,GP,Badminton,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 114,4690,GP,Emergency Water Safety,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 115,4690,GP,Baseball,
+4684,L,1.00,PEPROF 172,Fundamental of Basketball,HESM 117,4690,,Basketball,
+4684,L,1.00,PEGNRL 108,Beginning Bowling,HESM 123,4690,GP,Bowling I,
+4684,L,1.00,PEGNRL 109,Intermediate Bowling,HESM 124,4690,GP,Bowling II,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 125,4690,GP,Bowling III,
+4684,L,1.00,PEGNRL 159,Beginning Canoeing,HESM 126,4690,GP,Canoeing,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 132,4690,GP,Social Dance,
+4684,,3.00,PEGNRL EL,Physical Education General Elective,HESM 137,4690,GP,Aerobic Walking,
+4684,,3.00,PEGNRL EL,Physical Education General Elective,HESM 138,4690,GP,Jogging For Fun & Fitness,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 139,4690,GP,Disc Golf,
+4684,L,1.00,PEGNRL 106,Beg Aerobic Exer & Dance,HESM 140,4690,GP,Aerobics I,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 141,4690,GP,Golf,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 142,4690,GP,Golf II,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 150,4690,GP,Aerobics II,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 157,4690,GP,Karate I,
+4684,,1.00,GEN EL,General Elective,GNED 101,4690,,University Seminar,
+4684,,1.00,GEN EL,General Elective,GNED 290,4690,,Special Topics,"263, 8"
+4684,L,4.00,GERMAN 141,Beginning German,GER 103,4690,GH,Introductory German I,
+4684,L,4.00,GERMAN 142,Beginning German,GER 104,4690,GH,Introductory German II,
+4684,L,4.00,GERMAN 251,Intermediate German,GER 203,4690,GH,Intermediate German I,
+4684,L,4.00,GERMAN 252,Intermediate German,GER 204,4690,GH,Intermediate German II,
+4684,U,3.00,GERMAN 350,German Civilization,GER 210,4690,,Ger Civ/Culture (in Engl),
+4684,,3.00,GERMAN EL,German Elective,GER 225,4690,GH,Intro German Lit Trans:,
+4684,,3.00,GERMAN EL,German Elective,GER 275,4690,,Business German,
+4684,,1.00,GERMAN EL,German Elective,GER 290,4690,,Special Topics,"263, 8"
+4684,U,3.00,GERMAN 321,Adv German Lang Study,GER 303,4690,GH,Conversation & Comp I,
+4684,U,3.00,GERMAN 322,Adv German Lang Study,GER 304,4690,GH,Conversation & Comp II,
+4684,U,3.00,GERMAN 350,German Civilization,GER 310,4690,,German Civilization & Culture,
+4684,,3.00,GERMAN EL,German Elective,GER 320,4690,,Intro to German Literature,
+4684,U,3.00,GERMAN 310,German Phonetics,GER 350,4690,,German Phonetics,
+4684,,3.00,GERMAN EL,German Elective,GER 400,4690,,Classical Period Ger Lit,
+4684,,3.00,GERMAN EL,German Elective,GER 405,4690,,German Lit of 19th Cent,
+4684,,3.00,GERMAN EL,German Elective,GER 410,4690,,German Lit of 20th Cent,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 158,4690,GP,Karate II,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 159,4690,GP,Karate III,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 165,4690,GP,Outdoor Leadership,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 167,4690,GP,Racquetball I,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 168,4690,GP,Racquetball II,
+4684,L,1.00,PEGNRL 170,Beginning Self Defense,HESM 169,4690,GP,Personal Defense,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 171,4690,GP,Fitness For Life,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 175,4690,GP,Skiing I,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 176,4690,GP,Skiing II,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 177,4690,GP,Skiing III,
+4684,,3.00,PEGNRL EL,Physical Education General Elective,HESM 178,4690,GP,Cross Country Skiing,
+4684,L,1.00,PEGNRL 183,Exercisewalking,HESM 179,4690,GP,Aerobic Walking,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 180,4690,GP,Soccer I,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 181,4690,GP,Soccer II,
+4684,,1.00,GERMAN EL,German Elective,GER 490,4690,,Special Topics,"263, 8"
+4684,,1.00,GERMAN EL,German Elective,GER 494,4690,,Fieldwork in German,"263, 8"
+4684,,1.00,GERMAN EL,German Elective,GER 499,4690,,Independent Study,"263, 8"
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 182,4690,GP,Softball,
+4684,L,1.00,PEGNRL 160,Beginning Tennis,HESM 188,4690,GP,Tennis I,
+4684,,3.00,PEGNRL EL,Physical Education General Elective,HESM 189,4690,GP,Tennis II,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 190,4690,GP,Special Topics,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 191,4690,,Special Topics,
+4684,,1.00,PEPROF EL,Physical Education Professional Elective,HESM 191,4690,,Special Topics,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 192,4690,GP,Track and Field,
+4684,,3.00,PEGNRL EL,Physical Education General Elective,HESM 194,4690,GP,Volleyball,
+4684,,1.00,PEPROF EL,Physical Education Professional Elective,HESM 195,4690,,Pe Workshop,263
+4684,L,1.00,PEGNRL 167,Beginning Weight Training,HESM 196,4690,GP,Weight Training I,
+4684,,1.00,PEGNRL EL,Physical Education General Elective,HESM 198,4690,GP,Wrestling,
+4684,L,1.00,PEGNRL 141,Beginning Yoga,HESM 199,4690,GP,Yoga,
+4684,,1.00,PEPROF EL,Physical Education Professional Elective,HESM 201,4690,,Community First Aid & Cpr/Aed,
+4684,L,3.00,PEPROF 291,Lifeguarding,HESM 232,4690,GP,Lifeguard Training,
+4684,L,2.00,PEPROF 251,Water Safety Instructor,HESM 233,4690,GP,Water Safety Instructor,
+4684,U,2.00,COACHING 352,Coaching of Baseball,HESM 251,4690,,Coaching Theory-Baseball,
+4684,U,2.00,COACHING 351,Coaching of Basketball,HESM 252,4690,,Coaching Theory-Basketball,
+4684,U,2.00,COACHING 350,Coaching of Football,HESM 255,4690,,Coaching Theory-Football,
+4684,U,2.00,COACHING 360,Coaching of Soccer,HESM 259,4690,,Coaching Theory-Soccer,
+4684,,2.00,COACHING EL,Coaching Elective,HESM 260,4690,,Coaching Theory-Softball,
+4684,U,3.00,COACHING 354,Coaching of Swimming,HESM 261,4690,,Coaching Theory-Swimming,
+4684,U,2.00,COACHING 353,Coach Track/Field/Cross Countr,HESM 264,4690,,Coaching Theory-Track/Field,
+4684,U,2.00,COACHING 356,Coaching of Wrestling,HESM 265,4690,,Coaching Theory-Wrestling,
+4684,U,2.00,COACHING 359,Coaching of Volleyball,HESM 266,4690,,Coaching Theory-Volleyball,
+4684,,2.00,PEPROF EL,Physical Education Professional Elective,HESM 268,4690,,Officiate Team/Dual Sport,
+4684,,2.00,HEALTHED EL,Health Education Elective,HESM 270,4690,,Lifetime Wellness,
+4684,,3.00,PEGNRL EL,Physical Education General Elective,HESM 270,4690,,Lifetime Wellness,
+4684,L,1.00,PEGNRL 192,Pers Hlth & Fitness Life,HESM 271,4690,GP,Lifetime Wellness Lab:,
+4684,,3.00,PEGNRL EL,Physical Education General Elective,HESM 283,4690,,Orientation to Coaching,
+4684,,1.00,PEPROF EL,Physical Education Professional Elective,HESM 290,4690,,Specl Tpcs Health/Exercise Sci,
+4684,,2.00,PEPROF EL,Physical Education Professional Elective,HESM 291,4690,,Wrestling Officiate Cert,
+4684,,2.00,PEPROF EL,Physical Education Professional Elective,HESM 292,4690,,Basketball Officiating,
+4684,,2.00,PEPROF EL,Physical Education Professional Elective,HESM 301,4690,,Sport Conditioning Prac Design,
+4684,L,2.00,PEPROF 281,First Aid & Cpr,HESM 322,4690,,Adv First Aid/Emrgncy Response,
+4684,L,3.00,COACHING 260,Hist Soc Aspects Athletcs,HESM 330,4690,,Sport in Society,
+4684,U,3.00,COACHING 461,Prev/Care Athltc Injuries,HESM 345,4690,,Prev/Care Athletic Injuries,
+4684,,2.00,PEPROF EL,Physical Education Professional Elective,HESM 352,4690,,Physical Education Techniques,
+4684,L,2.00,HEALTHED 181,Contemporary Health,HESM 365,4690,,Personl/School/Comm Health,
+4684,U,2.00,PEPROF 475,Adapted Physical Educatn,HESM 413,4690,,Adapted Physical Educ,
+4684,U,2.00,PEPROF 326,Pe 4-8 Classroom Teacher,HESM 422,4690,,Phy Ed Elem/Mdl Teachers,365
+4684,U,2.00,HEALTHED 382,Elemntry Health Education,HESM 423,4690,,Hlth Educ Elem/Mdl Tchrs,
+4684,U,2.00,COACHING 460,Organ/Admin Intrsch Athl,HESM 431,4690,,Org/Admn Athletics,
+4684,,3.00,PEPROF EL,Physical Education Professional Elective,HESM 432,4690,,Ethics/Issues Sport Mgt,
+4684,U,3.00,PEPROF 371,Kinesiology,HESM 453,4690,,Biomechanics,
+4684,U,3.00,PEPROF 471,Physiology of Exercise,HESM 454,4690,,Physiology of Exercise,
+4684,,3.00,PEPROF EL,Physical Education Professional Elective,HESM 480,4690,,Senior Seminar in Sport Mgt,
+4684,L,3.00,COACHING 250,App Mechan Princpl Coach,HESM 483,4690,,Orientation to Coaching,
+4684,,3.00,COACHING EL,Coaching Elective,HESM 490,4690,,Specl Tpcs Health&Exercise Sci,
+4684,,1.00,COACHING EL,Coaching Elective,HESM 491,4690,,Varsity Field Experience,
+4684,,2.00,COACHING EL,Coaching Elective,HESM 494,4690,,Internship,8
+4684,,3.00,COACHING EL,Coaching Elective,HESM 496,4690,,Directed Studies,
+4684,,3.00,GEOLGY EL,Geology Elective,GEOS 100,4690,GM,Earth in Perspective,
+4684,L,3.00,GEOLGY 100,Principles of Geology,GEOS 101,4690,GL,Introductory Geology,"265, 362"
+4684,,4.00,GEOLGY EL,Geology Elective,GEOS 102,4690,,Origin & History of the Earth,
+4684,,3.00,GEOGRPY EL,Geography Elective,GEOS 103,4690,GM,Envr Sci:  Earth Res Approach,
+4684,L,3.00,GEOGRPY 252,Glbl Environ Challenges,GEOS 103,4690,GS,Envr Sci:  Earth Res Approach,
+4684,L,2.00,GEOLGY 100,Principles of Geology,GEOS 104,4690,GL,Introductory Geology Lab,"265, 362"
+4684,U,3.00,GEOLGY 300,Principles Oceanography,GEOS 105,4690,GM,Oceanography,
+4684,L,3.00,ASTRONMY 114,Descriptive Astronomy,GEOS 110,4690,GM,Intro to Astronomy,
+4684,U,3.00,GEOGRPY 320,Meteorology & Climate,GEOS 115,4690,,The Weather,
+4684,,4.00,GEOLGY EL,Geology Elective,GEOS 200,4690,,Minerals and Rocks,
+4684,U,3.00,GEOLGY 315,Introduction Mineralogy,GEOS 201,4690,,Mineralogy,
+4684,U,3.00,GEOLGY 316,Petrology,GEOS 202,4690,,Petrology,
+4684,,1.00,GEOLGY EL,Geology Elective,GEOS 290,4690,,Special Topics,"263, 8"
+4684,,3.00,GEN EL,General Elective,HONS 195,4690,,Fr Seminar-Honors,
+4684,,3.00,GEN EL,General Elective,HONS 290,4690,,Special Topics,
+4684,L,3.00,ENGLISH 101,College Writing & Reading,ENGL 100,4690,CC,Fundamentals of English,
+4684,L,3.00,ENGLISH 102,Writing/Reading/Research,ENGL 101,4690,"CC, UCTA",Composition and Reading,22
+4684,,1.00,ENGLISH EL,English Elective,ENGL 102,4690,,Library Research Paper,
+4684,L,3.00,JOURNLSM 244,News Gathering,ENGL 104,4690,,Basic Reporting,
+4684,L,3.00,ENGLISH 264,The West Trad Before 1665,ENGL 112,4690,GH,Women in Literature,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 167,4690,GH,Introduction to Literature,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 187,4690,GH,Introduction to Language,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 195,4690,,Fr Seminar-English,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 201,4690,,Advanced Composition,
+4684,U,3.00,ENGLISH 372,Technicl/Scientific Wrtng,ENGL 202,4690,,Technical Writing,
+4684,U,3.00,ITBE 353,Business Communication,ENGL 204,4690,,Writing For Business/Industry,266
+4684,L,3.00,BEINDP 290,Business Writing,ENGL 204,4690,,Writing For Business/Industry,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 206,4690,GH,Creative Writing: Poetry,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 207,4690,GH,Creative Writing: Fiction,
+4684,L,3.00,ENGLISH 206,British Lit Survey I,ENGL 216,4690,GH,British Literature to 1800,
+4684,L,3.00,ENGLISH 216,British Lit Survey II,ENGL 217,4690,GH,"British Literature, 1800-1920",
+4684,,3.00,ENGLISH EL,English Elective,ENGL 226,4690,GH,American Literature to 1855,
+4684,,3.00,GEN EL,General Elective,HUMA 101,4690,GH,Intro Hum: Wrld Cultre to 1500,
+4684,,3.00,GEN EL,General Elective,HUMA 102,4690,GH,Intro Hum: Wrld Cltr 1500-Pres,
+4684,,3.00,GEN EL,General Elective,HUMA 103,4690,"GD, GH",Diversity in the U. S. (Dv),
+4684,,3.00,WOMENST EL,Womens and Gender Studies Elective,HUMA 110,4690,,Intro to Women's Studies-,
+4684,L,3.00,ENGLISH 264,The West Trad Before 1665,HUMA 112,4690,GH,Intro to Women's Studies,
+4684,,3.00,GEN EL,General Elective,HUMA 195,4690,,Fr Seminar-Humanities,
+4684,,3.00,ENGLISH EL,English Elective,HUMA 205,4690,,Intro to World Literature,
+4684,,3.00,ENGLISH EL,English Elective,HUMA 206,4690,,Intro to Modern World Lit,
+4684,,3.00,COMM EL,Communication Elective,HUMA 218,4690,,History of Film,
+4684,L,3.00,RELIGST 212,Intro Western Religions,HUMA 224,4690,GH,Religion-the West,
+4684,L,3.00,RELIGST 112,Intro Western Religions,HUMA 224,4690,GH,Religion-the West,
+4684,L,3.00,RELIGST 211,Intro to Asian Religions,HUMA 225,4690,GH,Religion-Far East,
+4684,L,3.00,RELIGST 111,Intro to Asian Religions,HUMA 225,4690,GH,Religion-Far East,
+4684,,3.00,GEN EL,General Elective,HUMA 230,4690,GH,Culture/Lit:,
+4684,L,3.00,PHILSPHY 261,Introduction to Ethics,HUMA 240,4690,GH,Culture and the Arts:,
+4684,,3.00,GEN EL,General Elective,HUMA 250,4690,GH,Topics Non-West Culture:,
+4684,,3.00,GEN EL,General Elective,HUMA 260,4690,GH,Topics in Amer Culture:,
+4684,,3.00,GEN EL,General Elective,HUMA 270,4690,GH,Topics Western Cult:,
+4684,,1.00,GEN EL,General Elective,HUMA 290,4690,,Special Topics,"263, 8"
+4684,,3.00,RELIGST EL,Religious Studies Elective,HUMA 324,4690,,Studies in Religion,
+4684,,3.00,GEN EL,General Elective,HUMA 334,4690,GH,Death and Dying,
+4684,,3.00,RELIGST EL,Religious Studies Elective,HUMA 335,4690,,World Religions,
+4684,,1.00,GEN EL,General Elective,HRM 290,4690,,Special Topics,"263, 8"
+4684,,3.00,ENGLISH EL,English Elective,ENGL 227,4690,GH,"American Literature, 1855-1920",
+4684,,3.00,ENGLISH EL,English Elective,ENGL 237,4690,GH,Modrn/Contemp Lit 1920-Present,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 246,4690,GH,Survey of  World Literature,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 247,4690,GH,Survey of Modern World Lit,
+4684,L,3.00,COMM 236,Introduction to Cinema,ENGL 252,4690,GA,Introduction to Film,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 258,4690,GH,History of Film to 1950,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 266,4690,,Literary Analysis,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 267,4690,GH,Literature of Diversity: (Dv),
+4684,L,3.00,ENGLISH 264,The West Trad Before 1665,ENGL 269,4690,GH,Introduction to Women Writers:,
+4684,,1.00,ENGLISH EL,English Elective,ENGL 290,4690,,Special Topics in English:,263
+4684,,3.00,ENGLISH EL,English Elective,ENGL 312,4690,GH,British Novel,
+4684,U,3.00,ENGLISH 404,Shakespeare,ENGL 320,4690,,Shakespeare,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 323,4690,,American Short Story,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 333,4690,,Modern Short Fiction,
+4684,U,3.00,ENGLISH 383,Modern Grammatical Theory,ENGL 382,4690,,Modern English Grammar,
+4684,U,3.00,ENGLISH 479,Creative Nonfiction,ENGL 404,4690,,Non-Fiction Writing,
+4684,U,3.00,ENGLISH 380,Creative Nonfiction,ENGL 404,4690,,Non-Fiction Writing,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 458,4690,,Studies in Film:,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 464,4690,,Studies in Cultural Trends:,
+4684,,3.00,ENGLISH EL,English Elective,ENGL 499,4690,,Independent Study,8
+4684,,3.00,GEN EL,General Elective,ISTD 295,4690,,Inquiry and Information,
+4684,,3.00,INTRNAR EL,International and Area Studies Elective,INTS 110,4690,,Intro to American Culture,
+4684,,3.00,INTRNAR EL,International and Area Studies Elective,INTS 290,4690,,Special Topics,"263, 8"
+4684,,1.00,INTRNAR EL,International and Area Studies Elective,INTS 490,4690,,Special Topics,"263, 8"
+4684,,3.00,INTRNAR EL,International and Area Studies Elective,INTS 495,4690,,Senior Seminar Internatnl Stds,
+4684,,1.00,INTRNAR EL,International and Area Studies Elective,INTS 499,4690,,Independent Study,"263, 8"
+4684,U,3.00,MANGEMNT 301,Organizational Behavior,MGT 349,4690,,Organizational Behavior,266
+4684,,3.00,MANGEMNT EL,Management Elective,MIS 320,4690,GM,Mgt Information Systems,
+4684,,3.00,MCS EL,Management Computer Systems Elective,MIS 327,4690,,It Infrastructure,
+4684,U,3.00,MARKETNG 311,Principles of Marketing,MKT 350,4690,,Marketing Principles,266
+4684,U,3.00,MARKETNG 479,Mktg Mgmnt and Policies,MKT 354,4690,,Marketing Research,266
+4684,U,3.00,MARKETNG 420,Consumer Behavior,MKT 355,4690,,Buyer Behavior,266
+4684,U,3.00,MARKETNG 361,International Marketing,MKT 356,4690,,Global Marketing,266
+4684,U,3.00,MARKETNG 442,Logistics,MKT 359,4690,,Marketing Channels Mgt,266
+4684,,3.00,GEN EL,General Elective,MKT 455,4690,,Marketing Management,
+4684,,1.00,MUSC EL,Music Elective,MUSA 010,4690,,Applied Piano,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 012,4690,,Applied Organ,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 016,4690,,Applied Harpsichord,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 020,4690,,Applied Trumpet,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 022,4690,,Applied Horn,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 024,4690,,Applied Trombone,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 026,4690,,Applied Baritone,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 028,4690,,Applied Tuba,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 040,4690,,Applied Violin,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 042,4690,,Applied Viola,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 044,4690,,Applied Cello,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 046,4690,,Applied Bass,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 048,4690,,Applied Classical Guitar,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 060,4690,,Applied Flute,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 062,4690,,Applied Oboe,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 064,4690,,Applied Clarinet,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 066,4690,,Applied Saxophone,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 068,4690,,Applied Bassoon,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 080,4690,,Applied Voice,373
+4684,,1.00,MUSC EL,Music Elective,MUSA 084,4690,,Applied Percussion,373
+4684,P,4.00,MATH 041,Beginning Algebra,MATH 015,4690,,Intermediate Algebra,
+4684,,2.00,DNT,Does Not Transfer,MATH 016,4690,,Intermediate Algebra Lab,20
+4684,L,3.00,MATH 141,Fundamtls of Coll Algebra,MATH 101,4690,CC,Intermediate Algebra,
+4684,L,3.00,MATH 140,Mathematical Ideas,MATH 102,4690,CC,Survey of Mathematics,
+4684,,3.00,MATH EL,Mathematics Elective,MATH 109,4690,,Intro to Statistics,8
+4684,L,3.00,MATH 141,Fundamtls of Coll Algebra,MATH 111,4690,CC,College Algebra I,
+4684,,4.00,MATH EL,Mathematics Elective,MATH 112,4690,,College Algebra II,
+4684,,2.00,MATH EL,Mathematics Elective,MATH 113,4690,GM,Trigonometry,"363, 265"
+4684,L,5.00,MATH 152,Precalculus,MATH 114,4690,"GM, UCTA",College Algebra II/Trig,22
+4684,L,3.00,MATH 243,Shrt Calc Bus/Soc Science,MATH 142,4690,GM,Calc Bus/Soc Sci Appls,
+4684,,3.00,MATH EL,Mathematics Elective,MATH 195,4690,,Fr Seminar-Mathematics,
+4684,,2.00,COMPSCI EL,Computer Science Elective,MATH 204,4690,,Calculus & the Computer,
+4684,,1.00,COMPSCI EL,Computer Science Elective,MATH 205,4690,,Exercises in Computer,
+4684,L,3.00,MATH 148,Math Elem Teacher I,MATH 215,4690,GM,Math Mdl Chld-Erly Adl Tchr  I,
+4684,L,3.00,MATH 149,Math Elem Teacher II,MATH 216,4690,,Math Mdl Chd-Erly Adl Tchr  II,
+4684,L,5.00,MATH 253,Calc/Analytic Geometry I,MATH 221,4690,GM,Calculus & Analytic Geometry I,
+4684,L,5.00,MATH 254,Calc/Analytic Geometry II,MATH 222,4690,,Calc & Analytic Geometry II,
+4684,L,5.00,MATH 255,Calc/Anlytc Geometry III,MATH 223,4690,,Calc & Analytic Geometry III,
+4684,L,3.00,MATH 280,Discrete Mathematics,MATH 240,4690,,Discrete Mathematics,
+4684,,2.00,MUSC EL,Music Elective,MUSA 110,4690,,Applied Piano,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 111,4690,,Applied Piano,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 112,4690,,Applied Organ,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 113,4690,,Applied Organ,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 116,4690,,Applied Harpsichord,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 117,4690,,Applied Harpsichord,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 120,4690,,Applied Trumpet,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 121,4690,,Applied Trumpet,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 122,4690,,Applied Horn,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 123,4690,,Applied Horn,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 124,4690,,Applied Trombone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 125,4690,,Applied Trombone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 126,4690,,Applied Baritone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 127,4690,,Applied Baritone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 128,4690,,Applied Tuba,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 129,4690,,Applied Tuba,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 140,4690,,Applied Violin,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 141,4690,,Applied Violin,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 142,4690,,Applied Viola,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 143,4690,,Applied Viola,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 144,4690,,Applied Cello,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 145,4690,,Applied Cello,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 146,4690,,Applied Bass,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 147,4690,,Applied Bass,373
+4684,,3.00,MATH EL,Mathematics Elective,MATH 250,4690,,Computer Algebra Systems,
+4684,,1.00,MATH EL,Mathematics Elective,MATH 290,4690,,Special Topics,"263, 8"
+4684,,3.00,MATH EL,Mathematics Elective,MATH 300,4690,,Discrete Structures,
+4684,U,4.00,MATH 355,Matrices/Linear Algebra,MATH 301,4690,,Linear Algebra,
+4684,U,3.00,MATH 441,Probability Theory,MATH 309,4690,"UCTA,",Probability and Statistics,"265, 364, 22"
+4684,U,4.00,MATH 441,Probability Theory,MATH 310,4690,,Adv Probability Theory/Stats,"265, 364"
+4684,U,3.00,MATH 361,Differential Equations,MATH 317,4690,,Differential Equations,
+4684,,4.00,MATH EL,Mathematics Elective,MATH 321,4690,,Applied Math Analysis,
+4684,,3.00,MATH EL,Mathematics Elective,MATH 361,4690,,Foundations of Geometry,
+4684,U,3.00,MATH 417,Theory of Numbers,MATH 367,4690,,Elementary Number Theory,
+4684,U,3.00,MATH 375,Development of Mathematic,MATH 373,4690,,History of Mathematics,
+4684,U,4.00,MATH 464,Advanced Calculus,MATH 421,4690,,Real Analysis,
+4684,,3.00,MATH EL,Mathematics Elective,MATH 422,4690,,Topics in Real Analysis,
+4684,U,3.00,MATH 463,Complex Variables,MATH 423,4690,,Complex Analysis,
+4684,,3.00,MATH EL,Mathematics Elective,MATH 441,4690,,Abstract Algebra,
+4684,U,4.00,MATH 453,Abstract Algebra,MATH 442,4690,,Topics in Abstract Algebra,
+4684,,3.00,MATH EL,Mathematics Elective,MATH 445,4690,,Applied Group Theory,
+4684,U,3.00,MATH 431,Topology,MATH 451,4690,,Topology,
+4684,,3.00,MATH EL,Mathematics Elective,MATH 461,4690,,Differential Geometry,
+4684,,1.00,MATH EL,Mathematics Elective,MATH 490,4690,,Special Topics,263
+4684,,1.00,MATH EL,Mathematics Elective,MATH 495,4690,,Senior Seminar,"263, 8"
+4684,,2.00,MUSC EL,Music Elective,MUSA 148,4690,,Applied Classical Guitar,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 149,4690,,Applied Classical Guitar,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 160,4690,,Applied Flute,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 161,4690,,Applied Flute,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 162,4690,,Applied Oboe,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 163,4690,,Applied Oboe,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 164,4690,,Applied Clarinet,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 165,4690,,Applied Clarinet,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 166,4690,,Applied Saxophone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 167,4690,,Applied Saxophone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 168,4690,,Applied Bassoon,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 169,4690,,Applied Bassoon,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 180,4690,,Applied Voice,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 181,4690,,Applied Voice,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 184,4690,,Applied Percussion,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 185,4690,,Applied Percussion,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 210,4690,,Applied Piano,373
+4684,,1.00,MATH EL,Mathematics Elective,MATH 499,4690,,Independent Study,263
+4684,,2.00,MUSC EL,Music Elective,MUSA 211,4690,,Applied Piano,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 212,4690,,Applied Organ,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 213,4690,,Applied Organ,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 216,4690,,Applied Harpsichord,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 217,4690,,Applied Harpsichord,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 220,4690,,Applied Trumpet,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 221,4690,,Applied Trumpet,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 222,4690,,Applied Horn,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 223,4690,,Applied Horn,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 224,4690,,Applied Trombone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 225,4690,,Applied Trombone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 226,4690,,Applied Baritone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 227,4690,,Applied Baritone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 228,4690,,Applied Tuba,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 229,4690,,Applied Tuba,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 240,4690,,Applied Violin,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 241,4690,,Applied Violin,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 242,4690,,Applied Viola,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 243,4690,,Applied Viola,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 244,4690,,Applied Cello,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 245,4690,,Applied Cello,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 246,4690,,Applied Bass,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 247,4690,,Applied Bass,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 248,4690,,Applied Classical Guitar,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 249,4690,,Applied Classical Guitar,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 260,4690,,Applied Flute,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 261,4690,,Applied Flute,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 262,4690,,Applied Oboe,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 263,4690,,Applied Oboe,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 264,4690,,Applied Clarinet,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 265,4690,,Applied Clarinet,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 266,4690,,Applied Saxophone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 267,4690,,Applied Saxophone,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 268,4690,,Applied Bassoon,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 269,4690,,Applied Bassoon,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 280,4690,,Applied Voice,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 281,4690,,Applied Voice,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 284,4690,,Applied Percussion,373
+4684,,2.00,MUSC EL,Music Elective,MUSA 285,4690,,Applied Percussion,373
+4684,,3.00,GEN EL,General Elective,NURS 100,4690,GD,Quest Self Helping Prof,
+4684,,3.00,GEN EL,General Elective,NURS 101,4690,,Culturl Diversty in Hlth Care,
+4684,,2.00,GEN EL,General Elective,NURS 102,4690,,Perspectvs Health Care Systems,
+4684,,3.00,GEN EL,General Elective,NURS 112,4690,,Engl: Wrtg/Critical Think,
+4684,,1.00,GEN EL,General Elective,NURS 190,4690,,Spec Studies in Nursing,"263, 8"
+4684,,3.00,GEN EL,General Elective,NURS 200,4690,,Growth & Development I,
+4684,,2.00,GEN EL,General Elective,NURS 205,4690,,Clinical Pharmacology,
+4684,,3.00,GEN EL,General Elective,NURS 210,4690,,Nrs Cncpt/Prct Hlth Promo,
+4684,,2.00,GEN EL,General Elective,NURS 211,4690,,Health Assessment,
+4684,,3.00,GEN EL,General Elective,NURS 230,4690,,Foundations Prof Nurs,
+4684,,3.00,GEN EL,General Elective,NURS 232,4690,,Nr Prc Hlth Prom/Maint I,
+4684,,1.00,GEN EL,General Elective,NURS 290,4690,,Spec Studies in Nursing,"263, 8"
+4684,,0.00,DNT,Does Not Transfer,MUSI 001,4690,,Concert Attendance,20
+4684,,3.00,MUSC EL,Music Elective,MUSI 100,4690,GA,Appreciation of World Music,
+4684,L,3.00,MUSED 111,Fundamentals of Music,MUSI 101,4690,GA,Fundamentals of Music,
+4684,,1.00,MUSC EL,Music Elective,MUSI 102,4690,,Large Music Ensemble,
+4684,,1.00,MUSC EL,Music Elective,MUSI 103,4690,,Keyboard Accompanying,
+4684,L,1.00,MUSC 162,Orchestra,MUSI 104,4690,GA,Music Appreciation,
+4684,L,1.00,MUSC 269,Instrumental Ensemble,MUSI 106,4690,GA,Jazz Appreciation (Dv),
+4684,,1.00,DNT,Does Not Transfer,MUSI 107,4690,,Parkside Community Band,20
+4684,L,1.00,MUSC 164,Jazz Bands,MUSI 109,4690,GA,Jazz Ensemble,
+4684,L,1.00,MUSC 164,Jazz Bands,MUSI 110,4690,GA,Jazz Ensemble II,
+4684,L,1.00,MUSC 175,University Chorus,MUSI 111,4690,,Parkside Master Singers,
+4684,L,1.00,MUSC 171,University Choirs,MUSI 112,4690,GA,Chorale,
+4684,L,1.00,MUSC 279,Vocal Ensemble,MUSI 113,4690,GA,Jazz Vocal Ensemble,
+4684,L,1.00,MUSC 171,University Choirs,MUSI 114,4690,GA,Voices of Parkside,
+4684,L,3.00,MUSC 151,Theory I,MUSI 121,4690,,Music Theory II,
+4684,L,3.00,MUSC 152,Theory II,MUSI 122,4690,,Music Theory II,
+4684,L,2.00,MUSC 153,Aural Skills I,MUSI 125,4690,,Aural Music Theory I,
+4684,L,2.00,MUSC 154,Aural Skills II,MUSI 126,4690,,Aural Music Theory II,
+4684,,2.00,MUSC EL,Music Elective,MUSI 141,4690,,Keyboard Musicianship I,
+4684,,2.00,MUSC EL,Music Elective,MUSI 142,4690,,Keyboard Musicianship II,
+4684,,2.00,MUSC EL,Music Elective,MUSI 148,4690,,Beginning Guitar,
+4684,,2.00,MUSC EL,Music Elective,MUSI 149,4690,,Intermediate Guitar,
+4684,L,2.00,MUSC 177,Class Voice I,MUSI 180,4690,,Class Voice,
+4684,,1.00,MUSC EL,Music Elective,MUSI 181,4690,,Bsc Voice-Instrumentalist,
+4684,L,3.00,MUSC 140,Intro to Classical Music,MUSI 201,4690,GA,Music Appreciation,
+4684,,3.00,MUSC EL,Music Elective,MUSI 202,4690,GA,Music Literature,
+4684,,3.00,MUSC EL,Music Elective,MUSI 203,4690,GA,Intro to Music Technology,
+4684,L,2.00,MUSC 143,Survey of American Jazz,MUSI 206,4690,"GA, GD",Jazz Appreciation (Dv),
+4684,U,3.00,MUSC 439,The History of Jazz,MUSI 207,4690,,Jazz History (Dv),
+4684,,3.00,MUSC EL,Music Elective,MUSI 221,4690,,Music Theory III,
+4684,,3.00,MUSC EL,Music Elective,MUSI 222,4690,,Music Theory IV,
+4684,,2.00,MUSC EL,Music Elective,MUSI 223,4690,,Jazz Fundamentals,
+4684,U,1.00,MUSC 458,Jazz Improvisation,MUSI 224,4690,,Jazz Improvisation I,
+4684,,2.00,MUSC EL,Music Elective,MUSI 225,4690,,Aural Music Theory III,
+4684,,2.00,MUSC EL,Music Elective,MUSI 226,4690,,Popular Music Theory,
+4684,,2.00,MUSC EL,Music Elective,MUSI 241,4690,,Keyboard Musicianship III,
+4684,,2.00,MUSC EL,Music Elective,MUSI 242,4690,,Music Literature Lab,
+4684,U,2.00,MUSC 356,Conducting,MUSI 254,4690,,Basic Conducting,
+4684,L,1.00,MUSC 269,Instrumental Ensemble,MUSI 261,4690,GA,Instr Ensemble-Brass,
+4684,,1.00,MUSC EL,Music Elective,MUSI 262,4690,,Instr En-Classical Guitar,
+4684,L,1.00,MUSC 269,Instrumental Ensemble,MUSI 263,4690,GA,Instr Ensemble-Woodwinds,
+4684,L,1.00,MUSC 269,Instrumental Ensemble,MUSI 264,4690,GA,Instr Ensemble-Percussion,
+4684,,1.00,MUSC EL,Music Elective,MUSI 271,4690,,Instr Technics-Brass,263
+4684,,2.00,MUSC EL,Music Elective,MUSI 272,4690,,Instr Technics-Clsrm/Fret,
+4684,,1.00,MUSC EL,Music Elective,MUSI 273,4690,,Instr Technics-Percussion,
+4684,,2.00,MUSC EL,Music Elective,MUSI 274,4690,,Instr Technics-Strings,
+4684,,2.00,MUSC EL,Music Elective,MUSI 275,4690,,Instr Technics-Woodwinds,
+4684,,1.00,MUSC EL,Music Elective,MUSI 290,4690,,Special Topics in Music,263
+4684,,3.00,MUSC EL,Music Elective,MUSI 313,4690,GA,Music Western Civilization I,
+4684,,3.00,MUSC EL,Music Elective,MUSI 326,4690,"GA, GD",African-American Music (Dv),
+4684,U,3.00,MUSED 323,Elem School Music Methods,MUSI 343,4690,,Genl Music Matrls/Mthds:Chldhd,
+4684,L,1.00,MUSC 269,Instrumental Ensemble,MUSI 365,4690,GA,Chamber Music-String Ensemble,
+4684,,3.00,ANTHROPL EL,Anthropology Elective,SOCA 100,4690,GS,Introduction to Anthropology,
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 101,4690,"GS, UCTA",Introduction to Sociology,22
+4684,L,3.00,SOCIOLGY 250,Social Problems,SOCA 102,4690,GS,Contemporary Social Problems,
+4684,,3.00,ANTHROPL EL,Anthropology Elective,SOCA 104,4690,,Intro to Archaeology,
+4684,,3.00,ANTHROPL EL,Anthropology Elective,SOCA 106,4690,,Archaeology of Americas,
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 195,4690,,Fr Seminar-,
+4684,L,3.00,ANTHROPL 218,Cultural Anthropology,SOCA 202,4690,GS,Cultural Anthropology,
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 203,4690,GS,Religion and Society,
+4684,,3.00,ANTHROPL EL,Anthropology Elective,SOCA 204,4690,GS,Human Evolution,
+4684,L,3.00,SOCIOLGY 265,Race & Ethnic Relations,SOCA 206,4690,"GD, GS",Race/Ethnc Relations in US(Dv),
+4684,L,3.00,SOCIOLGY 252,Intro to Family Studies,SOCA 207,4690,GS,Marriage and Family,
+4684,,3.00,ANTHROPL EL,Anthropology Elective,SOCA 208,4690,,Introduction to Archaeology,
+4684,,3.00,ANTHROPL EL,Anthropology Elective,SOCA 210,4690,GS,Anthro Contemporary World,
+4684,U,3.00,SOCIOLGY 345,Sociology of Gender,SOCA 213,4690,,Gender and Society,
+4684,U,3.00,SOCIOLGY 362,Population Studies,SOCA 214,4690,,"Migration, Work, & Change",
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 216,4690,GS,Substance Use and Abuse,
+4684,,3.00,CHICANO EL,Chicano Studies Elective,SOCA 223,4690,GD,Latinas/Os in U.S. (Dv),
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 224,4690,"GD, GS",Asians Amer Society (Dv),
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 226,4690,GS,Peoples of Africa,
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 227,4690,"GD, GS",North American Indians (Dv),
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 234,4690,GS,Juvenile Delinquency/Justice,
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 240,4690,GS,Cross-Cultural Encounters,
+4684,L,3.00,PSYCH 215,Basic Statistical Methods,SOCA 250,4690,,Statistics For Social Sciences,
+4684,L,4.00,SPANISH 141,Beginning Spanish,SPAN 103,4690,GH,Introductory Spanish I,
+4684,L,4.00,SPANISH 142,Beginning Spanish,SPAN 104,4690,GH,Introductory Spanish II,
+4684,L,4.00,SPANISH 251,Intermediate Spanish,SPAN 203,4690,GH,Intermediate Spanish I,
+4684,L,4.00,SPANISH 252,Intermediate Spanish,SPAN 204,4690,GH,Intermediate Spanish II,
+4684,,3.00,SPANISH EL,Spanish Elective,SPAN 225,4690,,Contmp Hisp Writers in the Usa,
+4684,,1.00,SPANISH EL,Spanish Elective,SPAN 290,4690,,Special Topics:,263
+4684,U,3.00,SPANISH 321,Adv Spanish Lang Study,SPAN 303,4690,GH,Spanish Grammar/Composition I,
+4684,U,3.00,SPANISH 322,Adv Spanish Lang Study,SPAN 304,4690,GH,Spanish Grammar/Composition II,
+4684,U,3.00,SPANISH 350,Spanish Civilization,SPAN 318,4690,,Spanish Civilization & Culture,
+4684,U,3.00,SPANISH 360,Spanish Amer Civilization,SPAN 319,4690,,Latin Amer Civilizatn/Culture,
+4684,U,3.00,SPANISH 451,Survey Spanish Literature,SPAN 321,4690,,Span & Span-Amer Lit to 1700,
+4684,,3.00,SPANISH EL,Spanish Elective,SPAN 335,4690,,Spanish Amer Lit Since 1700,
+4684,U,3.00,SPANISH 310,Spanish Phonetics,SPAN 350,4690,,Spanish Phonetics,
+4684,,3.00,SPANISH EL,Spanish Elective,SPAN 403,4690,,Advanced Spanish Grammar,
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 290,4690,,Special Topics in Sociology:,263
+4684,U,3.00,SOCIOLGY 476,Methods Social Research,SOCA 295,4690,,Social Science Research Mthds,
+4684,U,3.00,SOCIOLGY 473,Social Theory,SOCA 301,4690,,Sociological Theory,
+4684,U,3.00,SOCIOLGY 355,Social Psychology,SOCA 320,4690,,Sociological Social Psych,
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 322,4690,,Soc of Language & Knowledge,
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 326,4690,,Social Gerontology,
+4684,L,3.00,SOCIOLGY 276,Introduction Criminology,SOCA 331,4690,GS,Deviant Behavior,
+4684,U,3.00,SOCIOLGY 362,Population Studies,SOCA 358,4690,,Intro to Population Studies,
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 371,4690,,Occupations & Professions,
+4684,,3.00,SOCIOLGY EL,Sociology Elective,SOCA 373,4690,,Formal Organization,
+4684,L,3.00,PSYCH 211,Introductory Psychology,PSYC 101,4690,"GS, UCTA",Intro to Psychological Science,22
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 195,4690,,Fr Seminar-Psychology,
+4684,L,3.00,EDFOUND 222,Child Development,PSYC 210,4690,,Intro to Human Development,
+4684,U,3.00,PSYCH 355,Social Psychology,PSYC 220,4690,,Social Psychology,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 222,4690,GS,Psychology of Drug Use,
+4684,L,3.00,PSYCH 104,Psych of Human Adjustment,PSYC 225,4690,GS,Psych Personal Adjustment,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 230,4690,GS,Psych of Human Sexuality,
+4684,L,3.00,PSYCH 215,Basic Statistical Methods,PSYC 250,4690,,Psychological Statistics,
+4684,U,3.00,PSYCH 304,Psychology of Personality,PSYC 260,4690,,Psychology of Personality,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 270,4690,GS,Consumer Psychology,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 280,4690,GS,Psychology of Gender,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 290,4690,,Special Topics,8
+4684,U,4.00,PSYCH 415,Research Design,PSYC 300,4690,,Research Methods in Psychology,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 301,4690,,Learning and Memory,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 304,4690,,Language Development,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 305,4690,,Cognition and Memory,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 306,4690,,Sensation & Perception,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 310,4690,,Personnel Psychology,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 311,4690,,Organizational Psych,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 315,4690,,Theories of Development,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 318,4690,,Psychological Assessment,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 319,4690,,Individual Differences,
+4684,U,3.00,PSYCH 301,Intro Behavioral Neuroscience,PSYC 325,4690,,Biological Psychology,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 330,4690,,Interviewing,
+4684,L,3.00,ECON 245,Business Statistics,QM 210,4690,,Business Statistics I,
+4684,U,3.00,ECON 345,Econometrics,QM 310,4690,,Business Statistics II,266
+4684,U,3.00,MANGEMNT 306,Operations Management,QM 319,4690,,Operations Mgt Principles,266
+4684,U,3.00,ITSCM 306,Operations Management,QM 319,4690,,Operations Mgt Principles,
+4684,L,3.00,PHILSPHY 241,Intro to Philosophy,PHIL 101,4690,GH,Introduction to Philosophy,
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 102,4690,GH,Great Thinkers,
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 103,4690,,Phil Ideas Lit,
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 104,4690,GH,Intro to Human Values,
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 105,4690,GH,Intro Scientific Thought,
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 195,4690,,Fr Seminar-Philosophy,
+4684,L,3.00,PHILSPHY 251,Logic,PHIL 201,4690,GH,Logic,
+4684,,1.00,PHILSPHY EL,Philosophy Elective,PHIL 202,4690,,History of Philosophy,
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 203,4690,GH,"Truth, Knowledge & Belief:",
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 204,4690,GH,Reason and Reality:,
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 205,4690,GH,Philosophy of Religion,
+4684,L,3.00,PHILSPHY 261,Introduction to Ethics,PHIL 206,4690,GH,Introduction to Ethics,
+4684,U,3.00,PHILSPHY 341,Classical Philosophy,PHIL 207,4690,GH,Classical Political Philosophy,
+4684,U,3.00,PHILSPHY 345,Contemporary Philosophy,PHIL 208,4690,GH,Modern Political Phil,
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 209,4690,GH,Business Ethics,
+4684,U,3.00,PHILSPHY 341,Classical Philosophy,PHIL 210,4690,GH,Philosophical Classics,
+4684,L,3.00,PHILSPHY 261,Introduction to Ethics,PHIL 215,4690,"GH, UCTA",Contemporary Moral Problems,22
+4684,L,3.00,POLISCI 141,American Govmnt/Politics,POLS 100,4690,"GS, UCTA",American Politics,22
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 103,4690,GS,Intro to Comparative Politics,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 104,4690,GS,Intro International Relations,
+4684,L,3.00,POLISCI 250,Intro Political Theory,POLS 105,4690,GS,Introduction to Politics,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 125,4690,GS,Politics in Wisconsin,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 195,4690,,Fr Seminar-Political Sci,
+4684,,4.00,POLISCI EL,Political Science Elective,POLS 200,4690,,Research Methods/Sources,
+4684,U,3.00,POLISCI 330,Public Policy Analysis,POLS 202,4690,,Public Policy,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 203,4690,GS,"Women, Power and Politics",
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 204,4690,,American Ethnic Politics,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 207,4690,,Classical Political Philosophy,
+4684,U,3.00,POLISCI 411,Modern Political Thought,POLS 208,4690,,Modern Political Phil,
+4684,U,3.00,POLISCI 316,Police/Crim Justice Admin,POLS 210,4690,,Police Operations/Admn,
+4684,U,3.00,POLISCI 317,Amer Legislative Process,POLS 214,4690,,Executive&Legislative Politics,
+4684,U,3.00,POLISCI 318,The American Presidency,POLS 215,4690,,The Presidency,
+4684,U,3.00,POLISCI 419,The Judicial Process,POLS 216,4690,,Introduction to Law,
+4684,U,3.00,POLISCI 457,American Foreign Policy,POLS 224,4690,,American Foreign Policy,
+4684,U,3.00,POLISCI 351,International Relations,POLS 241,4690,,Theories of Intl Relation,
+4684,U,3.00,POLISCI 320,Public Policy/Administrtn,POLS 250,4690,,Intro to Public Admin,
+4684,U,3.00,POLISCI 220,Intro Public Administratn,POLS 250,4690,,Intro to Public Admin,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 280,4690,,Criminal Justice Process,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 290,4690,,Special Topics:,
+4684,U,3.00,POLISCI 411,Modern Political Thought,POLS 306,4690,,Modern Political Philosophy,
+4684,U,3.00,POLISCI 412,Cont Political Thought,POLS 307,4690,,Contemporary Political Thought,
+4684,,4.00,GEN EL,General Elective,MODL 103,4690,,Modern Lang I:,
+4684,,4.00,GEN EL,General Elective,MODL 104,4690,,Modern Lang II:,
+4684,,4.00,PSYCH EL,Psychology Elective,PSYC 331,4690,,Counseling Psychology,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 335,4690,,Hum Dev-Childhd/Adolescen,
+4684,U,3.00,PSYCH 331,Psychology of Childhood,PSYC 337,4690,,Hum Devl-Early Childhood,"268, 370"
+4684,U,3.00,PSYCH 332,Psychology of Adolescence,PSYC 338,4690,GS,Hum Devl-Mdl/Late Childhd,"268, 371"
+4684,U,3.00,PSYCH 332,Psychology of Adolescence,PSYC 339,4690,GS,Adolescent Development,"268, 372"
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 341,4690,,Hum Devl-Adulthood/Aging,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 350,4690,,Motivation & Emotion,
+4684,U,3.00,PSYCH 345,Abnormal Psychology,PSYC 360,4690,,Abnormal Psychology,
+4684,U,3.00,PSYCH 327,Intro Scientist-Practitioner,PSYC 362,4690,,Theories of Psychotherapy,
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 363,4690,,Health Psychology,
+4684,,1.00,PSYCH EL,Psychology Elective,PSYC 490,4690,,Special Topics in Psychology:,263
+4684,,3.00,PSYCH EL,Psychology Elective,PSYC 495,4690,,Psychology Senior Seminar,
+4684,,1.00,PSYCH EL,Psychology Elective,PSYC 497,4690,,Thesis in Psychology,"263, 8"
+4684,,2.00,PSYCH EL,Psychology Elective,PSYC 499,4690,,Independent Study,"263, 8"
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 220,4690,GH,"Politics, Law, and Society",
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 225,4690,GH,Existentialism,
+4684,,3.00,PHILSPHY EL,Philosophy Elective,PHIL 226,4690,,Eastern Philosophy,
+4684,,1.00,PHILSPHY EL,Philosophy Elective,PHIL 290,4690,,Special Topics in Philosophy,263
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 310,4690,,Const Law: Civil Liberties,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 320,4690,,Const Law:Structr/Pwr US Govt,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 325,4690,,Political Communication,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 330,4690,,European Politics,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 331,4690,,Politics of Developing Nations,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 332,4690,,Socialist Thought and Practice,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 341,4690,,Intl Conflict/Cooperation,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 350,4690,,Theories Comparative Politics,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 355,4690,,Urban Politics,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 356,4690,,Political Sociology,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 360,4690,,Pol Parties & Interest Groups,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 365,4690,,Theories Public Organiz,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 370,4690,,Voting Beh/Public Opinion,
+4684,U,3.00,POLISCI 415,Criminal Justice/Const,POLS 380,4690,,Criminal Law,
+4684,U,3.00,POLISCI 316,Police/Crim Justice Admin,POLS 450,4690,,Admn Issues Law Enforce,
+4684,,3.00,POLISCI EL,Political Science Elective,POLS 490,4690,,Special Topics:,
+4684,,1.00,POLISCI EL,Political Science Elective,POLS 499,4690,,Independent Study,263
+4684,,3.00,BIOLOGY EL,Biological Sciences Elective,WGSS 103,4690,GM,Human Biology,
+4684,L,3.00,WOMENST 100,Intro Women's Studies,WGSS 110,4690,GE,Intro Wmns/Gendr/Sexualty Stds,
+4684,,3.00,HISTRY EL,History Elective,WGSS 111,4690,,Intro Woms Std Women Hist,
+4684,L,3.00,ENGLISH 264,The West Trad Before 1665,WGSS 112,4690,GH,Women in Literature,
+4684,,3.00,WOMENST EL,Womens and Gender Studies Elective,WGSS 195,4690,,Fr Sem-Woms Std,
+4684,U,3.00,WOMENST 365,Women/Science/Society,WGSS 250,4690,,Women in Science,
+4684,,3.00,WOMENST EL,Womens and Gender Studies Elective,WGSS 290,4690,,Spec Tpcs Wmns/Gndr/Sexuality:,
+4684,,3.00,WOMENST EL,Womens and Gender Studies Elective,WGSS 490,4690,,Spec Tpcs Wmns/Gndr/Sexuality:,
+4684,,1.00,WOMENST EL,Womens and Gender Studies Elective,WGSS 494,4690,,Internship Wmns/Gndr/Sexuality,263
+4684,,3.00,WOMENST EL,Womens and Gender Studies Elective,WGSS 495,4690,,Womens/Gendr/Sexuality Seminar,
+4684,,1.00,WOMENST EL,Womens and Gender Studies Elective,WGSS 499,4690,,Independent Study,"263, 8"
+4684,,3.00,EDFOUND EL,Educational Foundations Elective,TEDU 101,4690,,Cultural Foundations Educ,
+4684,,1.00,DNT,Does Not Transfer,TEDU 160,4690,,Efficient Reading and,20
+4684,,1.00,COMPSCI EL,Computer Science Elective,TEDU 185,4690,,Fund Instr Computing,
+4684,,3.00,CIGENRL EL,Curriculum & Instruction General Elective,TEDU 195,4690,,Fr Seminar-Education,
+4684,L,1.00,EDFNDPRC 210,Intro to Educ & Teaching,TEDU 200,4690,,Art in Elementary Ed,
+4684,L,1.00,EDFNDPRC 210,Intro to Educ & Teaching,TEDU 200F,4690,,Field Experience,
+4684,L,1.00,EDFNDPRC 210,Intro to Educ & Teaching,TEDU 201,4690,,Spec Fld Expr,"263, 8"
+4684,L,1.00,EDFNDPRC 210,Intro to Educ & Teaching,TEDU 201F,4690,,Specialized Field Exper,"263, 8"
+4684,,2.00,EDFOUND EL,Educational Foundations Elective,TEDU 202,4690,,Methods of Teaching,
+4684,L,2.00-3.00,EDFOUND 212,Educational Psychology,TEDU 204,4690,,Educational Psychology,"263, 8"
+4684,,4.00,EDFOUND EL,Educational Foundations Elective,TEDU 210,4690,,Teaching/Learning and Dev,
+4684,L,3.00,EDFOUND 222,Child Development,TEDU 210,4690,,Teaching/Learning and Dev,
+4684,,1.00,EARLYCHD EL,Early Childhood Elective,TEDU 215,4690,,Tchg/Lrng/Dev: Early Chldhood,263
+4684,L,3.00,LIBMEDIA 201,Technology For Teachers,TEDU 222,4690,,Educ Media and Technology,
+4684,,2.00,CIGENRL EL,Curriculum & Instruction General Elective,TEDU 230,4690,,Instructional Technology,263
+4684,,2.00,EDFOUND EL,Educational Foundations Elective,TEDU 240,4690,,Schooling/Human Diversity,
+4684,,4.00,EDFOUND EL,Educational Foundations Elective,TEDU 250,4690,,Living in a Multicultural,
+4684,,1.00,EDFOUND EL,Educational Foundations Elective,TEDU 290,4690,,Special Topics,"263, 8"
+4684,,3.00,EDFOUND EL,Educational Foundations Elective,TEDU 300,4690,,School & Society,
+4684,L,2.00,EDFOUND 212,Educational Psychology,TEDU 304,4690,,Educational Psychology,"263, 8"
+4684,,4.00,SECNDED EL,Secondary Education Elective,TEDU 311,4690,,Teach Sci Math/Cmptr Sci,
+4684,U,3.00,SECNDED 430,Teach Soc Studies Sec Sch,TEDU 312,4690,,Teach Soc Std Mdl/Sec Sch,
+4684,U,3.00,SECNDED 427,Meth of Tchng World Languages,TEDU 313,4690,,Teach Forgn Lang Mdl/Sec,
+4684,,3.00,SECNDED EL,Secondary Education Elective,TEDU 314,4690,,Mthd Teach Mdl/Sec Engl,
+4684,,3.00,SECNDED EL,Secondary Education Elective,TEDU 316,4690,,Methods Teaching Speech,
+4684,U,2.00,ELEMMID 425,Tchng Math Elm/Mdl Grades,TEDU 317,4690,,Teach Math Elem/Mdl Sch,
+4684,U,3.00,ELEMMID 324,Tch Science Elm/Mdl Schl,TEDU 319,4690,,Teach Sci Elem/Mdl Sch,
+4684,U,2.00,ELEMMID 363,Tchng Ss in Elem/Middle S,TEDU 321,4690,,Soc Std Elem/Mdl Sch,
+4684,,3.00,CIGENRL EL,Curriculum & Instruction General Elective,TEDU 322,4690,,Lang Arts/Children's Lit,
+4684,U,3.00,READING 360,Found Literacy Elem/Mdl Schl,TEDU 323,4690,,Dev Rdg/Wrtg Elem/Mdl Sch,
+4684,,4.00,EARLYCHD EL,Early Childhood Elective,TEDU 325,4690,,Social Studies: Early Chld,
+4684,,3.00,SECNDED EL,Secondary Education Elective,TEDU 331,4690,,Curriculum Develop: Early Chld,
+4684,L,3.00,EDFOUND 222,Child Development,TEDU 337,4690,,Child Think & Learn Pk-3,
+4684,L,3.00,EDFOUND 222,Child Development,TEDU 338,4690,,Hum Devl-Mdl/Late Childhd,
+4684,U,3.00,EDFOUND 478,Adolescent Development,TEDU 339,4690,,Human Devl-Adolescence,
+4684,L,4.00,EDFOUND 243,Found of Ed in Plur Soc,TEDU 350,4690,"GD, GI",Multicultural Teaching,
+4684,L,3.00,SPECED 205,Intro to Special Educ,TEDU 360,4690,,Exceptional Childrn/Youth,
+4684,L,2.00,SPECED 240,Manual Communication,TEDU 375,4690,,Educators Workshop,8

@@ -1,0 +1,1353 @@
+to_campus_id,department_name,from_campus_id,department_id
+4690,Select a UW-Whitewater Department,,
+4690,"ACCOUNT - 
+				
+				  
+            Accounting",,0502
+4690,"ACINDP - 
+				
+				  
+            Arts & Communication Interdepartmental",,1001
+4690,"AFRIAMR - 
+				
+				  
+            African American Studies",,2211
+4690,"AMERIND - 
+				
+				  
+            American Indian Studies",,2212
+4690,"ANTHROPL - 
+				
+				  
+            Anthropology",,2202
+4690,"ARTHIST - 
+				
+				  
+            Art History",,1003
+4690,"ARTSTDIO - 
+				
+				  
+            Art Studio",,1002
+4690,"ASTRONMY - 
+				
+				  
+            Astronomy",,1911
+4690,"BEINDP - 
+				
+				  
+            Business & Economics Interdepartmental",,0517
+4690,"BIOLOGY - 
+				
+				  
+            Biological Sciences",,0401
+4690,"CHEM - 
+				
+				  
+            Chemistry",,1905
+4690,"CHICANO - 
+				
+				  
+            Chicano Studies",,2213
+4690,"CIFLD - 
+				
+				  
+            Curriculum & Instruction Field",,0863
+4690,"CIGENRL - 
+				
+				  
+            Curriculum & Instruction General",,0829
+4690,"COACHING - 
+				
+				  
+            Coaching",,0877
+4690,"COMDIS - 
+				
+				  
+            Communication Sciences And Disorders",,1220
+4690,"COMM - 
+				
+				  
+            Communication",,1506
+4690,"COMPSCI - 
+				
+				  
+            Computer Science",,0701
+4690,"DANCE - 
+				
+				  
+            Dance",,1008
+4690,"DEVLPED - 
+				
+				  
+            Developmental Education",,4957
+4690,"EARLYCHD - 
+				
+				  
+            Early Childhood",,0823
+4690,"ECON - 
+				
+				  
+            Economics",,2204
+4690,"EDFNDPRC - 
+				
+				  
+            Educational Foundations Practicum",,0862
+4690,"EDFOUND - 
+				
+				  
+            Educational Foundations",,0821
+4690,"EDUINDP - 
+				
+				  
+            Education Interdepartmental",,0801
+4690,"ELEMMID - 
+				
+				  
+            Elementary/middle School Education",,0802
+4690,"ENGLISH - 
+				
+				  
+            English",,1501
+4690,"ENVSCI - 
+				
+				  
+            Environmental Science",,4955
+4690,"FILM - 
+				
+				  
+            Film",,1010
+4690,"FNBSLW - 
+				
+				  
+            Finance & Business Law",,0504
+4690,"FORNLANG - 
+				
+				  
+            Foreign Languages General",,1512
+4690,"FRENCH - 
+				
+				  
+            French",,1102
+4690,"GENED - 
+				
+				  
+            Interdisciplinary",,4931
+4690,"GEOGRPY - 
+				
+				  
+            Geography",,2206
+4690,"GEOLGY - 
+				
+				  
+            Geology",,1914
+4690,"GERMAN - 
+				
+				  
+            German",,1103
+4690,"HEALTHED - 
+				
+				  
+            Health Education",,0837
+4690,"HISTRY - 
+				
+				  
+            History",,2205
+4690,"INTRAUNV - 
+				
+				  
+            Intrauniversity",,4913
+4690,"INTRNAR - 
+				
+				  
+            International And Area Studies",,2210
+4690,"ITBE - 
+				
+				  
+            Information Technology & Business Ed",,0838
+4690,"JOURNLSM - 
+				
+				  
+            Journalism",,0601
+4690,"LDRSHP - 
+				
+				  
+            Leadership Military Science & Aerospace",,1801
+4690,"LIBMEDIA - 
+				
+				  
+            Library Media",,0855
+4690,"LSINDP - 
+				
+				  
+            Letters & Science Interdepartmental",,4901
+4690,"MANGEMNT - 
+				
+				  
+            Management",,0506
+4690,"MARKETNG - 
+				
+				  
+            Marketing",,0509
+4690,"MATH - 
+				
+				  
+            Mathematics",,1701
+4690,"MCS - 
+				
+				  
+            Management Computer Systems",,0702
+4690,"MUSC - 
+				
+				  
+            Music",,1005
+4690,"PEGNRL - 
+				
+				  
+            Physical Education General",,0870
+4690,"PEPROF - 
+				
+				  
+            Physical Education Professional",,0876
+4690,"PHILSPHY - 
+				
+				  
+            Philosophy",,1509
+4690,"PHYSCS - 
+				
+				  
+            Physics",,1902
+4690,"POLISCI - 
+				
+				  
+            Political Science",,2207
+4690,"PSYCH - 
+				
+				  
+            Psychology",,2001
+4690,"RACEETH - 
+				
+				  
+            Race & Ethnic Cultures General",,2222
+4690,"RECREATN - 
+				
+				  
+            Recreation",,2103
+4690,"RELIGST - 
+				
+				  
+            Religious Studies",,1510
+4690,"SOCIOLGY - 
+				
+				  
+            Sociology",,2208
+4690,"SOCWORK - 
+				
+				  
+            Social Work",,2104
+4690,"SPANISH - 
+				
+				  
+            Spanish",,1105
+4690,"SPECED - 
+				
+				  
+            Special Education",,0808
+4690,"SPECFLD - 
+				
+				  
+            Special Education Field",,0865
+4690,"THEATRE - 
+				
+				  
+            Theatre",,1007
+4690,"WOMENST - 
+				
+				  
+            Womens And Gender Studies",,4949
+4684,Select a UW-Parkside Department,,
+4684,"ACCT - 
+				
+				  
+            Accounting",,0502
+4684,"ACSK - 
+				
+				  
+            Academic Skills Development",,4957
+4684,"AHS - 
+				
+				  
+            Applied Health Sciences",,1229
+4684,"ART - 
+				
+				  
+            Art",,1002
+4684,"BIOS - 
+				
+				  
+            Biological Sciences",,0401
+4684,"BUS - 
+				
+				  
+            General Business",,0501
+4684,"CBL - 
+				
+				  
+            Community Based Learning",,4925
+4684,"CHEM - 
+				
+				  
+            Chemistry",,1905
+4684,"COMM - 
+				
+				  
+            Communications",,0601
+4684,"CRMJ - 
+				
+				  
+            Criminal Justice",,2105
+4684,"CSCI - 
+				
+				  
+            Computer Science",,0701
+4684,"ECON - 
+				
+				  
+            Economics",,2204
+4684,"ENGL - 
+				
+				  
+            English",,1501
+4684,"ETHN - 
+				
+				  
+            Ethnic Studies",,0326
+4684,"FIN - 
+				
+				  
+            Finance",,0504
+4684,"FREN - 
+				
+				  
+            French Studies",,1102
+4684,"GEOG - 
+				
+				  
+            Geography",,2206
+4684,"GEOS - 
+				
+				  
+            Geosciences",,1914
+4684,"GER - 
+				
+				  
+            German Studies",,1103
+4684,"GNED - 
+				
+				  
+            General Education",,4901
+4684,"GSCI - 
+				
+				  
+            Science Div",,4902
+4684,"HESM - 
+				
+				  
+            Health, Exercise Science & Sport Mngmnt",,0870
+4684,"HIST - 
+				
+				  
+            History",,2205
+4684,"HONS - 
+				
+				  
+            Acad. Talented/specially Skilled Prog.",,4907
+4684,"HRM - 
+				
+				  
+            Human Resource Management",,0516
+4684,"HUMA - 
+				
+				  
+            Humanities",,4915
+4684,"INTS - 
+				
+				  
+            International Studies",,2210
+4684,"ISTD - 
+				
+				  
+            Interdisciplinary Studies",,2012
+4684,"MATH - 
+				
+				  
+            Mathematics",,1701
+4684,"MGT - 
+				
+				  
+            Management",,0506
+4684,"MIS - 
+				
+				  
+            Management Information Systems",,0703
+4684,"MKT - 
+				
+				  
+            Marketing",,0509
+4684,"MODL - 
+				
+				  
+            Modern Languages",,1101
+4684,"MUSA - 
+				
+				  
+            Music, Applied",,1004
+4684,"MUSI - 
+				
+				  
+            Music",,1005
+4684,"NURS - 
+				
+				  
+            U.w.-mil. Consortial Nursing Program",,1203
+4684,"PHIL - 
+				
+				  
+            Philosophy",,1509
+4684,"PHYS - 
+				
+				  
+            Physics",,1902
+4684,"POLS - 
+				
+				  
+            Political Science",,2207
+4684,"PSYC - 
+				
+				  
+            Psychology",,2001
+4684,"QM - 
+				
+				  
+            Statistics And Quantitative Methods",,0503
+4684,"SOCA - 
+				
+				  
+            Sociology",,2208
+4684,"SPAN - 
+				
+				  
+            Spanish",,1105
+4684,"TEDU - 
+				
+				  
+            Education",,0801
+4684,"THEA - 
+				
+				  
+            Theatre Arts",,1007
+4684,"WGSS - 
+				
+				  
+            Women's, Gender And Sexuality Studies",,4949
+to_campus_id,department_name,from_campus_id,department_id
+4690,Select a UW-Whitewater Department,,
+4690,"ACCOUNT - 
+				
+				  
+            Accounting",,0502
+4690,"ACINDP - 
+				
+				  
+            Arts & Communication Interdepartmental",,1001
+4690,"AFRIAMR - 
+				
+				  
+            African American Studies",,2211
+4690,"AMERIND - 
+				
+				  
+            American Indian Studies",,2212
+4690,"ANTHROPL - 
+				
+				  
+            Anthropology",,2202
+4690,"ARTHIST - 
+				
+				  
+            Art History",,1003
+4690,"ARTSTDIO - 
+				
+				  
+            Art Studio",,1002
+4690,"ASTRONMY - 
+				
+				  
+            Astronomy",,1911
+4690,"BEINDP - 
+				
+				  
+            Business & Economics Interdepartmental",,0517
+4690,"BIOLOGY - 
+				
+				  
+            Biological Sciences",,0401
+4690,"CHEM - 
+				
+				  
+            Chemistry",,1905
+4690,"CHICANO - 
+				
+				  
+            Chicano Studies",,2213
+4690,"CIFLD - 
+				
+				  
+            Curriculum & Instruction Field",,0863
+4690,"CIGENRL - 
+				
+				  
+            Curriculum & Instruction General",,0829
+4690,"COACHING - 
+				
+				  
+            Coaching",,0877
+4690,"COMDIS - 
+				
+				  
+            Communication Sciences And Disorders",,1220
+4690,"COMM - 
+				
+				  
+            Communication",,1506
+4690,"COMPSCI - 
+				
+				  
+            Computer Science",,0701
+4690,"DANCE - 
+				
+				  
+            Dance",,1008
+4690,"DEVLPED - 
+				
+				  
+            Developmental Education",,4957
+4690,"EARLYCHD - 
+				
+				  
+            Early Childhood",,0823
+4690,"ECON - 
+				
+				  
+            Economics",,2204
+4690,"EDFNDPRC - 
+				
+				  
+            Educational Foundations Practicum",,0862
+4690,"EDFOUND - 
+				
+				  
+            Educational Foundations",,0821
+4690,"EDUINDP - 
+				
+				  
+            Education Interdepartmental",,0801
+4690,"ELEMMID - 
+				
+				  
+            Elementary/middle School Education",,0802
+4690,"ENGLISH - 
+				
+				  
+            English",,1501
+4690,"ENVSCI - 
+				
+				  
+            Environmental Science",,4955
+4690,"FILM - 
+				
+				  
+            Film",,1010
+4690,"FNBSLW - 
+				
+				  
+            Finance & Business Law",,0504
+4690,"FORNLANG - 
+				
+				  
+            Foreign Languages General",,1512
+4690,"FRENCH - 
+				
+				  
+            French",,1102
+4690,"GENED - 
+				
+				  
+            Interdisciplinary",,4931
+4690,"GEOGRPY - 
+				
+				  
+            Geography",,2206
+4690,"GEOLGY - 
+				
+				  
+            Geology",,1914
+4690,"GERMAN - 
+				
+				  
+            German",,1103
+4690,"HEALTHED - 
+				
+				  
+            Health Education",,0837
+4690,"HISTRY - 
+				
+				  
+            History",,2205
+4690,"INTRAUNV - 
+				
+				  
+            Intrauniversity",,4913
+4690,"INTRNAR - 
+				
+				  
+            International And Area Studies",,2210
+4690,"ITBE - 
+				
+				  
+            Information Technology & Business Ed",,0838
+4690,"JOURNLSM - 
+				
+				  
+            Journalism",,0601
+4690,"LDRSHP - 
+				
+				  
+            Leadership Military Science & Aerospace",,1801
+4690,"LIBMEDIA - 
+				
+				  
+            Library Media",,0855
+4690,"LSINDP - 
+				
+				  
+            Letters & Science Interdepartmental",,4901
+4690,"MANGEMNT - 
+				
+				  
+            Management",,0506
+4690,"MARKETNG - 
+				
+				  
+            Marketing",,0509
+4690,"MATH - 
+				
+				  
+            Mathematics",,1701
+4690,"MCS - 
+				
+				  
+            Management Computer Systems",,0702
+4690,"MUSC - 
+				
+				  
+            Music",,1005
+4690,"PEGNRL - 
+				
+				  
+            Physical Education General",,0870
+4690,"PEPROF - 
+				
+				  
+            Physical Education Professional",,0876
+4690,"PHILSPHY - 
+				
+				  
+            Philosophy",,1509
+4690,"PHYSCS - 
+				
+				  
+            Physics",,1902
+4690,"POLISCI - 
+				
+				  
+            Political Science",,2207
+4690,"PSYCH - 
+				
+				  
+            Psychology",,2001
+4690,"RACEETH - 
+				
+				  
+            Race & Ethnic Cultures General",,2222
+4690,"RECREATN - 
+				
+				  
+            Recreation",,2103
+4690,"RELIGST - 
+				
+				  
+            Religious Studies",,1510
+4690,"SOCIOLGY - 
+				
+				  
+            Sociology",,2208
+4690,"SOCWORK - 
+				
+				  
+            Social Work",,2104
+4690,"SPANISH - 
+				
+				  
+            Spanish",,1105
+4690,"SPECED - 
+				
+				  
+            Special Education",,0808
+4690,"SPECFLD - 
+				
+				  
+            Special Education Field",,0865
+4690,"THEATRE - 
+				
+				  
+            Theatre",,1007
+4690,"WOMENST - 
+				
+				  
+            Womens And Gender Studies",,4949
+4684,Select a UW-Parkside Department,,
+4684,"ACCT - 
+				
+				  
+            Accounting",,0502
+4684,"ACSK - 
+				
+				  
+            Academic Skills Development",,4957
+4684,"AHS - 
+				
+				  
+            Applied Health Sciences",,1229
+4684,"ART - 
+				
+				  
+            Art",,1002
+4684,"BIOS - 
+				
+				  
+            Biological Sciences",,0401
+4684,"BUS - 
+				
+				  
+            General Business",,0501
+4684,"CBL - 
+				
+				  
+            Community Based Learning",,4925
+4684,"CHEM - 
+				
+				  
+            Chemistry",,1905
+4684,"COMM - 
+				
+				  
+            Communications",,0601
+4684,"CRMJ - 
+				
+				  
+            Criminal Justice",,2105
+4684,"CSCI - 
+				
+				  
+            Computer Science",,0701
+4684,"ECON - 
+				
+				  
+            Economics",,2204
+4684,"ENGL - 
+				
+				  
+            English",,1501
+4684,"ETHN - 
+				
+				  
+            Ethnic Studies",,0326
+4684,"FIN - 
+				
+				  
+            Finance",,0504
+4684,"FREN - 
+				
+				  
+            French Studies",,1102
+4684,"GEOG - 
+				
+				  
+            Geography",,2206
+4684,"GEOS - 
+				
+				  
+            Geosciences",,1914
+4684,"GER - 
+				
+				  
+            German Studies",,1103
+4684,"GNED - 
+				
+				  
+            General Education",,4901
+4684,"GSCI - 
+				
+				  
+            Science Div",,4902
+4684,"HESM - 
+				
+				  
+            Health, Exercise Science & Sport Mngmnt",,0870
+4684,"HIST - 
+				
+				  
+            History",,2205
+4684,"HONS - 
+				
+				  
+            Acad. Talented/specially Skilled Prog.",,4907
+4684,"HRM - 
+				
+				  
+            Human Resource Management",,0516
+4684,"HUMA - 
+				
+				  
+            Humanities",,4915
+4684,"INTS - 
+				
+				  
+            International Studies",,2210
+4684,"ISTD - 
+				
+				  
+            Interdisciplinary Studies",,2012
+4684,"MATH - 
+				
+				  
+            Mathematics",,1701
+4684,"MGT - 
+				
+				  
+            Management",,0506
+4684,"MIS - 
+				
+				  
+            Management Information Systems",,0703
+4684,"MKT - 
+				
+				  
+            Marketing",,0509
+4684,"MODL - 
+				
+				  
+            Modern Languages",,1101
+4684,"MUSA - 
+				
+				  
+            Music, Applied",,1004
+4684,"MUSI - 
+				
+				  
+            Music",,1005
+4684,"NURS - 
+				
+				  
+            U.w.-mil. Consortial Nursing Program",,1203
+4684,"PHIL - 
+				
+				  
+            Philosophy",,1509
+4684,"PHYS - 
+				
+				  
+            Physics",,1902
+4684,"POLS - 
+				
+				  
+            Political Science",,2207
+4684,"PSYC - 
+				
+				  
+            Psychology",,2001
+4684,"QM - 
+				
+				  
+            Statistics And Quantitative Methods",,0503
+4684,"SOCA - 
+				
+				  
+            Sociology",,2208
+4684,"SPAN - 
+				
+				  
+            Spanish",,1105
+4684,"TEDU - 
+				
+				  
+            Education",,0801
+4684,"THEA - 
+				
+				  
+            Theatre Arts",,1007
+4684,"WGSS - 
+				
+				  
+            Women's, Gender And Sexuality Studies",,4949
+to_campus_id,department_name,from_campus_id,department_id
+4684,Select a UW-Parkside Department,4690,
+4684,"ACCT - 
+				
+				  
+            Accounting",4690,0502
+4684,"ACSK - 
+				
+				  
+            Academic Skills Development",4690,4957
+4684,"AHS - 
+				
+				  
+            Applied Health Sciences",4690,1229
+4684,"ART - 
+				
+				  
+            Art",4690,1002
+4684,"BIOS - 
+				
+				  
+            Biological Sciences",4690,0401
+4684,"BUS - 
+				
+				  
+            General Business",4690,0501
+4684,"CBL - 
+				
+				  
+            Community Based Learning",4690,4925
+4684,"CHEM - 
+				
+				  
+            Chemistry",4690,1905
+4684,"COMM - 
+				
+				  
+            Communications",4690,0601
+4684,"CRMJ - 
+				
+				  
+            Criminal Justice",4690,2105
+4684,"CSCI - 
+				
+				  
+            Computer Science",4690,0701
+4684,"ECON - 
+				
+				  
+            Economics",4690,2204
+4684,"ENGL - 
+				
+				  
+            English",4690,1501
+4684,"ETHN - 
+				
+				  
+            Ethnic Studies",4690,0326
+4684,"FIN - 
+				
+				  
+            Finance",4690,0504
+4684,"FREN - 
+				
+				  
+            French Studies",4690,1102
+4684,"GEOG - 
+				
+				  
+            Geography",4690,2206
+4684,"GEOS - 
+				
+				  
+            Geosciences",4690,1914
+4684,"GER - 
+				
+				  
+            German Studies",4690,1103
+4684,"GNED - 
+				
+				  
+            General Education",4690,4901
+4684,"GSCI - 
+				
+				  
+            Science Div",4690,4902
+4684,"HESM - 
+				
+				  
+            Health, Exercise Science & Sport Mngmnt",4690,0870
+4684,"HIST - 
+				
+				  
+            History",4690,2205
+4684,"HONS - 
+				
+				  
+            Acad. Talented/specially Skilled Prog.",4690,4907
+4684,"HRM - 
+				
+				  
+            Human Resource Management",4690,0516
+4684,"HUMA - 
+				
+				  
+            Humanities",4690,4915
+4684,"INTS - 
+				
+				  
+            International Studies",4690,2210
+4684,"ISTD - 
+				
+				  
+            Interdisciplinary Studies",4690,2012
+4684,"MATH - 
+				
+				  
+            Mathematics",4690,1701
+4684,"MGT - 
+				
+				  
+            Management",4690,0506
+4684,"MIS - 
+				
+				  
+            Management Information Systems",4690,0703
+4684,"MKT - 
+				
+				  
+            Marketing",4690,0509
+4684,"MODL - 
+				
+				  
+            Modern Languages",4690,1101
+4684,"MUSA - 
+				
+				  
+            Music, Applied",4690,1004
+4684,"MUSI - 
+				
+				  
+            Music",4690,1005
+4684,"NURS - 
+				
+				  
+            U.w.-mil. Consortial Nursing Program",4690,1203
+4684,"PHIL - 
+				
+				  
+            Philosophy",4690,1509
+4684,"PHYS - 
+				
+				  
+            Physics",4690,1902
+4684,"POLS - 
+				
+				  
+            Political Science",4690,2207
+4684,"PSYC - 
+				
+				  
+            Psychology",4690,2001
+4684,"QM - 
+				
+				  
+            Statistics And Quantitative Methods",4690,0503
+4684,"SOCA - 
+				
+				  
+            Sociology",4690,2208
+4684,"SPAN - 
+				
+				  
+            Spanish",4690,1105
+4684,"TEDU - 
+				
+				  
+            Education",4690,0801
+4684,"THEA - 
+				
+				  
+            Theatre Arts",4690,1007
+4684,"WGSS - 
+				
+				  
+            Women's, Gender And Sexuality Studies",4690,4949
+4690,Select a UW-Whitewater Department,4684,
+4690,"ACCOUNT - 
+				
+				  
+            Accounting",4684,0502
+4690,"ACINDP - 
+				
+				  
+            Arts & Communication Interdepartmental",4684,1001
+4690,"AFRIAMR - 
+				
+				  
+            African American Studies",4684,2211
+4690,"AMERIND - 
+				
+				  
+            American Indian Studies",4684,2212
+4690,"ANTHROPL - 
+				
+				  
+            Anthropology",4684,2202
+4690,"ARTHIST - 
+				
+				  
+            Art History",4684,1003
+4690,"ARTSTDIO - 
+				
+				  
+            Art Studio",4684,1002
+4690,"ASTRONMY - 
+				
+				  
+            Astronomy",4684,1911
+4690,"BEINDP - 
+				
+				  
+            Business & Economics Interdepartmental",4684,0517
+4690,"BIOLOGY - 
+				
+				  
+            Biological Sciences",4684,0401
+4690,"CHEM - 
+				
+				  
+            Chemistry",4684,1905
+4690,"CHICANO - 
+				
+				  
+            Chicano Studies",4684,2213
+4690,"CIFLD - 
+				
+				  
+            Curriculum & Instruction Field",4684,0863
+4690,"CIGENRL - 
+				
+				  
+            Curriculum & Instruction General",4684,0829
+4690,"COACHING - 
+				
+				  
+            Coaching",4684,0877
+4690,"COMDIS - 
+				
+				  
+            Communication Sciences And Disorders",4684,1220
+4690,"COMM - 
+				
+				  
+            Communication",4684,1506
+4690,"COMPSCI - 
+				
+				  
+            Computer Science",4684,0701
+4690,"DANCE - 
+				
+				  
+            Dance",4684,1008
+4690,"DEVLPED - 
+				
+				  
+            Developmental Education",4684,4957
+4690,"EARLYCHD - 
+				
+				  
+            Early Childhood",4684,0823
+4690,"ECON - 
+				
+				  
+            Economics",4684,2204
+4690,"EDFNDPRC - 
+				
+				  
+            Educational Foundations Practicum",4684,0862
+4690,"EDFOUND - 
+				
+				  
+            Educational Foundations",4684,0821
+4690,"EDUINDP - 
+				
+				  
+            Education Interdepartmental",4684,0801
+4690,"ELEMMID - 
+				
+				  
+            Elementary/middle School Education",4684,0802
+4690,"ENGLISH - 
+				
+				  
+            English",4684,1501
+4690,"ENVSCI - 
+				
+				  
+            Environmental Science",4684,4955
+4690,"FILM - 
+				
+				  
+            Film",4684,1010
+4690,"FNBSLW - 
+				
+				  
+            Finance & Business Law",4684,0504
+4690,"FORNLANG - 
+				
+				  
+            Foreign Languages General",4684,1512
+4690,"FRENCH - 
+				
+				  
+            French",4684,1102
+4690,"GENED - 
+				
+				  
+            Interdisciplinary",4684,4931
+4690,"GEOGRPY - 
+				
+				  
+            Geography",4684,2206
+4690,"GEOLGY - 
+				
+				  
+            Geology",4684,1914
+4690,"GERMAN - 
+				
+				  
+            German",4684,1103
+4690,"HEALTHED - 
+				
+				  
+            Health Education",4684,0837
+4690,"HISTRY - 
+				
+				  
+            History",4684,2205
+4690,"INTRAUNV - 
+				
+				  
+            Intrauniversity",4684,4913
+4690,"INTRNAR - 
+				
+				  
+            International And Area Studies",4684,2210
+4690,"ITBE - 
+				
+				  
+            Information Technology & Business Ed",4684,0838
+4690,"JOURNLSM - 
+				
+				  
+            Journalism",4684,0601
+4690,"LDRSHP - 
+				
+				  
+            Leadership Military Science & Aerospace",4684,1801
+4690,"LIBMEDIA - 
+				
+				  
+            Library Media",4684,0855
+4690,"LSINDP - 
+				
+				  
+            Letters & Science Interdepartmental",4684,4901
+4690,"MANGEMNT - 
+				
+				  
+            Management",4684,0506
+4690,"MARKETNG - 
+				
+				  
+            Marketing",4684,0509
+4690,"MATH - 
+				
+				  
+            Mathematics",4684,1701
+4690,"MCS - 
+				
+				  
+            Management Computer Systems",4684,0702
+4690,"MUSC - 
+				
+				  
+            Music",4684,1005
+4690,"PEGNRL - 
+				
+				  
+            Physical Education General",4684,0870
+4690,"PEPROF - 
+				
+				  
+            Physical Education Professional",4684,0876
+4690,"PHILSPHY - 
+				
+				  
+            Philosophy",4684,1509
+4690,"PHYSCS - 
+				
+				  
+            Physics",4684,1902
+4690,"POLISCI - 
+				
+				  
+            Political Science",4684,2207
+4690,"PSYCH - 
+				
+				  
+            Psychology",4684,2001
+4690,"RACEETH - 
+				
+				  
+            Race & Ethnic Cultures General",4684,2222
+4690,"RECREATN - 
+				
+				  
+            Recreation",4684,2103
+4690,"RELIGST - 
+				
+				  
+            Religious Studies",4684,1510
+4690,"SOCIOLGY - 
+				
+				  
+            Sociology",4684,2208
+4690,"SOCWORK - 
+				
+				  
+            Social Work",4684,2104
+4690,"SPANISH - 
+				
+				  
+            Spanish",4684,1105
+4690,"SPECED - 
+				
+				  
+            Special Education",4684,0808
+4690,"SPECFLD - 
+				
+				  
+            Special Education Field",4684,0865
+4690,"THEATRE - 
+				
+				  
+            Theatre",4684,1007
+4690,"WOMENST - 
+				
+				  
+            Womens And Gender Studies",4684,4949

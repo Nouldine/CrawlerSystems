@@ -1,0 +1,1561 @@
+to,level,credits,course_2,title_2,course_1,from_,gen_ed,title_1,special
+9999,,2.0,NDC,No Degree Credit,MATH (804) 100,4663,,Mathematics For Electronics Ma,5
+9999,,3.0,NDC,No Degree Credit,MATH (804) 102,4663,,Math of Finance,5
+9999,,0.0,NDC,No Degree Credit,MATH (804) 106,4663,,Intro to College Math,5
+9999,L,3.0,MAT EL,Mathematics Elective,MATH (804) 107,4663,,College Mathematics,
+9999,,3.0,NDC,No Degree Credit,MATH (804) 110,4663,,Elem Algebra W Apps,5
+9999,,1.0,NDC,No Degree Credit,MATH (804) 111,4663,,Technical Mathematics a,5
+9999,,1.0,NDC,No Degree Credit,MATH (804) 112,4663,,Technical Mathematics B,5
+9999,P,3.0,MAT 091,Elementary Algebra,MATH (804) 113,4663,,College Technical Math 1a,5
+9999,,2.0,NDC,No Degree Credit,MATH (804) 114,4663,,College Technical Math 1b,5
+9999,P,5.0,MAT 091,Elementary Algebra,MATH (804) 115,4663,,College Technical Math 1,5
+9999,L,3.0,MAT EL,Mathematics Elective,MATH (804) 116,4663,MS,College Technical Math 2,
+9999,L,4.0,MAT 105,Intro College Algebra,MATH (804) 118,4663,EL,Interm Algebra W Apps,
+9999,,3.0,NDC,No Degree Credit,MATH (804) 133,4663,,Math & Logic,5
+9999,,3.0,NDC,No Degree Credit,MATH (804) 141,4663,,Basic Technical Math,5
+9999,,5.0,NDC,No Degree Credit,MATH (804) 151,4663,,Tech Math I,5
+9999,L,3.0,MAT 117,Elementary Statistics,MATH (804) 189,4663,"UCTA,MS",Introductory Statistics,22
+9999,L,3.0,MAT 110,College Algebra,MATH (804) 195,4663,"MS,CR",College Algebra W Apps,
+9999,L,3.0,MAT 113,Trigonometry,MATH (804) 196,4663,MS,Trigonometry W Apps,
+9999,L,2.0,MAT 124,Pre-Calculus Mathematics,MATH (804) 197,4663,"UCTA,MS",College Technical Math 1b,22
+9999,L,4.0,MAT 221,Calc & Analy Geom I,MATH (804) 198,4663,MS,Calculus 1,
+9999,L,2.0,BIO EL,Biology Elective,NATSCI (806) 106,4663,NS,Pathogenic Microbiology,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 114,4663,"NS, LS, UCTA",General Biology,22
+9999,L,4.0,CHE 125,Introductory Chemistry,NATSCI (806) 134,4663,"UCTA,LS,NS",General Chemistry,22
+9999,L,4.0,PHY 141,College Physics I,NATSCI (806) 154,4663,"UCTA,LS,NS",General Physics 1,22
+9999,L,4.0,BIO 182,Human Anat & Physiology,NATSCI (806) 177,4663,"LS,NS",Gen Anatomy & Physiology,215
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 179,4663,"NS, LS",Adv Anatomy & Physiology,215
+9999,L,4.0,CHE EL,Chemistry Elective,NATSCI (806) 186,4663,NS,Intro to Biochemistry,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 195,4663,NS,Anatomy & Physiology 1,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 196,4663,NS,Anatomy & Physiology 2,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 197,4663,NS,Microbiology,
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 100,4663,,Personal Finance-Consumer Econ,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 101,4663,,Cents & Sensibility,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 102,4663,,Leadership As An Art,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 104,4663,,Marriage&Family/Relationships,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 105,4663,,Econ Management,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 106,4663,,Econ Decisions,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 107,4663,,Take Ctrl of One's Financial F,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 109,4663,,Leadership Development/Student,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 111,4663,,Trng Behavior Science Skill &,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 112,4663,,Current Econ Issues - Immigrat,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 113,4663,,Developmental Psychology,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 114,4663,,Industrial/Organizational Psyc,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 115,4663,,Global Cultural Awareness,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 116,4663,,Global Cultural Awareness 2,5
+9999,L,3.0,POL 104,Amer Gov & Politics,SOCSCI (809) 122,4663,"UCTA,SS",Intro to Amer Government,22
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 128,4663,,Marriage & Family,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 132,4663,,Futurism-Changing World of Wor,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 133,4663,,Growth/Development,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 134,4663,,Chg Roles of Men & Women At Wo,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 136,4663,,Abnormal Psycholog,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 138,4663,,Exceptional Person,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 153,4663,,Gender Roles in Society,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 155,4663,,Student & Community Leadership,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 157,4663,,Labor&Ind Relation,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 158,4663,,International Relations/Politi,5
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 159,4663,,Abnormal Psychology,
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 161,4663,,College Success,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 163,4663,,Economics For Bankers,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 164,4663,,World Cultures,5
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 166,4663,"EL, UCTA",Intro to Ethics: Theory & App,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 172,4663,"SS, UCTA",Introduction to Diversity Stud,22
+9999,L,3.0,SOC 130,Contemp Social Prob,SOCSCI (809) 174,4663,SS,Social Problems,
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 188,4663,SS,Developmental Psychology,
+9999,L,3.0,ECO 101,Intro to Economics,SOCSCI (809) 195,4663,"UCTA,SS",Economics,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 196,4663,"SS, UCTA",Intro to Sociology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 197,4663,SS,Contemporary American Society,
+9999,L,3.0,PSY 202,Introductory Psych,SOCSCI (809) 198,4663,"UCTA,SS",Intro to Psychology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 199,4663,SS,Psychology of Human Relations,
+9999,,2.0,NDC,No Degree Credit,MATH (804) 100,4663,,Mathematics For Electronics Ma,5
+9999,,3.0,NDC,No Degree Credit,MATH (804) 102,4663,,Math of Finance,5
+9999,,0.0,NDC,No Degree Credit,MATH (804) 106,4663,,Intro to College Math,5
+9999,L,3.0,MAT EL,Mathematics Elective,MATH (804) 107,4663,,College Mathematics,
+9999,,3.0,NDC,No Degree Credit,MATH (804) 110,4663,,Elem Algebra W Apps,5
+9999,,1.0,NDC,No Degree Credit,MATH (804) 111,4663,,Technical Mathematics a,5
+9999,,1.0,NDC,No Degree Credit,MATH (804) 112,4663,,Technical Mathematics B,5
+9999,P,3.0,MAT 091,Elementary Algebra,MATH (804) 113,4663,,College Technical Math 1a,5
+9999,,2.0,NDC,No Degree Credit,MATH (804) 114,4663,,College Technical Math 1b,5
+9999,P,5.0,MAT 091,Elementary Algebra,MATH (804) 115,4663,,College Technical Math 1,5
+9999,L,3.0,MAT EL,Mathematics Elective,MATH (804) 116,4663,MS,College Technical Math 2,
+9999,L,4.0,MAT 105,Intro College Algebra,MATH (804) 118,4663,EL,Interm Algebra W Apps,
+9999,,3.0,NDC,No Degree Credit,MATH (804) 133,4663,,Math & Logic,5
+9999,,3.0,NDC,No Degree Credit,MATH (804) 141,4663,,Basic Technical Math,5
+9999,,5.0,NDC,No Degree Credit,MATH (804) 151,4663,,Tech Math I,5
+9999,L,3.0,MAT 117,Elementary Statistics,MATH (804) 189,4663,"UCTA,MS",Introductory Statistics,22
+9999,L,3.0,MAT 110,College Algebra,MATH (804) 195,4663,"MS,CR",College Algebra W Apps,
+9999,L,3.0,MAT 113,Trigonometry,MATH (804) 196,4663,MS,Trigonometry W Apps,
+9999,L,2.0,MAT 124,Pre-Calculus Mathematics,MATH (804) 197,4663,"UCTA,MS",College Technical Math 1b,22
+9999,L,4.0,MAT 221,Calc & Analy Geom I,MATH (804) 198,4663,MS,Calculus 1,
+9999,L,2.0,BIO EL,Biology Elective,NATSCI (806) 106,4663,NS,Pathogenic Microbiology,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 114,4663,"NS, LS, UCTA",General Biology,22
+9999,L,4.0,CHE 125,Introductory Chemistry,NATSCI (806) 134,4663,"UCTA,LS,NS",General Chemistry,22
+9999,L,4.0,PHY 141,College Physics I,NATSCI (806) 154,4663,"UCTA,LS,NS",General Physics 1,22
+9999,L,4.0,BIO 182,Human Anat & Physiology,NATSCI (806) 177,4663,"LS,NS",Gen Anatomy & Physiology,215
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 179,4663,"NS, LS",Adv Anatomy & Physiology,215
+9999,L,4.0,CHE EL,Chemistry Elective,NATSCI (806) 186,4663,NS,Intro to Biochemistry,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 195,4663,NS,Anatomy & Physiology 1,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 196,4663,NS,Anatomy & Physiology 2,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 197,4663,NS,Microbiology,
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 100,4663,,Personal Finance-Consumer Econ,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 101,4663,,Cents & Sensibility,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 102,4663,,Leadership As An Art,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 104,4663,,Marriage&Family/Relationships,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 105,4663,,Econ Management,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 106,4663,,Econ Decisions,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 107,4663,,Take Ctrl of One's Financial F,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 109,4663,,Leadership Development/Student,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 111,4663,,Trng Behavior Science Skill &,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 112,4663,,Current Econ Issues - Immigrat,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 113,4663,,Developmental Psychology,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 114,4663,,Industrial/Organizational Psyc,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 115,4663,,Global Cultural Awareness,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 116,4663,,Global Cultural Awareness 2,5
+9999,L,3.0,POL 104,Amer Gov & Politics,SOCSCI (809) 122,4663,"UCTA,SS",Intro to Amer Government,22
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 128,4663,,Marriage & Family,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 132,4663,,Futurism-Changing World of Wor,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 133,4663,,Growth/Development,5
+9999,L,3.0,CTA 103,Intro Public Speaking,SPEECH (810) 108,4663,"UCTA,AP",Fundamentals of Speech,22
+9999,,1.0,NDC,No Degree Credit,SPEECH (810) 109,4663,,Technical Presentations,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 134,4663,,Chg Roles of Men & Women At Wo,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 136,4663,,Abnormal Psycholog,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 138,4663,,Exceptional Person,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 153,4663,,Gender Roles in Society,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 155,4663,,Student & Community Leadership,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 157,4663,,Labor&Ind Relation,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 158,4663,,International Relations/Politi,5
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 159,4663,,Abnormal Psychology,
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 161,4663,,College Success,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 163,4663,,Economics For Bankers,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 164,4663,,World Cultures,5
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 166,4663,"EL, UCTA",Intro to Ethics: Theory & App,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 172,4663,"SS, UCTA",Introduction to Diversity Stud,22
+9999,L,3.0,SOC 130,Contemp Social Prob,SOCSCI (809) 174,4663,SS,Social Problems,
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 188,4663,SS,Developmental Psychology,
+9999,L,3.0,ECO 101,Intro to Economics,SOCSCI (809) 195,4663,"UCTA,SS",Economics,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 196,4663,"SS, UCTA",Intro to Sociology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 197,4663,SS,Contemporary American Society,
+9999,L,3.0,PSY 202,Introductory Psych,SOCSCI (809) 198,4663,"UCTA,SS",Intro to Psychology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 199,4663,SS,Psychology of Human Relations,
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 101,4663,,English/Related,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 102,4663,,Creative Writing,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 103,4663,,Creative Problem Solving,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 104,4663,,Critical/Creative Thinking,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 105,4663,,News Reporting 1,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 106,4663,,Feature Rept II,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 107,4663,,Publ Prep III,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 108,4663,,News Edit IV,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 109,4663,,Decision Making,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 110,4663,,Fundamentals of Communication,5
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 111,4663,,Basic Voc&Grammar,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 112,4663,,Language At Work,5
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 113,4663,,Composition,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 114,4663,,Portfolio-Life Work Experience,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 115,4663,,Electronic Research,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 116,4663,,Writing in the Workplace,5
+9999,L,3.0,ENG 101,College Write & Critical Read,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+9999,L,3.0,CTA EL,Communication and Theatre Arts Elective,COMMSK (801) 151,4663,AP,Comm I,
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 154,4663,,Bus Correspondence,5
+9999,L,3.0,ENG 102,"Crit Write, Read, and Research",COMMSK (801) 155,4663,,English Composition 2,
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 157,4663,,Non-Verbal Communication,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 159,4663,,Writing For Profit,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 163,4663,,Employment Skills For Technici,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 194,4663,,Technical Language Skills,5
+9999,L,3.0,ENG EL,English Elective,COMMSK (801) 195,4663,UCTA,Written Communication,22
+9999,L,3.0,CTA 101,Interpersonal Comm,COMMSK (801) 196,4663,AP,Oral/Interpersonal Comm,
+9999,L,3.0,ENG 206,Technical Writing,COMMSK (801) 197,4663,AP,Technical Reporting,
+9999,L,3.0,CTA 103,Intro Public Speaking,COMMSK (801) 198,4663,"UCTA,AP",Speech,22
+9999,L,3.0,CTA 103,Intro Public Speaking,SPEECH (810) 108,4663,"UCTA,AP",Fundamentals of Speech,22
+9999,,1.0,NDC,No Degree Credit,SPEECH (810) 109,4663,,Technical Presentations,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 101,4663,,English/Related,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 102,4663,,Creative Writing,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 103,4663,,Creative Problem Solving,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 104,4663,,Critical/Creative Thinking,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 105,4663,,News Reporting 1,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 106,4663,,Feature Rept II,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 107,4663,,Publ Prep III,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 108,4663,,News Edit IV,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 109,4663,,Decision Making,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 110,4663,,Fundamentals of Communication,5
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 111,4663,,Basic Voc&Grammar,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 112,4663,,Language At Work,5
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 113,4663,,Composition,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 114,4663,,Portfolio-Life Work Experience,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 115,4663,,Electronic Research,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 116,4663,,Writing in the Workplace,5
+9999,L,3.0,ENG 101,College Write & Critical Read,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+9999,L,3.0,CTA EL,Communication and Theatre Arts Elective,COMMSK (801) 151,4663,AP,Comm I,
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 154,4663,,Bus Correspondence,5
+9999,L,3.0,ENG 102,"Crit Write, Read, and Research",COMMSK (801) 155,4663,,English Composition 2,
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 157,4663,,Non-Verbal Communication,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 159,4663,,Writing For Profit,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 163,4663,,Employment Skills For Technici,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 194,4663,,Technical Language Skills,5
+9999,L,3.0,ENG EL,English Elective,COMMSK (801) 195,4663,UCTA,Written Communication,22
+9999,L,3.0,CTA 101,Interpersonal Comm,COMMSK (801) 196,4663,AP,Oral/Interpersonal Comm,
+9999,L,3.0,ENG 206,Technical Writing,COMMSK (801) 197,4663,AP,Technical Reporting,
+9999,L,3.0,CTA 103,Intro Public Speaking,COMMSK (801) 198,4663,"UCTA,AP",Speech,22
+4670,L,3.0,GEN EL,General Elective,ANHUSB (091) 104,4663,,Intro to Animal Science,
+4670,L,2.0,GEN EL,General Elective,ANHUSB (091) 172,4663,,Medical Terminology - Vet 1,
+4670,L,2.0,IS EL,Information Systems Elective,ITNET (150) 114,4663,,Principles of Information Secu,
+4670,,2.0,GEN CONF,General Confer,ITMCS (154) 133,4663,,Computer Concepts,"2, 11"
+4670,U,3.0,C S 322,Animation Program,ITMCS (154) 134,4663,,Using Flash For Web Site Devel,
+4670,L,3.0,ACCT EL,Accounting Elective,ACCTG (101) 110,4663,,Accounting Information Systems,
+4670,L,4.0,ACCT 201,Intro to Acctg,ACCTG (101) 111,4663,,Accounting 1,
+4670,U,4.0,ACCT 312,Managerial Acctg,ACCTG (101) 113,4663,,Accounting 2,
+4670,L,4.0,ACCT EL,Accounting Elective,ACCTG (101) 115,4663,,Intermediate Accounting,
+4670,L,4.0,ACCT EL,Accounting Elective,ACCTG (101) 120,4663,,Accounting IV,
+4670,L,3.0,ACCT EL,Accounting Elective,ACCTG (101) 121,4663,,Individual Tax Accounting,
+4670,L,2.0,ACCT EL,Accounting Elective,ACCTG (101) 122,4663,,Cost Analysis,
+4670,L,3.0,ACCT EL,Accounting Elective,ACCTG (101) 124,4663,,Auditing,
+4670,L,2.0,ACCT EL,Accounting Elective,ACCTG (101) 125,4663,,Cost Accounting,
+4670,L,3.0,ACCT EL,Accounting Elective,ACCTG (101) 135,4663,,Payroll Accounting,
+4670,L,2.0,ACCT EL,Accounting Elective,ACCTG (101) 136,4663,,Accounting Spreadsheet Applica,
+4670,L,3.0,ACCT EL,Accounting Elective,ACCTG (101) 178,4663,,Accounting Computer Applicatio,
+4670,L,3.0,C S 100,Computr Info Tech,COMPSOFT (103) 240,4663,GE-IB,Office 2016 Level 1,
+4670,L,3.0,NRSG 220,Language of Healt,MEDTERM (501) 101,4663,,Medical Terminology,
+4670,,3.0,GEN CONF,General Confer,MEDTERM (501) 112,4663,,Introduction to Public Health,"2, 11"
+4670,L,1.0,HCAD EL,Health Care Administration Elective,MEDTERM (501) 190,4663,,Introduction to Health Careers,
+4670,L,2.0,ART 274,Comp Des Prncpls,VICOM (206) 160,4663,,Video For Social Media,
+4670,L,3.0,BSAD EL,Business Administration Elective,SUPDEV (196) 114,4663,,Lean Organizations,
+4670,L,3.0,BSAD EL,Business Administration Elective,SUPDEV (196) 169,4663,,Leading Change and Diversity,
+4670,L,3.0,BSAD EL,Business Administration Elective,SUPDEV (196) 188,4663,,Project Management,
+4670,L,3.0,BSAD EL,Business Administration Elective,SUPDEV (196) 189,4663,,Team Building and Problem Solv,
+4670,U,3.0,MGMT 300,Leadership,SUPDEV (196) 190,4663,,Leading Strategically,
+4670,L,3.0,BSAD EL,Business Administration Elective,SUPDEV (196) 193,4663,,Managing Human Resources & Lab,
+4670,L,3.0,IS EL,Information Systems Elective,SUPDEV (196) 198,4663,,Technology For Business Leader,
+4670,L,3.0,BSAD EL,Business Administration Elective,BUSADM (102) 101,4663,,International Business Practic,
+4670,L,3.0,BSAD 100,Intro Bus World,BUSADM (102) 124,4663,,Introduction to Business,
+4670,L,3.0,BSAD EL,Business Administration Elective,BUSADM (102) 127,4663,,Mentored Business Experience,
+4670,L,3.0,BSAD 145,Essn Business Law,BUSADM (102) 160,4663,,Business Law 1,
+4670,L,3.0,BSAD EL,Business Administration Elective,PRTG (204) 111,4663,,Printing Estimating,
+4670,L,2.0,ART EL,Art Elective,PRTG (204) 112,4663,,Introduction to Printing,
+4670,L,3.0,C J EL,Communication & Journalism Elective,PRTG (204) 118,4663,,Digital Video,
+4670,L,2.0,ART 274,Comp Des Prncpls,PRTG (204) 122,4663,,Computer Illustration,
+4670,L,2.0,ART 274,Comp Des Prncpls,PRTG (204) 123,4663,,Computer Page Layout,
+4670,U,2.0,ART 312,Dgtl Img & Des,PRTG (204) 126,4663,"GE-IV, LE-K4, LE-S3",Photoshop/Image Manipulation,
+4670,L,3.0,ART 281,Intro Photo Art,PRTG (204) 135,4663,"GE-IV, LE-S3",Digital Photography/Image Capt,
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 148,4663,,Ece: Foundations of Ece,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 151,4663,,Ece: Infant & Toddler Dev,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 166,4663,,Ece: Curriculum Planning,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 167,4663,,Ece: Hlth Safety & Nutrition,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 174,4663,,Ece: Practicum 1,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 178,4663,,Ece: Art Music & Lang Arts,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 179,4663,,Ece: Child Development,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 187,4663,,Ece: Children W Diff Abilities,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 188,4663,,Ece: Guiding Child Behavior,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 192,4663,,Ece: Practicum 2,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 194,4663,,Ece: Math Science & Soc St,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 195,4663,,Ece: Family & Community Rel,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 197,4663,,Ece: Practicum 3,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 198,4663,,Ece: Admin An Ece Program,5
+4670,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 199,4663,,Ece: Practicum 4,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 100,4663,,Personal Finance-Consumer Econ,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 101,4663,,Cents & Sensibility,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 102,4663,,Leadership As An Art,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 104,4663,,Marriage&Family/Relationships,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 105,4663,,Econ Management,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 106,4663,,Econ Decisions,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 107,4663,,Take Ctrl of One's Financial F,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 109,4663,,Leadership Development/Student,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 111,4663,,Trng Behavior Science Skill &,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 112,4663,,Current Econ Issues - Immigrat,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 113,4663,,Developmental Psychology,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 114,4663,,Industrial/Organizational Psyc,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 115,4663,,Global Cultural Awareness,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 116,4663,,Global Cultural Awareness 2,5
+9999,L,3.0,POL 104,Amer Gov & Politics,SOCSCI (809) 122,4663,"UCTA,SS",Intro to Amer Government,22
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 128,4663,,Marriage & Family,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 132,4663,,Futurism-Changing World of Wor,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 133,4663,,Growth/Development,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 134,4663,,Chg Roles of Men & Women At Wo,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 136,4663,,Abnormal Psycholog,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 138,4663,,Exceptional Person,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 153,4663,,Gender Roles in Society,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 155,4663,,Student & Community Leadership,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 157,4663,,Labor&Ind Relation,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 158,4663,,International Relations/Politi,5
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 159,4663,,Abnormal Psychology,
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 161,4663,,College Success,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 163,4663,,Economics For Bankers,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 164,4663,,World Cultures,5
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 166,4663,"EL, UCTA",Intro to Ethics: Theory & App,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 172,4663,"SS, UCTA",Introduction to Diversity Stud,22
+9999,L,3.0,SOC 130,Contemp Social Prob,SOCSCI (809) 174,4663,SS,Social Problems,
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 188,4663,SS,Developmental Psychology,
+9999,L,3.0,ECO 101,Intro to Economics,SOCSCI (809) 195,4663,"UCTA,SS",Economics,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 196,4663,"SS, UCTA",Intro to Sociology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 197,4663,SS,Contemporary American Society,
+9999,L,3.0,PSY 202,Introductory Psych,SOCSCI (809) 198,4663,"UCTA,SS",Intro to Psychology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 199,4663,SS,Psychology of Human Relations,
+4670,P,3.0,MATH 010,Bas Math & El Alg,MATGEN (834) 110,4663,,Elem Algebra With Apps,
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 148,4663,,Ece: Foundations of Ece,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 151,4663,,Ece: Infant & Toddler Dev,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 166,4663,,Ece: Curriculum Planning,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 167,4663,,Ece: Hlth Safety & Nutrition,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 174,4663,,Ece: Practicum 1,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 178,4663,,Ece: Art Music & Lang Arts,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 179,4663,,Ece: Child Development,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 187,4663,,Ece: Children W Diff Abilities,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 188,4663,,Ece: Guiding Child Behavior,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 192,4663,,Ece: Practicum 2,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 194,4663,,Ece: Math Science & Soc St,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 195,4663,,Ece: Family & Community Rel,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 197,4663,,Ece: Practicum 3,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 198,4663,,Ece: Admin An Ece Program,5
+4656,,3.0,NDC,No Degree Credit,EARLYCHLD (307) 199,4663,,Ece: Practicum 4,5
+9999,L,3.0,CTA 103,Intro Public Speaking,SPEECH (810) 108,4663,"UCTA,AP",Fundamentals of Speech,22
+9999,,1.0,NDC,No Degree Credit,SPEECH (810) 109,4663,,Technical Presentations,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 100,4663,,Personal Finance-Consumer Econ,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 101,4663,,Cents & Sensibility,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 102,4663,,Leadership As An Art,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 104,4663,,Marriage&Family/Relationships,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 105,4663,,Econ Management,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 106,4663,,Econ Decisions,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 107,4663,,Take Ctrl of One's Financial F,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 109,4663,,Leadership Development/Student,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 111,4663,,Trng Behavior Science Skill &,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 112,4663,,Current Econ Issues - Immigrat,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 113,4663,,Developmental Psychology,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 114,4663,,Industrial/Organizational Psyc,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 115,4663,,Global Cultural Awareness,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 116,4663,,Global Cultural Awareness 2,5
+9999,L,3.0,POL 104,Amer Gov & Politics,SOCSCI (809) 122,4663,"UCTA,SS",Intro to Amer Government,22
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 128,4663,,Marriage & Family,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 132,4663,,Futurism-Changing World of Wor,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 133,4663,,Growth/Development,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 134,4663,,Chg Roles of Men & Women At Wo,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 136,4663,,Abnormal Psycholog,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 138,4663,,Exceptional Person,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 153,4663,,Gender Roles in Society,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 155,4663,,Student & Community Leadership,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 157,4663,,Labor&Ind Relation,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 158,4663,,International Relations/Politi,5
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 159,4663,,Abnormal Psychology,
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 161,4663,,College Success,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 163,4663,,Economics For Bankers,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 164,4663,,World Cultures,5
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 166,4663,"EL, UCTA",Intro to Ethics: Theory & App,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 172,4663,"SS, UCTA",Introduction to Diversity Stud,22
+9999,L,3.0,SOC 130,Contemp Social Prob,SOCSCI (809) 174,4663,SS,Social Problems,
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 188,4663,SS,Developmental Psychology,
+9999,L,3.0,ECO 101,Intro to Economics,SOCSCI (809) 195,4663,"UCTA,SS",Economics,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 196,4663,"SS, UCTA",Intro to Sociology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 197,4663,SS,Contemporary American Society,
+9999,L,3.0,PSY 202,Introductory Psych,SOCSCI (809) 198,4663,"UCTA,SS",Intro to Psychology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 199,4663,SS,Psychology of Human Relations,
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 101,4663,,English/Related,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 102,4663,,Creative Writing,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 103,4663,,Creative Problem Solving,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 104,4663,,Critical/Creative Thinking,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 105,4663,,News Reporting 1,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 106,4663,,Feature Rept II,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 107,4663,,Publ Prep III,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 108,4663,,News Edit IV,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 109,4663,,Decision Making,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 110,4663,,Fundamentals of Communication,5
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 111,4663,,Basic Voc&Grammar,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 112,4663,,Language At Work,5
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 113,4663,,Composition,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 114,4663,,Portfolio-Life Work Experience,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 115,4663,,Electronic Research,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 116,4663,,Writing in the Workplace,5
+9999,L,3.0,ENG 101,College Write & Critical Read,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+9999,L,3.0,CTA EL,Communication and Theatre Arts Elective,COMMSK (801) 151,4663,AP,Comm I,
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 154,4663,,Bus Correspondence,5
+9999,L,3.0,ENG 102,"Crit Write, Read, and Research",COMMSK (801) 155,4663,,English Composition 2,
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 157,4663,,Non-Verbal Communication,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 159,4663,,Writing For Profit,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 163,4663,,Employment Skills For Technici,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 194,4663,,Technical Language Skills,5
+9999,L,3.0,ENG EL,English Elective,COMMSK (801) 195,4663,UCTA,Written Communication,22
+9999,L,3.0,CTA 101,Interpersonal Comm,COMMSK (801) 196,4663,AP,Oral/Interpersonal Comm,
+9999,L,3.0,ENG 206,Technical Writing,COMMSK (801) 197,4663,AP,Technical Reporting,
+9999,L,3.0,CTA 103,Intro Public Speaking,COMMSK (801) 198,4663,"UCTA,AP",Speech,22
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 100,4663,,Personal Finance-Consumer Econ,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 101,4663,,Cents & Sensibility,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 102,4663,,Leadership As An Art,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 104,4663,,Marriage&Family/Relationships,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 105,4663,,Econ Management,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 106,4663,,Econ Decisions,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 107,4663,,Take Ctrl of One's Financial F,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 109,4663,,Leadership Development/Student,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 111,4663,,Trng Behavior Science Skill &,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 112,4663,,Current Econ Issues - Immigrat,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 113,4663,,Developmental Psychology,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 114,4663,,Industrial/Organizational Psyc,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 115,4663,,Global Cultural Awareness,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 116,4663,,Global Cultural Awareness 2,5
+9999,L,3.0,POL 104,Amer Gov & Politics,SOCSCI (809) 122,4663,"UCTA,SS",Intro to Amer Government,22
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 128,4663,,Marriage & Family,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 132,4663,,Futurism-Changing World of Wor,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 133,4663,,Growth/Development,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 134,4663,,Chg Roles of Men & Women At Wo,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 136,4663,,Abnormal Psycholog,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 138,4663,,Exceptional Person,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 153,4663,,Gender Roles in Society,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 155,4663,,Student & Community Leadership,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 157,4663,,Labor&Ind Relation,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 158,4663,,International Relations/Politi,5
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 159,4663,,Abnormal Psychology,
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 161,4663,,College Success,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 163,4663,,Economics For Bankers,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 164,4663,,World Cultures,5
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 166,4663,"EL, UCTA",Intro to Ethics: Theory & App,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 172,4663,"SS, UCTA",Introduction to Diversity Stud,22
+9999,L,3.0,SOC 130,Contemp Social Prob,SOCSCI (809) 174,4663,SS,Social Problems,
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 188,4663,SS,Developmental Psychology,
+9999,L,3.0,ECO 101,Intro to Economics,SOCSCI (809) 195,4663,"UCTA,SS",Economics,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 196,4663,"SS, UCTA",Intro to Sociology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 197,4663,SS,Contemporary American Society,
+9999,L,3.0,PSY 202,Introductory Psych,SOCSCI (809) 198,4663,"UCTA,SS",Intro to Psychology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 199,4663,SS,Psychology of Human Relations,
+9999,L,2.0,BIO EL,Biology Elective,NATSCI (806) 106,4663,NS,Pathogenic Microbiology,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 114,4663,"NS, LS, UCTA",General Biology,22
+9999,L,4.0,CHE 125,Introductory Chemistry,NATSCI (806) 134,4663,"UCTA,LS,NS",General Chemistry,22
+9999,L,4.0,PHY 141,College Physics I,NATSCI (806) 154,4663,"UCTA,LS,NS",General Physics 1,22
+9999,L,4.0,BIO 182,Human Anat & Physiology,NATSCI (806) 177,4663,"LS,NS",Gen Anatomy & Physiology,215
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 179,4663,"NS, LS",Adv Anatomy & Physiology,215
+9999,L,4.0,CHE EL,Chemistry Elective,NATSCI (806) 186,4663,NS,Intro to Biochemistry,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 195,4663,NS,Anatomy & Physiology 1,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 196,4663,NS,Anatomy & Physiology 2,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 197,4663,NS,Microbiology,
+9999,,2.0,NDC,No Degree Credit,MATH (804) 100,4663,,Mathematics For Electronics Ma,5
+9999,,3.0,NDC,No Degree Credit,MATH (804) 102,4663,,Math of Finance,5
+9999,,0.0,NDC,No Degree Credit,MATH (804) 106,4663,,Intro to College Math,5
+9999,L,3.0,MAT EL,Mathematics Elective,MATH (804) 107,4663,,College Mathematics,
+9999,,3.0,NDC,No Degree Credit,MATH (804) 110,4663,,Elem Algebra W Apps,5
+9999,,1.0,NDC,No Degree Credit,MATH (804) 111,4663,,Technical Mathematics a,5
+9999,,1.0,NDC,No Degree Credit,MATH (804) 112,4663,,Technical Mathematics B,5
+9999,P,3.0,MAT 091,Elementary Algebra,MATH (804) 113,4663,,College Technical Math 1a,5
+9999,,2.0,NDC,No Degree Credit,MATH (804) 114,4663,,College Technical Math 1b,5
+9999,P,5.0,MAT 091,Elementary Algebra,MATH (804) 115,4663,,College Technical Math 1,5
+9999,L,3.0,MAT EL,Mathematics Elective,MATH (804) 116,4663,MS,College Technical Math 2,
+9999,L,4.0,MAT 105,Intro College Algebra,MATH (804) 118,4663,EL,Interm Algebra W Apps,
+9999,,3.0,NDC,No Degree Credit,MATH (804) 133,4663,,Math & Logic,5
+9999,,3.0,NDC,No Degree Credit,MATH (804) 141,4663,,Basic Technical Math,5
+9999,,5.0,NDC,No Degree Credit,MATH (804) 151,4663,,Tech Math I,5
+9999,L,3.0,MAT 117,Elementary Statistics,MATH (804) 189,4663,"UCTA,MS",Introductory Statistics,22
+9999,L,3.0,MAT 110,College Algebra,MATH (804) 195,4663,"MS,CR",College Algebra W Apps,
+9999,L,3.0,MAT 113,Trigonometry,MATH (804) 196,4663,MS,Trigonometry W Apps,
+9999,L,2.0,MAT 124,Pre-Calculus Mathematics,MATH (804) 197,4663,"UCTA,MS",College Technical Math 1b,22
+9999,L,4.0,MAT 221,Calc & Analy Geom I,MATH (804) 198,4663,MS,Calculus 1,
+9999,L,3.0,CTA 103,Intro Public Speaking,SPEECH (810) 108,4663,"UCTA,AP",Fundamentals of Speech,22
+9999,,1.0,NDC,No Degree Credit,SPEECH (810) 109,4663,,Technical Presentations,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 100,4663,,Personal Finance-Consumer Econ,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 101,4663,,Cents & Sensibility,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 102,4663,,Leadership As An Art,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 104,4663,,Marriage&Family/Relationships,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 105,4663,,Econ Management,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 106,4663,,Econ Decisions,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 107,4663,,Take Ctrl of One's Financial F,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 109,4663,,Leadership Development/Student,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 111,4663,,Trng Behavior Science Skill &,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 112,4663,,Current Econ Issues - Immigrat,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 113,4663,,Developmental Psychology,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 114,4663,,Industrial/Organizational Psyc,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 115,4663,,Global Cultural Awareness,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 116,4663,,Global Cultural Awareness 2,5
+9999,L,3.0,POL 104,Amer Gov & Politics,SOCSCI (809) 122,4663,"UCTA,SS",Intro to Amer Government,22
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 128,4663,,Marriage & Family,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 132,4663,,Futurism-Changing World of Wor,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 133,4663,,Growth/Development,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 134,4663,,Chg Roles of Men & Women At Wo,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 136,4663,,Abnormal Psycholog,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 138,4663,,Exceptional Person,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 153,4663,,Gender Roles in Society,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 155,4663,,Student & Community Leadership,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 157,4663,,Labor&Ind Relation,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 158,4663,,International Relations/Politi,5
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 159,4663,,Abnormal Psychology,
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 161,4663,,College Success,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 163,4663,,Economics For Bankers,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 164,4663,,World Cultures,5
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 166,4663,"EL, UCTA",Intro to Ethics: Theory & App,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 172,4663,"SS, UCTA",Introduction to Diversity Stud,22
+9999,L,3.0,SOC 130,Contemp Social Prob,SOCSCI (809) 174,4663,SS,Social Problems,
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 188,4663,SS,Developmental Psychology,
+9999,L,3.0,ECO 101,Intro to Economics,SOCSCI (809) 195,4663,"UCTA,SS",Economics,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 196,4663,"SS, UCTA",Intro to Sociology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 197,4663,SS,Contemporary American Society,
+9999,L,3.0,PSY 202,Introductory Psych,SOCSCI (809) 198,4663,"UCTA,SS",Intro to Psychology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 199,4663,SS,Psychology of Human Relations,
+9999,L,3.0,CTA 103,Intro Public Speaking,SPEECH (810) 108,4663,"UCTA,AP",Fundamentals of Speech,22
+9999,,1.0,NDC,No Degree Credit,SPEECH (810) 109,4663,,Technical Presentations,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 101,4663,,English/Related,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 102,4663,,Creative Writing,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 103,4663,,Creative Problem Solving,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 104,4663,,Critical/Creative Thinking,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 105,4663,,News Reporting 1,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 106,4663,,Feature Rept II,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 107,4663,,Publ Prep III,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 108,4663,,News Edit IV,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 109,4663,,Decision Making,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 110,4663,,Fundamentals of Communication,5
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 111,4663,,Basic Voc&Grammar,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 112,4663,,Language At Work,5
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 113,4663,,Composition,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 114,4663,,Portfolio-Life Work Experience,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 115,4663,,Electronic Research,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 116,4663,,Writing in the Workplace,5
+9999,L,3.0,ENG 101,College Write & Critical Read,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+9999,L,3.0,CTA EL,Communication and Theatre Arts Elective,COMMSK (801) 151,4663,AP,Comm I,
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 154,4663,,Bus Correspondence,5
+9999,L,3.0,ENG 102,"Crit Write, Read, and Research",COMMSK (801) 155,4663,,English Composition 2,
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 157,4663,,Non-Verbal Communication,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 159,4663,,Writing For Profit,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 163,4663,,Employment Skills For Technici,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 194,4663,,Technical Language Skills,5
+9999,L,3.0,ENG EL,English Elective,COMMSK (801) 195,4663,UCTA,Written Communication,22
+9999,L,3.0,CTA 101,Interpersonal Comm,COMMSK (801) 196,4663,AP,Oral/Interpersonal Comm,
+9999,L,3.0,ENG 206,Technical Writing,COMMSK (801) 197,4663,AP,Technical Reporting,
+9999,L,3.0,CTA 103,Intro Public Speaking,COMMSK (801) 198,4663,"UCTA,AP",Speech,22
+4652,U,3.0,EDUC 326,Foundations of Education,EARLYCHLD (307) 148,4663,,Ece: Foundations of Ece,"597, 6"
+4652,U,3.0,ECE 303,Dap: Infants and Toddlers,EARLYCHLD (307) 151,4663,,Ece: Infant & Toddler Dev,597
+4652,,3.0,ECE EL,Early Childhood Education Elective,EARLYCHLD (307) 166,4663,,Ece: Curriculum Planning,
+4652,L,3.0,FN 236,Nutrition For Young Children,EARLYCHLD (307) 167,4663,,Ece: Hlth Safety & Nutrition,"597, 6"
+4652,,3.0,ECE EL,Early Childhood Education Elective,EARLYCHLD (307) 174,4663,,Ece: Practicum 1,
+4652,L,3.0,MUSIC 206,Music For the Young Child,EARLYCHLD (307) 178,4663,,Ece: Art Music & Lang Arts,"597, 6"
+4652,L,3.0,HDFS 124,Human Dev: Early/Pre-Adol.,EARLYCHLD (307) 179,4663,,Ece: Child Development,598
+4652,U,3.0,SPED 430,Inclusion of Stu W/Excep Need,EARLYCHLD (307) 187,4663,,Ece: Children W Diff Abilities,597
+4652,U,3.0,ECE 364,Observ/Guid Children: Ece,EARLYCHLD (307) 188,4663,,Ece: Guiding Child Behavior,597
+4652,,3.0,ECE EL,Early Childhood Education Elective,EARLYCHLD (307) 192,4663,,Ece: Practicum 2,
+4652,,3.0,ECE EL,Early Childhood Education Elective,EARLYCHLD (307) 194,4663,,Ece: Math Science & Soc St,
+4652,U,3.0,ECE 435,"Child, Fam, School & Community",EARLYCHLD (307) 195,4663,,Ece: Family & Community Rel,597
+4652,,3.0,ECE EL,Early Childhood Education Elective,EARLYCHLD (307) 197,4663,,Ece: Practicum 3,
+4652,U,3.0,ECE 421,Admin-Early Chldhood Programs,EARLYCHLD (307) 198,4663,,Ece: Admin An Ece Program,"597, 6"
+4652,,3.0,ECE EL,Early Childhood Education Elective,EARLYCHLD (307) 199,4663,,Ece: Practicum 4,
+4680,L,3.0,PHIL 121,Critical Thinking,SOCSCI (809) 103,4663,"HU3,HU",Think Critically & Creatively,
+4680,L,3.0,HD 367,Intimacy&Family Frmtn,SOCSCI (809) 104,4663,"SS2,SS",Marriage&Family/Relationships,"325, 352"
+4680,L,3.0,GEN EL,General Elective,SOCSCI (809) 113,4663,SS,Developmental Psychology,"225, 330, 325"
+4680,L,3.0,POLI 101,American Politics,SOCSCI (809) 122,4663,"UCTA,SS1,SS,USD",Intro to Amer Government,"351, 325, 22"
+4680,L,3.0,HD 367,Intimacy&Family Frmtn,SOCSCI (809) 128,4663,"SS2,SS",Marriage & Family,"352, 231, 325"
+4680,L,3.0,EDUC 351,Ed Studnts Spcl Needs,SOCSCI (809) 138,4663,,Exceptional Person,"360, 231, 325, 374"
+4680,L,3.0,PSYC EL,Psychology Elective,SOCSCI (809) 159,4663,SS,Abnormal Psychology,
+4680,L,3.0,PHIL 101,Contem Moral Problems,SOCSCI (809) 166,4663,"UCTA,HU3,HU",Intro to Ethics: Theory & App,"353, 325, 22"
+4680,L,3.0,GEN EL,General Elective,SOCSCI (809) 170,4663,HU,Tolerance and Inhumanity,
+4680,L,3.0,GEN EL,General Elective,SOCSCI (809) 172,4663,"SS, USD, UCTA",Introduction to Diversity Stud,"330, 404, 226, 325, 22"
+4680,L,3.0,GEN EL,General Elective,SOCSCI (809) 174,4663,"SS, USD",Social Problems,"330, 404, 226, 325"
+4680,L,3.0,HD 265,Human Growth&Develpmt,SOCSCI (809) 188,4663,"SS2,WLN",Developmental Psychology,
+4680,L,3.0,ECON 100,Intro to Economics,SOCSCI (809) 195,4663,"SS, UCTA",Economics,"336, 325, 22"
+4680,L,3.0,SOC 101,Intro to Sociology,SOCSCI (809) 196,4663,"UCTA,SS1,MNS,SS,USD",Intro to Sociology,22
+4680,L,3.0,GEN EL,General Elective,SOCSCI (809) 197,4663,"SS, USD",Contemporary American Society,"330, 404, 226, 337"
+4680,L,3.0,PSYC 110,Intro to Psychology,SOCSCI (809) 198,4663,"UCTA,SS1,SS",Intro to Psychology,22
+4680,L,3.0,PSYC EL,Psychology Elective,SOCSCI (809) 199,4663,SS,Psychology of Human Relations,
+4652,L,2.0,MATH 120,Intro College Math I,MATH (804) 100,4663,"ARNS,MATH",Mathematics For Electronics Ma,
+4652,,0.0,NDC,No Degree Credit,MATH (804) 102,4663,,Math of Finance,5
+4652,,4.0,NDC,No Degree Credit,MATH (804) 105,4663,,Technical Mathematics 1-Mech D,5
+4652,,3.0,NDC,No Degree Credit,MATH (804) 106,4663,,Intro to College Math,5
+4652,P,3.0,MATH EL,Mathematics Elective,MATH (804) 107,4663,"ARNS, MATH",College Mathematics,
+4652,P,3.0,MATH 010,Fundamentals of Algebra,MATH (804) 110,4663,,Elem Algebra W Apps,
+4652,,0.0,NDC,No Degree Credit,MATH (804) 111,4663,,Technical Mathematics a,1127
+4652,,0.0,NDC,No Degree Credit,MATH (804) 112,4663,,Technical Mathematics B,1127
+4652,L,3.0,MATH EL,Mathematics Elective,MATH (804) 113,4663,"ANRSN, MATH, ARNS",College Technical Math 1a,593
+4652,L,2.0,MATH EL,Mathematics Elective,MATH (804) 114,4663,"ANRSN, MATH, ARNS",College Technical Math 1b,593
+4652,L,4.0,MATH 120,Intro College Math I,MATH (804) 115,4663,"ARNS,MATH",College Technical Math 1,6
+4652,L,4.0,MATH 121,Intro College Math II,MATH (804) 116,4663,"UCTA,ARNS,MATH",College Technical Math 2,22
+4652,P,4.0,MATH 110,Intermediate Algebra,MATH (804) 118,4663,,Interm Algebra W Apps,
+4652,,3.0,MATH EL,Mathematics Elective,MATH (804) 123,4663,"ARNS, MATH",Math W Business Apps,
+4652,L,3.0,MATH 118,Concepts of Mathematics,MATH (804) 133,4663,"ARNS,MATH",Math & Logic,
+4652,P,3.0,MATH 110,Intermediate Algebra,MATH (804) 141,4663,,Basic Technical Math,
+4652,,2.0,NDC,No Degree Credit,MATH (804) 142,4663,,Intermediate Tech Math-Interpr,5
+4652,,4.0,NDC,No Degree Credit,MATH (804) 150,4663,,Technical Mathematics,5
+4652,L,5.0,MATH 120,Intro College Math I,MATH (804) 151,4663,"ARNS,MATH",Tech Math I,
+4652,,2.0,MATH EL,Mathematics Elective,MATH (804) 152,4663,ANRSN,Technical Mathematics 2,
+4652,L,5.0,MATH 120,Intro College Math I,MATH (804) 153,4663,"ARNS,MATH",Elec Tech Math I,
+4652,L,4.0,MATH 121,Intro College Math II,MATH (804) 154,4663,"UCTA,ARNS,MATH",Electronics Tech Math 2,22
+4652,,3.0,NDC,No Degree Credit,MATH (804) 156,4663,,Tech Math Prob 1,5
+4652,L,3.0,STAT 130,Elementary Statistics,MATH (804) 161,4663,"UCTA,ARNS,STAT",Business Statistics/Insurance,"16, 22"
+4652,L,2.0,MATH 121,Intro College Math II,MATH (804) 168,4663,"UCTA,ARNS,MATH",Technical Mathematics 2 - Resi,22
+4652,,3.0,NDC,No Degree Credit,MATH (804) 170,4663,,Cis Mathmetics and Logic,5
+4652,L,3.0,STAT 130,Elementary Statistics,MATH (804) 174,4663,"UCTA,ARNS,STAT",Stats For Business,22
+4652,L,2.0,STAT 130,Elementary Statistics,MATH (804) 189,4663,"UCTA,ARNS,STAT",Introductory Statistics,"6, 22"
+4652,,3.0,NDC,No Degree Credit,MATH (804) 191,4663,,Laser Tech Math I,5
+4652,,3.0,NDC,No Degree Credit,MATH (804) 192,4663,,Laser Tech Math II,5
+4652,L,3.0,MATH 120,Intro College Math I,MATH (804) 195,4663,"ARNS,MATH",College Algebra W Apps,
+4652,L,3.0,MATH 121,Intro College Math II,MATH (804) 196,4663,"UCTA,ARNS,MATH",Trigonometry W Apps,22
+4652,L,2.0,MATH 121,Intro College Math II,MATH (804) 197,4663,"UCTA,ARNS,MATH",College Technical Math 1b,22
+4652,L,4.0,MATH 153,Calculus I,MATH (804) 198,4663,"ARNS,MATH",Calculus 1,
+4652,,3.0,PHYS EL,Physics Elective,NATSCI (806) 100,4663,"NSCI, PHYSC",Technical Physics Engineering,
+4652,,2.0,NDC,No Degree Credit,NATSCI (806) 101,4663,,Bio-Chemistry,5
+4652,,3.0,NDC,No Degree Credit,NATSCI (806) 103,4663,,Anatmy&Physiology,5
+4652,,2.0,BIO EL,Biology Elective,NATSCI (806) 106,4663,,Pathogenic Microbiology,
+4652,,2.0,CTE EL,Career and Technical Education Elective,NATSCI (806) 109,4663,,Pharmacology,16
+4652,L,4.0,BIO 101,Introductory Biology,NATSCI (806) 114,4663,"UCTA,ARNS",General Biology,22
+4652,,3.0,PHYS EL,Physics Elective,NATSCI (806) 123,4663,,Rad Biophysics I,16
+4652,,3.0,PHYS EL,Physics Elective,NATSCI (806) 124,4663,,Rad Biophysics 2,16
+4652,L,4.0,CHEM 115,General Chemistry,NATSCI (806) 134,4663,"UCTA,ARNS,PHYSC",General Chemistry,22
+4652,,2.0,BIO EL,Biology Elective,NATSCI (806) 142,4663,,Cross-Sectional Anatomy,16
+4652,,3.0,PHYS EL,Physics Elective,NATSCI (806) 143,4663,"ARNS, PHYSC",College Physics 1,
+4652,,3.0,PHYS EL,Physics Elective,NATSCI (806) 151,4663,"NSCI, PHYSC",Technical Physics 1,16
+4652,,3.0,PHYS EL,Physics Elective,NATSCI (806) 152,4663,"NSCI, PHYSC",Technical Physics 2,16
+4652,L,4.0,PHYS 231,General Physics I,NATSCI (806) 154,4663,"NSCI, PHYSC, LAB, UCTA",General Physics 1,22
+4652,,3.0,NDC,No Degree Credit,NATSCI (806) 156,4663,,Technical Physics-Electromecha,5
+4652,,2.0,NDC,No Degree Credit,NATSCI (806) 157,4663,,Technical Physics - Auto,5
+4652,,3.0,PHYS EL,Physics Elective,NATSCI (806) 158,4663,"NSCI, PHYSC, LAB",Technical Physics Res Design 1,
+4652,,3.0,PHYS EL,Physics Elective,NATSCI (806) 159,4663,"NSCI, PHYSC, LAB",Technical Physics Res Design 2,
+4652,L,3.0,CHEM 105,Visualizing Chemistry,NATSCI (806) 171,4663,"ARNS,PHYSC",Technical Chemistry,
+4652,L,4.0,BIO 132,Human Biology,NATSCI (806) 177,4663,"ARNS,LFSC",Gen Anatomy & Physiology,800
+4652,,4.0,BIO EL,Biology Elective,NATSCI (806) 179,4663,"NSCI, PHYSC, ARNS, LFSC",Adv Anatomy & Physiology,800
+4652,,3.0,PHYS EL,Physics Elective,NATSCI (806) 180,4663,"NSCI, PHYSC, LAB",Tech Physics 1,
+4652,,3.0,PHYS EL,Physics Elective,NATSCI (806) 183,4663,"NSCI, PHYSC, LAB",Tech Physics 2,
+4652,,4.0,CHEM EL,Chemistry Elective,NATSCI (806) 186,4663,"NSCI, PHYSC, LAB, ARNS",Intro to Biochemistry,
+4652,L,4.0,BIO 234,Physiology and Anatomy,NATSCI (806) 195,4663,"NSCI, LFSC, LAB, GLP",Anatomy & Physiology 1,
+4652,,4.0,BIO EL,Biology Elective,NATSCI (806) 196,4663,"NSCI, LFSC, LAB, GLP",Anatomy & Physiology 2,
+4652,U,4.0,BIO 306,General Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4652,P,0.0,ENGL 090,Writing Workshop,COMMSK (801) 101,4663,,English/Related,
+4652,,1.0,ENGL EL,English Elective,COMMSK (801) 102,4663,,Creative Writing,
+4652,,0.0,NDC,No Degree Credit,COMMSK (801) 103,4663,,Creative Problem Solving,5
+4652,,0.0,NDC,No Degree Credit,COMMSK (801) 104,4663,,Critical/Creative Thinking,5
+4652,,1.0,ENGL EL,English Elective,COMMSK (801) 105,4663,,News Reporting 1,
+4652,,0.0,NDC,No Degree Credit,COMMSK (801) 106,4663,,Feature Rept II,5
+4652,,0.0,NDC,No Degree Credit,COMMSK (801) 107,4663,,Publ Prep III,5
+4652,,0.0,NDC,No Degree Credit,COMMSK (801) 108,4663,,News Edit IV,5
+4652,,0.0,NDC,No Degree Credit,COMMSK (801) 109,4663,,Decision Making,5
+4652,,0.0,NDC,No Degree Credit,COMMSK (801) 110,4663,,Fundamentals of Communication,5
+4652,,0.0,NDC,No Degree Credit,COMMSK (801) 114,4663,,Portfolio-Life Work Experience,5
+4652,L,3.0,ENGL 101,Composition 1,COMMSK (801) 136,4663,"UCTA,COMSK",English Composition 1,22
+4652,,1.0,ENGL EL,English Elective,COMMSK (801) 154,4663,COMSK,Bus Correspondence,
+4652,,0.0,NDC,No Degree Credit,COMMSK (801) 159,4663,,Writing For Profit,5
+4652,,1.0,COM EL,School of Management Elective,COMMSK (801) 163,4663,,Employment Skills For Technici,
+4652,L,3.0,ENGL EL,English Elective,COMMSK (801) 194,4663,,Technical Language Skills,6
+4652,L,3.0,ENGL 101,Composition 1,COMMSK (801) 195,4663,"UCTA,COMSK",Written Communication,22
+4652,L,3.0,COMST 100,Fundamentals of Speech,COMMSK (801) 196,4663,"UCTA,COMSK,SPKG",Oral/Interpersonal Comm,"6, 22"
+4652,U,3.0,ENGL 415,Technical Writing,COMMSK (801) 197,4663,,Technical Reporting,
+4652,L,3.0,COMST 100,Fundamentals of Speech,COMMSK (801) 198,4663,"UCTA,COMSK,SPKG",Speech,"6, 22"
+4652,P,3.0,MATH 010,Fundamentals of Algebra,MATGEN (834) 110,4663,,Elem Algebra With Apps,
+4652,L,2.0,COMST 100,Fundamentals of Speech,SPEECH (810) 108,4663,"UCTA,COMSK,SPKG",Fundamentals of Speech,22
+4652,,0.0,NDC,No Degree Credit,SPEECH (810) 109,4663,,Technical Presentations,5
+4652,,0.0,NDC,No Degree Credit,SOCSCI (809) 100,4663,,Personal Finance-Consumer Econ,5
+4652,,3.0,NDC,No Degree Credit,SOCSCI (809) 103,4663,,Think Critically & Creatively,5
+4652,L,3.0,HDFS 115,Healthy Couple Relationships,SOCSCI (809) 104,4663,,Marriage&Family/Relationships,"202, 7"
+4652,,0.0,NDC,No Degree Credit,SOCSCI (809) 105,4663,,Econ Management,5
+4652,,0.0,NDC,No Degree Credit,SOCSCI (809) 106,4663,,Econ Decisions,5
+4652,,0.0,NDC,No Degree Credit,SOCSCI (809) 107,4663,,Take Ctrl of One's Financial F,5
+4652,,0.0,NDC,No Degree Credit,SOCSCI (809) 109,4663,,Leadership Development/Student,5
+4652,,0.0,NDC,No Degree Credit,SOCSCI (809) 111,4663,,Trng Behavior Science Skill &,5
+4652,,3.0,PSYC EL,Psychology Elective,SOCSCI (809) 113,4663,"SBSCI, PSYC",Developmental Psychology,
+4652,,3.0,SRVM EL,Service Management Elective,SOCSCI (809) 115,4663,,Global Cultural Awareness,
+4652,L,3.0,POLS 210,American Government,SOCSCI (809) 122,4663,"UCTA,ESB,POLS,SBSCI",Intro to Amer Government,22
+4652,L,3.0,HDFS 115,Healthy Couple Relationships,SOCSCI (809) 128,4663,,Marriage & Family,
+4652,A,2.0,HDFS 654,The Workplace and the Family,SOCSCI (809) 134,4663,ESC,Chg Roles of Men & Women At Wo,"202, 7, 6"
+4652,,3.0,PSYC EL,Psychology Elective,SOCSCI (809) 136,4663,"SBSCI, PSYC",Abnormal Psycholog,
+4652,U,3.0,SPED EL,Special Education Elective,SOCSCI (809) 138,4663,,Exceptional Person,
+4652,,3.0,NDC,No Degree Credit,SOCSCI (809) 153,4663,,Gender Roles in Society,5
+4652,,0.0,NDC,No Degree Credit,SOCSCI (809) 155,4663,,Student & Community Leadership,5
+4652,,0.0,NDC,No Degree Credit,SOCSCI (809) 157,4663,,Labor&Ind Relation,5
+4652,,0.0,NDC,No Degree Credit,SOCSCI (809) 158,4663,,International Relations/Politi,5
+4652,U,3.0,PSYC 361,Abnormal Psychology,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4652,,0.0,NDC,No Degree Credit,SOCSCI (809) 161,4663,,College Success,5
+4652,,3.0,ECON EL,Economics Elective,SOCSCI (809) 163,4663,"SBSCI, ECON",Economics For Bankers,
+4652,,0.0,NDC,No Degree Credit,SOCSCI (809) 164,4663,,World Cultures,5
+4652,L,3.0,PHIL 235,General Ethics,SOCSCI (809) 166,4663,"UCTA,ARHU,PHIL,SRER",Intro to Ethics: Theory & App,22
+4652,,3.0,SOC EL,Sociology Elective,SOCSCI (809) 172,4663,"SBSCI, SOC, CISS, GLP, ESA, SRER",Introduction to Diversity Stud,22
+4652,L,3.0,SOC 225,Social Problems,SOCSCI (809) 174,4663,"ESB,SBSCI,SOC",Social Problems,
+4652,L,3.0,HDFS 255,Lifespan Human Development,SOCSCI (809) 188,4663,"PSYC,SBSCI",Developmental Psychology,
+4652,L,3.0,ECON 201,General Economics,SOCSCI (809) 195,4663,"UCTA,ECON,GLP,SBSCI",Economics,22
+4652,L,3.0,SOC 110,Introductory Sociology,SOCSCI (809) 196,4663,"UCTA,GLP,SBSCI,SOC",Intro to Sociology,22
+4652,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 197,4663,"SBSCI, SOC, ESC, GLP, ESB, CISS",Contemporary American Society,202
+4652,L,3.0,PSYC 110,General Psychology,SOCSCI (809) 198,4663,"UCTA,PSYC,SBSCI",Intro to Psychology,22
+4652,L,3.0,PSYC EL,Psychology Elective,SOCSCI (809) 199,4663,"SBSCI, PSYC",Psychology of Human Relations,
+4652,,2.0,NDC,No Degree Credit,GEN ST (890) 161,4663,,College Success,5
+9999,L,3.0,CTA 103,Intro Public Speaking,SPEECH (810) 108,4663,"UCTA,AP",Fundamentals of Speech,22
+9999,,1.0,NDC,No Degree Credit,SPEECH (810) 109,4663,,Technical Presentations,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 101,4663,,English/Related,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 102,4663,,Creative Writing,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 103,4663,,Creative Problem Solving,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 104,4663,,Critical/Creative Thinking,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 105,4663,,News Reporting 1,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 106,4663,,Feature Rept II,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 107,4663,,Publ Prep III,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 108,4663,,News Edit IV,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 109,4663,,Decision Making,5
+9999,,2.0,NDC,No Degree Credit,MATH (804) 100,4663,,Mathematics For Electronics Ma,5
+9999,,3.0,NDC,No Degree Credit,MATH (804) 102,4663,,Math of Finance,5
+9999,,0.0,NDC,No Degree Credit,MATH (804) 106,4663,,Intro to College Math,5
+9999,L,3.0,MAT EL,Mathematics Elective,MATH (804) 107,4663,,College Mathematics,
+9999,,3.0,NDC,No Degree Credit,MATH (804) 110,4663,,Elem Algebra W Apps,5
+9999,,1.0,NDC,No Degree Credit,MATH (804) 111,4663,,Technical Mathematics a,5
+9999,,1.0,NDC,No Degree Credit,MATH (804) 112,4663,,Technical Mathematics B,5
+9999,P,3.0,MAT 091,Elementary Algebra,MATH (804) 113,4663,,College Technical Math 1a,5
+9999,,2.0,NDC,No Degree Credit,MATH (804) 114,4663,,College Technical Math 1b,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 110,4663,,Fundamentals of Communication,5
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 111,4663,,Basic Voc&Grammar,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 112,4663,,Language At Work,5
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 113,4663,,Composition,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 114,4663,,Portfolio-Life Work Experience,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 115,4663,,Electronic Research,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 116,4663,,Writing in the Workplace,5
+9999,L,3.0,ENG 101,College Write & Critical Read,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+9999,L,3.0,CTA EL,Communication and Theatre Arts Elective,COMMSK (801) 151,4663,AP,Comm I,
+9999,L,2.0,BIO EL,Biology Elective,NATSCI (806) 106,4663,NS,Pathogenic Microbiology,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 114,4663,"NS, LS, UCTA",General Biology,22
+9999,L,4.0,CHE 125,Introductory Chemistry,NATSCI (806) 134,4663,"UCTA,LS,NS",General Chemistry,22
+9999,L,4.0,PHY 141,College Physics I,NATSCI (806) 154,4663,"UCTA,LS,NS",General Physics 1,22
+9999,L,4.0,BIO 182,Human Anat & Physiology,NATSCI (806) 177,4663,"LS,NS",Gen Anatomy & Physiology,215
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 179,4663,"NS, LS",Adv Anatomy & Physiology,215
+9999,L,4.0,CHE EL,Chemistry Elective,NATSCI (806) 186,4663,NS,Intro to Biochemistry,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 195,4663,NS,Anatomy & Physiology 1,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 196,4663,NS,Anatomy & Physiology 2,
+9999,L,4.0,BIO EL,Biology Elective,NATSCI (806) 197,4663,NS,Microbiology,
+9999,P,5.0,MAT 091,Elementary Algebra,MATH (804) 115,4663,,College Technical Math 1,5
+9999,L,3.0,MAT EL,Mathematics Elective,MATH (804) 116,4663,MS,College Technical Math 2,
+9999,L,4.0,MAT 105,Intro College Algebra,MATH (804) 118,4663,EL,Interm Algebra W Apps,
+9999,,3.0,NDC,No Degree Credit,MATH (804) 133,4663,,Math & Logic,5
+9999,,3.0,NDC,No Degree Credit,MATH (804) 141,4663,,Basic Technical Math,5
+9999,,5.0,NDC,No Degree Credit,MATH (804) 151,4663,,Tech Math I,5
+9999,L,3.0,MAT 117,Elementary Statistics,MATH (804) 189,4663,"UCTA,MS",Introductory Statistics,22
+9999,L,3.0,MAT 110,College Algebra,MATH (804) 195,4663,"MS,CR",College Algebra W Apps,
+9999,L,3.0,MAT 113,Trigonometry,MATH (804) 196,4663,MS,Trigonometry W Apps,
+9999,L,2.0,MAT 124,Pre-Calculus Mathematics,MATH (804) 197,4663,"UCTA,MS",College Technical Math 1b,22
+9999,L,4.0,MAT 221,Calc & Analy Geom I,MATH (804) 198,4663,MS,Calculus 1,
+9999,,2.0,NDC,No Degree Credit,COMMSK (801) 154,4663,,Bus Correspondence,5
+9999,L,3.0,ENG 102,"Crit Write, Read, and Research",COMMSK (801) 155,4663,,English Composition 2,
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 157,4663,,Non-Verbal Communication,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 159,4663,,Writing For Profit,5
+9999,,1.0,NDC,No Degree Credit,COMMSK (801) 163,4663,,Employment Skills For Technici,5
+9999,,3.0,NDC,No Degree Credit,COMMSK (801) 194,4663,,Technical Language Skills,5
+9999,L,3.0,ENG EL,English Elective,COMMSK (801) 195,4663,UCTA,Written Communication,22
+9999,L,3.0,CTA 101,Interpersonal Comm,COMMSK (801) 196,4663,AP,Oral/Interpersonal Comm,
+9999,L,3.0,ENG 206,Technical Writing,COMMSK (801) 197,4663,AP,Technical Reporting,
+9999,L,3.0,CTA 103,Intro Public Speaking,COMMSK (801) 198,4663,"UCTA,AP",Speech,22
+4682,E,3.0,WRIT 102,College Writing II,COMMSK (801) 136,4663,"T, UCTA",English Composition 1,22
+4682,,0.0,NDC,No Degree Credit,COMMSK (801) 194,4663,,Technical Language Skills,5
+4682,E,3.0,WRIT 101,College Writing I,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4682,E,3.0,WRIT 102,College Writing II,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4682,I,3.0,COMM 211,Interpersonal Communication,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4682,E,3.0,WRIT 209,Introduction to Profess Writ,COMMSK (801) 197,4663,WRIT2,Technical Reporting,
+4682,E,3.0,COMM 110,Introduction to Communication,COMMSK (801) 198,4663,"UCTA,CA",Speech,22
+4682,E,3.0,COMM 110,Introduction to Communication,SPEECH (810) 108,4663,"UCTA,CA",Fundamentals of Speech,22
+4682,E,3.0,POLS 150,"Sex, Scandal & Corrupt US Pol",SOCSCI (809) 122,4663,"UCTA,SS",Intro to Amer Government,22
+4682,I,3.0,SOCI EL,Sociology Elective,SOCSCI (809) 128,4663,,Marriage & Family,
+4682,I,3.0,PSYC EL,Psychology Elective,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4682,E,3.0,PHIL 211,Contemporary Moral Problems,SOCSCI (809) 166,4663,"UCTA,HHE,WLCP",Intro to Ethics: Theory & App,22
+4682,E,3.0,SOCI 273,Race and Ethnicity,SOCSCI (809) 172,4663,"UCTA,DIV,SS",Introduction to Diversity Stud,22
+4682,E,3.0,SOCI 200,Social Problems,SOCSCI (809) 174,4663,SS,Social Problems,
+4682,E,3.0,ECON 235,Economics in Society,SOCSCI (809) 195,4663,"UCTA,SS",Economics,22
+4682,E,3.0,SOCI 101,Intro to Sociology,SOCSCI (809) 196,4663,"UCTA,SS",Intro to Sociology,22
+4682,E,3.0,SOCI 200,Social Problems,SOCSCI (809) 197,4663,SS,Contemporary American Society,
+4682,E,3.0,PSYC 101,Introduction to Psychology,SOCSCI (809) 198,4663,"UCTA,SS",Intro to Psychology,22
+4682,E,2.0,PSYC EL,Psychology Elective,SOCSCI (809) 199,4663,,Psychology of Human Relations,
+4682,A,2.0,BIOL EL,Biology Elective,NATSCI (806) 106,4663,,Pathogenic Microbiology,
+4682,E,3.0,BIOL 270,Human Anatomy and Physiology I,NATSCI (806) 110,4663,,"Body, Structure & Function",
+4682,E,3.0,BIOL 100,Environmental Science,NATSCI (806) 112,4663,NS,Principles of Sustainability,
+4682,E,4.0,BIOL 123,Concepts in Biology,NATSCI (806) 114,4663,"UCTA,NS5,NS",General Biology,22
+4682,I,4.0,CHEM EL,Chemistry Elective,NATSCI (806) 134,4663,UCTA,General Chemistry,22
+4682,I,4.0,PHYS EL,Physics Elective,NATSCI (806) 154,4663,UCTA,General Physics 1,22
+4682,E,4.0,BIOL 270,Human Anatomy and Physiology I,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4682,E,4.0,BIOL EL,Biology Elective,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4682,E,4.0,CHEM EL,Chemistry Elective,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4682,I,4.0,BIOL 355,Microbes and Defense,NATSCI (806) 197,4663,,Microbiology,
+4682,,2.0,NDC,No Degree Credit,MATH (804) 100,4663,,Mathematics For Electronics Ma,5
+4682,,3.0,NDC,No Degree Credit,MATH (804) 102,4663,,Math of Finance,5
+4682,P,0.0,MATH 090,Fundamentals of Mathematics,MATH (804) 106,4663,,Intro to College Math,
+4682,P,3.0,MATH 095,Fundamentals of Algebra,MATH (804) 107,4663,,College Mathematics,5
+4682,P,0.0,MATH 095,Fundamentals of Algebra,MATH (804) 110,4663,,Elem Algebra W Apps,
+4682,,1.0,NDC,No Degree Credit,MATH (804) 111,4663,,Technical Mathematics a,5
+4682,,1.0,NDC,No Degree Credit,MATH (804) 112,4663,,Technical Mathematics B,5
+4682,E,3.0,MATH EL,Mathematics Elective,MATH (804) 113,4663,,College Technical Math 1a,
+4682,E,2.0,MATH EL,Mathematics Elective,MATH (804) 114,4663,,College Technical Math 1b,
+4682,E,5.0,MATH EL,Mathematics Elective,MATH (804) 115,4663,,College Technical Math 1,
+4682,E,4.0,MATH EL,Mathematics Elective,MATH (804) 116,4663,,College Technical Math 2,
+4682,E,4.0,MATH 102,Intermediate Algebra,MATH (804) 118,4663,,Interm Algebra W Apps,
+4682,,3.0,NDC,No Degree Credit,MATH (804) 133,4663,,Math & Logic,5
+4682,,3.0,NDC,No Degree Credit,MATH (804) 141,4663,,Basic Technical Math,5
+4682,E,3.0,MATH 130,Elementary Statistics,MATH (804) 189,4663,"UCTA,MC,MCS",Introductory Statistics,22
+4682,E,3.0,MATH 113,Algebra With Applications,MATH (804) 195,4663,"MC,MCS",College Algebra W Apps,22
+4682,E,3.0,MATH 115,Precalculus,MATH (804) 196,4663,"UCTA,MC,MCS",Trigonometry W Apps,22
+4682,E,2.0,MATH 115,Precalculus,MATH (804) 197,4663,"UCTA,MC,MCS",College Technical Math 1b,22
+4682,E,4.0,MATH 151,"Calc For Bus, Life, Soc Scienc",MATH (804) 198,4663,"MC,MCS",Calculus 1,
+4684,,3.0,GEN EL,General Elective,SOCSCI (809) 103,4663,,Think Critically & Creatively,
+4684,,3.0,SOCIOLGY EL,Sociology Elective,SOCSCI (809) 103,4663,GS,Think Critically & Creatively,
+4684,L,3.0,SOCIOLGY 252,Intro to Family Studies,SOCSCI (809) 104,4663,GS,Marriage&Family/Relationships,
+4684,,3.0,PSYCH EL,Psychology Elective,SOCSCI (809) 113,4663,,Developmental Psychology,
+4684,L,3.0,POLISCI 141,American Govmnt/Politics,SOCSCI (809) 122,4663,"GS, UCTA",Intro to Amer Government,22
+4684,L,3.0,SOCIOLGY 252,Intro to Family Studies,SOCSCI (809) 128,4663,GS,Marriage & Family,
+4684,L,3.0,SPECED 205,Intro to Special Educ,SOCSCI (809) 138,4663,,Exceptional Person,
+4684,,3.0,PSYCH EL,Psychology Elective,SOCSCI (809) 159,4663,GS,Abnormal Psychology,
+4684,L,3.0,PHILSPHY 261,Introduction to Ethics,SOCSCI (809) 166,4663,"GH, UCTA",Intro to Ethics: Theory & App,22
+4684,,3.0,RACEETH EL,Race & Ethnic Cultures General Elective,SOCSCI (809) 172,4663,"GD, GE, UCTA",Introduction to Diversity Stud,22
+4684,L,3.0,SOCIOLGY 250,Social Problems,SOCSCI (809) 174,4663,GS,Social Problems,
+4684,,3.0,PSYCH EL,Psychology Elective,SOCSCI (809) 188,4663,,Developmental Psychology,
+4684,L,3.0,ENGLISH 101,College Writing & Reading,COMMSK (801) 136,4663,"CC, UCTA",English Composition 1,22
+4684,L,3.0,ENGLISH 101,College Writing & Reading,COMMSK (801) 195,4663,"CC, UCTA",Written Communication,22
+4684,,3.0,ECON EL,Economics Elective,SOCSCI (809) 195,4663,"GS, UCTA",Economics,22
+4684,,3.0,SOCIOLGY EL,Sociology Elective,SOCSCI (809) 196,4663,"GS, UCTA",Intro to Sociology,22
+4684,L,3.0,MATH 140,Mathematical Ideas,MATH (804) 106,4663,CC,Intro to College Math,
+4684,,3.0,DNT,Does Not Transfer,MATH (804) 107,4663,,College Mathematics,20
+4684,P,3.0,MATH 041,Beginning Algebra,MATH (804) 110,4663,,Elem Algebra W Apps,
+4684,,3.0,MATH EL,Mathematics Elective,MATH (804) 113,4663,,College Technical Math 1a,
+4684,,2.0,MATH EL,Mathematics Elective,MATH (804) 114,4663,,College Technical Math 1b,
+4684,,5.0,MATH EL,Mathematics Elective,MATH (804) 115,4663,,College Technical Math 1,
+4684,,4.0,MATH EL,Mathematics Elective,MATH (804) 116,4663,,College Technical Math 2,
+4684,L,3.0,MATH 141,Fundamtls of Coll Algebra,MATH (804) 118,4663,CC,Interm Algebra W Apps,
+4684,,3.0,MATH EL,Mathematics Elective,MATH (804) 133,4663,,Math & Logic,
+4684,,3.0,MATH EL,Mathematics Elective,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4684,L,3.0,MATH 141,Fundamtls of Coll Algebra,MATH (804) 195,4663,CC,College Algebra W Apps,
+4684,,3.0,COMM EL,Communication Elective,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4684,,3.0,COMM EL,Communication Elective,COMMSK (801) 196,4663,GS,Oral/Interpersonal Comm,
+4684,,3.0,DNT,Does Not Transfer,COMMSK (801) 197,4663,,Technical Reporting,20
+4684,L,3.0,COMM 110,Intro to Public Speaking,COMMSK (801) 198,4663,"CC, UCTA",Speech,22
+4684,L,3.0,SOCIOLGY 250,Social Problems,SOCSCI (809) 197,4663,GS,Contemporary American Society,
+4684,L,3.0,PSYCH 211,Introductory Psychology,SOCSCI (809) 198,4663,"GS, UCTA",Intro to Psychology,22
+4684,L,3.0,PSYCH 104,Psych of Human Adjustment,SOCSCI (809) 199,4663,GS,Psychology of Human Relations,
+4684,,3.0,MATH EL,Mathematics Elective,MATH (804) 196,4663,GM,Trigonometry W Apps,
+4684,L,5.0,MATH 152,Precalculus,MATH (804) 197,4663,GM,College Technical Math 1b,22
+4684,L,4.0,MATH 250,Appld Calc Srv Bus/Soc Sc,MATH (804) 198,4663,GM,Calculus 1,
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 100,4663,,Personal Finance-Consumer Econ,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 101,4663,,Cents & Sensibility,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 102,4663,,Leadership As An Art,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 104,4663,,Marriage&Family/Relationships,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 105,4663,,Econ Management,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 106,4663,,Econ Decisions,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 107,4663,,Take Ctrl of One's Financial F,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 109,4663,,Leadership Development/Student,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 111,4663,,Trng Behavior Science Skill &,5
+9999,,1.0,NDC,No Degree Credit,SOCSCI (809) 112,4663,,Current Econ Issues - Immigrat,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 113,4663,,Developmental Psychology,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 114,4663,,Industrial/Organizational Psyc,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 115,4663,,Global Cultural Awareness,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 116,4663,,Global Cultural Awareness 2,5
+9999,L,3.0,POL 104,Amer Gov & Politics,SOCSCI (809) 122,4663,"UCTA,SS",Intro to Amer Government,22
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 128,4663,,Marriage & Family,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 132,4663,,Futurism-Changing World of Wor,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 133,4663,,Growth/Development,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 134,4663,,Chg Roles of Men & Women At Wo,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 136,4663,,Abnormal Psycholog,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 138,4663,,Exceptional Person,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 153,4663,,Gender Roles in Society,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 155,4663,,Student & Community Leadership,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 157,4663,,Labor&Ind Relation,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 158,4663,,International Relations/Politi,5
+4682,E,1.0,SO W EL,Social Work Elective,AODA (550) 111,4663,,Introduction to Sudc,
+4682,E,3.0,SO W EL,Social Work Elective,AODA (550) 115,4663,,"Assessment, Diagnosis and Trea",
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 159,4663,,Abnormal Psychology,
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 161,4663,,College Success,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 163,4663,,Economics For Bankers,5
+9999,,3.0,NDC,No Degree Credit,SOCSCI (809) 164,4663,,World Cultures,5
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 166,4663,"EL, UCTA",Intro to Ethics: Theory & App,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 172,4663,"SS, UCTA",Introduction to Diversity Stud,22
+9999,L,3.0,SOC 130,Contemp Social Prob,SOCSCI (809) 174,4663,SS,Social Problems,
+9999,L,3.0,PSY EL,Psychology Elective,SOCSCI (809) 188,4663,SS,Developmental Psychology,
+9999,L,3.0,ECO 101,Intro to Economics,SOCSCI (809) 195,4663,"UCTA,SS",Economics,22
+9999,L,3.0,SOC EL,Sociology Elective,SOCSCI (809) 196,4663,"SS, UCTA",Intro to Sociology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 197,4663,SS,Contemporary American Society,
+9999,L,3.0,PSY 202,Introductory Psych,SOCSCI (809) 198,4663,"UCTA,SS",Intro to Psychology,22
+4684,,2.0,BIOLOGY EL,Biological Sciences Elective,NATSCI (806) 106,4663,,Pathogenic Microbiology,
+4684,,3.0,BIOLOGY EL,Biological Sciences Elective,NATSCI (806) 110,4663,,"Body, Structure & Function",
+4684,L,4.0,BIOLOGY 120,Biological Foundations,NATSCI (806) 114,4663,"GL, UCTA",General Biology,22
+9999,L,3.0,GEN EL,General Elective,SOCSCI (809) 199,4663,SS,Psychology of Human Relations,
+4684,L,4.0,CHEM 100,Everyday Chemistry (Gl),NATSCI (806) 134,4663,"GL, UCTA",General Chemistry,22
+4684,,3.0,DNT,Does Not Transfer,NATSCI (806) 143,4663,,College Physics 1,20
+4684,,3.0,DNT,Does Not Transfer,NATSCI (806) 144,4663,,College Physics 2,20
+4684,L,3.0,PHYSCS 140,Principles of Physics I,NATSCI (806) 154,4663,"GL, UCTA",General Physics 1,"22, 265"
+4684,L,4.0,PEPROF 271,Structure/Funct Humn Body,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4684,,4.0,BIOLOGY EL,Biological Sciences Elective,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4684,,3.0,CHEM EL,Chemistry Elective,NATSCI (806) 186,4663,GM,Intro to Biochemistry,
+4684,,4.0,BIOLOGY EL,Biological Sciences Elective,NATSCI (806) 197,4663,,Microbiology,
+4684,L,3.0,COMM 110,Intro to Public Speaking,SPEECH (810) 108,4663,CC,Fundamentals of Speech,
+4581,,3.0,SOCSCI (809) 103,Think Critically & Creatively,SOCSCI (809) 103,4663,,Think Critically & Creatively,
+4581,,3.0,SOCSCI (809) 122,Intro to Amer Government,SOCSCI (809) 122,4663,UCTA,Intro to Amer Government,22
+4581,,3.0,SOCSCI (809) 128,Marriage & Family,SOCSCI (809) 128,4663,,Marriage & Family,
+4581,,3.0,SOCSCI (809) 120,Abnormal Psychology,SOCSCI (809) 136,4663,,Abnormal Psycholog,
+4581,,3.0,SOCSCI (809) 159,Abnormal Psychology,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4581,,3.0,SOCSCI (809) 166,Intro to Ethics: Theory & App,SOCSCI (809) 166,4663,UCTA,Intro to Ethics: Theory & App,22
+4581,,3.0,SOCSCI (809) 172,Intro to Diversity Studies,SOCSCI (809) 172,4663,UCTA,Introduction to Diversity Stud,22
+4581,,3.0,SOCSCI (809) 174,Social Problems,SOCSCI (809) 174,4663,,Social Problems,
+4581,,3.0,SOCSCI (809) 188,Developmental Psychology,SOCSCI (809) 188,4663,,Developmental Psychology,
+4581,,3.0,SOCSCI (809) 195,Economics,SOCSCI (809) 195,4663,UCTA,Economics,22
+4581,,3.0,SOCSCI (809) 196,Intro to Sociology,SOCSCI (809) 196,4663,UCTA,Intro to Sociology,22
+4581,,3.0,SOCSCI (809) 197,Contemporary Amer Society,SOCSCI (809) 197,4663,,Contemporary American Society,
+4581,,3.0,SOCSCI (809) 198,Intro to Psychology,SOCSCI (809) 198,4663,UCTA,Intro to Psychology,22
+4581,,3.0,SOCSCI (809) 199,Psychology of Human Relations,SOCSCI (809) 199,4663,,Psychology of Human Relations,
+4581,,3.0,COMMSK (801) 136,English Composition 1,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+4581,,3.0,COMMSK (801) 141,Intro to Mass Comm,COMMSK (801) 141,4663,,Introduction to Mass Communica,
+4581,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4581,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4581,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4581,,3.0,COMMSK (801) 198,Speech,COMMSK (801) 198,4663,UCTA,Speech,22
+4581,,3.0,NATSCI (806) 112,Principles of Sustainability,NATSCI (806) 112,4663,,Principles of Sustainability,
+4581,,4.0,NATSCI (806) 114,General Biology,NATSCI (806) 114,4663,"UCTA,SC",General Biology,22
+4581,,4.0,NATSCI (806) 134,General Chemistry,NATSCI (806) 134,4663,UCTA,General Chemistry,22
+4581,,3.0,NATSCI (806) 143,College Physics 1,NATSCI (806) 143,4663,,College Physics 1,
+4581,,4.0,NATSCI (806) 154,General Physics 1,NATSCI (806) 154,4663,UCTA,General Physics 1,22
+4581,,4.0,NATSCI (806) 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4581,,4.0,NATSCI (806) 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4581,,4.0,NATSCI (806) 186,Intro to Biochemistry,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4581,,4.0,NATSCI (806) 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4581,,3.0,MATH (804) 106,Intro to College Math,MATH (804) 106,4663,,Intro to College Math,
+4581,,3.0,MATH (804) 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4581,,3.0,MATH (804) 110,Elem Algebra W Apps,MATH (804) 110,4663,MA,Elem Algebra W Apps,
+4581,,3.0,MATH (804) 113,College Technical Math 1a,MATH (804) 113,4663,,College Technical Math 1a,
+4581,,2.0,MATH (804) 114,College Technical Math 1b,MATH (804) 114,4663,,College Technical Math 1b,
+4581,,5.0,MATH (804) 115,College Technical Math 1,MATH (804) 115,4663,,College Technical Math 1,
+4581,,4.0,MATH (804) 116,College Technical Math 2,MATH (804) 116,4663,,College Technical Math 2,
+4581,,4.0,MATH (804) 118,Interm Algebra W Apps,MATH (804) 118,4663,,Interm Algebra W Apps,
+4581,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 123,4663,,Math W Business Apps,
+4581,,3.0,MATH (804) 133,Math & Logic,MATH (804) 133,4663,,Math & Logic,
+4581,,3.0,MATH (804) 189,Introductory Statistics,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4593,,3.0,SOCSCI (809) 103,Think Critically & Creatively,SOCSCI (809) 103,4663,,Think Critically & Creatively,
+4593,,3.0,SOCSCI (809) 159,Abnormal Psychology,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4593,,3.0,SOCSCI (809) 166,Intro to Ethics: Theory & App,SOCSCI (809) 166,4663,UCTA,Intro to Ethics: Theory & App,22
+4593,,3.0,SOCSCI (809) 172,Intro to Diversity Studies,SOCSCI (809) 172,4663,UCTA,Introduction to Diversity Stud,22
+4593,,3.0,SOCSCI (809) 174,Social Problems,SOCSCI (809) 174,4663,SO,Social Problems,
+4593,,3.0,SOCSCI (809) 188,Developmental Psychology,SOCSCI (809) 188,4663,,Developmental Psychology,
+4593,,3.0,SOCSCI (809) 195,Economics,SOCSCI (809) 195,4663,UCTA,Economics,22
+4593,,3.0,SOCSCI (809) 196,Intro to Sociology,SOCSCI (809) 196,4663,UCTA,Intro to Sociology,22
+4593,,3.0,SOCSCI (809) 197,Contemporary Amer Society,SOCSCI (809) 197,4663,SO,Contemporary American Society,
+4593,,3.0,SOCSCI (809) 198,Intro to Psychology,SOCSCI (809) 198,4663,UCTA,Intro to Psychology,22
+4593,,3.0,SOCSCI (809) 199,Psychology of Human Relations,SOCSCI (809) 199,4663,,Psychology of Human Relations,
+4556,,1.0,IT (107) 177,"Microcomputers, Intro. to",COMPSOFT (103) 100,4663,,Introduction to Computers,
+4556,,1.0,OFFTECH (106) 143,Practical Windows,COMPSOFT (103) 110,4663,,Microsoft Word 1,
+4593,,3.0,COMMSK (801) 136,English Composition 1,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+4593,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4593,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4593,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4593,,3.0,COMMSK (801) 198,Speech,COMMSK (801) 198,4663,UCTA,Speech,22
+4556,,2.0,ACCTG (101) 130,Cost Accounting a,ACCTG (101) 125,4663,,Cost Accounting,6
+4556,,3.0,ACCTG (101) 107,"Accounting, Principles of",ACCTG (101) 147,4663,,Accounting Fundamentals,
+4593,,3.0,MATH (804) 106,Intro to College Math,MATH (804) 106,4663,,Intro to College Math,
+4593,,3.0,MATH (804) 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4593,,3.0,MATH (804) 110,Elem Algebra W Apps,MATH (804) 110,4663,,Elem Algebra W Apps,
+4593,,3.0,MATH (804) 113,College Technical Math 1a,MATH (804) 113,4663,,College Technical Math 1a,
+4593,,5.0,MATH (804) 115,College Technical Math 1,MATH (804) 115,4663,,College Technical Math 1,
+4593,,4.0,MATH (804) 116,College Technical Math 2,MATH (804) 116,4663,MA,College Technical Math 2,
+4593,,4.0,MATH (804) 118,Interm Algebra W Apps,MATH (804) 118,4663,,Interm Algebra W Apps,
+4593,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 123,4663,,Math W Business Apps,
+4593,,3.0,MATH (804) 133,Math & Logic,MATH (804) 133,4663,,Math & Logic,
+4593,,3.0,MATH (804) 189,Introductory Statistics,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4593,,3.0,MATH (804) 196,Trigonometry W Apps,MATH (804) 196,4663,,Trigonometry W Apps,
+4556,,3.0,BUSADM (102) 103,Business Law 1,BUSADM (102) 160,4663,,Business Law 1,
+4556,,3.0,BUSADM (102) 157,Business Law 2,BUSADM (102) 161,4663,,Business Law 2,
+4593,,3.0,NATSCI (806) 112,Principles of Sustainability,NATSCI (806) 112,4663,,Principles of Sustainability,
+4593,,4.0,NATSCI (806) 134,General Chemistry,NATSCI (806) 134,4663,UCTA,General Chemistry,22
+4593,,3.0,NATSCI (806) 139,Survey of Physics,NATSCI (806) 139,4663,,Survey of Physics,
+4593,,4.0,NATSCI (806) 154,General Physics 1,NATSCI (806) 154,4663,UCTA,General Physics 1,22
+4593,,4.0,NATSCI (806) 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4593,,4.0,NATSCI (806) 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4593,,4.0,NATSCI (806) 186,Intro to Biochemistry,NATSCI (806) 186,4663,SC,Intro to Biochemistry,
+4593,,4.0,NATSCI (806) 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4556,,3.0,BUSADM (102) 112,"Business, Introduction to",MKTG (104) 100,4663,,Introduction to Business,
+4556,,3.0,MKTG (104) 192,Merchandise Management,MKTG (104) 122,4663,,Merchandise Management,
+4556,,3.0,MKTG (104) 147,Promotion Principles,MKTG (104) 126,4663,,Promotions,
+4556,,3.0,MKTG (104) 166,Intro to Sales,MKTG (104) 154,4663,,Principles of Sales,
+4556,,3.0,MKTG (104) 151,"Marketing 1, Principles of",MKTG (104) 172,4663,,Marketing Principles,
+4556,,3.0,MKTG (104) 184,Marketing Information Manageme,MKTG (104) 175,4663,,Fundamentals of Market Researc,
+4556,,3.0,MKTG (104) 157,Retail Principles,MKTG (104) 178,4663,,Principles of Retailing,
+4556,,3.0,IT (107) 152,Computer Programming Cobol 1,IT (107) 100,4663,,Cobol,6
+4556,,3.0,IT (107) 146,"Visual Basic, Introduction",IT (107) 101,4663,,Visual Basic Programming & Log,6
+4556,,2.0,IT (107) 126,"Computer Concepts, Beginning",IT (107) 113,4663,,Computer Concepts,6
+4556,,2.0,IT (107) 150,Microcomputer Applications,IT (107) 113,4663,,Computer Concepts,6
+4556,,2.0,MATH (804) 111,"Computer Literacy, Introductio",IT (107) 113,4663,,Computer Concepts,6
+4556,,2.0,IT (107) 160,Database Fundamentals,IT (107) 115,4663,,Data-Base Concepts,
+4556,,2.0,ACCTG (101) 140,Acctg Applications on Micros,IT (107) 117,4663,,Cis Computerized Accounting Ap,6
+4556,,3.0,IT (107) 158,Systems Analysis,IT (107) 130,4663,,Systems Analysis/Design,
+4556,,2.0,IT (107) 144,Computer Programming C++,IT (107) 136,4663,,C# Programming 1,6
+4556,,2.0,OFFTECH (106) 114,Intro to Admin Prof Careers,INTTRD (138) 170,4663,,Principles of International Bu,6
+4556,,1.0,OFFTECH (106) 177,Keyboarding Skills,OFFTECH (106) 134,4663,,Keyboarding 1,
+4556,,3.0,OFFTECH (106) 176,Bus Tech Internship/Capstone,OFFTECH (106) 145,4663,,Information Storage Management,
+4556,,3.0,OFFTECH (106) 160,Business Relationship Dev,OFFTECH (106) 175,4663,,Information Processing Princip,
+4556,,1.0,EMS (531) 103,Emerg Medical Responder Basic,EMS (531) 162,4663,,First Responder For Criminal J,6
+4556,,3.0,SUPDEV (196) 139,Employee Training and Developm,SUPDEV (196) 109,4663,,Perfm Appra & Dev,
+4556,,2.0,SUPDEV (196) 121,"Safety, Principles of",SUPDEV (196) 127,4663,,Safety Loss Control,6
+4556,,3.0,SUPDEV (196) 190,Leadership Development,SUPDEV (196) 190,4663,,Leading Strategically,
+4556,,3.0,SUPDEV (196) 191,Supervision,SUPDEV (196) 191,4663,,Supervision & Management Skill,
+4556,,3.0,QUAL MGMT (185) 123,Leadership For Quality,SUPDEV (196) 192,4663,,Quality & Performance Excellen,
+4556,,2.0,DEVSVC (545) 116,American Sign Language,INTP (533) 100,4663,,Sign Language - An Introductio,
+4556,,5.0,INTP (533) 109,Educational Interpreting Pract,INTP (533) 109,4663,,Ed Interpreting Practicum,
+4556,,1.0,INTP (533) 111,Interpreting in An Educational,INTP (533) 111,4663,,Interpreting/Educational Setti,
+4556,,5.0,INTP (533) 112,Interpreting 1,INTP (533) 112,4663,,Introduction to the Interpreti,
+4556,,2.0,INTP (533) 113,American Sign Language 1,INTP (533) 113,4663,,American Sign Language 1,
+4556,,2.0,INTP (533) 114,American Sign Language 2,INTP (533) 114,4663,,American Sign Language 2,
+4556,,3.0,INTP (533) 115,Interpreting 2,INTP (533) 115,4663,,Interpreting 2,
+4556,,3.0,INTP (533) 116,Transliterating 1,INTP (533) 116,4663,,Transliterating 1,
+4556,,1.0,INTP (533) 117,Oral Interpreting,INTP (533) 117,4663,,Oral Interpreting,
+4556,,3.0,INTP (533) 118,Orientation to Hearing Loss-3,INTP (533) 118,4663,,Orientation to Hearing Loss,
+4556,,5.0,INTP (533) 119,Transliterating 2,INTP (533) 119,4663,,Transliterating,
+4556,,3.0,INTP (533) 120,Ethical & Professional Practic,INTP (533) 120,4663,,Professional Practices 1,
+4556,,2.0,INTP (533) 121,Aspects of Hearing Loss,INTP (533) 121,4663,,Aspects of Hearing Loss,
+4556,,4.0,INTP (533) 122,Vocabulary Enhancement For Int,INTP (533) 122,4663,,Vocabulary Enhancement - Inter,
+4556,,2.0,INTP (533) 123,Instructional Support Services,INTP (533) 123,4663,,Instructional Support Services,
+4556,,3.0,INTP (533) 127,Interpreting/Transliterating,INTP (533) 127,4663,,Interpreting/Transliterating,
+4556,,1.0,INTP (533) 128,Ethical & Professional Practic,INTP (533) 128,4663,,Professional Practices 2,
+4556,,2.0,MECTEC (606) 110,Draft-Autocad 1,MECTEC (606) 101,4663,,Introduction to 2d Autocad,
+4556,,2.0,CRIM JUST (504) 150,Defensive Tactics,CRIM JUST (504) 112,4663,,Defense Tactics 1,"6, 571"
+4556,,2.0,CRIM JUST (504) 150,Defensive Tactics,CRIM JUST (504) 122,4663,,Defense Tactics 2,"6, 571"
+4556,,3.0,CRIM JUST (504) 115,Criminal Laws,CRIM JUST (504) 125,4663,,Criminal Law,
+4556,,3.0,CRIM JUST (504) 116,Juvenile Law,CRIM JUST (504) 126,4663,,Juvenile Law,
+4556,,3.0,CRIM JUST (504) 112,Criminal Investigations Theory,CRIM JUST (504) 131,4663,,Crime Investigation Theory,6
+4556,,4.0,CRIM JUST (504) 113,Traffic  Theory,CRIM JUST (504) 132,4663,,Traffic Theory,
+4556,,3.0,CRIM JUST (504) 129,Community Policing  Strategies,CRIM JUST (504) 147,4663,,Pol Community Rel,
+4556,,2.0,FOODS (303) 101,Nutrition,FOODS (303) 101,4663,,Nutrition,
+4556,,2.0,EMTEC (620) 102,Electromechanical Systems,EMTEC (620) 140,4663,,Introduction to Programmable L,6
+4556,,3.0,INSMGT (162) 121,"Insurance, Principles of",INSMGT (162) 138,4663,,Principles of Insurance,
+4556,,2.0,MATH (804) 121,Math-Technical 1,MATH (804) 100,4663,,Mathematics For Electronics Ma,
+4556,,3.0,MATH (804) 125,Math-Technical Basic,MATH (804) 100,4663,,Mathematics For Electronics Ma,6
+4556,,3.0,MATH (804) 108,Business Math,MATH (804) 102,4663,,Math of Finance,
+4556,,3.0,MATH (804) 112,I.D. Business Math,MATH (804) 102,4663,,Math of Finance,
+4556,,3.0,MATH (804) 106,Intro to College Math,MATH (804) 106,4663,,Intro to College Math,
+4556,,3.0,MATH (804) 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4556,,3.0,MATH (804) 110,Elem Algebra W Apps,MATH (804) 110,4663,MA,Elem Algebra W Apps,
+4556,,3.0,MATH (804) 113,College Technical Math 1a,MATH (804) 113,4663,,College Technical Math 1a,
+4556,,2.0,MATH (804) 114,College Technical Math 1b,MATH (804) 114,4663,,College Technical Math 1b,
+4556,,5.0,MATH (804) 115,College Technical Math 1,MATH (804) 115,4663,,College Technical Math 1,
+4556,,4.0,MATH (804) 116,College Technical Math 2,MATH (804) 116,4663,,College Technical Math 2,
+4556,,4.0,MATH (804) 118,Interm Algebra W Apps,MATH (804) 118,4663,,Interm Algebra W Apps,
+4556,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 123,4663,,Math W Business Apps,
+4556,,3.0,MATH (804) 133,Math & Logic,MATH (804) 133,4663,,Math & Logic,
+4556,,5.0,MATH (804) 121,Math-Technical 1,MATH (804) 151,4663,,Tech Math I,
+4556,,3.0,MATH (804) 125,Math-Technical Basic,MATH (804) 151,4663,,Tech Math I,6
+4556,,3.0,MATH (804) 126,Math-Technical Intermediate,MATH (804) 151,4663,,Tech Math I,"570, 6"
+4556,,3.0,MATH (804) 126,Math-Technical Intermediate,MATH (804) 152,4663,,Technical Mathematics 2,"6, 570"
+4556,,3.0,MATH (804) 189,Introductory Statistics,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4556,,3.0,MATH (804) 195,College Algebra W Apps,MATH (804) 195,4663,,College Algebra W Apps,
+4556,,3.0,MATH (804) 196,Trigonometry W Apps,MATH (804) 196,4663,,Trigonometry W Apps,
+4556,,4.0,MATH (804) 198,Calculus 1,MATH (804) 198,4663,,Calculus 1,
+4556,,1.0,ELECT (605) 112,Dc Circuits 3 - Electronics/Ee,ELECT (605) 116,4663,,Electronic Devices For Power C,
+4556,,3.0,EMTEC (620) 134,Pulse and Digital,ELECT (605) 116,4663,,Electronic Devices For Power C,6
+4556,,4.0,ELECT (605) 104,Specialized Electronics Apps 1,ELECT (605) 121,4663,,Micro Interfacing Circuit,
+4556,,3.0,EMTEC (620) 114,Fluid Power 4,ELECT (605) 138,4663,,Laser Electronics a,
+4556,,2.0,EMTEC (620) 132,Electrical Power Distribution2,ELECT (605) 153,4663,,Ac Circuits,6
+4556,,3.0,INDMANUF (623) 108,Production Planning & Control,INDMANUF (623) 111,4663,,Work Analysis,
+4556,,1.0,INDMANUF (623) 138,"Spc, Intro to",INDMANUF (623) 112,4663,,Statistical Process Control,6
+4556,,3.0,INDMANUF (623) 105,Mat Handling & Plant Layout,INDMANUF (623) 113,4663,,Facilities Planning Materials,
+4556,,3.0,INDMANUF (623) 110,Quality Assurance,INDMANUF (623) 117,4663,,Manufacturing Quality Manageme,
+4556,,1.0,INDMANUF (623) 114,Cost Estimating and Budgeting,INDMANUF (623) 121,4663,,Industrial Cost Analysis,
+4556,,2.0,AUTMFG (628) 103,Computer Operating Systems,INDMANUF (623) 122,4663,,Industrial Computer Applicatio,6
+4556,,3.0,COMMSK (801) 136,English Composition 1,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+4556,,1.0,GEN ST (890) 103,Employability Strategies,COMMSK (801) 163,4663,,Employment Skills For Technici,
+4556,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4556,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4556,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4556,,3.0,COMMSK (801) 198,Speech,COMMSK (801) 198,4663,UCTA,Speech,22
+4556,,1.0,GEN ST (890) 100,College Success: on Course,GEN ST (890) 161,4663,,College Success,6
+4556,,3.0,SOCSCI (809) 103,Think Critically & Creatively,SOCSCI (809) 103,4663,,Think Critically & Creatively,
+4556,,3.0,SOCSCI (809) 113,"Psychology, Developmental",SOCSCI (809) 113,4663,,Developmental Psychology,
+4556,,3.0,SOCSCI (809) 122,Intro to Amer Government,SOCSCI (809) 122,4663,UCTA,Intro to Amer Government,22
+4556,,3.0,SOCSCI (809) 128,Marriage & Family,SOCSCI (809) 128,4663,,Marriage & Family,
+4556,,3.0,SOCSCI (809) 130,"Psychology, Abnormal",SOCSCI (809) 136,4663,,Abnormal Psycholog,
+4556,,3.0,SOCSCI (809) 138,Exceptional Person,SOCSCI (809) 138,4663,,Exceptional Person,
+4556,,3.0,SOCSCI (809) 159,Abnormal Psychology,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4556,,3.0,SOCSCI (809) 166,Intro to Ethics: Theory & App,SOCSCI (809) 166,4663,UCTA,Intro to Ethics: Theory & App,22
+4556,,3.0,SOCSCI (809) 172,Introduction to Diversity Stud,SOCSCI (809) 172,4663,UCTA,Introduction to Diversity Stud,22
+4556,,3.0,SOCSCI (809) 188,Developmental Psychology,SOCSCI (809) 188,4663,,Developmental Psychology,
+4556,,3.0,SOCSCI (809) 195,Economics,SOCSCI (809) 195,4663,UCTA,Economics,22
+4556,,3.0,SOCSCI (809) 196,Intro to Sociology,SOCSCI (809) 196,4663,UCTA,Intro to Sociology,22
+4556,,3.0,SOCSCI (809) 197,Contemporary Amer Society,SOCSCI (809) 197,4663,,Contemporary American Society,
+4556,,3.0,SOCSCI (809) 198,Intro to Psychology,SOCSCI (809) 198,4663,UCTA,Intro to Psychology,22
+4556,,3.0,SOCSCI (809) 199,Psychology of Human Relations,SOCSCI (809) 198,4663,"UCTA,",Intro to Psychology,22
+4556,,3.0,SOCSCI (809) 199,Psychology of Human Relations,SOCSCI (809) 199,4663,,Psychology of Human Relations,
+4556,,3.0,NATSCI (806) 112,Principles of Sustainability,NATSCI (806) 112,4663,,Principles of Sustainability,
+4556,,4.0,NATSCI (806) 114,General Biology,NATSCI (806) 114,4663,UCTA,General Biology,22
+4556,,4.0,NATSCI (806) 134,General Chemistry,NATSCI (806) 134,4663,UCTA,General Chemistry,22
+4556,,3.0,NATSCI (806) 139,Survey of Physics,NATSCI (806) 139,4663,,Survey of Physics,
+4556,,3.0,NATSCI (806) 143,College Physics 1,NATSCI (806) 143,4663,,College Physics 1,
+4556,,3.0,NATSCI (806) 144,College Physics 2,NATSCI (806) 144,4663,,College Physics 2,
+4556,,4.0,NATSCI (806) 154,General Physics 1,NATSCI (806) 154,4663,UCTA,General Physics 1,22
+4556,,4.0,NATSCI (806) 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4556,,4.0,NATSCI (806) 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4556,,4.0,NATSCI (806) 186,Intro to Biochemistry,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4556,,4.0,NATSCI (806) 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4584,,3.0,EARLYCHLD (307) 148,Ece: Foundations of Ece,EARLYCHLD (307) 148,4663,,Ece: Foundations of Ece,"200, 215"
+4584,,3.0,EARLYCHLD (307) 151,Ece: Infant & Toddler Dev,EARLYCHLD (307) 151,4663,,Ece: Infant & Toddler Dev,"200, 215"
+4584,,3.0,EARLYCHLD (307) 166,Ece: Curriculum Planning,EARLYCHLD (307) 166,4663,,Ece: Curriculum Planning,"200, 215"
+4584,,3.0,EARLYCHLD (307) 167,Ece: Hlth Safety & Nutrition,EARLYCHLD (307) 167,4663,,Ece: Hlth Safety & Nutrition,"200, 215"
+4584,,3.0,EARLYCHLD (307) 174,Ece: Practicum 1,EARLYCHLD (307) 174,4663,,Ece: Practicum 1,200
+4584,,3.0,EARLYCHLD (307) 178,Ece: Art Music & Lang Arts,EARLYCHLD (307) 178,4663,,Ece: Art Music & Lang Arts,"200, 215"
+4584,,3.0,EARLYCHLD (307) 179,Ece: Child Development,EARLYCHLD (307) 179,4663,,Ece: Child Development,"200, 215"
+4584,,3.0,EARLYCHLD (307) 187,Ece: Children W Diff Abilities,EARLYCHLD (307) 187,4663,,Ece: Children W Diff Abilities,"200, 215"
+4584,,3.0,EARLYCHLD (307) 188,Ece: Guiding Child Behavior,EARLYCHLD (307) 188,4663,,Ece: Guiding Child Behavior,"200, 215"
+4584,,3.0,EARLYCHLD (307) 192,Ece: Practicum 2,EARLYCHLD (307) 192,4663,,Ece: Practicum 2,"200, 215"
+4584,,3.0,EARLYCHLD (307) 194,Ece: Math Science & Soc St,EARLYCHLD (307) 194,4663,,Ece: Math Science & Soc St,"200, 215"
+4584,,3.0,EARLYCHLD (307) 195,Ece: Family & Community Rel,EARLYCHLD (307) 195,4663,,Ece: Family & Community Rel,"200, 215"
+4584,,3.0,EARLYCHLD (307) 197,Ece: Practicum 3,EARLYCHLD (307) 197,4663,,Ece: Practicum 3,200
+4584,,3.0,EARLYCHLD (307) 198,Ece: Admin An Ece Program,EARLYCHLD (307) 198,4663,,Ece: Admin An Ece Program,"200, 215"
+4584,,3.0,EARLYCHLD (307) 199,Ece: Practicum 4,EARLYCHLD (307) 199,4663,,Ece: Practicum 4,"200, 215"
+4584,,3.0,MEDTERM (501) 101,Medical Terminology,MEDTERM (501) 101,4663,,Medical Terminology,"200, 215"
+4584,,2.0,MEDTERM (501) 104,Culture of Healthcare,MEDTERM (501) 104,4663,,Healthcare Customer Serv.,"200, 215"
+4584,,2.0,MEDTERM (501) 107,Digital Literacy For Healthcar,MEDTERM (501) 107,4663,,Digital Literacy For Healthcar,200
+4556,,4.0,DENTAL (508) 102,"Oral Anatomy, Embry, Histology",DENTAL (508) 102,4663,,"Oral Anatomy, Embry, Histology",
+4556,,4.0,DENTAL (508) 105,Dental Hygiene Process 1,DENTAL (508) 105,4663,,Dental Hygiene Process I,
+4556,,4.0,DENTAL (508) 106,Dental Hygiene Process 2,DENTAL (508) 106,4663,,Dental Hygiene Process II,
+4556,,1.0,DENTAL (508) 109,Cariology,DENTAL (508) 109,4663,,Cariology,
+4556,,3.0,DENTAL (508) 111,General & Oral Pathology,DENTAL (508) 111,4663,,General & Oral Pathology,
+4556,,4.0,DENTAL (508) 117,Dental Hygiene Process 4,DENTAL (508) 117,4663,,Dental Hygiene Process IV,
+4556,,3.0,DENTAL (508) 121,Exploring Dental Careers,DENTAL (508) 121,4663,,Clinical Dental Hygiene 3,
+4556,,3.0,DENTAL (508) 123,Oral Anatomy and Histology,DENTAL (508) 123,4663,,Oral Anatomy & Histology,
+4556,,2.0,DENTAL (508) 124,Periodontology 1,DENTAL (508) 124,4663,,Periodontology 1,
+4556,,4.0,DENTAL (508) 125,Periodontology 2,DENTAL (508) 125,4663,,Periodontology 2,
+4556,,1.0,DENTAL (508) 126,Community Dental Health 1,DENTAL (508) 126,4663,,Community Dental Health 1,
+4556,,2.0,DENTAL (508) 127,Pharmacology,DENTAL (508) 127,4663,,Pharmacology,
+4556,,2.0,DENTAL (508) 128,Dental Practice Management,DENTAL (508) 128,4663,,Dental Practice Management,
+4556,,2.0,DENTAL (508) 129,Community Dental Health 2,DENTAL (508) 129,4663,,Community Dental Health 2,
+4556,,1.0,DENTAL (508) 130,Dental Hygiene Trans Into Prac,DENTAL (508) 130,4663,,Dental Hygiene Transition Into,
+4584,,3.0,CRIM JUST (504) 903,Professional Communications,CRIM JUST (504) 900,4663,,Intro to Criminal Justice,200
+4584,,3.0,MEDTERM (501) 101,Medical Terminology,CRIM JUST (504) 900,4663,,Intro to Criminal Justice,200
+4584,,3.0,CRIM JUST (504) 900,Intro to Criminal Justice,CRIM JUST (504) 900,4663,,Intro to Criminal Justice,"200, 215"
+4584,,3.0,CRIM JUST (504) 901,Constitutional Law,CRIM JUST (504) 901,4663,,Constitutional Law,"200, 215"
+4584,,3.0,CRIM JUST (504) 902,Criminal Law,CRIM JUST (504) 902,4663,,Criminal Law,"200, 215"
+4584,,3.0,CRIM JUST (504) 903,Professional Communications,CRIM JUST (504) 903,4663,,Professional Communications,"200, 215"
+4584,,3.0,CRIM JUST (504) 904,Juvenile Law,CRIM JUST (504) 904,4663,,Juvenile Law,200
+4584,,3.0,CRIM JUST (504) 905,Report Writing,CRIM JUST (504) 905,4663,,Report Writing,"200, 215"
+4584,,3.0,CRIM JUST (504) 906,Criminal Investigation Theory,CRIM JUST (504) 906,4663,,Criminal Investigation Theory,"200, 215"
+4584,,3.0,CRIM JUST (504) 907,Community Policing Strategies,CRIM JUST (504) 907,4663,,Community Policing Strategies,"200, 215"
+4584,,3.0,CRIM JUST (504) 908,Traffic Theory,CRIM JUST (504) 908,4663,,Traffic Theory,"200, 215"
+4584,,3.0,SUPDEV (196) 191,Supervision,SUPDEV (196) 191,4663,,Supervision & Management Skill,200
+4584,,5.0,RADTEC (526) 149,Radiographic Procedures 1,RADTEC (526) 149,4663,,Radiographic Procedures 1,"200, 215"
+4584,,3.0,RADTEC (526) 158,Introduction to Radiography,RADTEC (526) 158,4663,,Introduction to Radiography,"200, 215"
+4584,,3.0,RADTEC (526) 159,Radiographic Imaging 1,RADTEC (526) 159,4663,,Radiographic Imaging 1,"200, 215"
+4584,,2.0,RADTEC (526) 168,Radiography Clinical 1,RADTEC (526) 168,4663,,Radiography Clinical 1,"200, 215"
+4584,,3.0,RADTEC (526) 170,Radiographic Imaging 2,RADTEC (526) 170,4663,,Radiographic Imaging 2,"200, 215"
+4584,,2.0,RADTEC (526) 174,Arrt Certification Seminar,RADTEC (526) 174,4663,,Arrt Certification Seminar,"200, 215"
+4584,,1.0,RADTEC (526) 189,Radiographic Pathology,RADTEC (526) 189,4663,,Radiographic Pathology,"200, 215"
+4584,,2.0,RADTEC (526) 190,Radiography Clinical 5,RADTEC (526) 190,4663,,Radiography Clinical 5,"200, 215"
+4584,,5.0,RADTEC (526) 191,Radiographic Procedures 2,RADTEC (526) 191,4663,,Radiographic Procedures 2,"200, 215"
+4584,,3.0,RADTEC (526) 192,Radiography Clinical 2,RADTEC (526) 192,4663,,Radiography Clinical 2,"200, 215"
+4584,,3.0,RADTEC (526) 193,Radiography Clinical 3,RADTEC (526) 193,4663,,Radiography Clinical 3,"200, 215"
+4584,,3.0,RADTEC (526) 194,Imaging Equipment Operation,RADTEC (526) 194,4663,,Imaging Equipment Operation,"200, 215"
+4584,,2.0,RADTEC (526) 195,Radiographic Quality Analysis,RADTEC (526) 195,4663,,Radiographic Quality Analysis,"200, 215"
+4584,,3.0,RADTEC (526) 196,Modalities,RADTEC (526) 196,4663,,Modalities,"200, 215"
+4584,,3.0,RADTEC (526) 197,Radiation Protection & Biology,RADTEC (526) 197,4663,,Radiation Protection & Biology,"200, 215"
+4584,,2.0,RADTEC (526) 198,Radiography Clinical 6,RADTEC (526) 198,4663,,Radiography Clinical 6,"200, 215"
+4584,,3.0,RADTEC (526) 199,Radiography Clinical 4,RADTEC (526) 199,4663,,Radiography Clinical 4,"200, 215"
+4584,,3.0,EDSVC (522) 101,Edu: Teamwork in School Settin,EDSVC (522) 101,4663,,Ia: Teamwork in School Setting,"200, 215"
+4584,,3.0,EDSVC (522) 102,Edu: Techniques/Readg/Lang Art,EDSVC (522) 102,4663,,Ia: Techniques/Readg/Lang Art,"200, 215"
+4584,,3.0,EDSVC (522) 103,Edu: Intro to Educ Practices,EDSVC (522) 103,4663,,Ia: Intro to Educ Practices,"200, 215"
+4584,,3.0,EDSVC (522) 104,Edu: Technology/Media Rsrces,EDSVC (522) 104,4663,,Ia: Technology/Media Rsrces,"200, 215"
+4584,,2.0,EDSVC (522) 105,Ia: Practicum 1,EDSVC (522) 105,4663,,Ia: Prac 1,"200, 215"
+4584,,3.0,EDSVC (522) 106,Edu: Child & Adolescent Devel,EDSVC (522) 106,4663,,Ia: Child & Adolescent Devel,"200, 215"
+4584,,3.0,EDSVC (522) 107,Edu: Overview of Special Ed,EDSVC (522) 107,4663,,Ia: Overview of Special Ed,"200, 215"
+4584,,3.0,EDSVC (522) 111,Edu: Guiding & Mnging Behavior,EDSVC (522) 111,4663,,Ia: Guiding & Mnging Behavior,"200, 215"
+4584,,2.0,EDSVC (522) 115,Ia: Practicum 2,EDSVC (522) 115,4663,,Ia: Prac 2,"200, 215"
+4584,,3.0,EDSVC (522) 118,Edu: Techniques For Math,EDSVC (522) 118,4663,,Ia: Techniques For Math,"200, 215"
+4584,,3.0,EDSVC (522) 120,Edu: Techniques For Science,EDSVC (522) 120,4663,,Ia: Techniques For Science,"200, 215"
+4584,,3.0,EDSVC (522) 122,Edu: Adv Readg/Language Arts,EDSVC (522) 122,4663,,Ia: Adv Readg/Language Arts,"200, 215"
+4584,,2.0,EDSVC (522) 123,Ia: Positive Classrm Mgmt Tech,EDSVC (522) 123,4663,,Ia: Positive Classrm Mang Tech,"200, 215"
+4584,,3.0,EDSVC (522) 124,Edu: Support Students W Disab,EDSVC (522) 124,4663,,Ia: Support Students W Disab,"200, 215"
+4584,,2.0,EDSVC (522) 125,Ia: Practicum 3,EDSVC (522) 125,4663,,Ia: Practicum 3,"200, 215"
+4584,,3.0,EDSVC (522) 129,Edu: Practicum 1,EDSVC (522) 129,4663,,Ia: Practicum 1,"200, 215"
+4584,,3.0,EDSVC (522) 131,Edu: Practicum 2,EDSVC (522) 131,4663,,Ia: Practicum 2,"200, 215"
+4584,,3.0,EDSVC (522) 132,Edu: Positive Classrm Mgmt Tec,EDSVC (522) 132,4663,,Ia: Positive Classrm Mgmt Tech,"200, 215"
+4584,,1.0,LABASST (513) 110,Basic Lab Skills,LABASST (513) 110,4663,,Basic Lab Skills,"200, 215"
+4584,,2.0,LABASST (513) 111,Phlebotomy,LABASST (513) 111,4663,,Phlebotomy,"200, 215"
+4584,,2.0,MEDREC (530) 176,Health Data Management,MEDREC (530) 176,4663,,Health Data Management,"200, 215"
+4584,,1.0,MEDREC (530) 181,Intro to the Health Record,MEDREC (530) 181,4663,,Intro to the Health Record,"200, 215"
+4584,,3.0,MEDREC (530) 182,Human Disease For Hlth Profes,MEDREC (530) 182,4663,,Human Disease For Hlth Profes,"200, 215"
+4584,,3.0,MEDREC (530) 184,Cpt Coding,MEDREC (530) 184,4663,,Cpt Coding,"200, 215"
+4584,,2.0,MEDREC (530) 185,Healthcare Reimbursement,MEDREC (530) 185,4663,,Healthcare Reimbursement,"200, 215"
+4584,,2.0,MEDREC (530) 195,Applied Coding,MEDREC (530) 195,4663,,Applied Coding,"200, 215"
+4584,,3.0,MEDREC (530) 197,Icd Diagnosis Coding,MEDREC (530) 197,4663,,Icd Diagnosis Coding,"200, 215"
+4584,,2.0,MEDREC (530) 199,Icd Procedure Coding,MEDREC (530) 199,4663,,Icd Procedure Coding,"200, 215"
+4584,,2.0,EMS (531) 911,Ems Fundamental,EMS (531) 911,4663,,Ems Fundamentals,215
+4584,,4.0,EMS (531) 912,Paramedic Medical Principles,EMS (531) 912,4663,,Paramedic Medical Principles,215
+4584,,3.0,EMS (531) 913,Adv. Patient Asses. Principles,EMS (531) 913,4663,,Advanced Patient Assessment Pr,215
+4584,,3.0,EMS (531) 914,Adv. Pre-Hospital Pharmacology,EMS (531) 914,4663,,Advanced Pre-Hospital Pharmaco,215
+4584,,2.0,EMS (531) 915,Paramedic Respiratory Mgt.,EMS (531) 915,4663,,Paramedic Respiratory Manageme,215
+4584,,3.0,EMS (531) 917,Paramedic Clinical Field I,EMS (531) 917,4663,,Paramedic Clinical/Field 1,215
+4584,,1.0,EMS (531) 918,Adv. Emergency Resuscitation,EMS (531) 918,4663,,Advanced Emergency Resuscitati,215
+4584,,4.0,EMS (531) 919,Paramedic Medical Emergencies,EMS (531) 919,4663,,Paramedic Medical Emergencies,215
+4584,,3.0,EMS (531) 920,Paramedic Trauma,EMS (531) 920,4663,,Paramedic Trauma,215
+4584,,3.0,EMS (531) 921,Special Patient Populations,EMS (531) 921,4663,,Special Patient Populations,215
+4584,,1.0,EMS (531) 922,Ems Operations,EMS (531) 922,4663,,Ems Operations,215
+4584,,1.0,EMS (531) 923,Paramedic Capstone,EMS (531) 923,4663,,Paramedic Capstone,215
+4584,,4.0,EMS (531) 924,Paramedic Clinical/Field 2,EMS (531) 924,4663,,Paramedic Clinical/Field 2,215
+4584,,2.0,NRSAD (543) 101,Nursing Fundamentals,NRSAD (543) 101,4663,,Nursing Fundamentals,200
+4584,,3.0,NRSAD (543) 102,Nursing Skills,NRSAD (543) 102,4663,,Nursing Skills,200
+4584,,2.0,NRSAD (543) 103,Nursing Pharmacology,NRSAD (543) 103,4663,,Nursing Pharmacology,200
+4584,,2.0,NRSAD (543) 104,Nsg: Intro Clinical Practice,NRSAD (543) 104,4663,,Nsg: Intro Clinical Practice,"200, 215"
+4584,,3.0,NRSAD (543) 105,Nursing Health Alterations,NRSAD (543) 105,4663,,Nursing Health Alterations,"200, 215"
+4584,,3.0,NRSAD (543) 106,Nursing Health Promotion,NRSAD (543) 106,4663,,Nursing Health Promotion,"200, 215"
+4584,,2.0,NRSAD (543) 107,Nsg: Clin Care Across Lifespan,NRSAD (543) 107,4663,,Nsg: Clin Care Across Lifespan,"200, 215"
+4584,,2.0,NRSAD (543) 108,Nsg: Intro Clinical Care Mgt,NRSAD (543) 108,4663,,Nsg: Intro Clinical Care Mgt,"200, 215"
+4584,,3.0,NRSAD (543) 109,Nsg: Complex Health Alterat 1,NRSAD (543) 109,4663,,Nsg: Complex Health Alterat 1,"200, 215"
+4584,,2.0,NRSAD (543) 110,Nsg: Mental Health Comm Con,NRSAD (543) 110,4663,,Nsg: Mental Health Comm Con,"200, 215"
+4584,,3.0,NRSAD (543) 111,Nsg: Intermed Clin Practice,NRSAD (543) 111,4663,,Nsg: Intermed Clin Practice,"200, 215"
+4584,,1.0,NRSAD (543) 112,Nursing Advanced Skills,NRSAD (543) 112,4663,,Nursing Advanced Skills,"200, 215"
+4584,,3.0,NRSAD (543) 113,Nsg: Complex Health Alterat 2,NRSAD (543) 113,4663,,Nsg: Complex Health Alterat 2,"200, 215"
+4584,,2.0,NRSAD (543) 114,Nsg: Mgt & Profess Concepts,NRSAD (543) 114,4663,,Nsg: Mgt & Profess Concepts,"200, 215"
+4584,,3.0,NRSAD (543) 115,Nsg: Adv Clinical Practice,NRSAD (543) 115,4663,,Nsg: Adv Clinical Practice,"200, 215"
+4584,,2.0,NRSAD (543) 116,Nursing Clinical Transition,NRSAD (543) 116,4663,,Nursing Clinical Transition,"200, 215"
+4584,,4.0,FIRET (503) 142,Fire Fighting Principles,FIRET (503) 142,4663,,Fire Fighting Principles,"200, 215"
+4584,,1.0,DENTAL (508) 101,Dental Health Safety,DENTAL (508) 101,4663,,Dental Health Safety,"200, 215"
+4584,,2.0,DENTAL (508) 103,Dental Radiography,DENTAL (508) 103,4663,,Dental Radiography,"200, 215"
+4584,,2.0,DENTAL (508) 113,Dental Materials,DENTAL (508) 113,4663,,Dental Materials,"200, 215"
+4584,,2.0,DENTAL (508) 120,Dental Office Management,DENTAL (508) 120,4663,,Dental Office Management,"200, 215"
+4584,,3.0,NATSCI (806) 112,Principles of Sustainability,NATSCI (806) 112,4663,,Principles of Sustainability,
+4584,,4.0,NATSCI (806) 114,General Biology,NATSCI (806) 114,4663,UCTA,General Biology,22
+4584,,4.0,NATSCI (806) 134,General Chemistry,NATSCI (806) 134,4663,UCTA,General Chemistry,22
+4584,,3.0,NATSCI (806) 143,College Physics 1,NATSCI (806) 143,4663,,College Physics 1,
+4584,,4.0,NATSCI (806) 154,General Physics 1,NATSCI (806) 154,4663,UCTA,General Physics 1,22
+4584,,4.0,NATSCI (806) 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4584,,4.0,NATSCI (806) 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4584,,4.0,NATSCI (806) 186,Intro to Biochemistry,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4584,,4.0,NATSCI (806) 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4584,,2.0,AUTOTEC (602) 103,Engine Repair 1,AUTOTEC (602) 103,4663,,Engine Repair 1,"200, 215"
+4584,,3.0,AUTOTEC (602) 104,Brake Systems,AUTOTEC (602) 104,4663,,Brake Systems,"200, 215"
+4584,,2.0,AUTOTEC (602) 107,Auto Service Fundamentals,AUTOTEC (602) 107,4663,,Auto Service Fundamentals,"200, 215"
+4584,,4.0,AUTOTEC (602) 109,Auto Transmission/Transaxle,AUTOTEC (602) 109,4663,,Auto Transmission/Transaxle,"200, 215"
+4584,,3.0,AUTOTEC (602) 123,Engine Repair 2,AUTOTEC (602) 123,4663,,Engine Repair 2,"200, 215"
+4584,,3.0,AUTOTEC (602) 124,Steering & Suspension Systems,AUTOTEC (602) 124,4663,,Steering & Suspension Systems,"200, 215"
+4584,,2.0,AUTOTEC (602) 125,Electrical&Electronic Systems1,AUTOTEC (602) 125,4663,,Electrical&Electronic Systems1,"200, 215"
+4584,,3.0,AUTOTEC (602) 127,Electrical&Electronic Systems2,AUTOTEC (602) 127,4663,,Electrical&Electronic Systems2,"200, 215"
+4584,,3.0,AUTOTEC (602) 128,Electrical&Electronic Systems3,AUTOTEC (602) 128,4663,,Electrical&Electronic Systems3,"200, 215"
+4584,,4.0,AUTOTEC (602) 149,Manual Drive Train and Axles,AUTOTEC (602) 149,4663,,Manual Drive Train and Axles,"200, 215"
+4584,,2.0,AUTOTEC (602) 195,Advanced Chassis Systems,AUTOTEC (602) 195,4663,,Advanced Chassis Systems,"200, 215"
+4584,,3.0,AUTOTEC (602) 196,Climate Control Systems,AUTOTEC (602) 196,4663,,Climate Control Systems,"200, 215"
+4584,,3.0,AUTOTEC (602) 197,Engine Performance 1,AUTOTEC (602) 197,4663,,Engine Performance 1,"200, 215"
+4584,,4.0,AUTOTEC (602) 198,Engine Performance 2,AUTOTEC (602) 198,4663,,Engine Performance 2,"200, 215"
+4584,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 102,4663,,Math of Finance,200
+4584,,3.0,MATH (804) 106,Intro to College Math,MATH (804) 106,4663,,Intro to College Math,200
+4584,,3.0,MATH (804) 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4584,,3.0,MATH (804) 113,College Technical Math 1a,MATH (804) 113,4663,,College Technical Math 1a,
+4584,,2.0,MATH (804) 114,College Technical Math 1b,MATH (804) 114,4663,,College Technical Math 1b,200
+4584,,5.0,MATH (804) 115,College Technical Math 1,MATH (804) 115,4663,,College Technical Math 1,
+4584,,4.0,MATH (804) 116,College Technical Math 2,MATH (804) 116,4663,MA,College Technical Math 2,200
+4584,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 123,4663,,Math W Business Apps,
+4584,,3.0,MATH (804) 133,Math & Logic,MATH (804) 133,4663,,Math & Logic,
+4584,,3.0,MATH (804) 189,Introductory Statistics,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4584,,4.0,MATH (804) 198,Calculus 1,MATH (804) 198,4663,,Calculus 1,
+4556,,1.0,MED SUPP (510) 107,Medical Terminology,MED SUPP (510) 120,4663,,Medical Terminolgy 1,6
+4584,,3.0,MATGEN (834) 110,Elem Algebra With Apps,MATGEN (834) 110,4663,,Elem Algebra With Apps,200
+4584,,3.0,COMMSK (801) 136,English Composition 1,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+4584,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4584,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4584,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4584,,3.0,COMMSK (801) 198,Speech,COMMSK (801) 198,4663,UCTA,Speech,22
+4650,,3.0,COMMSK (801) 136,English Composition 1,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+4650,,3.0,COMMSK (801) 141,Intro to Mass Comm,COMMSK (801) 141,4663,,Introduction to Mass Communica,
+4650,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4650,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4650,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4650,,3.0,COMMSK (801) 198,Speech,COMMSK (801) 198,4663,UCTA,Speech,22
+4650,,3.0,MATH (804) 106,Intro to College Math,MATH (804) 106,4663,,Intro to College Math,
+4650,,3.0,MATH (804) 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4650,,3.0,MATH (804) 110,Elem Algebra W Apps,MATH (804) 110,4663,MA,Elem Algebra W Apps,
+4650,,3.0,MATH (804) 113,College Technical Math 1a,MATH (804) 113,4663,,College Technical Math 1a,
+4650,,2.0,MATH (804) 114,College Technical Math 1b,MATH (804) 114,4663,,College Technical Math 1b,
+4650,,5.0,MATH (804) 115,College Technical Math 1,MATH (804) 115,4663,,College Technical Math 1,
+4650,,4.0,MATH (804) 118,Interm Algebra W Apps,MATH (804) 118,4663,,Interm Algebra W Apps,
+4650,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 123,4663,,Math W Business Apps,
+4650,,3.0,MATH (804) 133,Math & Logic,MATH (804) 133,4663,,Math & Logic,
+4650,,3.0,MATH (804) 195,College Algebra W Apps,MATH (804) 195,4663,MA,College Algebra W Apps,
+4615,,3.0,COMMSK (801) 141,Intro to Mass Comm,COMMSK (801) 141,4663,CO,Introduction to Mass Communica,
+4615,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4615,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4615,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4615,,3.0,COMMSK (801) 198,Speech,COMMSK (801) 198,4663,UCTA,Speech,22
+4650,,3.0,SOCSCI (809) 103,Think Critically & Creatively,SOCSCI (809) 103,4663,,Think Critically & Creatively,
+4650,,3.0,SOCSCI (809) 122,Intro to Amer Government,SOCSCI (809) 122,4663,UCTA,Intro to Amer Government,22
+4650,,3.0,SOCSCI (809) 128,Marriage & Family,SOCSCI (809) 128,4663,,Marriage & Family,
+4650,,3.0,SOCSCI (809) 159,Abnormal Psychology,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4650,,3.0,SOCSCI (809) 166,Intro to Ethics: Theory & App,SOCSCI (809) 166,4663,UCTA,Intro to Ethics: Theory & App,22
+4650,,3.0,SOCSCI (809) 172,Intro to Diversity Studies,SOCSCI (809) 172,4663,UCTA,Introduction to Diversity Stud,22
+4650,,3.0,SOCSCI (809) 188,Developmental Psychology,SOCSCI (809) 188,4663,,Developmental Psychology,
+4650,,3.0,SOCSCI (809) 195,Economics,SOCSCI (809) 195,4663,UCTA,Economics,22
+4650,,3.0,SOCSCI (809) 196,Intro to Sociology,SOCSCI (809) 196,4663,UCTA,Intro to Sociology,22
+4650,,3.0,SOCSCI (809) 197,Contemporary Amer Society,SOCSCI (809) 197,4663,,Contemporary American Society,
+4650,,3.0,SOCSCI (809) 198,Intro to Psychology,SOCSCI (809) 198,4663,UCTA,Intro to Psychology,22
+4650,,3.0,NATSCI (806) 112,Principles of Sustainability,NATSCI (806) 112,4663,,Principles of Sustainability,
+4650,,4.0,NATSCI (806) 114,General Biology,NATSCI (806) 114,4663,"UCTA,SC",General Biology,22
+4650,,4.0,NATSCI (806) 134,General Chemistry,NATSCI (806) 134,4663,UCTA,General Chemistry,22
+4650,,4.0,NATSCI (806) 154,General Physics 1,NATSCI (806) 154,4663,UCTA,General Physics 1,22
+4650,,4.0,NATSCI (806) 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4650,,4.0,NATSCI (806) 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4650,,4.0,NATSCI (806) 186,Intro to Biochemistry,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4650,,4.0,NATSCI (806) 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4615,,4.0,NATSCI (806) 114,General Biology,NATSCI (806) 114,4663,"UCTA,SC",General Biology,22
+4615,,4.0,NATSCI (806) 134,General Chemistry,NATSCI (806) 134,4663,UCTA,General Chemistry,22
+4615,,3.0,NATSCI (806) 139,Survey of Physics,NATSCI (806) 139,4663,,Survey of Physics,
+4615,,3.0,NATSCI (806) 143,College Physics 1,NATSCI (806) 143,4663,,College Physics 1,
+4615,,3.0,NATSCI (806) 144,College Physics 2,NATSCI (806) 144,4663,SC,College Physics 2,
+4615,,4.0,NATSCI (806) 154,General Physics 1,NATSCI (806) 154,4663,UCTA,General Physics 1,22
+4615,,4.0,NATSCI (806) 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4615,,4.0,NATSCI (806) 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4615,,4.0,NATSCI (806) 186,Intro to Biochemistry,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4615,,4.0,NATSCI (806) 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4615,,3.0,SOCSCI (809) 103,Think Critically & Creatively,SOCSCI (809) 103,4663,,Think Critically & Creatively,
+4615,,3.0,SOCSCI (809) 122,Intro to Amer Government,SOCSCI (809) 122,4663,UCTA,Intro to Amer Government,22
+4615,,3.0,SOCSCI (809) 159,Abnormal Psychology,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4615,,3.0,SOCSCI (809) 166,Intro to Ethics: Theory & App,SOCSCI (809) 166,4663,UCTA,Intro to Ethics: Theory & App,22
+4615,,3.0,SOCSCI (809) 172,Introduction to Diversity Stud,SOCSCI (809) 172,4663,UCTA,Introduction to Diversity Stud,22
+4615,,3.0,SOCSCI (809) 188,Developmental Psychology,SOCSCI (809) 188,4663,,Developmental Psychology,
+4615,,3.0,SOCSCI (809) 195,Economics,SOCSCI (809) 195,4663,UCTA,Economics,22
+4615,,3.0,SOCSCI (809) 196,Intro to Sociology,SOCSCI (809) 196,4663,"UCTA,SO",Intro to Sociology,22
+4615,,3.0,SOCSCI (809) 197,Contemporary Amer Society,SOCSCI (809) 197,4663,,Contemporary American Society,
+4615,,3.0,SOCSCI (809) 198,Intro to Psychology,SOCSCI (809) 198,4663,"UCTA,BE",Intro to Psychology,22
+4615,,3.0,SOCSCI (809) 199,Psychology of Human Relations,SOCSCI (809) 199,4663,,Psychology of Human Relations,
+4615,,3.0,MATH (804) 106,Intro to College Math,MATH (804) 106,4663,,Intro to College Math,
+4615,,3.0,MATH (804) 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4615,,3.0,MATH (804) 110,Elem Algebra W Apps,MATH (804) 110,4663,,Elem Algebra W Apps,
+4615,,3.0,MATH (804) 113,College Technical Math 1a,MATH (804) 113,4663,MA,College Technical Math 1a,
+4615,,2.0,MATH (804) 114,College Technical Math 1b,MATH (804) 114,4663,,College Technical Math 1b,
+4615,,5.0,MATH (804) 115,College Technical Math 1,MATH (804) 115,4663,,College Technical Math 1,
+4615,,4.0,MATH (804) 116,College Technical Math 2,MATH (804) 116,4663,,College Technical Math 2,
+4615,,4.0,MATH (804) 118,Interm Algebra W Apps,MATH (804) 118,4663,,Interm Algebra W Apps,
+4615,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 123,4663,,Math W Business Apps,
+4615,,3.0,MATH (804) 133,Math & Logic,MATH (804) 133,4663,,Math & Logic,
+4615,,3.0,MATH (804) 144,Math of Finance,MATH (804) 144,4663,,Math of Finance,
+4615,,3.0,MATH (804) 189,Introductory Statistics,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4615,,3.0,MATH (804) 196,Trigonometry W Apps,MATH (804) 196,4663,,Trigonometry W Apps,
+4615,,4.0,MATH (804) 198,Calculus 1,MATH (804) 198,4663,MA,Calculus 1,
+4584,,3.0,SOCSCI (809) 128,Marriage & Family,SOCSCI (809) 128,4663,,Marriage & Family,
+4584,,3.0,Soc Sci EL,Social Science Elective,SOCSCI (809) 136,4663,SO,Abnormal Psycholog,"200, 209"
+4584,,3.0,SOCSCI (809) 159,Abnormal Psychology,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4584,,3.0,SOCSCI (809) 166,Intro to Ethics: Theory & App,SOCSCI (809) 166,4663,UCTA,Intro to Ethics: Theory & App,22
+4584,,3.0,SOCSCI (809) 172,Introduction to Diversity Stud,SOCSCI (809) 172,4663,UCTA,Introduction to Diversity Stud,22
+4584,,3.0,SOCSCI (809) 188,Developmental Psychology,SOCSCI (809) 188,4663,,Developmental Psychology,
+4584,,3.0,SOCSCI (809) 195,Economics,SOCSCI (809) 195,4663,UCTA,Economics,22
+4584,,3.0,SOCSCI (809) 196,Intro to Sociology,SOCSCI (809) 196,4663,UCTA,Intro to Sociology,22
+4584,,3.0,SOCSCI (809) 196,Intro to Sociology,SOCSCI (809) 197,4663,UCTA,Contemporary American Society,"200, 22"
+4584,,3.0,SOCSCI (809) 198,Intro to Psychology,SOCSCI (809) 198,4663,UCTA,Intro to Psychology,22
+4584,,3.0,SOCSCI (809) 199,Psychology of Human Relations,SOCSCI (809) 199,4663,,Psychology of Human Relations,200
+4683,,4.0,ACCTG (101) 111,Accounting I,ACCTG (101) 111,4663,,Accounting 1,
+4683,,3.0,OFFTECH (106) 160,Proofreading and Editing,OFFTECH (106) 104,4663,,Business Proofreading & Editin,
+4683,,3.0,COMPSOFT (103) 106,Introduction to Ms Office,COMPSOFT (103) 105,4663,,Office 2010 Level 1,
+4683,,1.0,COMPSOFT (103) 113,Word-Beginning,COMPSOFT (103) 115,4663,,Word 2010 Level 1,
+4683,,3.0,COMPSOFT (103) 106,Introduction to Ms Office,COMPSOFT (103) 222,4663,,Office 2013 Level 1,
+4683,,3.0,ITNET (150) 101,Network Fundamentals,ITMCS (154) 100,4663,,Computer Hardware Fundamentals,
+4683,,1.0,ITNET (150) 151,Implementing Pc Security,ITNET (150) 214,4663,,Cbts Comptia Server+,
+4683,,3.0,RBUS (105) 160,Business Law,BUSADM (102) 160,4663,,Business Law 1,
+4683,,3.0,SUPDEV (196) 189,Team Bldg & Problem Solving,SUPDEV (196) 189,4663,,Team Building and Problem Solv,
+4683,,3.0,SUPDEV (196) 191,Supervision,SUPDEV (196) 191,4663,,Supervision & Management Skill,
+4683,,3.0,SUPDEV (196) 193,Human Resource Management,SUPDEV (196) 193,4663,,Managing Human Resources & Lab,
+4683,,3.0,ITDEV (152) 155,Web Programming 1,ITDEV (152) 123,4663,,Php and Mysql Database Web Pag,
+4683,,3.0,MEDTERM (501) 101,Medical Terminology,MEDTERM (501) 101,4663,,Medical Terminology,
+4683,,3.0,COMMSK (801) 136,English Composition 1,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+4683,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 151,4663,,Comm I,
+4683,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4683,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4683,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4683,,3.0,COMMSK (801) 198,Speech,COMMSK (801) 198,4663,UCTA,Speech,22
+4683,,3.0,MATH (804) 106,Intro to College Math,MATH (804) 106,4663,MA,Intro to College Math,
+4683,,3.0,MATH (804) 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4683,,3.0,MATH (804) 110,Elem Algebra W Apps,MATH (804) 110,4663,,Elem Algebra W Apps,
+4683,,3.0,MATH (804) 113,College Technical Math 1a,MATH (804) 113,4663,MA,College Technical Math 1a,
+4683,,3.0,GEN EL,General Elective,NATSCI (806) 110,4663,,"Body, Structure & Function",
+4683,,3.0,NATSCI (806) 112,Principles of Sustainability,NATSCI (806) 112,4663,,Principles of Sustainability,
+4683,,4.0,NATSCI (806) 114,General Biology,NATSCI (806) 114,4663,UCTA,General Biology,22
+4683,,4.0,NATSCI (806) 134,General Chemistry,NATSCI (806) 134,4663,UCTA,General Chemistry,22
+4683,,3.0,NATSCI (806) 143,College Physics 1,NATSCI (806) 143,4663,SC,College Physics 1,
+4683,,3.0,NATSCI (806) 144,College Physics 2,NATSCI (806) 144,4663,SC,College Physics 2,
+4683,,4.0,NATSCI (806) 154,General Physics 1,NATSCI (806) 154,4663,UCTA,General Physics 1,22
+4683,,4.0,NATSCI (806) 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4683,,4.0,NATSCI (806) 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4683,,4.0,NATSCI (806) 186,Intro to Biochemistry,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4683,,4.0,NATSCI (806) 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4683,,2.0,MATH (804) 114,College Technical Math 1b,MATH (804) 114,4663,MA,College Technical Math 1b,
+4683,,4.0,MATH (804) 116,College Technical Math 2,MATH (804) 116,4663,MA,College Technical Math 2,
+4683,,4.0,MATH (804) 118,Interm Algebra W Apps,MATH (804) 118,4663,,Interm Algebra W Apps,
+4683,,3.0,MATH (804) 189,Introductory Statistics,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4683,,3.0,MATH (804) 195,College Algebra W Apps,MATH (804) 195,4663,,College Algebra W Apps,
+4683,,3.0,MATH (804) 196,Trigonometry W Apps,MATH (804) 196,4663,,Trigonometry W Apps,
+4683,,4.0,MATH (804) 198,Calculus 1,MATH (804) 198,4663,,Calculus 1,
+4683,,3.0,ELECT (605) 105,Electrical Circuits I,ELECT (605) 100,4663,,Dc Circuits,
+4683,,2.0,INDMANUF (623) 106,Intro to Autocad,ARCHT (614) 139,4663,,Autocad 2d For Architectural D,
+4683,,2.0,NRSAD (543) 101,Nursing Fundamentals,NRSAD (543) 101,4663,,Nursing Fundamentals,
+4683,,3.0,NRSAD (543) 105,Nursing Health Alterations,NRSAD (543) 105,4663,,Nursing Health Alterations,
+4614,,3.0,ENG 151,Communication Skills 1,COMMSK (801) 151,4663,,Comm I,
+4614,,3.0,ENG 151,Communication Skills 1,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4614,,3.0,ENG 152,Communication Skills 2,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4614,L,3.0,SPEECH 201,Elem of Speech 1,COMMSK (801) 198,4663,UCTA,Speech,22
+4614,,3.0,ENG 152,Communication Skills 2,COMMSK (801) 198,4663,"UCTA,",Speech,22
+4614,,3.0,HUMSVC 101,Introduction to Human Services,HUMSVC (520) 101,4663,,Introduction to Human Services,
+4614,,3.0,HUMSVC 144,Ethics in the Human Service Pr,HUMSVC (520) 102,4663,,Boundaries and Ethics in the H,
+4614,,3.0,AODA 109,Drug Use and Abuse,HUMSVC (520) 103,4663,,Understanding Addiction,
+4614,,3.0,HUMSVC 118,Introduction to Gerontology,HUMSVC (520) 150,4663,,Introduction to Gerontology,
+4614,,1.0,PRTG 110,Computer to Plate Imposition,PRTG (204) 120,4663,,Printing Processes & Finishing,
+4614,,3.0,INTP 126,American Sign Language 1,INTP (533) 113,4663,,American Sign Language 1,
+4614,,3.0,INTP 127,American Sign Language 2,INTP (533) 114,4663,,American Sign Language 2,
+4614,,3.0,HEALTH 101,Medical Terminology,MEDTERM (501) 101,4663,,Medical Terminology,
+4614,,1.0,OFTECH 103,Keyboard and Keypad,OFFTECH (106) 145,4663,,Information Storage Management,
+4614,,3.0,MKTG 102,Prin of Marketing,MKTG (104) 172,4663,,Marketing Principles,
+4614,L,4.0,FLANG 202,Spanish 1,FLANG (802) 111,4663,,Spanish 1,
+4614,,3.0,MGTDEV 110,Intro/Labor Relations,SUPDEV (196) 101,4663,,Labor Relations,
+4614,,3.0,MGTDEV 169,Diversity and Change Managemen,SUPDEV (196) 169,4663,,Leading Change and Diversity,
+4614,,3.0,MGTDEV 188,Project Management,SUPDEV (196) 188,4663,,Project Management,
+4614,,3.0,MGTDEV 190,Leadership Development,SUPDEV (196) 190,4663,,Leading Strategically,
+4614,,3.0,MGTDEV 192,Managing For Quality,SUPDEV (196) 192,4663,,Quality & Performance Excellen,
+4614,,3.0,MGTDEV 193,Human Resource Management,SUPDEV (196) 193,4663,,Managing Human Resources & Lab,
+4614,,3.0,SOCSCI 131,American Natl Govt-Police,SOCSCI (809) 122,4663,"UCTA,",Intro to Amer Government,22
+4614,L,3.0,SOCSCI 204,Marriage & Family,SOCSCI (809) 128,4663,,Marriage & Family,
+4614,,3.0,SOCSCI 159,Abnormal Psychology,SOCSCI (809) 136,4663,,Abnormal Psycholog,
+4614,,3.0,SOCSCI 197,Contemporary Amer Society,SOCSCI (809) 153,4663,,Gender Roles in Society,
+4614,,3.0,SOCSCI 159,Abnormal Psychology,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4614,,3.0,SOCSCI 149,Ethics For the Professions,SOCSCI (809) 166,4663,"UCTA,",Intro to Ethics: Theory & App,22
+4614,,3.0,SOCSCI 172,Intro to Diversity Studies,SOCSCI (809) 172,4663,UCTA,Introduction to Diversity Stud,22
+4614,,3.0,SOCSCI 188,Developmental Psychology,SOCSCI (809) 188,4663,,Developmental Psychology,
+4614,,3.0,SOCSCI 195,Economics,SOCSCI (809) 195,4663,UCTA,Economics,22
+4614,,3.0,SOCSCI 197,Contemporary Amer Society,SOCSCI (809) 196,4663,"UCTA,",Intro to Sociology,22
+4614,,3.0,SOCSCI 197,Contemporary Amer Society,SOCSCI (809) 197,4663,,Contemporary American Society,
+4614,,3.0,SOCSCI 198,Intro to Psychology,SOCSCI (809) 198,4663,UCTA,Intro to Psychology,22
+4614,,3.0,SOCSCI 199,Psychology of Human Relations,SOCSCI (809) 199,4663,,Psychology of Human Relations,
+4614,,3.0,MATH 123,Math W Business Apps,MATH (804) 102,4663,,Math of Finance,
+4614,,3.0,MATH 106,Intro to College Math,MATH (804) 106,4663,,Intro to College Math,
+4614,,3.0,MATH 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4614,,3.0,MATH 123,Math W Business Apps,MATH (804) 109,4663,,College Math For Business,
+4614,,3.0,MATH 110,Elem Algebra W Apps,MATH (804) 110,4663,MA,Elem Algebra W Apps,
+4614,,3.0,MATH 113,College Technical Math 1a,MATH (804) 113,4663,,College Technical Math 1a,
+4614,,2.0,MATH 114,College Technical Math 1b,MATH (804) 114,4663,,College Technical Math 1b,
+4614,,5.0,MATH 115,College Technical Math 1,MATH (804) 115,4663,,College Technical Math 1,
+4614,,4.0,MATH 116,College Technical Math 2,MATH (804) 116,4663,,College Technical Math 2,
+4614,,3.0,MATH 123,Math W Business Apps,MATH (804) 123,4663,,Math W Business Apps,
+4614,,3.0,MATH 133,Math & Logic,MATH (804) 133,4663,MA,Math & Logic,
+4614,,5.0,MATH 115,College Technical Math 1,MATH (804) 151,4663,,Tech Math I,
+4614,,3.0,BADM 104,Business Statistics,MATH (804) 174,4663,,Stats For Business,
+4614,,3.0,MATH 189,Introductory Statistics,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4614,,3.0,NATSCI 189,Basic Anatomy,NATSCI (806) 110,4663,,"Body, Structure & Function",
+4614,,4.0,NATSCI 137,Comprehensive Tech Physics,NATSCI (806) 154,4663,"UCTA,",General Physics 1,22
+4614,,4.0,NATSCI 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4614,,4.0,NATSCI 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4614,,3.0,NATSCI 137,Comprehensive Tech Physics,NATSCI (806) 180,4663,,Tech Physics 1,
+4614,,4.0,NATSCI 186,Intro to Biochemistry,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4614,,4.0,NATSCI 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4583,,4.0,NATSCI (806) 114,General Biology,NATSCI (806) 114,4663,"UCTA,SC",General Biology,22
+4583,,4.0,NATSCI (806) 134,General Chemistry,NATSCI (806) 134,4663,UCTA,General Chemistry,22
+4583,,4.0,NATSCI (806) 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4583,,4.0,NATSCI (806) 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4583,,4.0,NATSCI (806) 186,Intro to Biochemistry,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4583,,4.0,NATSCI (806) 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4646,,3.0,MATH (804) 106,Intro to College Math,MATH (804) 106,4663,,Intro to College Math,
+4646,,3.0,MATH (804) 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4646,,3.0,MATH (804) 113,College Technical Math 1a,MATH (804) 113,4663,MA,College Technical Math 1a,
+4646,,2.0,MATH (804) 114,College Technical Math 1b,MATH (804) 114,4663,MA,College Technical Math 1b,
+4646,,5.0,MATH (804) 115,College Technical Math 1,MATH (804) 115,4663,,College Technical Math 1,
+4646,,4.0,MATH (804) 116,College Technical Math 2,MATH (804) 116,4663,,College Technical Math 2,
+4646,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 123,4663,,Math W Business Apps,
+4646,,3.0,MATH (804) 189,Introductory Statistics,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4583,,3.0,COMMSK (801) 136,English Composition 1,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+4583,,3.0,COMMSK (801) 141,Intro to Mass Comm,COMMSK (801) 141,4663,,Introduction to Mass Communica,
+4583,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4583,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4583,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4583,,3.0,COMMSK (801) 198,Speech,COMMSK (801) 198,4663,UCTA,Speech,22
+4646,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4646,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4646,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4583,,3.0,SOCSCI (809) 103,Think Critically & Creatively,SOCSCI (809) 103,4663,,Think Critically & Creatively,
+4583,,3.0,SOCSCI (809) 122,Intro to Amer Government,SOCSCI (809) 122,4663,UCTA,Intro to Amer Government,22
+4583,,3.0,SOCSCI (809) 128,Marriage & Family,SOCSCI (809) 128,4663,SO,Marriage & Family,
+4583,,3.0,SOCSCI (809) 159,Abnormal Psychology,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4583,,3.0,SOCSCI (809) 166,Intro to Ethics: Theory & App,SOCSCI (809) 166,4663,UCTA,Intro to Ethics: Theory & App,22
+4583,,3.0,SOCSCI (809) 172,Introduction to Diversity Stud,SOCSCI (809) 172,4663,UCTA,Introduction to Diversity Stud,22
+4583,,3.0,SOCSCI (809) 174,Social Problems,SOCSCI (809) 174,4663,SO,Social Problems,
+4583,,3.0,SOCSCI (809) 188,Developmental Psychology,SOCSCI (809) 188,4663,,Developmental Psychology,
+4583,,3.0,SOCSCI (809) 195,Economics,SOCSCI (809) 195,4663,UCTA,Economics,22
+4583,,3.0,SOCSCI (809) 196,Intro to Sociology,SOCSCI (809) 196,4663,UCTA,Intro to Sociology,22
+4583,,3.0,SOCSCI (809) 198,Intro to Psychology,SOCSCI (809) 198,4663,UCTA,Intro to Psychology,22
+4583,,3.0,SOCSCI (809) 199,Psychology of Human Relations,SOCSCI (809) 199,4663,,Psychology of Human Relations,
+4583,,3.0,MATH (804) 106,Intro to College Math,MATH (804) 106,4663,,Intro to College Math,
+4583,,3.0,MATH (804) 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4583,,3.0,MATH (804) 110,Elem Algebra W Apps,MATH (804) 110,4663,,Elem Algebra W Apps,
+4583,,3.0,MATH (804) 113,College Technical Math 1a,MATH (804) 113,4663,,College Technical Math 1a,
+4583,,2.0,MATH (804) 114,College Technical Math 1b,MATH (804) 114,4663,,College Technical Math 1b,
+4583,,4.0,MATH (804) 116,College Technical Math 2,MATH (804) 116,4663,,College Technical Math 2,
+4583,,4.0,MATH (804) 118,Interm Algebra W Apps,MATH (804) 118,4663,,Interm Algebra W Apps,
+4583,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 123,4663,,Math W Business Apps,
+4583,,3.0,MATH (804) 189,Introductory Statistics,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4583,,3.0,MATH (804) 195,College Algebra W Apps,MATH (804) 195,4663,,College Algebra W Apps,
+4583,,3.0,MATH (804) 196,Trigonometry W Apps,MATH (804) 196,4663,,Trigonometry W Apps,
+4646,,3.0,NATSCI (806) 112,Principles of Sustainability,NATSCI (806) 112,4663,,Principles of Sustainability,
+4646,,3.0,NATSCI (806) 139,Survey of Physics,NATSCI (806) 139,4663,,Survey of Physics,
+4646,,4.0,NATSCI (806) 154,General Physics 1,NATSCI (806) 154,4663,UCTA,General Physics 1,22
+4646,,4.0,NATSCI (806) 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4646,,4.0,NATSCI (806) 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4646,,4.0,NATSCI (806) 186,Intro to Biochemistry,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4646,,4.0,NATSCI (806) 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4639,,3.0,COMMSK (801) 136,English Composition 1,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+4639,,3.0,COMMSK (801) 141,Intro to Mass Comm,COMMSK (801) 141,4663,,Introduction to Mass Communica,
+4639,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4639,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4639,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4639,,3.0,COMMSK (801) 198,Speech,COMMSK (801) 198,4663,UCTA,Speech,22
+4671,,3.0,OFFTECH (106) 110,Microcomputer Bus Apps I,COMPSOFT (103) 105,4663,,Office 2010 Level 1,"1, 4"
+4671,,3.0,MKTG (104) 102,Marketing Principles,MKTG (104) 172,4663,,Marketing Principles,"1, 4"
+4671,,3.0,BUSADM (102) 160,Business Law I,BUSADM (102) 160,4663,,Business Law 1,"1, 4"
+4671,,3.0,SOCSCI (809) 103,Think Critically & Creatively,SOCSCI (809) 103,4663,,Think Critically & Creatively,
+4671,,3.0,SOCSCI (809) 197,Contemporary Amer Society,SOCSCI (809) 122,4663,UCTA,Intro to Amer Government,"1, 4, 22"
+4671,,3.0,SOCSCI (809) 159,Abnormal Psychology,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4671,,3.0,SOCSCI (809) 166,Intro to Ethics: Theory & App,SOCSCI (809) 166,4663,UCTA,Intro to Ethics: Theory & App,22
+4671,,3.0,SOCSCI (809) 172,Intro to Diversity Studies,SOCSCI (809) 172,4663,UCTA,Introduction to Diversity Stud,22
+4671,,3.0,SOCSCI (809) 174,Social Problems,SOCSCI (809) 174,4663,SO,Social Problems,
+4671,,3.0,SOCSCI (809) 188,Developmental Psychology,SOCSCI (809) 188,4663,,Developmental Psychology,
+4671,,3.0,SOCSCI (809) 195,Economics,SOCSCI (809) 195,4663,UCTA,Economics,22
+4671,,3.0,SOCSCI (809) 196,Intro to Sociology,SOCSCI (809) 196,4663,UCTA,Intro to Sociology,22
+4671,,3.0,SOCSCI (809) 197,Contemporary Amer Society,SOCSCI (809) 197,4663,,Contemporary American Society,
+4671,,3.0,SOCSCI (809) 198,Intro to Psychology,SOCSCI (809) 198,4663,UCTA,Intro to Psychology,22
+4671,,3.0,SOCSCI (809) 199,Psychology of Human Relations,SOCSCI (809) 199,4663,,Psychology of Human Relations,
+4671,,3.0,COMMSK (801) 136,English Composition 1,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+4671,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4671,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4671,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4671,,3.0,COMMSK (801) 198,Speech,COMMSK (801) 198,4663,UCTA,Speech,22
+4671,,3.0,SUPDEV (196) 195,Management of Human Resources,SUPDEV (196) 193,4663,,Managing Human Resources & Lab,"1, 4"
+4671,,3.0,MEDTERM (501) 101,Medical Terminology,MEDTERM (501) 101,4663,,Medical Terminology,"1, 4"
+4671,,4.0,NATSCI (806) 114,General Biology,NATSCI (806) 114,4663,UCTA,General Biology,22
+4671,,3.0,NATSCI (806) 139,Survey of Physics,NATSCI (806) 139,4663,,Survey of Physics,
+4671,,3.0,NATSCI (806) 143,College Physics 1,NATSCI (806) 143,4663,,College Physics 1,
+4671,,3.0,NATSCI (806) 144,College Physics 2,NATSCI (806) 144,4663,,College Physics 2,
+4671,,4.0,NATSCI (806) 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4671,,4.0,NATSCI (806) 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4671,,4.0,NATSCI (806) 186,Intro to Biochemistry,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4671,,4.0,NATSCI (806) 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,
+4599,,3.0,ACCTG (101) 115,Accounting Principles,ACCTG (101) 111,4663,,Accounting 1,
+4599,,4.0,ACCTG (101) 101,Financial Accounting 1,ACCTG (101) 111,4663,,Accounting 1,
+4599,,4.0,ACCTG (101) 103,Financial Accounting 2,ACCTG (101) 113,4663,,Accounting 2,
+4599,,3.0,ACCTG (101) 124,Payroll Systems and Accounting,ACCTG (101) 135,4663,,Payroll Accounting,
+4599,,3.0,ACCTG (101) 174,Quickbooks Accounting,ACCTG (101) 178,4663,,Accounting Computer Applicatio,
+4599,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+4599,,3.0,COMMSK (801) 136,English Composition 1,COMMSK (801) 136,4663,UCTA,English Composition 1,22
+4599,,3.0,COMMSK (801) 195,Written Communication,COMMSK (801) 195,4663,UCTA,Written Communication,22
+4599,,3.0,COMMSK (801) 196,Oral/Interpersonal Comm,COMMSK (801) 196,4663,,Oral/Interpersonal Comm,
+4599,,3.0,COMMSK (801) 197,Technical Reporting,COMMSK (801) 197,4663,,Technical Reporting,
+4599,,3.0,COMMSK (801) 198,Speech,COMMSK (801) 198,4663,UCTA,Speech,22
+4599,,3.0,MATH (804) 106,Intro to College Math,MATH (804) 106,4663,,Intro to College Math,
+4599,,3.0,MATH (804) 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4599,,3.0,MATH (804) 113,College Technical Math 1a,MATH (804) 113,4663,,College Technical Math 1a,
+4599,,2.0,MATH (804) 114,College Technical Math 1b,MATH (804) 114,4663,,College Technical Math 1b,
+4599,,5.0,MATH (804) 115,College Technical Math 1,MATH (804) 115,4663,,College Technical Math 1,
+4599,,4.0,MATH (804) 116,College Technical Math 2,MATH (804) 116,4663,,College Technical Math 2,
+4599,,4.0,MATH (804) 118,Interm Algebra W Apps,MATH (804) 118,4663,,Interm Algebra W Apps,
+4599,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 123,4663,,Math W Business Apps,
+4599,,3.0,MATH (804) 133,Math & Logic,MATH (804) 133,4663,,Math & Logic,
+4599,,3.0,MATH (804) 189,Introductory Statistics,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4599,,3.0,MATH (804) 196,Trigonometry W Apps,MATH (804) 196,4663,,Trigonometry W Apps,
+4599,,1.0,COMPSOFT (103) 146,Ms Word a,COMPSOFT (103) 115,4663,,Word 2010 Level 1,
+4599,,1.0,COMPSOFT (103) 151,Ms Excel a,COMPSOFT (103) 120,4663,,Excel 2010 Level 1,
+4599,,3.0,MKTG (104) 102,Marketing Principles,MKTG (104) 172,4663,,Marketing Principles,
+4599,,3.0,RBUS (105) 100,Introduction to Business,BUSADM (102) 124,4663,,Introduction to Business,
+4599,,3.0,RBUS (105) 125,Business Law,BUSADM (102) 160,4663,,Business Law 1,
+4671,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 102,4663,,Math of Finance,"1, 4"
+4671,,3.0,MATH (804) 106,Intro to College Math,MATH (804) 106,4663,,Intro to College Math,
+4671,,3.0,MATH (804) 107,College Mathematics,MATH (804) 107,4663,,College Mathematics,
+4671,,3.0,MATH (804) 110,Elem Algebra W Apps,MATH (804) 110,4663,,Elem Algebra W Apps,
+4671,,3.0,MATH (804) 113,College Technical Math 1a,MATH (804) 113,4663,,College Technical Math 1a,
+4671,,5.0,MATH (804) 115,College Technical Math 1,MATH (804) 115,4663,,College Technical Math 1,
+4671,,4.0,MATH (804) 116,College Technical Math 2,MATH (804) 116,4663,,College Technical Math 2,
+4671,,4.0,MATH (804) 118,Interm Algebra W Apps,MATH (804) 118,4663,,Interm Algebra W Apps,
+4671,,3.0,MATH (804) 123,Math W Business Apps,MATH (804) 123,4663,,Math W Business Apps,
+4671,,3.0,MATH (804) 133,Math & Logic,MATH (804) 133,4663,,Math & Logic,
+4671,,3.0,MATH (804) 189,Introductory Statistics,MATH (804) 189,4663,UCTA,Introductory Statistics,22
+4671,,3.0,MATH (804) 195,College Algebra W Apps,MATH (804) 195,4663,,College Algebra W Apps,
+4671,,3.0,MATH (804) 196,Trigonometry W Apps,MATH (804) 196,4663,,Trigonometry W Apps,
+4671,,4.0,MATH (804) 198,Calculus 1,MATH (804) 198,4663,,Calculus 1,
+4599,,3.0,SOCSCI (809) 122,Intro to Amer Government,SOCSCI (809) 122,4663,UCTA,Intro to Amer Government,22
+4599,,3.0,SOCSCI (809) 159,Abnormal Psychology,SOCSCI (809) 159,4663,,Abnormal Psychology,
+4599,,3.0,SOCSCI (809) 166,Intro to Ethics: Theory & App,SOCSCI (809) 166,4663,UCTA,Intro to Ethics: Theory & App,22
+4599,,3.0,SOCSCI (809) 172,Intro to Diversity Studies,SOCSCI (809) 172,4663,UCTA,Introduction to Diversity Stud,22
+4599,,3.0,SOCSCI (809) 174,Social Problems,SOCSCI (809) 174,4663,,Social Problems,
+4599,,3.0,SOCSCI (809) 188,Developmental Psychology,SOCSCI (809) 188,4663,,Developmental Psychology,
+4599,,3.0,SOCSCI (809) 195,Economics,SOCSCI (809) 195,4663,UCTA,Economics,22
+4599,,3.0,SOCSCI (809) 196,Intro to Sociology,SOCSCI (809) 196,4663,UCTA,Intro to Sociology,22
+4599,,3.0,SOCSCI (809) 198,Intro to Psychology,SOCSCI (809) 198,4663,UCTA,Intro to Psychology,22
+4599,,3.0,SOCSCI (809) 199,Psychology of Human Relations,SOCSCI (809) 199,4663,,Psychology of Human Relations,
+4599,,3.0,OFFTECH (106) 130,Medical Terminology 1,MEDTERM (501) 101,4663,,Medical Terminology,
+4599,,3.0,NATSCI (806) 112,Principles of Sustainability,NATSCI (806) 112,4663,,Principles of Sustainability,
+4599,,4.0,NATSCI (806) 114,General Biology,NATSCI (806) 114,4663,"UCTA,SC",General Biology,22
+4599,,4.0,NATSCI (806) 134,General Chemistry,NATSCI (806) 134,4663,UCTA,General Chemistry,22
+4599,,4.0,NATSCI (806) 154,General Physics 1,NATSCI (806) 154,4663,UCTA,General Physics 1,22
+4599,,4.0,NATSCI (806) 177,Gen Anatomy & Physiology,NATSCI (806) 177,4663,,Gen Anatomy & Physiology,
+4599,,4.0,NATSCI (806) 179,Adv Anatomy & Physiology,NATSCI (806) 179,4663,,Adv Anatomy & Physiology,
+4599,,4.0,NATSCI (806) 186,Intro to Biochemistry,NATSCI (806) 186,4663,,Intro to Biochemistry,
+4599,,4.0,NATSCI (806) 197,Microbiology,NATSCI (806) 197,4663,,Microbiology,

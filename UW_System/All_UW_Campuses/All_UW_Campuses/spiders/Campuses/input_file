@@ -1,0 +1,127 @@
+        to level  credits            course_2                        title_2  \
+0     9999   NaN      3.0                 NDC               No Degree Credit   
+1     9999     L      3.0              MAT EL           Mathematics Elective   
+2     9999   NaN      3.0                 NDC               No Degree Credit   
+3     9999     P      3.0             MAT 091             Elementary Algebra   
+4     9999   NaN      2.0                 NDC               No Degree Credit   
+5     9999     P      5.0             MAT 091             Elementary Algebra   
+6     9999     L      3.0              MAT EL           Mathematics Elective   
+7     9999     L      4.0             MAT 105          Intro College Algebra   
+8     9999   NaN      3.0                 NDC               No Degree Credit   
+9     9999     L      3.0             MAT 110                College Algebra   
+10    9999     L      3.0             MAT 117          Elementary Statistics   
+11    9999     L      3.0             MAT 110                College Algebra   
+12    9999     L      3.0             MAT 113                   Trigonometry   
+13    9999     L      5.0             MAT 124       Pre-Calculus Mathematics   
+14    9999     L      4.0             MAT 221            Calc & Analy Geom I   
+15    9999     P      3.0                 NDC               No Degree Credit   
+16    9999     L      4.0             MAT 105          Intro College Algebra   
+17    9999     L      2.0              MAT EL           Mathematics Elective   
+18    9999     L      2.0             MAT 105          Intro College Algebra   
+19    9999     L      4.0              CPS EL     Computer Sciences Elective   
+20    9999     L      2.0              CPS EL     Computer Sciences Elective   
+21    9999     L      4.0              CPS EL     Computer Sciences Elective   
+22    9999     L      3.0             MAT 108         Quantitative Reasoning   
+23    9999     L      3.0             MAT 110                College Algebra   
+24    9999     L      3.0             MAT 113                   Trigonometry   
+25    9999     L      3.0             MAT 210          Topics in Finite Math   
+26    9999     L      5.0             MAT 124       Pre-Calculus Mathematics   
+27    9999     L      5.0             MAT 221            Calc & Analy Geom I   
+28    9999     L      5.0             MAT 222    Calculus & Analytic Geom II   
+29    9999     L      5.0             MAT 223  Calculus  & Analytic Geom III   
+...    ...   ...      ...                 ...                            ...   
+8291  4599   NaN      3.0    COMMSK (801) 197            Technical Reporting   
+8292  4599   NaN      3.0    COMMSK (801) 198                         Speech   
+8293  4599   NaN      3.0    COMMSK (801) 195          Written Communication   
+8294  4599   NaN      4.0    NATSCI (806) 114                General Biology   
+8295  4599   NaN      4.0    NATSCI (806) 134              General Chemistry   
+8296  4599   NaN      4.0    NATSCI (806) 154              General Physics 1   
+8297  4599   NaN      4.0    NATSCI (806) 177       Gen Anatomy & Physiology   
+8298  4599   NaN      4.0    NATSCI (806) 179       Adv Anatomy & Physiology   
+8299  4599   NaN      4.0    NATSCI (806) 186          Intro to Biochemistry   
+8300  4599   NaN      4.0    NATSCI (806) 197                   Microbiology   
+8301  4599   NaN      4.0    NATSCI (806) 177       Gen Anatomy & Physiology   
+8302  4599   NaN      4.0    NATSCI (806) 179       Adv Anatomy & Physiology   
+8303  4599   NaN      3.0    SOCSCI (809) 122       Intro to Amer Government   
+8304  4599   NaN      3.0    SOCSCI (809) 159            Abnormal Psychology   
+8305  4599   NaN      3.0    SOCSCI (809) 166  Intro to Ethics: Theory & App   
+8306  4599   NaN      3.0    SOCSCI (809) 172     Intro to Diversity Studies   
+8307  4599   NaN      3.0    SOCSCI (809) 188       Developmental Psychology   
+8308  4599   NaN      3.0    SOCSCI (809) 195                      Economics   
+8309  4599   NaN      3.0    SOCSCI (809) 196             Intro to Sociology   
+8310  4599   NaN      3.0    SOCSCI (809) 196             Intro to Sociology   
+8311  4599   NaN      3.0    SOCSCI (809) 198            Intro to Psychology   
+8312  4599   NaN      3.0    SOCSCI (809) 199  Psychology of Human Relations   
+8313  4599   NaN      3.0    SOCSCI (809) 196             Intro to Sociology   
+8314  4599   NaN      3.0    SOCSCI (809) 198            Intro to Psychology   
+8315  4599   NaN      3.0    SOCSCI (809) 188       Developmental Psychology   
+8316  4599   NaN      3.0    COMMSK (801) 196        Oral/Interpersonal Comm   
+8317  4599   NaN      3.0    COMMSK (801) 198                         Speech   
+8318  4599   NaN      1.0    GEN ST (890) 105                      Job Quest   
+8319  4639   NaN      2.0  MED SUPP (510) 110            Medical Terminology   
+8320  4599   NaN      1.0  COMPSOFT (103) 151                     Ms Excel a   
+
+                course_1                       from_   gen_ed  title_1,special  
+0         MATH (804) 106  Madison Area Tech. College      NaN              NaN  
+1         MATH (804) 107  Madison Area Tech. College      NaN              NaN  
+2         MATH (804) 110  Madison Area Tech. College      NaN              NaN  
+3         MATH (804) 113  Madison Area Tech. College      NaN              NaN  
+4         MATH (804) 114  Madison Area Tech. College      NaN              NaN  
+5         MATH (804) 115  Madison Area Tech. College      NaN              NaN  
+6         MATH (804) 116  Madison Area Tech. College       MS              NaN  
+7         MATH (804) 118  Madison Area Tech. College       EL              NaN  
+8         MATH (804) 133  Madison Area Tech. College      NaN              NaN  
+9         MATH (804) 152  Madison Area Tech. College    MS,CR              NaN  
+10        MATH (804) 189  Madison Area Tech. College  UCTA,MS              NaN  
+11        MATH (804) 195  Madison Area Tech. College    MS,CR              NaN  
+12        MATH (804) 196  Madison Area Tech. College       MS              NaN  
+13        MATH (804) 197  Madison Area Tech. College  UCTA,MS              NaN  
+14        MATH (804) 198  Madison Area Tech. College       MS              NaN  
+15        MATH (804) 200  Madison Area Tech. College      NaN              NaN  
+16        MATH (804) 201  Madison Area Tech. College       EL              NaN  
+17        MATH (804) 202  Madison Area Tech. College      NaN              NaN  
+18        MATH (804) 203  Madison Area Tech. College       EL              NaN  
+19        MATH (804) 206  Madison Area Tech. College      NaN              NaN  
+20        MATH (804) 207  Madison Area Tech. College      NaN              NaN  
+21        MATH (804) 208  Madison Area Tech. College       EL              NaN  
+22        MATH (804) 211  Madison Area Tech. College    CR,MS              NaN  
+23        MATH (804) 212  Madison Area Tech. College    MS,CR              NaN  
+24        MATH (804) 213  Madison Area Tech. College       MS              NaN  
+25        MATH (804) 220  Madison Area Tech. College       MS              NaN  
+26        MATH (804) 229  Madison Area Tech. College  UCTA,MS              NaN  
+27        MATH (804) 231  Madison Area Tech. College       MS              NaN  
+28        MATH (804) 232  Madison Area Tech. College       MS              NaN  
+29        MATH (804) 233  Madison Area Tech. College       MS              NaN  
+...                  ...                         ...      ...              ...  
+8291    COMMSK (801) 197  Madison Area Tech. College      NaN              NaN  
+8292    COMMSK (801) 198  Madison Area Tech. College     UCTA              NaN  
+8293    COMMSK (801) 201  Madison Area Tech. College     UCTA              NaN  
+8294    NATSCI (806) 114  Madison Area Tech. College  UCTA,SC              NaN  
+8295    NATSCI (806) 134  Madison Area Tech. College     UCTA              NaN  
+8296    NATSCI (806) 154  Madison Area Tech. College     UCTA              NaN  
+8297    NATSCI (806) 177  Madison Area Tech. College      NaN              NaN  
+8298    NATSCI (806) 179  Madison Area Tech. College      NaN              NaN  
+8299    NATSCI (806) 186  Madison Area Tech. College      NaN              NaN  
+8300    NATSCI (806) 197  Madison Area Tech. College      NaN              NaN  
+8301    NATSCI (806) 207  Madison Area Tech. College      NaN              NaN  
+8302    NATSCI (806) 208  Madison Area Tech. College      NaN              NaN  
+8303    SOCSCI (809) 122  Madison Area Tech. College     UCTA              NaN  
+8304    SOCSCI (809) 159  Madison Area Tech. College      NaN              NaN  
+8305    SOCSCI (809) 166  Madison Area Tech. College     UCTA              NaN  
+8306    SOCSCI (809) 172  Madison Area Tech. College     UCTA              NaN  
+8307    SOCSCI (809) 188  Madison Area Tech. College      NaN              NaN  
+8308    SOCSCI (809) 195  Madison Area Tech. College     UCTA              NaN  
+8309    SOCSCI (809) 196  Madison Area Tech. College     UCTA              NaN  
+8310    SOCSCI (809) 197  Madison Area Tech. College      NaN              NaN  
+8311    SOCSCI (809) 198  Madison Area Tech. College     UCTA              NaN  
+8312    SOCSCI (809) 199  Madison Area Tech. College      NaN              NaN  
+8313    SOCSCI (809) 203  Madison Area Tech. College      NaN              NaN  
+8314    SOCSCI (809) 231  Madison Area Tech. College     UCTA              NaN  
+8315    SOCSCI (809) 233  Madison Area Tech. College      NaN              NaN  
+8316    SPEECH (810) 201  Madison Area Tech. College      NaN              NaN  
+8317    SPEECH (810) 201  Madison Area Tech. College      NaN              NaN  
+8318   OFFTECH (106) 190  Madison Area Tech. College      NaN              NaN  
+8319     MASST (509) 180  Madison Area Tech. College      NaN              NaN  
+8320  COMPSOFT (103) 133  Madison Area Tech. College      NaN              NaN  
+
+[8321 rows x 9 columns]

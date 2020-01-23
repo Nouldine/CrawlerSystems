@@ -1,0 +1,180 @@
+level,credits,course_2,course_1,gen_ed,title_1,title_2
+,,,"COMPSCI 151,Using Computers,COMPSCI 161,Introduction to Computers,COMPSCI 162,Computer Applications,COMPSCI 171,Intro to Vb Programming,COMPSCI 172,Introduction to Java,COMPSCI 173,Fortran Programming,COMPSCI 181,Database and Web,COMPSCI 220,Intermediate Java,COMPSCI 271,Assembly Programming,COMPSCI 372,Intermediate Programming",,,
+level,credits,course_2,course_1,gen_ed,title_1,title_2
+,,,"<table width=""95%"" border=""0"" cellpadding=""5"" cellspacing=""0"" id=""reportTable"">
+<colgroup span=""2""></colgroup>
+<colgroup span=""5""></colgroup>
+<colgroup><col id=""conditions""></colgroup>
+<tr>
+<th colspan=""2"" class=""campus-one-head"">UW-Whitewater Course</th>
+            <th colspan=""5"" class=""campus-two-head"">UW-Parkside Matching Course/Courses</th>
+            <th rowspan=""2"" class=""special-conditions"">Special Conditions</th>
+        </tr>
+<tr>
+<th class=""campus-one"">Course</th>
+    <th class=""campus-one"">Title</th>
+    <th class=""campus-two"">Course</th>
+    <th class=""campus-two"">Title</th>
+    <th class=""campus-two"">Credits</th>
+    <th class=""campus-two"">GenEd</th>
+    <th class=""campus-two"">Level</th>
+        </tr>
+<tr>
+<td class=""campus-one-list"" style=""width: 15%"">COMPSCI 151</td>
+				<td class=""campus-one-list"">Using Computers</td>
+                <td class=""campus-two-list"" style=""width: 15%"">GEN EL</td>
+                <td class=""campus-two-list"" style=""width: 20%"">General Elective</td>
+                <td class=""campus-two-list"">1.00</td>
+                <td class=""campus-two-list"">
+<a href=""#GeList"" style=""white-space:nowrap;""></a></td>
+                <td class=""campus-two-list"">
+<a href=""#LevelList"">L</a></td>
+                <td class=""special-list"">
+<a href=""#FnList""></a>
+                </td>
+            </tr>
+<tr>
+<td class=""campus-one-list"" style=""width: 15%"">COMPSCI 161</td>
+				<td class=""campus-one-list"">Introduction to Computers</td>
+                <td class=""campus-two-list"" style=""width: 15%"">GEN EL</td>
+                <td class=""campus-two-list"" style=""width: 20%"">General Elective</td>
+                <td class=""campus-two-list"">3.00</td>
+                <td class=""campus-two-list"">
+<a href=""#GeList"" style=""white-space:nowrap;""></a></td>
+                <td class=""campus-two-list"">
+<a href=""#LevelList"">L</a></td>
+                <td class=""special-list"">
+<a href=""#FnList""></a>
+                </td>
+            </tr>
+<tr>
+<td class=""campus-one-list"" style=""width: 15%"">COMPSCI 162</td>
+				<td class=""campus-one-list"">Computer Applications</td>
+                <td class=""campus-two-list"" style=""width: 15%"">GEN EL</td>
+                <td class=""campus-two-list"" style=""width: 20%"">General Elective</td>
+                <td class=""campus-two-list"">3.00</td>
+                <td class=""campus-two-list"">
+<a href=""#GeList"" style=""white-space:nowrap;"">NSA</a></td>
+                <td class=""campus-two-list"">
+<a href=""#LevelList"">L</a></td>
+                <td class=""special-list"">
+<a href=""#FnList""></a>
+                </td>
+            </tr>
+<tr>
+<td class=""campus-one-list"" style=""width: 15%"">COMPSCI 171</td>
+				<td class=""campus-one-list"">Intro to Vb Programming</td>
+                <td class=""campus-two-list"" style=""width: 15%"">CSCI 130</td>
+                <td class=""campus-two-list"" style=""width: 20%"">Introduction to Programming</td>
+                <td class=""campus-two-list"">3.00</td>
+                <td class=""campus-two-list"">
+<a href=""#GeList"" style=""white-space:nowrap;"">NSA</a></td>
+                <td class=""campus-two-list"">
+<a href=""#LevelList"">L</a></td>
+                <td class=""special-list"">
+<a href=""#FnList""></a>
+                </td>
+            </tr>
+<tr>
+<td class=""campus-one-list"" style=""width: 15%"">COMPSCI 172</td>
+				<td class=""campus-one-list"">Introduction to Java</td>
+                <td class=""campus-two-list"" style=""width: 15%"">CSCI 241</td>
+                <td class=""campus-two-list"" style=""width: 20%"">Computer Science I</td>
+                <td class=""campus-two-list"">3.00</td>
+                <td class=""campus-two-list"">
+<a href=""#GeList"" style=""white-space:nowrap;"">NSA</a></td>
+                <td class=""campus-two-list"">
+<a href=""#LevelList"">L</a></td>
+                <td class=""special-list"">
+<a href=""#FnList""></a>
+                </td>
+            </tr>
+<tr>
+<td class=""campus-one-list"" style=""width: 15%"">COMPSCI 173</td>
+				<td class=""campus-one-list"">Fortran Programming</td>
+                <td class=""campus-two-list"" style=""width: 15%"">GEN EL</td>
+                <td class=""campus-two-list"" style=""width: 20%"">General Elective</td>
+                <td class=""campus-two-list"">3.00</td>
+                <td class=""campus-two-list"">
+<a href=""#GeList"" style=""white-space:nowrap;""></a></td>
+                <td class=""campus-two-list"">
+<a href=""#LevelList"">L</a></td>
+                <td class=""special-list"">
+<a href=""#FnList""></a>
+                </td>
+            </tr>
+<tr>
+<td class=""campus-one-list"" style=""width: 15%"">COMPSCI 181</td>
+				<td class=""campus-one-list"">Database and Web</td>
+                <td class=""campus-two-list"" style=""width: 15%"">GEN EL</td>
+                <td class=""campus-two-list"" style=""width: 20%"">General Elective</td>
+                <td class=""campus-two-list"">3.00</td>
+                <td class=""campus-two-list"">
+<a href=""#GeList"" style=""white-space:nowrap;"">NSA</a></td>
+                <td class=""campus-two-list"">
+<a href=""#LevelList"">L</a></td>
+                <td class=""special-list"">
+<a href=""#FnList""></a>
+                </td>
+            </tr>
+<tr>
+<td class=""campus-one-list"" style=""width: 15%"">COMPSCI 220</td>
+				<td class=""campus-one-list"">Intermediate Java</td>
+                <td class=""campus-two-list"" style=""width: 15%"">CSCI 241</td>
+                <td class=""campus-two-list"" style=""width: 20%"">Computer Science I</td>
+                <td class=""campus-two-list"">3.00</td>
+                <td class=""campus-two-list"">
+<a href=""#GeList"" style=""white-space:nowrap;"">NSA</a></td>
+                <td class=""campus-two-list"">
+<a href=""#LevelList"">L</a></td>
+                <td class=""special-list"">
+<a href=""#FnList""></a>
+                </td>
+            </tr>
+<tr>
+<td class=""campus-one-list"" style=""width: 15%"">COMPSCI 271</td>
+				<td class=""campus-one-list"">Assembly Programming</td>
+                <td class=""campus-two-list"" style=""width: 15%"">CSCI 245</td>
+                <td class=""campus-two-list"" style=""width: 20%"">Assembly Language Programming</td>
+                <td class=""campus-two-list"">3.00</td>
+                <td class=""campus-two-list"">
+<a href=""#GeList"" style=""white-space:nowrap;""></a></td>
+                <td class=""campus-two-list"">
+<a href=""#LevelList"">L</a></td>
+                <td class=""special-list"">
+<a href=""#FnList""></a>
+                </td>
+            </tr>
+<tr>
+<td class=""campus-one-list"" style=""width: 15%"">COMPSCI 372</td>
+				<td class=""campus-one-list"">Intermediate Programming</td>
+                <td class=""campus-two-list"" style=""width: 15%"">CSCI 242</td>
+                <td class=""campus-two-list"" style=""width: 20%"">Computer Science II</td>
+                <td class=""campus-two-list"">3.00</td>
+                <td class=""campus-two-list"">
+<a href=""#GeList"" style=""white-space:nowrap;""></a></td>
+                <td class=""campus-two-list"">
+<a href=""#LevelList"">L</a></td>
+                <td class=""special-list"">
+<a href=""#FnList""></a>
+                </td>
+            </tr>
+</table>",,,
+level,credits,course_2,course_1,gen_ed,title_1,title_2
+,,,"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+",,,

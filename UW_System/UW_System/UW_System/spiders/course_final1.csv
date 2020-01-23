@@ -1,0 +1,2098 @@
+level,credits,course_2,title_2,course_1,gen_ed,title_1,special
+"
+L",1.00,GEN EL,General Elective,COMPSCI 151,"
+",Using Computers,None
+"
+L",3.00,GEN EL,General Elective,COMPSCI 161,"
+",Introduction to Computers,None
+"
+L",3.00,GEN EL,General Elective,COMPSCI 162,"
+NSA",Computer Applications,None
+"
+L",3.00,CSCI 130,Introduction to Programming,COMPSCI 171,"
+NSA",Intro to Vb Programming,None
+"
+L",3.00,CSCI 241,Computer Science I,COMPSCI 172,"
+NSA",Introduction to Java,None
+"
+L",3.00,GEN EL,General Elective,COMPSCI 173,"
+",Fortran Programming,None
+"
+L",3.00,GEN EL,General Elective,COMPSCI 181,"
+NSA",Database and Web,None
+"
+L",3.00,CSCI 241,Computer Science I,COMPSCI 220,"
+NSA",Intermediate Java,None
+"
+L",3.00,CSCI 245,Assembly Language Programming,COMPSCI 271,"
+",Assembly Programming,None
+"
+L",3.00,CSCI 242,Computer Science II,COMPSCI 372,"
+",Intermediate Programming,None
+"
+L",5.00,GEOS 110,Intro to Astronomy,ASTRONMY 112,"
+",Introduction to Astronomy,None
+"
+L",3.00,GEOS 110,Intro to Astronomy,ASTRONMY 114,"
+",Descriptive Astronomy,None
+"
+L",3.00,ACCT 201,Financial Accounting,ACCOUNT 244,"
+",Intro to Financial Acct,None
+"
+L",3.00,ACCT 202,Managerial Accounting,ACCOUNT 249,"
+",Intro to Managerial Acct,None
+"
+U",3.00,ACCT 302,Intermediate Accountng II,ACCOUNT 343,"
+",Intrmediate Accounting II,None
+"
+U",3.00,ACCT 305,Individual Taxation,ACCOUNT 451,"
+",Tax I,None
+"
+U",3.00,ACCT 306,Business Taxation,ACCOUNT 452,"
+",Tax II,None
+"
+U",3.00,ACCT 403,Advanced Cost Accounting,ACCOUNT 456,"
+",Cost Management,None
+"
+L",3.00,GEN EL,General Elective,ACINDP 105,"
+",World of the Arts,None
+"
+L",6.00,GEN EL,General Elective,ACINDP 105A,"
+",Arts 105 & Fresh Engl 102,None
+"
+L",3.00,GEN EL,General Elective,ACINDP 150,"
+",Intro Multimedia Studies,None
+"
+L",3.00,GEN EL,General Elective,ACINDP 151,"
+",Intro Multimed Aesthetics,None
+"
+L",1.00-2.00,GEN EL,General Elective,ACINDP 200,"
+",Arts Management Practicum,None
+"
+L",3.00,GEN EL,General Elective,ACINDP 215,"
+HUA",Fine Arts Western Culture,None
+"
+L",3.00,GEN EL,General Elective,AMERIND 102,"
+DV, SSS",Intro Amer Indian Studies,None
+"
+L",3.00,ART 102,Introduction to 2-D Design,ARTSTDIO 102,"
+HUA",2-Dimensional Design,None
+"
+L",3.00,ART 103,Introduction to 3-D Design,ARTSTDIO 103,"
+HUA",3-Dimensional Design,None
+"
+L",3.00,GEN EL,General Elective,ARTSTDIO 121,"
+HUA",Basic Art,None
+"
+L",3.00,ART EL,Art Elective,ARTSTDIO 180,"
+",Intro Advertising Design,None
+"
+L",3.00,ART 122,Introduction to Drawing,ARTSTDIO 201,"
+HUA",Drawing I,None
+"
+L",3.00,ART 222,Intermediate Drawing,ARTSTDIO 202,"
+",Drawing II,None
+"
+U",3.00,GEN EL,General Elective,ARTSTDIO 213,"
+HUA",Intro to Digital Photo,None
+"
+L",3.00,GEN EL,General Elective,ARTSTDIO 221,"
+HUA",Intro Studio Non-Art Majr,None
+"
+L",3.00,GEN EL,General Elective,ARTSTDIO 222,"
+",Int. Water-Based Maedia,None
+"
+L",3.00,ART 203,Beginning Ceramics,ARTSTDIO 251,"
+",Ceramics I,None
+"
+L",3.00,ART 223,Beginning Art Metals,ARTSTDIO 271,"
+",Metal and Jewelry I,None
+"
+U",3.00,ART 323,Intermediate Art Metals,ARTSTDIO 272,"
+",Metal and Jewelry II,None
+"
+L",3.00,GEN EL,General Elective,ARTSTDIO 287,"
+",Comptr Graphcs For Artist,None
+"
+L",3.00,ART 282,Beginning Painting,ARTSTDIO 321,"
+",Painting I,None
+"
+L",3.00,ART 274,Typography I,ARTSTDIO 381,"
+",Graphic Design I: Typography,None
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 100,"
+DV, SSS",Introductn Black Culture,None
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 120,"
+",Modern Blk Amer History,None
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 141,"
+DV, SSJ",Modern Blk Amer History,None
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 260,"
+",The Black Family,None
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 261,"
+SSD, DV",African-American Politics,None
+"
+L",3.00,GEN EL,General Elective,AFRIAMR 270,"
+DV, SSS",Afri Am Comunty Soc Persp,None
+"
+L",2.00,ART 100,Foundtn of Art & Visual Cultur,ARTHIST 111,"
+",Art Appreciation,None
+"
+L",3.00,ART 125,Survey of World Art,ARTHIST 201,"
+HUA",Srvy Art Ancient-1400ce,None
+"
+L",3.00,ART 126,Modern & Contmp Art 1900-Pres,ARTHIST 202,"
+",Art Survey 1400 to 1900,None
+"
+L",3.00,GEN EL,General Elective,ARTHIST 203,"
+HUA",Modern & Contemporary Art,None
+"
+L",3.00,BUS 100,Introduction to Business,BEINDP 101,"
+SSB",Business and Society,None
+"
+L",3.00,GEN EL,General Elective,ANTHROPL 105,"
+",Individual and Society,None
+"
+L",3.00,SOCA 100,Introduction to Anthropology,ANTHROPL 110,"
+SSS",Introductory Anthropology,None
+"
+L",3.00,GEN EL,General Elective,ANTHROPL 190,"
+SSS",Childhd Different Culture,None
+"
+L",3.00,SOCA 204,Human Evolution,ANTHROPL 214,"
+NSF",Physical Anthropology,None
+"
+L",3.00,SOCA 202,Cultural Anthropology,ANTHROPL 218,"
+",Cultural Anthropology,None
+"
+",3.00,Soc/BhvSci EL,Social & Behavioral Science Elective,ANTHROPL 220,"
+SS","Tombs, Temples, Treasure",None
+"
+L",3.00,GEN EL,General Elective,ANTHROPL 228,"
+SSS",Anthropology of Religion,None
+"
+L",3.00,GEN EL,General Elective,ANTHROPL 230,"
+SSS",Societies in Change,None
+"
+L",3.00,GEN EL,General Elective,BIOLOGY 110,"
+",Bob:Biology of the Brain,None
+"
+L",4.00,BIOS 100,Nature of Life,BIOLOGY 120,"
+UCTA,NSB",Biological Foundations,None
+"
+L",5.00,BIOS 101,Bioscience,BIOLOGY 141,"
+UCTA,NSB",Introductory Biology I,None
+"
+L",5.00,BIOS 102,Organismal Biology,BIOLOGY 142,"
+",Introductory Biology II,None
+"
+L",3.00,GEN EL,General Elective,BIOLOGY 200,"
+",Writing in Biology,None
+"
+L",3.00,BIOS 202,General Microbiology,BIOLOGY 210,"
+",Elements of Bacteriology,None
+"
+L",3.00,BIOS EL,Biological Sciences Elective,BIOLOGY 214,"
+NSB",Ecology and Society,None
+"
+L",2.00,GEN EL,General Elective,BIOLOGY 221,"
+NSB",School Health,None
+"
+L",1.00,GEN EL,General Elective,BIOLOGY 230,"
+NSB",Human Sexuality,None
+"
+L",1.00,GEN EL,General Elective,BIOLOGY 240,"
+NSB",Human Inheritance,None
+"
+L",3.00,GEN EL,General Elective,BIOLOGY 247,"
+",Bioethics,None
+"
+L",4.00,GEN EL,General Elective,BIOLOGY 251,"
+NSB",Introduction to Genetics,None
+"
+U",3.00,BIOS 301,Cell Biology,BIOLOGY 253,"
+",Intro to Cell Biology,None
+"
+L",2.00,GEN EL,General Elective,BIOLOGY 254,"
+",Biotechnology Laboratory I,None
+"
+U",3.00,BIOS 305,Principles of Ecology,BIOLOGY 257,"
+",Introduction to Ecology,None
+"
+L",4.00,BIOS 207,Research Process in Biology,BIOLOGY 303,"
+",Biostatistics,None
+"
+L",4.00,CHEM 109,Environmental Chemistry,CHEM 100,"
+NSC",Everyday Chemistry (Gl),None
+"
+L",5.00,CHEM 101,General Chemistry I,CHEM 102,"
+UCTA,NSC",General Chemistry I,None
+"
+L",5.00,CHEM 102,General Chemistry II,CHEM 104,"
+",General Chemistry II,None
+"
+L",5.00,GEN EL,General Elective,CHEM 109,"
+NSC",Elements of Chemistry,None
+"
+L",5.00,GEN EL,General Elective,CHEM 110,"
+NSC",Elements of Chemistry,None
+"
+U",3.00,CHEM 321,Organic Chemistry I,CHEM 251,"
+",Organic Chemistry,None
+"
+U",3.00,CHEM 322,Organic Chemistry II,CHEM 252,"
+",Organic Chemistry,None
+"
+U",4.00,CHEM 310,Inorganic Chemistry,CHEM 260,"
+",Inorganic Chemistry,None
+"
+U",2.00,CHEM 323,Organic Chemistry Lab,CHEM 261,"
+",Organic Chemistry Lab,None
+"
+U",2.00,CHEM 401,Advanced Organic Laboratory,CHEM 262,"
+",Organic Chemistry Lab,None
+"
+L",3.00,GEN EL,General Elective,CHICANO 150,"
+DV",Introduction Chicano St,None
+"
+L",3.00,GEN EL,General Elective,CHICANO 200,"
+DV",Chican@ Literature to 1980,None
+"
+L",3.00,GEN EL,General Elective,CHICANO 201,"
+DV",Contemporary Chicano Lit,None
+"
+L",1.00,GEN EL,General Elective,CIFLD 160,"
+",Intro Teaching Music,None
+"
+L",9.00,GEN EL,General Elective,CIFLD 200E,"
+",Pre-Profess Block Elem,None
+"
+L",9.00,GEN EL,General Elective,CIFLD 200F,"
+",Pre-Profess Block Sec,None
+"
+L",1.00-3.00,GEN EL,General Elective,CIFLD 210,"
+",Observation/Participation,None
+"
+L",1.00-3.00,GEN EL,General Elective,CIFLD 210E,"
+",Obsrv Part-Elementary,None
+"
+L",1.00-3.00,GEN EL,General Elective,CIFLD 210F,"
+",Obsrv Part-Secondary Educ,None
+"
+L",3.00,GEN EL,General Elective,CIGENRL 214,"
+",Infrm Ed Consmr,None
+"
+L",3.00,GEN EL,General Elective,COACHING 100,"
+",Wiaa Pri First Aid,None
+"
+L",2.00,HESM 283,Orientation to Coaching,COACHING 240,"
+",Introduction to Coaching,None
+"
+L",2.00,GEN EL,General Elective,COACHING 250,"
+",App Mechan Princpl Coach,None
+"
+L",1.00,GEN EL,General Elective,COACHING 251,"
+",Coach Women Athletics,None
+"
+L",3.00,GEN EL,General Elective,COACHING 252,"
+",Teach and Coach Sports Skills,None
+"
+L",2.00,HESM 301,Sport Conditioning Prac Design,COACHING 255,"
+",Conditioning Intrsch Spts,None
+"
+L",2.00,GEN EL,General Elective,COACHING 256,"
+",Psycho Social Coaching,None
+"
+L",3.00,HESM 330,Sport in Society,COACHING 260,"
+",Hist Soc Aspects Athletcs,None
+"
+L",3.00,GEN EL,General Elective,COACHING 265,"
+",Coach Comm Spon Sports,None
+"
+L",2.00,HESM 255,Coaching Theory-Football,COACHING 350,"
+",Coaching of Football,None
+"
+L",2.00,HESM 252,Coaching Theory-Basketball,COACHING 351,"
+",Coaching of Basketball,None
+"
+L",2.00,HESM 251,Coaching Theory-Baseball,COACHING 352,"
+",Coaching of Baseball,None
+"
+L",3.00,HESM 264,Coaching Theory-Track/Field,COACHING 353,"
+",Coach Track/Field/Cross Countr,None
+"
+L",2.00,GEN EL,General Elective,COACHING 356,"
+",Coaching of Wrestling,None
+"
+L",2.00,HESM 266,Coaching Theory-Volleyball,COACHING 359,"
+",Coaching of Volleyball,None
+"
+L",2.00,HESM 259,Coaching Theory-Soccer,COACHING 360,"
+",Coaching of Soccer,None
+"
+L",2.00,HESM 260,Coaching Theory-Softball,COACHING 361,"
+",Coaching of Softball,None
+"
+L",2.00,HESM 268,Officiate Team/Dual Sport,COACHING 462,"
+",Thry Tech Officiating,None
+"
+L",0.00,GEN EL,General Elective,COMDIS 100,"
+",Speech Improvement,None
+"
+L",3.00,GEN EL,General Elective,COMDIS 210,"
+",O & P Communicative Dis,None
+"
+L",3.00,GEN EL,General Elective,COMDIS 270,"
+",Intro Hum Comm and Disrdrs,None
+"
+L",3.00,GEN EL,General Elective,COMDIS 272,"
+",Phonetics & Relat Process,None
+"
+L",3.00,GEN EL,General Elective,COMDIS 278,"
+",Anat Physio Hum Comm,None
+"
+L",3.00,SPCH 105,Public Speaking,COMM 110,"
+UCTA,HUT",Intro to Public Speaking,None
+"
+L",3.00,COMM 108,Media and Society,COMM 131,"
+SSC",Intro Mass Communication,None
+"
+L",3.00,GEN EL,General Elective,COMM 162,"
+",Debate,None
+"
+L",3.00,GEN EL,General Elective,COMM 202,"
+",Principles Public Relatns,None
+"
+L",3.00,GEN EL,General Elective,COMM 203,"
+",Publ Relations Tactics 1,None
+"
+L",3.00,GEN EL,General Elective,COMM 204,"
+",Publ Relations Tactics II,None
+"
+L",3.00,COMM 107,Comm & Human Condition (Dv),COMM 228,"
+SSC,DV",Interpersonal Communicatn,None
+"
+L",1.00,GEN EL,General Elective,COMM 230,"
+",Radio Practicum,None
+"
+L",1.00,GEN EL,General Elective,COMM 231,"
+",Practicum in Television,None
+"
+L",3.00,GEN EL,General Elective,COMM 232,"
+",Found Electronic Media,None
+"
+L",3.00,GEN EL,General Elective,COMM 234,"
+",Electronic Media Announce,None
+"
+L",3.00,ENGL 252,Introduction to Film,COMM 236,"
+",Introduction to Cinema,None
+"
+L",3.00,GEN EL,General Elective,COMM 238,"
+",Video Production I,None
+"
+L",3.00,GEN EL,General Elective,COMM 239,"
+",Audio Production I,None
+"
+L",3.00,COMM 105,Public Speaking,COMM 240,"
+SS",Public Speaking,None
+"
+L",3.00,GEN EL,General Elective,COMM 241,"
+",Elec Media Copywriting,None
+"
+L",3.00,COMM 202,Group Communication,COMM 242,"
+SSC",Comm & Team Building,None
+"
+L",3.00,GEN EL,General Elective,COMM 244,"
+SSC",Communication/Interviewng,None
+"
+L",3.00,GEN EL,General Elective,COMM 246,"
+",Elec Media Newswriting,None
+"
+L",3.00,GEN EL,General Elective,COMM 247,"
+",Intro Parliamentary Proc,None
+"
+L",0.50-1.00,GEN EL,General Elective,COMM 260,"
+",Intercollegiate Debate I,None
+"
+L",0.50-1.00,GEN EL,General Elective,COMM 261,"
+",Intercollegiate Debate II,None
+"
+L",1.00,GEN EL,General Elective,COMM 263,"
+",Practicum in Forensics,None
+"
+L",3.00,GEN EL,General Elective,COMM 270,"
+",Communication and Web Dev,None
+"
+L",3.00,GEN EL,General Elective,COMM 271,"
+",Multimedia Production Two,None
+"
+U",3.00,GEN EL,General Elective,COMM 422,"
+",Communication Theories,None
+"
+L",3.00,COMM 209,Comm Research Methods,COMM 485,"
+",Comm Research Methods,None
+"
+L",2.00,GEN EL,General Elective,DANCE 110,"
+",Dance Appreciation,None
+"
+L",2.00,GEN EL,General Elective,DANCE 141,"
+",Cont Dance Technique I,None
+"
+L",2.00,GEN EL,General Elective,DANCE 142,"
+",Intro Tcnqs/Improv/Cmpstn,None
+"
+L",2.00,GEN EL,General Elective,DANCE 143,"
+",Improvisation,None
+"
+L",2.00,GEN EL,General Elective,DANCE 144,"
+",Jazz Dance,None
+"
+L",2.00,GEN EL,General Elective,DANCE 145,"
+",Ballet I,None
+"
+L",1.00,GEN EL,General Elective,DANCE 200,"
+",Pract-Dance Performance,None
+"
+L",2.00,GEN EL,General Elective,DANCE 243,"
+",Improvisation/Sound,None
+"
+L",2.00,GEN EL,General Elective,DANCE 244,"
+",Contemp Dance Tech II,None
+"
+L",2.00,GEN EL,General Elective,DANCE 245,"
+",Contmp Dance Tech III,None
+"
+L",2.00,GEN EL,General Elective,DANCE 246,"
+",Ballet II,None
+"
+L",2.00,GEN EL,General Elective,DANCE 248,"
+",Dance Composition I,None
+"
+L",3.00,GEN EL,General Elective,DANCE 249,"
+",Dance Composition II,None
+"
+L",2.00,GEN EL,General Elective,EARLYCHD 222,"
+",Early Child Msc Methods,None
+"
+L",3.00,NDC,No Degree Credit,DEVLPED 050,"
+",Study/Academic Surv Skill,None
+"
+L",3.00,NDC,No Degree Credit,DEVLPED 060,"
+",College Literacy,None
+"
+L",1.00-3.00,GEN EL,General Elective,DEVLPED 080,"
+",Student Success Workshop,None
+"
+L",3.00,GEN EL,General Elective,ECON 105,"
+",Global Perspectives,None
+"
+L",3.00,ECON 101,The American Economy,ECON 200,"
+UCTA,SSE",The Economic World,None
+"
+L",3.00,ECON 120,Principles of Microeconomics,ECON 201,"
+SSE",Principles of Microeconomics,None
+"
+L",3.00,ECON 121,Principles of Macroeconomics,ECON 202,"
+SSE",Principles of Macroeconomics,None
+"
+L",3.00,ECON 202,Principles Macroeconomics,ECON 211,"
+",Econ Prin/Pblms/Policies,None
+"
+L",3.00,ECON 201,Principles Microeconomics,ECON 212,"
+",Econ Prin/Pblms/Policies,None
+"
+L",3.00,GEN EL,General Elective,ECON 213,"
+SSE",Econ Prin For Teachers,None
+"
+L",3.00,QM 210,Business Statistics I,ECON 245,"
+",Business Statistics,None
+"
+L",1.00,GEN EL,General Elective,ECON 245A,"
+",Bus Stats I-Cmptr Appltns,None
+"
+L",4.00,GEN EL,General Elective,ECON 245C,"
+",Statistics W/Computr Appl,None
+"
+U",3.00,ECON 320,Intermediate Micro Theory,ECON 301,"
+",Int Microeconomic Anlysis,None
+"
+U",3.00,ECON 409,Econometrics,ECON 345,"
+",Econometrics,None
+"
+L",3.00,GEN EL,General Elective,EDFOUND 212,"
+",Educational Psychology,None
+"
+L",1.00,GEN EL,General Elective,EDFOUND 214,"
+",Portfolio Development I,None
+"
+L",3.00,GEN EL,General Elective,EDFOUND 222,"
+",Child Development,None
+"
+L",3.00,GEN EL,General Elective,EDFOUND 243,"
+",Found of Ed in Plur Soc,None
+"
+L",3.00,GEN EL,General Elective,EDFNDPRC 210,"
+",Intro to Educ & Teaching,None
+"
+U",3.00,BUS 372,Business Law,FNBSLW 342,"
+",Adv Bus & Commercial Law,None
+"
+U",3.00,FIN 330,Managerial Finance,FNBSLW 344,"
+",Business Finance,None
+"
+L",4.00,GEN EL,General Elective,FORNLANG 101,"
+",Beginning Japanese I,None
+"
+L",4.00,GEN EL,General Elective,FORNLANG 102,"
+",Beginning Japanese II,None
+"
+L",4.00,GEN EL,General Elective,FORNLANG 103,"
+",Beginning Japanese III,None
+"
+L",4.00,GEN EL,General Elective,FORNLANG 141,"
+",Beginning Chinese,None
+"
+L",4.00,GEN EL,General Elective,FORNLANG 142,"
+",Beginning Chinese,None
+"
+L",4.00,GEN EL,General Elective,FORNLANG 201,"
+",Intermediate Japanese I,None
+"
+L",4.00,FREN 103,Introductory French I,FRENCH 141,"
+",Beginning French,None
+"
+L",4.00,FREN 104,Introductory French II,FRENCH 142,"
+",Beginning French,None
+"
+L",4.00,FREN 203,Intermediate French I,FRENCH 251,"
+HUL",Intermediate French,None
+"
+L",4.00,FREN 204,Intermediate French II,FRENCH 252,"
+HUL",Intermediate French,None
+"
+L",3.00,GEN EL,General Elective,FRENCH 260,"
+",French Phonetics,None
+"
+U",3.00,FREN EL,French Studies Elective,FRENCH 310,"
+",French Phonetics,None
+"
+",3.00,Human/Arts EL,Humanities and Arts Elective,FRENCH 321,"
+HU",Advanced French Lng Study,None
+"
+",3.00,Human/Arts EL,Humanities and Arts Elective,FRENCH 322,"
+HU",Advanced French Lng Study,None
+"
+U",3.00,FREN 320,Intro to French Literature:,FRENCH 331,"
+",Readings Modern French,None
+"
+U",3.00,FREN 318,French Civilization & Culture:,FRENCH 340,"
+",Contemp French Society,None
+"
+U",3.00,FREN 301,French Convers and Comp,FRENCH 370,"
+",Intro to Business French,None
+"
+U",3.00,FREN EL,French Studies Elective,FRENCH 491,"
+",Travel Study,None
+"
+L",2.00,GEN EL,General Elective,EDUINDP 211,"
+",Intro to Early Childhd Educ,None
+"
+L",3.00,GEN EL,General Elective,EDUINDP 212,"
+",Child/Families Div Society,None
+"
+L",3.00,GEN EL,General Elective,EDUINDP 213,"
+",Develop Young Child,None
+"
+L",3.00,GEN EL,General Elective,EDUINDP 214,"
+",Observ and Reflect in Hd Strt,None
+"
+L",3.00,GEN EL,General Elective,EDUINDP 215,"
+",Art in the Early Years,None
+"
+L",1.00,GEN EL,General Elective,EDUINDP 216,"
+",Seminar: Phase 2 Portfolio,None
+"
+L",2.00,GEN EL,General Elective,ELEMMID 215,"
+",Methds Tch Art Elm/Mdl Sc,None
+"
+L",2.00,GEN EL,General Elective,ELEMMID 223,"
+",Elem School Music Methods,None
+"
+L",2.00,GEN EL,General Elective,ELEMMID 234,"
+",Elem Genrl Music Methods,None
+"
+L",2.00,GEN EL,General Elective,ELEMMID 236,"
+",Elm/Mdl Sch Instr Methods,None
+"
+",3.00,DNT,Does Not Transfer,ENGLISH 090,"
+",Fundamentals of English,None
+"
+",2.00,NDC,No Degree Credit,ENGLISH 091,"
+",Written Communications,None
+"
+L",3.00,ENGL 100,Fundamentals of English,ENGLISH 101,"
+UCTA,",College Writing & Reading,None
+"
+L",3.00,ENGL 101,Composition and Reading,ENGLISH 102,"
+UCTA,RWS",Writing/Reading/Research,None
+"
+L",3.00,ENGL 101,Composition and Reading,ENGLISH 105,"
+UCTA,RWS",Freshman English Honors,None
+"
+L",4.00,ENGL EL,English Elective,ENGLISH 161,"
+",Adv Acad Reading in Esl,None
+"
+L",4.00,ENGL EL,English Elective,ENGLISH 162,"
+",College Wrtg Engl As Sec Lang,None
+"
+L",3.00,ENGL 267,Literature of Diversity: (Dv),ENGLISH 200,"
+HUE,DV",Chican@ Lit: to 1980,None
+"
+L",3.00,ENGL 267,Literature of Diversity: (Dv),ENGLISH 201,"
+HUE,DV",Contemporary Chicano Lit,None
+"
+L",3.00,ENGL EL,English Elective,ENGLISH 204,"
+HUE",Creative Writing II,None
+"
+L",0.00,ENGL EL,English Elective,ENGLISH 205,"
+HUE",Literary Magazines,None
+"
+L",3.00,ENGL 216,British Literature to 1800,ENGLISH 206,"
+",British Lit Survey I,None
+"
+L",3.00,ENGL 217,"British Literature, 1800-1920",ENGLISH 216,"
+HU",British Lit Survey II,None
+"
+L",3.00,ENGL 226,American Literature to 1855,ENGLISH 226,"
+",American Lit Survey I,None
+"
+L",3.00,GEN EL,General Elective,ENGLISH 234,"
+HUE",Shakespeare/Non-Engl Majr,None
+"
+L",3.00,ENGL 227,"American Literature, 1855-1920",ENGLISH 236,"
+HU",Am Literature II,None
+"
+U",3.00,ENGL 464,Studies in Cultural Trends:,ENGLISH 251,"
+",Class Myth/Lgnd Srce Lit,None
+"
+U",3.00,ENGL 368,The Bible As Literature,ENGLISH 252,"
+",The Bible As Literature,None
+"
+L",3.00,ENGL 246,Survey of  World Literature,ENGLISH 256,"
+",World Lit I: Anc Tms-Ren,None
+"
+L",3.00,ENGL 247,Survey of Modern World Lit,ENGLISH 257,"
+",World Lit II: Neocl-Modrn,None
+"
+L",3.00,ENGL 267,Literature of Diversity: (Dv),ENGLISH 258,"
+",Wrld Lit Chna India Japan,None
+"
+U",3.00,ENGL 332,Modern & Contemp Novel,ENGLISH 263,"
+",The Contemporary Novel,None
+"
+L",3.00,ENGL 269,Introduction to Women Writers:,ENGLISH 264,"
+",The West Trad Before 1665,None
+"
+L",3.00,ENGL 267,Literature of Diversity: (Dv),ENGLISH 265,"
+HUE,DV",Multicultural Lit of US,None
+"
+L",3.00,ENGL 266,Literary Analysis,ENGLISH 271,"
+",Crit Writing in English,None
+"
+L",3.00,ENGL 206,Creative Writing: Poetry,ENGLISH 274,"
+",Creative Writng,None
+"
+U",3.00,ENGL 387,Linguistics,ENGLISH 281,"
+",Intro Language Study,None
+"
+U",3.00,ENGL EL,English Elective,ENGLISH 310,"
+",Lit For Adolescents,None
+"
+L",3.00,ENGL 237,Modrn/Contemp Lit 1920-Present,ENGLISH 322,"
+HU",Modern Western Literature,None
+"
+U",3.00,ENGL EL,English Elective,ENGLISH 360,"
+",20th-C British Lit,None
+"
+L",3.00,ENGL 247,Survey of Modern World Lit,ENGLISH 363,"
+",Am Lit in Postmodern Age,None
+"
+U",3.00,ENGL 320,Shakespeare,ENGLISH 404,"
+",Shakespeare,None
+"
+U",3.00,ENGL EL,English Elective,ENGLISH 483,"
+",Controversies in Criticism,None
+"
+L",4.00,GER 103,Introductory German I,GERMAN 141,"
+",Beginning German,None
+"
+L",4.00,GER 104,Introductory German II,GERMAN 142,"
+",Beginning German,None
+"
+L",4.00,GER 203,Intermediate German I,GERMAN 251,"
+",Intermediate German,None
+"
+L",4.00,GER 204,Intermediate German II,GERMAN 252,"
+",Intermediate German,None
+"
+L",3.00,GEN EL,General Elective,GERMAN 260,"
+",German Phonetics,None
+"
+U",3.00,GEN EL,General Elective,GERMAN 310,"
+",German Phonetics,None
+"
+L",2.00,GEN EL,General Elective,HEALTHED 181,"
+",Contemporary Health,None
+"
+L",1.00,GEN EL,General Elective,HEALTHED 245,"
+",Intro to Health Issues,None
+"
+L",3.00,GEN EL,General Elective,HEALTHED 280,"
+",Qual Life & Health Promo,None
+"
+L",3.00,HESM 271,Lifetime Wellness Lab:,HEALTHED 360,"
+SS",Current Topics in Hlth & Well,None
+"
+L",3.00,GEN EL,General Elective,HISTRY 102,"
+",Intro to Amer Indian Studies,None
+"
+L",3.00-4.00,GEN EL,General Elective,HISTRY 105,"
+SSJ",West Civ  Anc Times to  Renais,None
+"
+L",3.00,GEN EL,General Elective,HISTRY 120,"
+DV, SSJ","Erpe & Modrn World,1815 Pres",None
+"
+L",3.00,HIST 101,U.S.: Origins-Reconstruction,HISTRY 124,"
+SSJ",American History to 1877,None
+"
+L",3.00,HIST 102,U.S.: Reconstuctn-Recent Times,HISTRY 125,"
+SSJ",American History Since 1877,None
+"
+L",3.00,HIST EL,History Elective,HISTRY 130,"
+SSJ",East Asian Tradition,None
+"
+L",3.00,HIST 251,Modernization-East Asia,HISTRY 131,"
+",East Asia Since 1800,None
+"
+L",3.00,GEN EL,General Elective,HISTRY 140,"
+SSJ",Intro Latin Amer History,None
+"
+L",3.00,HIST EL,History Elective,HISTRY 141,"
+DV, SSJ",Modern Black Amer History,None
+"
+L",3.00,GEN EL,General Elective,HISTRY 150,"
+",Atlantic History,None
+"
+L",3.00,HIST 118,West Civ I: Antiquity to 1300,HISTRY 154,"
+",Western Civilization,None
+"
+L",3.00,HIST 119,West Civ II: Midl Ages to 1815,HISTRY 155,"
+SSJ",History of Modern Europe,None
+"
+L",3.00,HIST EL,History Elective,HISTRY 165,"
+",Hist Western Science,None
+"
+L",3.00,HIST EL,History Elective,HISTRY 190,"
+SSJ",N Am Environ History,None
+"
+U",3.00,HIST 350,Historiography and Historians,HISTRY 200,"
+",Historical Methods,None
+"
+L",2.00,HIST 250,Sources and Methods in History,HISTRY 201,"
+",Study History: Research,None
+"
+U",3.00,SS-HIST EL,Soc Sciences - History Elective,HISTRY 313,"
+SSJ",Women Amer Hist I,None
+"
+U",3.00,SS-HIST EL,Soc Sciences - History Elective,HISTRY 314,"
+SSJ",Women in Amer Hist 1875-Presen,None
+"
+U",3.00,HIST EL,History Elective,HISTRY 364,"
+",Modern Europe Women Hist,None
+"
+L",4.00,GEN EL,General Elective,ENVSCI 200,"
+NSG",Intro Environ Sci,None
+"
+L",3.00,GEN EL,General Elective,FILM 110,"
+SSK",Visual Culture in America,None
+"
+L",1.00,GEN EL,General Elective,GENED 010,"
+",Intro University Life,None
+"
+L",3.00,GEN EL,General Elective,GENED 110,"
+HUA",World of the Arts,None
+"
+L",3.00,GEN EL,General Elective,GENED 120,"
+SSK",Historical Perspectives,None
+"
+L",3.00,GEN EL,General Elective,GENED 130,"
+SSS",Individual and Society,None
+"
+L",3.00,GEN EL,General Elective,GENED 140,"
+SSK",Global Perspectives,None
+"
+L",3.00,GEN EL,General Elective,GENED 150,"
+NSA",Science Technol Society,None
+"
+L",1.00-3.00,GEN EL,General Elective,GENED 291,"
+",General Education Travel Study,None
+"
+L",3.00,GEN EL,General Elective,GENED 390,"
+HUH",World of Ideas,None
+"
+L",1.00,NDC,No Degree Credit,INTRAUNV 010,"
+",Intro University Life,None
+"
+L",6.00,GEN EL,General Elective,INTRAUNV 100,"
+",Engl Fund/Core Block,None
+"
+L",6.00-9.00,GEN EL,General Elective,INTRAUNV 101,"
+",English/Core Block,None
+"
+L",1.00,Soc/BhvSci EL,Social & Behavioral Science Elective,INTRAUNV 104,"
+SS",New Student Seminar,None
+"
+L",5.00,GEN EL,General Elective,INTRAUNV 161,"
+",Engl & Wrtg Skll/Intl,None
+"
+L",3.00,GEN EL,General Elective,INTRAUNV 200,"
+",Perspectives Nuclear War,None
+"
+L",3.00,GEN EL,General Elective,INTRAUNV 244,"
+SSK",Consumers and Culture,None
+"
+L",3.00,PHIL 209,Business Ethics,INTRAUNV 246,"
+",Business Ethics,None
+"
+L",5.00,GEOS 100,Earth in Perspective,GEOLGY 100,"
+NSG",Principles of Geology,None
+"
+L",4.00,GEOS 101,Introductory Geology,GEOLGY 101,"
+NSG",Elements of Geology,None
+"
+L",3.00,GEOS 102,Origin & History of the Earth,GEOLGY 204,"
+",Earth and Life History,None
+"
+L",1.00,GEOS 102,Origin & History of the Earth,GEOLGY 205,"
+",Historical Geology Lab,None
+"
+L",3.00,GEN EL,General Elective,GEOLGY 206,"
+NSG",Planetary Geology,None
+"
+L",3.00,BUS 100,Introduction to Business,ITBE 141,"
+SSB",Concepts of Business,None
+"
+L",2.00,GEN EL,General Elective,ITBE 143,"
+",Keybrdg & Intro Doc Proc,None
+"
+L",3.00,GEN EL,General Elective,ITBE 241,"
+",Shorthand I,None
+"
+L",3.00,GEN EL,General Elective,ITBE 242,"
+",Note Taking,None
+"
+L",3.00,GEN EL,General Elective,ITBE 244,"
+",Document Processing I,None
+"
+L",3.00,GEN EL,General Elective,ITBE 245,"
+",Technology Appl Bus Tchrs,None
+"
+L",2.00,GEN EL,General Elective,ITBE 251,"
+",Pen Lettering,None
+"
+L",3.00,GEN EL,General Elective,ITBE 252,"
+",Mcrocmptr App Voc Edctrs,None
+"
+L",3.00,GEN EL,General Elective,ITBE 255,"
+",Comptr End Usr Technogies,None
+"
+U",3.00,MIS 320,Mgt Information Systems,ITBE 280,"
+",Intro Information Systems,None
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 210,"
+",Foundations of Print Journ,None
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 220,"
+",Foundations Advertising,None
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 241,"
+",Elec Media Copywriting,None
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 243,"
+",Mass Media Writing,None
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 244,"
+",News Gathering,None
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 245,"
+",Publication Editing,None
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 246,"
+",Elec Media Newswriting,None
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 247,"
+",Brdcst Newswrtng/Productn,None
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 248,"
+",Publication Layout,None
+"
+L",1.00,GEN EL,General Elective,JOURNLSM 251,"
+",School Publ: Editorial,None
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 270,"
+",Communication and Web Dev,None
+"
+L",3.00,GEN EL,General Elective,JOURNLSM 271,"
+",Multimedia Production Two,None
+"
+L",1.00,GEN EL,General Elective,LDRSHP 101,"
+",Foundations of Usaf I,None
+"
+L",1.00,GEN EL,General Elective,LDRSHP 102,"
+",Foundations of Usaf II,None
+"
+L",2.00,GEN EL,General Elective,LDRSHP 110,"
+",Intro to Leadership I,None
+"
+L",1.00,GEN EL,General Elective,LDRSHP 111,"
+",Leadership Laboratory,None
+"
+L",2.00,GEN EL,General Elective,LDRSHP 120,"
+",Introduction Leadership II,None
+"
+L",1.00,GEN EL,General Elective,LDRSHP 121,"
+",Leadership Laboratory,None
+"
+L",0.50,GEN EL,General Elective,LDRSHP 122,"
+",Beginning Orienteering,None
+"
+L",0.50,GEN EL,General Elective,LDRSHP 123,"
+",Beg Mntn/Rappelling,None
+"
+L",1.00,GEN EL,General Elective,LDRSHP 201,"
+",Evol Air & Space Power I,None
+"
+L",1.00,GEN EL,General Elective,LDRSHP 202,"
+",Evol Air & Space Power II,None
+"
+L",2.00,GEN EL,General Elective,LDRSHP 210,"
+",Foundations of Leadership I,None
+"
+L",1.00,GEN EL,General Elective,LDRSHP 211,"
+",Leadership Laboratory,None
+"
+L",2.00,GEN EL,General Elective,LDRSHP 220,"
+",Foundations of Leadership II,None
+"
+L",1.00,GEN EL,General Elective,LDRSHP 221,"
+",Leadership Laboratory,None
+"
+L",1.00,GEN EL,General Elective,LDRSHP 224,"
+",Military Conditioning II,None
+"
+L",3.00,GEN EL,General Elective,LDRSHP 240,"
+",Leadership Training Course,None
+"
+L",2.00,GEN EL,General Elective,LIBMEDIA 101,"
+",Intro Library Resources,None
+"
+L",1.00,GEN EL,General Elective,LIBMEDIA 201,"
+",Technology For Teachers,None
+"
+L",1.00,NDC,No Degree Credit,LSINDP 099,"
+",Career Information-L & S,None
+"
+L",3.00,GEN EL,General Elective,LSINDP 105,"
+",Science Technol Society,None
+"
+L",3.00,GEN EL,General Elective,LSINDP 150,"
+NSA",Science Technol Society,None
+"
+L",3.00,GEN EL,General Elective,LSINDP 200,"
+SSJ",Perspectives Nuclear War,None
+"
+L",3.00,GEN EL,General Elective,LSINDP 201,"
+",Intro to Liberal Studies,None
+"
+L",1.00-3.00,GEN EL,General Elective,LSINDP 294,"
+",Honors Seminar,None
+"
+L",1.00,GEN EL,General Elective,GEOGRPY 100,"
+",Introduction to Geography,None
+"
+L",3.00,GEOG 105,Contemporary Human Geography,GEOGRPY 105,"
+SSG",Global Perspectives,None
+"
+L",3.00,GEN EL,General Elective,GEOGRPY 111,"
+",Geographical Foundations,None
+"
+L",3.00,GEOG 110,Intro to Geog: World Regions,GEOGRPY 160,"
+SSG",World Geography,None
+"
+L",5.00,GEOG 100,Physical Geog & the Environmnt,GEOGRPY 210,"
+NSD",Physical Geography,None
+"
+L",3.00,GEOG 105,Contemporary Human Geography,GEOGRPY 230,"
+SSG",Human Geography,None
+"
+U",3.00,GEOG 315,Geography of Wisconsin,GEOGRPY 250,"
+",Geography of Wisconsin,None
+"
+L",3.00,GEN EL,General Elective,GEOGRPY 252,"
+SSG",Glbl Environ Challenges,None
+"
+U",3.00,GEOG 310,Geography of the U.S. & Canada,GEOGRPY 261,"
+",Geography Canada/U.S.,None
+"
+U",3.00,GEOG 350,Cartography and Gis,GEOGRPY 270,"
+",Gis I: Intro to Gis/Maps,None
+"
+L",3.00,GEN EL,General Elective,GEOGRPY 275,"
+",Geog Concepts For Teacher,None
+"
+U",3.00,GEOG 300,Geographic Methods,GEOGRPY 290,"
+",Spatial Analysis,None
+"
+U",3.00,MKT 350,Marketing Principles,MARKETNG 311,"
+",Principles of Marketing,None
+"
+U",3.00,MKT 354,Marketing Research,MARKETNG 321,"
+",Marketing Research,None
+"
+U",3.00,MKT 455,Marketing Management,MARKETNG 479,"
+",Mktg Mgmnt and Policies,None
+"
+L",3.00,GEN EL,General Elective,INTRNAR 280,"
+",Intro Australian Studies,None
+"
+L",1.00,GEN EL,General Elective,MUSC 060,"
+",Private Instrumental Instruct,None
+"
+L",1.00,GEN EL,General Elective,MUSC 070,"
+",Private Vocal Instruction,None
+"
+L",1.00,GEN EL,General Elective,MUSC 080,"
+",Private Keyboard Instruct in P,None
+"
+L",0.00,MUSI 001,Concert Attendance,MUSC 100,"
+",Recital Attendance,None
+"
+L",3.00,MUSI 101,Fundamentals of Music,MUSC 111,"
+HUM",Fundamentals of Music,None
+"
+L",1.00,GEN EL,General Elective,MUSC 126,"
+",Priv Instrmntl Instr (Np),None
+"
+L",1.00,MUSI 180,Class Voice,MUSC 127,"
+",Priv Vocal Instruc (Np),None
+"
+L",1.00,GEN EL,General Elective,MUSC 128,"
+",Priv Piano Instruc (Np),None
+"
+L",1.00,GEN EL,General Elective,MUSC 129,"
+",Priv Organ Instruc (Np),None
+"
+L",2.00,MUSI 201,Music Appreciation,MUSC 140,"
+HU",Intro to Classical Music,None
+"
+L",2.00,GEN EL,General Elective,MUSC 141,"
+SSJ",Hist Populr Music America,None
+"
+L",2.00,MUSI 206,Jazz Appreciation (Dv),MUSC 143,"
+HU,DV",Survey of American Jazz,None
+"
+L",3.00,GEN EL,General Elective,MUSC 144,"
+SSS",Cultural Music Americas,None
+"
+L",2.00,HUMA-MUS EL,Humanities - Music Elective,MUSC 150,"
+HUM",Introduction Music Theory,None
+"
+L",2.00,MUSI 121,Music Theory II,MUSC 151,"
+",Theory I,None
+"
+L",2.00,MUSI 122,Music Theory II,MUSC 152,"
+",Theory II,None
+"
+L",2.00,MUSI 125,Aural Music Theory I,MUSC 153,"
+",Aural Skills I,None
+"
+L",2.00,MUSI 126,Aural Music Theory II,MUSC 154,"
+",Aural Skills II,None
+"
+L",1.00-4.00,GEN EL,General Elective,MUSC 160,"
+",Prv Instr Prim Prfrm (L1),None
+"
+L",1.00,MUSI 106,Jazz Appreciation (Dv),MUSC 161,"
+",University Bands,None
+"
+L",1.00,MUSI 104,Music Appreciation,MUSC 162,"
+",Orchestra,None
+"
+L",1.00,MUSI 109,Jazz Ensemble,MUSC 164,"
+",Jazz Bands,None
+"
+L",1.00,MUSA 064,Applied Clarinet,MUSC 165,"
+",Clarinet Techniques,None
+"
+L",1.00,GEN EL,General Elective,MUSC 166,"
+",Folk Guitar,None
+"
+L",1.00,MUSA 040,Applied Violin,MUSC 167,"
+",Violin & Viola Techniques,None
+"
+P",3.00,ACSK 010,Essential Math Skills,MATH 040,"
+",Pre-Algebra,None
+"
+P",4.00,ACSK 015,Elementary Algebra,MATH 041,"
+",Beginning Algebra,None
+"
+L",3.00,GEN EL,General Elective,MATH 102,"
+",Descriptve Geometry,None
+"
+L",3.00,MATH 215,Math Mdl Chld-Erly Adl Tchr  I,MATH 111,"
+",Math Elem Teacher I,None
+"
+L",3.00,MATH 216,Math Mdl Chd-Erly Adl Tchr  II,MATH 112,"
+",Math Elem Teacher II,None
+"
+L",3.00,MATH 102,Survey of Mathematics,MATH 139,"
+CS",Quantitative Reasoning,None
+"
+L",3.00,MATH 102,Survey of Mathematics,MATH 140,"
+CS",Mathematical Ideas,None
+"
+L",4.00,MATH 111,College Algebra I,MATH 141,"
+CS",Fundamtls of Coll Algebra,None
+"
+L",3.00,MATH 111,College Algebra I,MATH 141B,"
+CS",Intermediate Algebra,None
+"
+L",3.00,GEN EL,General Elective,MATH 143,"
+NSM",Finite Business & Soc Sci,None
+"
+L",3.00,GEN EL,General Elective,MATH 145,"
+",Contemporary Mathematics,None
+"
+L",3.00,GEN EL,General Elective,MATH 148,"
+",Math Elem Teacher I,None
+"
+L",3.00,GEN EL,General Elective,MATH 149,"
+",Math Elem Teacher II,None
+"
+L",5.00,MATH 114,College Algebra II/Trig,MATH 152,"
+UCTA",Precalculus,None
+"
+L",1.00,GEN EL,General Elective,MATH 177,"
+",The Logic of Chess,None
+"
+L",3.00,GEN EL,General Elective,MATH 230,"
+UCTA",Intro to Statistics,None
+"
+L",3.00,GEN EL,General Elective,MATH 231,"
+",Undst Probability/Statis,None
+"
+L",1.00,GEN EL,General Elective,MATH 232,"
+",Stat Cptr Progrm Lab,None
+"
+L",1.00,MUSA 020,Applied Trumpet,MUSC 168,"
+",Trumpet/Horn Techniques,None
+"
+L",1.00,GEN EL,General Elective,MUSC 169,"
+",Marching Band,None
+"
+L",1.00-4.00,MUSA 180,Applied Voice,MUSC 170,"
+",Priv Vocal-Prim Prfm (L1),None
+"
+L",1.00,MUSI 102,Large Music Ensemble,MUSC 171,"
+",University Choirs,None
+"
+L",1.00,MUSI 102,Large Music Ensemble,MUSC 175,"
+",University Chorus,None
+"
+L",1.00,GEN EL,General Elective,MUSC 177,"
+",Class Voice I,None
+"
+L",1.00,MUSI 180,Class Voice,MUSC 178,"
+",Class Voice II,None
+"
+L",1.00-4.00,MUSA 110,Applied Piano,MUSC 180,"
+",Priv Piano-Prim Prfm (L1),None
+"
+L",3.00,GEN EL,General Elective,MUSC 181,"
+",Aural Skills I,None
+"
+L",1.00,MUSI 141,Keyboard Musicianship I,MUSC 186,"
+",Class Piano I,None
+"
+L",1.00,MUSI 142,Keyboard Musicianship II,MUSC 187,"
+",Class Piano II,None
+"
+L",1.00,MUSI 241,Keyboard Musicianship III,MUSC 188,"
+",Class Piano III,None
+"
+L",1.00,MUSI 242,Music Literature Lab,MUSC 189,"
+",Functional Class Piano,None
+"
+L",1.00,GEN EL,General Elective,MUSC 190,"
+",Music Improvisation,None
+"
+L",3.00,GEN EL,General Elective,MUSC 240,"
+DV, HUM",Survey of African Amer Music,None
+"
+L",3.00,GEN EL,General Elective,MUSC 241,"
+DV",Survey of Latin Amer Music,None
+"
+L",2.00,MUSI 202,Music Literature,MUSC 242,"
+",Intro to Music Literature,None
+"
+L",3.00,GEN EL,General Elective,MUSC 244,"
+HUM",Native American Music,None
+"
+L",3.00,GEN EL,General Elective,MUSC 245,"
+SSJ",Music History I,None
+"
+L",3.00,GEN EL,General Elective,MUSC 246,"
+SSJ",Music History II,None
+"
+L",3.00,GEN EL,General Elective,MUSC 247,"
+SSJ",Music History III,None
+"
+L",3.00,GEN EL,General Elective,MATH 243,"
+",Shrt Calc Bus/Soc Science,None
+"
+L",5.00,GEN EL,General Elective,MATH 250,"
+",Appld Calc Srv Bus/Soc Sc,None
+"
+L",5.00,MATH 221,Calculus & Analytic Geometry I,MATH 253,"
+NSM",Calc/Analytic Geometry I,None
+"
+L",5.00,MATH 222,Calc & Analytic Geometry II,MATH 254,"
+NSM",Calc/Analytic Geometry II,None
+"
+L",3.00,MATH 223,Calc & Analytic Geometry III,MATH 255,"
+",Calc/Anlytc Geometry III,None
+"
+L",3.00,GEN EL,General Elective,MATH 280,"
+",Discrete Mathematics,None
+"
+L",1.00-3.00,GEN EL,General Elective,MATH 290,"
+",Special Topics in Mathematics,None
+"
+L",2.00,MUSI 221,Music Theory III,MUSC 251,"
+",Theory III,None
+"
+L",2.00,MUSI 222,Music Theory IV,MUSC 252,"
+",Theory IV,None
+"
+L",2.00,MUSI 225,Aural Music Theory III,MUSC 253,"
+",Aural Skills III,None
+"
+L",2.00,MUSI 226,Popular Music Theory,MUSC 254,"
+",Aural Skills IV,None
+"
+L",2.00,GEN EL,General Elective,MUSC 255,"
+",Elctronic Music Synthesis,None
+"
+L",1.00-4.00,MUSI EL,Music Elective,MUSC 260,"
+",Priv Instr-Prim Prfm (L2),None
+"
+L",0.50,MUSA 060,Applied Flute,MUSC 265,"
+",Flute Techniques,None
+"
+L",1.00,GEN EL,General Elective,MUSC 266,"
+",Intermediate Guitar,None
+"
+L",1.00,MUSI EL,Music Elective,MUSC 267,"
+",Cello/String Bass Tech,None
+"
+L",1.00,MUSI EL,Music Elective,MUSC 268,"
+",Trom/Baritone/Tuba Tech,None
+"
+L",1.00,GEN EL,General Elective,MUSC 269,"
+",Instrumental Ensemble,None
+"
+L",1.00-4.00,MUSA 280,Applied Voice,MUSC 270,"
+",Priv Vocal-Prim Prfm (L2),None
+"
+L",1.00,GEN EL,General Elective,MUSC 271,"
+",Opera Performance Tech,None
+"
+L",1.00,GEN EL,General Elective,MUSC 272,"
+",Practicum Music Theatre,None
+"
+L",3.00,GEN EL,General Elective,MUSC 273,"
+",Jazz History & Appreciation,None
+"
+L",3.00,GEN EL,General Elective,MUSC 275,"
+",Diction For Singers I,None
+"
+L",2.00,MUSI EL,Music Elective,MUSC 276,"
+",Diction For Singers II,None
+"
+L",0.50,GEN EL,General Elective,MUSC 279,"
+",Vocal Ensemble,None
+"
+L",1.00-4.00,MUSA 210,Applied Piano,MUSC 280,"
+",Priv Piano-Prim Prfm (L2),None
+"
+L",2.00,MUSA 212,Applied Organ,MUSC 281,"
+",Aural Skills III,None
+"
+L",2.00,GEN EL,General Elective,MUSC 290,"
+",Technology Music Educators,None
+"
+L",1.00,GEN EL,General Elective,MUSC 292,"
+",Instrumental Techniques,None
+"
+L",1.00,GEN EL,General Elective,PEGNRL 100,"
+",Cr Vets W/6 Mos Act Srvce,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 103,"
+",Beginning Archery,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 104,"
+",Beginning Badminton,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 106,"
+",Beg Aerobic Exer & Dance,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 108,"
+",Beginning Bowling,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 109,"
+",Intermediate Bowling,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 110,"
+",Beginning Jogging,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 111,"
+",Beg Phy Fitness Develpmnt,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 113,"
+",Int Aerobic Exercise/Dnce,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 115,"
+",Beginning Fencing,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 120,"
+",Beginning Golf,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 121,"
+",Intermediate Golf,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 125,"
+",Beginning Paddleball,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 134,"
+",Beginning Skiing,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 138,"
+",Beg Bicycle Touring,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 139,"
+",Intro to Backpacking,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 141,"
+",Beginning Yoga,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 142,"
+",Intermediate Yoga,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 143,"
+",Beginning Folk Dance,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 144,"
+",Beg Social Dance (Clscl),None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 145,"
+",Beginning Square Dance,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 147,"
+",Beg Soc Dnce (Latin/Midw),None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 148,"
+",Beg Contra/Rnd Dnce/Mixrs,None
+"
+L",2.00,GEN EL,General Elective,PEGNRL 149,"
+",Beg Country Western Dance,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 150,"
+",Beginning Swim Level 4,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 151,"
+",Intermediate Swim Level 6,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 152,"
+",Advanced Swimming Level 7,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 155,"
+",Beginning Aqua Aerobics,None
+"
+L",1.00,GEN EL,General Elective,PEGNRL 157,"
+",Swimming IV (Life Saving),None
+"
+L",1.00,GEN EL,General Elective,PEGNRL 158,"
+",Beg Skin & Scuba Diving,None
+"
+L",1.00,GEN EL,General Elective,PEGNRL 159,"
+",Beginning Canoeing,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 160,"
+",Beginning Tennis,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 161,"
+",Intermediate Tennis,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 166,"
+",Beg Volleyball (Power),None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 167,"
+",Beginning Weight Training,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 168,"
+",Intermediate Volleyball,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 170,"
+",Beginning Self Defense,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 173,"
+",Beginning Sport Judo,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 175,"
+",Beg Tae Kwon Do: Karate,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 176,"
+",Interm Tae Kwon Do: Karate,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 177,"
+",Intro Martial Arts Weapons,None
+"
+L",1.00,HESM 110,Scuba Diving,PEGNRL 180,"
+",Open Water Scuba,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 183,"
+",Exercisewalking,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 185,"
+",Beg Mountain/Rappelling,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 186,"
+",Beginning Orienteering,None
+"
+L",1.00,GEN EL,General Elective,PEGNRL 187,"
+",Military Conditioning I,None
+"
+L",0.50,GEN EL,General Elective,PEGNRL 190,"
+",Swim For Fitness,None
+"
+L",1.00,GEN EL,General Elective,PEGNRL 192,"
+",Pers Hlth & Fitness Life,None
+"
+L",1.00,GEN EL,General Elective,PEGNRL 193,"
+",Intercol Athletic Participatn,None
+"
+L",3.00,GEN EL,General Elective,MCS 210,"
+",Concepts Database Systems,None
+"
+L",3.00,GEN EL,General Elective,MCS 220,"
+",Intermediate Java,None
+"
+L",3.00,GEN EL,General Elective,MCS 231,"
+",Concepts Data Structure,None
+"
+L",3.00,GEN EL,General Elective,MCS 232,"
+",Cobol and Complex Systems,None
+"
+L",3.00,PHIL 101,Introduction to Philosophy,PHILSPHY 241,"
+HUP",Intro to Philosophy,None
+"
+L",3.00,PHIL 215,Contemporary Moral Problems,PHILSPHY 245,"
+UCTA,HUP",Contemporary Moral Issues,None
+"
+L",3.00,GEN EL,General Elective,PHILSPHY 247,"
+",Bioethics,None
+"
+L",3.00,GEN EL,General Elective,PHILSPHY 248,"
+",Environmental Ethics,None
+"
+L",3.00,PHIL 201,Logic,PHILSPHY 251,"
+",Logic,None
+"
+L",3.00,PHIL 206,Introduction to Ethics,PHILSPHY 261,"
+UCTA,HUP",Introduction to Ethics,None
+"
+L",3.00,PHIL 213,Aesthetics,PHILSPHY 271,"
+",Introduction Aesthetics,None
+"
+L",3.00,PHIL 220,"Politics, Law, and Society",PHILSPHY 281,"
+",Social Philosophy,None
+"
+",3.00,Human/Arts EL,Humanities and Arts Elective,PHILSPHY 291,"
+HU",Philosophy Nat/Soc Sci,None
+"
+L",3.00,PHIL EL,Philosophy Elective,PHILSPHY 341,"
+",Classical Philosophy,None
+"
+L",3.00,PHIL EL,Philosophy Elective,PHILSPHY 342,"
+HUP",Modern Philosophy,None
+"
+L",3.00,PHIL EL,Philosophy Elective,PHILSPHY 343,"
+",American Philosophy,None
+"
+L",3.00,PHIL EL,Philosophy Elective,PHILSPHY 345,"
+",Contemporary Philosophy,None
+"
+L",3.00,PHIL EL,Philosophy Elective,PHILSPHY 365,"
+",Perspectives Death/Dying,None
+"
+U",3.00,PHIL EL,Philosophy Elective,PHILSPHY 390,"
+",Feminist Philosophy,None
+"
+L",1.00,GEN EL,General Elective,POLISCI 105,"
+",Stat & Local Suplmt to Pol 104,None
+"
+L",3.00,POLS 100,American Politics,POLISCI 141,"
+UCTA,SSP",American Govmnt/Politics,None
+"
+L",3.00,GEN EL,General Elective,POLISCI 217,"
+",Ethnic Politics,None
+"
+L",3.00,POLS 280,Criminal Justice Process,POLISCI 247,"
+",Issues/Crises Amer Poltcs,None
+"
+L",3.00,POLS 105,Introduction to Politics,POLISCI 250,"
+SSP",Intro Political Theory,None
+"
+L",3.00,GEN EL,General Elective,POLISCI 255,"
+",Intro Comparative Politics,None
+"
+L",3.00,CRMJ 200,Criminal Justice Rsch Mthds,POLISCI 301,"
+",Pol Science Rsch Methods,None
+"
+L",3.00,POLS 203,"Women, Power and Politics",POLISCI 315,"
+",Women and American Politics,None
+"
+L",3.00,CRMJ 235,Police and Society,POLISCI 316,"
+",Police/Crim Justice Admin,None
+"
+L",3.00,POLS 214,Executive&Legislative Politics,POLISCI 317,"
+",Amer Legislative Process,None
+"
+L",3.00,POLS 215,The Presidency,POLISCI 318,"
+",The American Presidency,None
+"
+L",3.00,POLS 202,Public Policy,POLISCI 320,"
+",Public Policy/Administrtn,None
+"
+U",3.00,POLS 360,Pol Parties & Interest Groups,POLISCI 321,"
+",Interest Group Politics,None
+"
+L",3.00,POLS 130,State and Local Politics,POLISCI 344,"
+",State/Local Government,None
+"
+L",3.00,POLS 104,Intro International Relations,POLISCI 351,"
+SSP",International Relations,None
+"
+L",3.00,POLS 103,Intro to Comparative Politics,POLISCI 352,"
+SSP",Compartve Govrnmnt-Europe,None
+"
+L",1.00,POLS 209,Legal Research & Writing,POLISCI 360,"
+",Resources Legal Research,None
+"
+U",3.00,POLS 320,Const Law:Structr/Pwr US Govt,POLISCI 413,"
+",Constitutional Law,None
+"
+U",3.00,POLS 310,Const Law: Civil Liberties,POLISCI 415,"
+",Criminal Justice/Const,None
+"
+L",3.00,POLS 116,Introduction to Law,POLISCI 419,"
+SSP",The Judicial Process,None
+"
+L",3.00,GEN EL,General Elective,PSYCH 104,"
+SSY",Psych of Human Adjustment,None
+"
+L",3.00,GEN EL,General Elective,PSYCH 105,"
+SS",Individual and Society,None
+"
+L",3.00,GEN EL,General Elective,PSYCH 135,"
+SSY",Psychology of Retirement,None
+"
+L",3.00,GEN EL,General Elective,PSYCH 202,"
+SSY",Psychology of Women,None
+"
+L",3.00,PSYC 101,Intro to Psychological Science,PSYCH 211,"
+UCTA,SSY",Introductory Psychology,None
+"
+L",3.00,PSYC 250,Psychological Statistics,PSYCH 215,"
+",Basic Statistical Methods,None
+"
+U",5.00,PSYC 300,Research Methods in Psychology,PSYCH 216,"
+",Research Methods,None
+"
+L",3.00,PSYC 260,Psychology of Personality,PSYCH 301,"
+",Intro Behavioral Neuroscience,None
+"
+U",3.00,PSYC 325,Biological Psychology,PSYCH 304,"
+",Psychology of Personality,None
+"
+U",3.00,PSYC EL,Psychology Elective,PSYCH 332,"
+",Psychology of Adolescence,None
+"
+U",3.00,PSYC 360,Abnormal Psychology,PSYCH 345,"
+",Abnormal Psychology,None
+"
+L",3.00,PSYC 205,Cognitive Psychology,PSYCH 351,"
+",Cognitive Psychology,None
+"
+L",3.00,PSYC 220,Social Psychology,PSYCH 355,"
+",Social Psychology,None
+"
+L",3.00,POLS 105,Introduction to Politics,POLISCI 420,"
+SSP",American Political Thght,None
+"
+L",3.00,POLS 224,American Foreign Policy,POLISCI 457,"
+",American Foreign Policy,None
+"
+L",3.00,PHYS EL,Physics Elective,PHYSCS 100,"
+",Energy,None
+"
+L",4.00,PHYS EL,Physics Elective,PHYSCS 120,"
+",Light and Color,None
+"
+L",5.00,PHYS 101,Principles of Physics,PHYSCS 130,"
+NSP",Physics Foundations,None
+"
+L",5.00,PHYS 105,College Physics I,PHYSCS 140,"
+UCTA",Principles of Physics I,None
+"
+L",3.00,PHYS EL,Physics Elective,PHYSCS 150,"
+",Einstein to Star Trek,None
+"
+L",3.00,GEN EL,General Elective,PHYSCS 152,"
+",Photography,None
+"
+L",4.00,PHYS 105,College Physics I,PHYSCS 160,"
+UCTA,NSP",General Physics I,None
+"
+L",1.00,PHYS 105,College Physics I,PHYSCS 161,"
+UCTA,NSP",General Physics Lab I,None
+"
+L",4.00,PHYS 106,College Physics II,PHYSCS 162,"
+",General Physics II,None
+"
+L",1.00,PHYS 106,College Physics II,PHYSCS 163,"
+",General Physics Lab II,None
+"
+L",3.00,PHYS 201,General Physics I,PHYSCS 170,"
+NSP",Introductory Physics I,None
+"
+L",4.00,GEN EL,General Elective,PHYSCS 172,"
+NSP",Introductory Physics II,None
+"
+L",1.00,GEN EL,General Elective,PHYSCS 173,"
+NSP",Intro Physic Laboratory I,None
+"
+L",4.00,GEN EL,General Elective,PHYSCS 174,"
+NSP",Introductory Physics III,None
+"
+L",1.00,GEN EL,General Elective,PHYSCS 175,"
+NSP",Intro Physics Lab II,None
+"
+L",3.00,PHYS EL,Physics Elective,PHYSCS 210,"
+NSP",Descriptive Physics,None
+"
+L",2.00,PHYS EL,Physics Elective,PHYSCS 221,"
+NSP",Intermediate Laboratory,None
+"
+L",3.00,PHYS EL,Physics Elective,PHYSCS 240,"
+",Physics of Sound/Music,None
+"
+U",3.00,PHYS 301,Classical Mechanics,PHYSCS 280,"
+",Eng Mechanics: Statics,None
+"
+U",3.00,PHYS 301,Classical Mechanics,PHYSCS 282,"
+",Eng Mechanics: Dynamics,None
+"
+L",3.00,MIS 320,Mgt Information Systems,MANGEMNT 211,"
+",Intro Information Systems,None
+"
+U",3.00,MGT 349,Organizational Behavior,MANGEMNT 301,"
+",Organizational Behavior,None
+"
+U",3.00,QM 319,Operations Mgt Principles,MANGEMNT 306,"
+",Operations Management,None
+"
+U",3.00,HRM 343,Human Resource Management,MANGEMNT 320,"
+",Human Resource Management,None
+"
+U",3.00,HRM 444,Compensation/Benefits,MANGEMNT 425,"
+",Compensation Management,None
+"
+U",3.00,HRM 441,Staffing Organizations,MANGEMNT 426,"
+",Staffing,None
+"
+U",3.00,HRM 442,Improving Employee Performance,MANGEMNT 428,"
+",Training and Development,None
+"
+U",3.00,BUS EL,General Business Elective,MANGEMNT 429,"
+",Employee Benefits,None
+"
+U",3.00,BUS 495,Capstone Strategic Management,MANGEMNT 489,"
+",Strategic Management,None
+"
+L",2.00,GEN EL,General Elective,RECREATN 232,"
+",Intro Recreation/Leisure,None
+"
+L",3.00,GEN EL,General Elective,RELIGST 201,"
+HUP",Crit Issues Modern Relgn,None
+"
+L",3.00,GEN EL,General Elective,RELIGST 210,"
+HUP",Intro Religions of World,None
+"
+L",3.00,HUMA 225,Religion-Far East,RELIGST 211,"
+",Intro to Asian Religions,None
+"
+L",3.00,HUMA 224,Religion-the West,RELIGST 212,"
+",Intro Western Religions,None
+"
+L",3.00,GEN EL,General Elective,RELIGST 221,"
+HUP",Intro Early Hebrew Wrtngs,None
+"
+L",3.00,GEN EL,General Elective,RELIGST 222,"
+HUP",Introduction to Judaism,None
+"
+L",3.00,GEN EL,General Elective,RELIGST 252,"
+",The Bible As Literature,None
+"
+U",3.00,HUMA-PHIL EL,Humanities - Philosophy Elective,RELIGST 330,"
+HUP","Religion, Sexuality and Gender",None
+"
+L",2.00,GEN EL,General Elective,PEPROF 165,"
+",Intro to Physical Education,None
+"
+L",1.00,GEN EL,General Elective,PEPROF 171,"
+",Fund Flag Ftbl/Tm Handbl,None
+"
+L",1.00,HESM 117,Basketball,PEPROF 172,"
+",Fundamental of Basketball,None
+"
+L",3.00,GEN EL,General Elective,PEPROF 173,"
+",Teach Tumbling/Gymnastics,None
+"
+L",1.00,HESM 194,Volleyball,PEPROF 174,"
+",Fundamentals Volleyball,None
+"
+L",1.00,GEN EL,General Elective,PEPROF 175,"
+",Fund Bowling/Badminton,None
+"
+L",1.00,GEN EL,General Elective,PEPROF 176,"
+",Fund of Archery & Golf,None
+"
+L",1.00,HESM 192,Track and Field,PEPROF 177,"
+",Fund of Track and Field,None
+"
+L",1.00,HESM 180,Soccer I,PEPROF 178,"
+",Fund Soccer & Speedball,None
+"
+L",2.00,GEN EL,General Elective,PEPROF 200,"
+",Fundamentals of Rhythms,None
+"
+L",1.00,GEN EL,General Elective,PEPROF 209,"
+",Professions in Physical Educ,None
+"
+L",1.00,HESM 182,Softball,PEPROF 210,"
+",Fundamentals of Softball,None
+"
+L",1.00,GEN EL,General Elective,PEPROF 212,"
+",Fundamentals of Apparatus,None
+"
+L",1.00,HESM 188,Tennis I,PEPROF 213,"
+",Fundamentals of Tennis,None
+"
+L",1.00,HESM 196,Weight Training I,PEPROF 215,"
+",Fnd Wght Trng/Phy Fitness,None
+"
+L",3.00,GEN EL,General Elective,PEPROF 240,"
+",Stand-Based Curric/Plann,None
+"
+L",3.00,HESM 233,Water Safety Instructor,PEPROF 251,"
+",Water Safety Instructor,None
+"
+L",4.00,HESM EL,"Health, Exercise Science & Sport Mngmnt Elective",PEPROF 271,"
+",Structure/Funct Humn Body,None
+"
+U",2.00,HESM 322,Adv First Aid/Emrgncy Response,PEPROF 281,"
+",First Aid & Cpr,None
+"
+L",3.00,GEN EL,General Elective,PEPROF 291,"
+",Lifeguarding,None
+"
+L",3.00,GEN EL,General Elective,SOCIOLGY 105,"
+SSS",Individual and Society,None
+"
+L",3.00,SOCA 101,Introduction to Sociology,SOCIOLGY 140,"
+UCTA,SSS",Introductory Sociology,None
+"
+L",3.00,SS-SOCA EL,Soc Sciences - Socio & Anthro Elective,SOCIOLGY 240,"
+SSS, UCTA",Principles of Sociology,None
+"
+L",3.00,SOCA 102,Contemporary Social Problems,SOCIOLGY 250,"
+",Social Problems,None
+"
+L",3.00,SOCA 207,Marriage and Family,SOCIOLGY 252,"
+SSS",Intro to Family Studies,None
+"
+L",3.00,GEN EL,General Elective,SOCIOLGY 260,"
+DV, SSS",Sociology of Hate,None
+"
+L",3.00,SOCA 206,Race/Ethnc Relations in US(Dv),SOCIOLGY 265,"
+UCTA, DV, SSS",Race & Ethnic Relations,None
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 270,"
+DV, SSS",Afri Am Comunty Soc Persp,None
+"
+L",3.00,CRMJ 233,Criminology,SOCIOLGY 276,"
+",Introduction Criminology,None
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 280,"
+",Intro Australian Studies,None
+"
+L",3.00,SOCA 228,Peoples of Southeast Asia,SOCIOLGY 285,"
+",Asian Americans,None
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 290,"
+",Sociology of Pacific Asia,None
+"
+U",3.00,SOCA EL,Sociology Elective,SOCIOLGY 342,"
+",Soc of Fam and Work,None
+"
+L",3.00,SOCA 213,Gender and Society,SOCIOLGY 345,"
+",Sociology of Gender,None
+"
+U",3.00,SOCA 321,Religion and Society,SOCIOLGY 353,"
+",Sociology of Religion,None
+"
+L",3.00,SOCA 234,Juvenile Delinquency/Justice,SOCIOLGY 370,"
+",Juvenile Delinquency,None
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 374,"
+",Sociolgy of Police and Courts,None
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 378,"
+",Sociology of Pnshmnt and Corre,None
+"
+L",3.00,SOCA 207,Marriage and Family,SOCIOLGY 455,"
+SSS",Sociology of the Family,None
+"
+L",3.00,SOCA 295,Social Science Research Mthds,SOCIOLGY 476,"
+",Methods Social Research,None
+"
+L",3.00,SOCA EL,Sociology Elective,SOCIOLGY 478,"
+",Sociology in Practice,None
+"
+L",2.00,GEN EL,General Elective,SPECED 200,"
+",Person W/Disability Socty,None
+"
+L",3.00,GEN EL,General Elective,SPECED 201,"
+",Disability in Society,None
+"
+L",3.00,GEN EL,General Elective,SPECED 205,"
+",Intro to Special Educ,None
+"
+L",1.00,GEN EL,General Elective,SPECED 240,"
+",Manual Communication,None
+"
+L",1.00,GEN EL,General Elective,SPECED 250,"
+",Study in Braille,None
+"
+L",3.00,GEN EL,General Elective,RACEETH 150,"
+",Atlantic History,None
+"
+L",3.00,GEN EL,General Elective,RACEETH 217,"
+",Ethnic Politics,None
+"
+L",2.00,THEA 110,Theatre Appreciation,THEATRE 100,"
+HUT",Theatre Appreciation,None
+"
+L",4.00,GEN EL,General Elective,THEATRE 110,"
+",Introduction to Theatre,None
+"
+L",3.00,THEA 125,Acting I,THEATRE 120,"
+",Introduction to Acting,None
+"
+L",1.00-2.00,THEA 010,Theatre Practicum I,THEATRE 200,"
+",Theatre Activities,None
+"
+L",0.50-2.00,THEA 014,Acting Practicum,THEATRE 201,"
+",Practicum - Acting,None
+"
+L",0.50-2.00,GEN EL,General Elective,THEATRE 202,"
+",Practicum - Directing,None
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 203,"
+",Practicum - Sound,None
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 204,"
+",Practicum - Stagecraft,None
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 205,"
+",Practicum - Lighting,None
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 206,"
+",Practicum - Costuming,None
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 207,"
+",Practicum - Mgmt/Publicty,None
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 208,"
+",Practicum - Makeup,None
+"
+L",0.50-2.00,THEA 010,Theatre Practicum I,THEATRE 209,"
+",Practicum-Theatre Tour,None
+"
+L",1.00-2.00,THEA EL,Theatre Arts Elective,THEATRE 210,"
+",Lab Plywrtng/Thtr Crtcsm,None
+"
+L",3.00,GEN EL,General Elective,THEATRE 215,"
+",Auditioning,None
+"
+L",3.00,THEA 225,Acting II,THEATRE 220,"
+",Act Anlysis & Performance,None
+"
+L",3.00,THEA EL,Theatre Arts Elective,THEATRE 225,"
+",Script Analysis,None
+"
+L",3.00,THEA EL,Theatre Arts Elective,THEATRE 230,"
+HUT",Movement For the Actor,None
+"
+L",2.00,THEA 121,Theatrical Make-Up I,THEATRE 242,"
+",Stage Make-Up,None
+"
+L",3.00,THEA 132,Stagecraft,THEATRE 250,"
+",Intro Technicl Thrtr Dsgn,None
+"
+L",4.00,THEA EL,Theatre Arts Elective,THEATRE 251,"
+",Intro Technical Theatre,None
+"
+L",3.00,THEA EL,Theatre Arts Elective,THEATRE 252,"
+HUT",Intro Theatrical Design,None
+"
+L",3.00,THEA 132,Stagecraft,THEATRE 260,"
+",Produc Stage Management,None
+"
+L",3.00,THEA 206,Theatre History to 1660,THEATRE 270,"
+HU",Theatre History Survey,None
+"
+L",1.00-6.00,THEA 290,Special Topic in Theatre Arts:,THEATRE 300,"
+",Summer Theatre Production,None
+"
+L",0.50-2.00,THEA 214,Intermed Acting Practicum,THEATRE 301,"
+",Prod Prac-Acting,None
+"
+L",0.50-2.00,THEA 213,Assist Directr/Stage Mngr,THEATRE 312,"
+",Prod Prac-Directing,None
+"
+L",3.00,THEA 228,Voice For the Actor I,THEATRE 328,"
+",Vocal Prod/Stage Speech,None
+"
+U",2.00,GEN EL,General Elective,THEATRE 362,"
+",Non-Profit Arts Mgmt,None
+"
+L",3.00,THEA 290,Special Topic in Theatre Arts:,THEATRE 422,"
+",Acting For Camera,None
+"
+L",3.00,THEA 206,Theatre History to 1660,THEATRE 471,"
+HU",History Theatre Thru 1550,None
+"
+L",3.00,THEA 207,Theatre History 1660-Present,THEATRE 472,"
+HU",Thtr Hist Drama 1550-1875,None
+"
+L",1.00-6.00,THEA 290,Special Topic in Theatre Arts:,THEATRE 492,"
+",Field Study,None
+"
+L",9.00,GEN EL,General Elective,SPECFLD 200E,"
+",Pre-Profess Block Sped El,None
+"
+L",9.00,GEN EL,General Elective,SPECFLD 200F,"
+",Pre-Profess Block Sped Sc,None
+"
+L",3.00,GEN EL,General Elective,SPECFLD 210,"
+",Obser/Part Special Educ,None
+"
+L",3.00,GEN EL,General Elective,SPECFLD 210E,"
+",O & P Special Ed Elemtry,None
+"
+L",3.00,GEN EL,General Elective,SPECFLD 210F,"
+",O & P Special Ed Secondry,None
+"
+L",3.00,GEN EL,General Elective,SOCWORK 102,"
+",Intro to Social Welfare  (Gs),None
+"
+L",1.00,GEN EL,General Elective,SOCWORK 161,"
+",Intro Soc Serv Computing,None
+"
+L",3.00,GEN EL,General Elective,SOCWORK 235,"
+",Child Welfare,None
+"
+L",3.00,GEN EL,General Elective,SOCWORK 236,"
+",Poverty & Social Welfare,None
+"
+U",4.00,GEN EL,General Elective,SOCWORK 311,"
+",Humn Beh/Soc Envrmnt,None
+"
+U",3.00,GEN EL,General Elective,SOCWORK 312,"
+",Humn Behsoc Envrmnt II,None
+"
+U",3.00,GEN EL,General Elective,SOCWORK 341,"
+",Sexuality For Prof Growth,None
+"
+U",3.00,GEN EL,General Elective,SOCWORK 371,"
+",Social Work Practice I,None
+"
+L",3.00,WGSS 110,Intro Wmns/Gendr/Sexualty Stds,WOMENST 100,"
+SSW",Intro Women's Studies,None
+"
+L",3.00,WGSS EL,"Women's, Gender and Sexuality Studies Elective",WOMENST 105,"
+",Individual and Society,None
+"
+L",3.00,GEN EL,General Elective,WOMENST 240,"
+SSW",Women and Work,None
+"
+L",3.00,GEN EL,General Elective,WOMENST 250,"
+SSW",Women American Culture,None
+"
+L",3.00,GEN EL,General Elective,WOMENST 280,"
+",Feminist Theories,None
+"
+L",3.00,WGSS EL,"Women's, Gender and Sexuality Studies Elective",WOMENST 303,"
+",Womn's Voices/Wmn's Lives,None
+"
+U",3.00,WGSS EL,"Women's, Gender and Sexuality Studies Elective",WOMENST 320,"
+",Lesbian Studies,None
+"
+L",3.00,WGSS EL,"Women's, Gender and Sexuality Studies Elective",WOMENST 370,"
+",Women: Race and Ethnicity,None
+"
+U",3.00,WGSS EL,"Women's, Gender and Sexuality Studies Elective",WOMENST 464,"
+",Global Gender Politics,None
+"
+U",1.00-3.00,WGSS 499,Independent Study,WOMENST 498,"
+",Independent Study,None
+"
+L",4.00,SPAN 103,Introductory Spanish I,SPANISH 141,"
+",Beginning Spanish,None
+"
+L",4.00,SPAN 104,Introductory Spanish II,SPANISH 142,"
+",Beginning Spanish,None
+"
+L",4.00,SPAN 203,Intermediate Spanish I,SPANISH 251,"
+HUL",Intermediate Spanish,None
+"
+L",4.00,SPAN 204,Intermediate Spanish II,SPANISH 252,"
+HUL",Intermediate Spanish,None
+"
+L",3.00,GEN EL,General Elective,SPANISH 260,"
+",Spanish Phonetics,None
